@@ -369,8 +369,8 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare i tuoi progetti
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: I tuoi progetti
+        sottotitolo: Siamo al tuo fianco lavoriamo per raggiungere obiettivi di Privacy comuni
         descrizione: Prova descrizione in Progetti, prova, prova
 
         box1:
@@ -382,6 +382,7 @@ servizi:
         box2:
             headline: Box2 - Headline Modificata su Ubuntu
             teaser: Box2 - Teaser modificato su Ubuntu da Andrea alle 11:14
+
             list:
                 li1: Box2 - Riga1
                 li2: Box2 - Riga2
