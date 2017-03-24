@@ -282,19 +282,19 @@ servizi:
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco o identificazione come fattore forte. Riconosce tutti i device di rete e utenti. Server, client, utenti interni, utenti esterni.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Accesso ai Dati ecc..), esclusivamente agli utenti autorizzati.
+            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, client, utenti interni, utenti esterni.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Accesso ai Dati ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
             numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete.
 
         box2:
-            teaser: GEstione Centralizzata
+            teaser: Gestione Semplice e Centralizzata
             list:
-                li1: Riconoscimento Univoco.
-                li2: Riconoscimento dei profili (dove posso accedere e cosa possono fare).
-                li3: Accesso ai servizi automatico.
-                li4: Semplicità di controllo si potrà controllare la cronologia degli eventi mettendoli in relazione tra di loro.
-                li5: Tracciabilità degli Accessi e registrazione negli archivi.
-                li6: Compliance normative GDPR.
+                li1: Riconoscimento Univoco (Nome Utente o Device associato al ID).
+                li2: Tipo di Certificato Emesso (Tipo e data di Scadenza).
+                li3: Riconoscimento dei profili (cosa possono fare ? Con quale Device posso connetermi ? IP da dove posso connerttermi ?).
+                li4: Usi Consenti (Policy).
+                li5: Chiave Pubblica.
+                li6: Firma Digitale.
 
 ########################################################################
 
