@@ -167,12 +167,12 @@ servizi:
         protezione:
             icona: Protezione dei Dati
             titolo: <strong>Il tuo patrimonio dati è la cosa più importante</strong>
-            testo: Grazie ai sistemi che proponiamo possiamo garantirti un ciclo di vita dei tuoi dati in sicurezza, in riservatezza e condivisione
+            testo: Grazie ai sistemi che proponiamo possiamo garantirti un ciclo di vita dei tuoi dati&#58 Sicuro, Riservato e Condiviso. Il nostro compito è guidarti verso soluzioni innovative al passo con i tempi.
 
         controllo:
             icona: Controllo Accessi
             titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e quali profili.
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e quali profili.
 
         cloud:
             icona: Cloud in House
