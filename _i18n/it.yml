@@ -283,11 +283,11 @@ servizi:
 
         box1:
             headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco o identificazione come fattore forte. Riconosce tutti i device di rete e utenti. Server, client, utenti interni, utenti esterni.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Dati), esclusivamente agli utenti autorizzati. Molti dati aziendali si trovano sul cloud di terzi a insaputa dell'Amm. di Sistema.
-            numbers: Per cui l'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la vita agli utenti e agli amministratori di sistema.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Accesso ai Dati ecc..), esclusivamente agli utenti autorizzati.
+            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete.
 
         box2:
-            teaser: Governace Centralizzata
+            teaser: GEstione Centralizzata
             list:
                 li1: Riconoscimento Univoco.
                 li2: Riconoscimento dei profili (dove posso accedere e cosa possono fare).
