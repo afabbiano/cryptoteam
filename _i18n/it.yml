@@ -678,16 +678,16 @@ offerta:
 
         resultbrowser3:
             headline: Autenticazione
-            lead: Cerchiamo di garantire soluzioni più forti Strong Autentication, che consentono di Autenticare gli utenti aziendali in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono altamente onerose, più sono complesse più sono pericolose.
+            lead: Cerchiamo di garantire soluzioni più forti Strong Autentication, che consentono di autenticare gli utenti aziendali in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono altamente onerose, più sono complesse più sono pericolose.
             details:
-                lead: La soluzione Piattaforma OpenXPKI è una soluzione innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura basata sul riconoscimento univoco (utente o device). Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per per piccole organizzazioni.
+                lead: L’intenzione di copiare i dati aziendali da parte di attaccanti è sempre più attuale. Le solite credenziali di accesso anche se complesse, non sono più sufficienti per fermare un attaccante deciso. Le soluzioni che proponiamo hanno un approccio di sbloccare il computer in modo automatico sicuro. Con facilità gli utenti possono autenticarsi  e accedere ai servizi che l’azienda gli mette a disposizione. 
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI.</strong>. Sistema avanzato dispone di molte fuinzioni finalizzate alla privacy e alla sicurezza. Studiato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del Certificato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                    <strong>Soluzione OpenXPKI.</strong>. Sistema che dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del Certificato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
                                 </p>
                                 <p>
 
