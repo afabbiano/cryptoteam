@@ -651,14 +651,14 @@ offerta:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: La soluzione piattoforma OpenXPKI è una soluzione tecnologica avanzata progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software necessari per un accesso sicuro e un controllo centralizzato basato sul riconoscemto o identificazione dell'utente in modalità univoca. Mentre la soluzione Chiavetta USB altrettanto sicura e valida, è studiata per piccole organizzazioni ma non consente una gestione centralizzata.
+                lead: Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (utente o device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P-N associato, Data di Scadenza, Nome del Soggetto e Id, Profili assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI</strong>. Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Studiato per gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia a 2048 Bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del certicato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia a 2048 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.
                                 </p>
                                 <p>
 
@@ -668,29 +668,29 @@ offerta:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
                         text: "<p>
-                                    <strong>Soluzione Chiavetta USB.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito da piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Le informazioni contenute nella chiavetta rendono questa soluzione basata su di un fattore forte di riconoscimento e identità dell'utente. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
+                                    <strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo (Riconoscimento Utente). Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
 
                                 </p>
                                 <p>
-                                    <strong>Scegli sotto il tuo modello.</strong>
+                                    <strong>Entrambe le soluzioni sono sono fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong>
                                 </p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
         resultbrowser3:
-            headline: FASCIONE AGGIUNTIVO 2 IDENTICO A -- Spostamente Fisico dei Dati (Dati in Movimento)
-            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            headline: Autenticazione
+            lead: Cerchiamo di garantire soluzioni più forti Strong Autentication, che consentono di Autenticare gli utenti aziendali in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono altamente onerose, più sono complesse più sono pericolose.
             details:
-                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                lead: La soluzione Piattaforma OpenXPKI è una soluzione innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura basata sul riconoscimento univoco (utente o device). Mentre la soluzione OpenPGP altrettanto sicura e valida, è studiata per per piccole organizzazioni.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                    <strong>Soluzione OpenXPKI.</strong>. Sistema avanzato dispone di molte fuinzioni finalizzate alla privacy e alla sicurezza. Studiato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni univoche che permettono rapidamente il riconoscimento utente e la validazione sicura degli accessi ai servizi aziendali. Validità del Certificato. Numero Serie. Nome del Soggetto. ID Fingerprint. Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
                                 </p>
                                 <p>
-                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
+
 
                                 </p>"
                     block2:
