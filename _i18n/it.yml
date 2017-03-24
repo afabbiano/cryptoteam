@@ -687,7 +687,7 @@ offerta:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI.</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58  Tipo di Certificato, Validità, Numero Serie,  Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                    <strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58  Tipo di Certificato, Validità, Numero Serie,  Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
                                 </p>
                                 <p>
 
@@ -698,7 +698,7 @@ offerta:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
                         text: "<p>
-                                    <strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapidi e sicuri verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo (Riconoscimento e validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
+                                    <strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantite nello stesso modo (Validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
 
                                 </p>
                                 <p>
