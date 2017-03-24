@@ -171,8 +171,8 @@ servizi:
 
         controllo:
             icona: Controllo Accessi
-            titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
-            testo: La cosa più importante quando si hanno dei dati aziendali sensibili è sapere chi vi può accedere, da dove, cosa può fare, e quando
+            titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e quali profili.
 
         cloud:
             icona: Cloud in House
