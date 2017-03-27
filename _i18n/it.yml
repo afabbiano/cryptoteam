@@ -806,10 +806,10 @@ offerta:
         riquadri:
             box1:
                 headline: Security Mail
-                details:  Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito.
+                details:  Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito. Il certificato digitale della PKI risponde esattamente a questa necessità.
             box2:
                 headline: Digital Identity
-                details:  Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri dipendenti, dei propri clienti, la loro reputazione, la situazione finanziaria e altro.
+                details:  Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri dipendenti, dei propri clienti, la loro reputazione, la situazione finanziaria e altro. Il certificato digitale della PKI risponde esattamente a questa necessità.
             box3:
                 headline: Strong Autentication
                 details:  Dettagli Box3.
