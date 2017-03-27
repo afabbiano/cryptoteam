@@ -805,21 +805,21 @@ offerta:
 
         riquadri:
             box1:
-                headline: Titolo Box1
+                headline: Security Mail
                 details:  Dettagli Box1.
             box2:
-                headline: Titolo Box2
+                headline: Digital Identity
                 details:  Dettagli Box2.
             box3:
-                headline: Titolo Box3
+                headline: Strong Autentication
                 details:  Dettagli Box3.
             box4:
-                headline: Titolo Box4
+                headline: Firma Digitale
                 details:  Dettagli Box4.
 
         welcome_teaser:
-            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-            action_button: Scopri
+            headline: Richiedi un preventivo.
+            action_button: Contattaci
 ########################################################################
 
 
