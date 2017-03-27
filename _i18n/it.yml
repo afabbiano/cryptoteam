@@ -800,8 +800,8 @@ offerta:
                 text: Slide4<br/>Sottotitolo Slide 4
 
         intro:
-            headline: Infrastruttura a Chiave Pubblica PKI
-            details: Grazie alle profonde innovazioni digitali nei proccessi economici siamo in grado di offrire soluzioni PKI che integrano la Privacy all'interno delle rete aziendale
+            headline: Infrastruttura Completa PKI
+            details: Grazie alle profonde innovazioni digitali nei proccessi economici siamo in grado di offrire alle imprese soluzioni PKI che integrano la Privacy all'interno della propria rete aziendale
 
         riquadri:
             box1:
@@ -815,7 +815,7 @@ offerta:
                 details:  Nelle aziende le password (tradizionali), sono numerose e dimostrate vulnerabili, oltre che onerose nella gestione. Tramite il certificato digitale si garantisce l'identità reale di chi accede alle aplicazioni e ai dati sensibili. Proponiamo una soluzione (forte), basata sullo scambio di comunicazione tra la Digital Identity e Autenticazione sicura.
             box4:
                 headline: Firma Elettronica
-                details:  Nell'era digitale i documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità dei documenti che circolano in rete. Tramite il certificato digitale della PKI sia ha la certezza che un insieme di dati in forma elettronica, allegati alla Digital Identity, di sapere se i documenti vengono violati.  
+                details:  Nell'era digitale i documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità dei documenti che circolano in rete. Tramite il certificato digitale della PKI sia ha la certezza che un insieme di dati in forma elettronica, allegati alla Digital Identity, di sapere se i documenti vengono violati.
 
         welcome_teaser:
             headline: Richiedi un preventivo.
