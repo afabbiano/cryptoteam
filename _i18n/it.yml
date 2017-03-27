@@ -789,8 +789,8 @@ offerta:
         titolo: PKI
         descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
-        carousel:
-            slide1:
+        carousel: Piattaforma PKI
+            slide1: Integrazione della privacy nella tua azienda
                 text: Piattaforma PKI<br/>Sottotitolo Slide 1
             slide2:
                 text: Slide2<br/>Sottotitolo Slide 2
