@@ -241,7 +241,7 @@ servizi:
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
         box4:
-            headline: Security Mail
+            headline: Privacy Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
@@ -583,10 +583,10 @@ offerta:
                 text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
 
         profiles:
-            headline: Security Mail OpenPGP
-            lead: Richiedi un prevento per il Security Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            headline: Privacy Mail OpenPGP
+            lead: Richiedi un prevento per il Privacy Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
-                lead: Il sistema Security Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
+                lead: Il sistema Privacy Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
@@ -805,7 +805,7 @@ offerta:
 
         riquadri:
             box1:
-                headline: Security Mail
+                headline: Privacy Mail
                 details:  Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito. La Security Mail tramite il certificato digitale della PKI è fondamentale per le attività quotidiane di scambio, necessariamente protette.
             box2:
                 headline: Digital Identity
