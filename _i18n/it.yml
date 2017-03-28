@@ -240,7 +240,14 @@ servizi:
                 li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
-        box4:
+        box4a:
+            headline: HTTPS
+            teaser: Teaser HTTPS
+            list:
+                li1: Soluzione 1 - HTTPS
+                li2: Soluzione 2 - HTTPS
+
+        box4b:
             headline: Privacy-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
