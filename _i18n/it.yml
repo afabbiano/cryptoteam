@@ -921,7 +921,7 @@ pagina-pki:
                 li7: Certificati per dispositivi di rete (Server, client, Router ecc.. OID Object Identfier)
 
         box3:
-            headline: Vantaggi PKI
+             headline: Vantaggi PKI
             teaser: Dieci Ottimi Vantaggi a Protezione del tuo Business
             list:
                 li1: Riservatezza e tutela di tutte le attività quotidiane. Il Bord aziendale da subito ne constaterà i suoi benefici
