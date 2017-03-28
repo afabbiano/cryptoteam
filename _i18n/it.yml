@@ -241,8 +241,8 @@ servizi:
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
         box4a:
-            headline: HTTPS
-            teaser: La crittografia inisita nel certificato https protocollo TLS 1.2 serve a dimostrare che il brouser di un cliente è  connesso ad un sito Web reale e sicuro (sito del fornitore azienda),e non ad un sito fasullo.
+            headline: HTTPS - Hypertext Transfer Protocol Secure
+            teaser:  Si tratta di un protocollo per la comunicazione sulla rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il siti che sta visitando. Gli utenti Gli utenti si aspettano che la navigazione ad un sito web avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare gli utenti sono incoraggiati a lavorare cn siti protetti. Ecco qui sotto i VANTAGGI&#58
             list:
                 li1: Soluzione 1 - HTTPS
                 li2: Soluzione 2 - HTTPS
