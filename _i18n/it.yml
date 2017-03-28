@@ -898,7 +898,7 @@ chisiamo:
 
 #PAGINA PKI (/offerta/pagina-pki.html)
 pagina-pki:
-         icona: Pagina PKI
+        icona: Pagina PKI
         teaser: Proteggiamo Dati Ininterrottamente
         titolo:  PKI Infrastruttura a Chiave Pubblica
         sottotitolo: L'infrastruttura a Chiave Pubblica tramite la gestione di certificati, viene offerta per cifrare automaticamente con la tecnica di crittografia i testi e le comunicazioni aziendali.
@@ -921,17 +921,17 @@ pagina-pki:
                 li7: Certificati per dispositivi di rete (Server, client, Router ecc.. OID Object Identfier)
 
         box3:
-             headline: Vantaggi PKI
+            headline: Vantaggi PKI
             teaser: Dieci Ottimi Vantaggi a Protezione del tuo Business
             list:
                 li1: Riservatezza e tutela di tutte le attività quotidiane. Il Bord aziendale da subito ne constaterà i suoi benefici
-                li2: Privacy come Valore Strutturale Aggiuntivo. I dati aziendali sono uno dei valori più pregiati nello scambio Commerciale
+                li2: Privacy come Valore Strutturale Aggiuntivo. I dati aziendali sono il valore più pregiato nello scambio Commerciale
                 li3: Aumento assoluto della fiducia tra i corrispondenti Interni e Esterni
-                li4: Aumento della Reputazione e Professionalità da parte di tutti
+                li4: Aumento della Reputazione e Professionalità da parte di tutti gli operatori esterni
                 li5: Compliance Aziendale - Avere procedure interne adeguate alla Privacy determina maggiore attenzione e rispetto
                 li6: Compliance GDPR -  stiamo al passo con i tempi evitando sanzioni
-                li7: La Gestione di uscita da parte di dipendenti con possesso di informazioni semsibili è molto facilitata e controllata
-                li8: Facciamo Felici gli amministratori di sistema ma anche i dipendenti risolvendo il problema della gestione delle Password Tradizionali
+                li7: La Gestione delle dimissioni da parte di dipendenti con possesso di informazioni sensibili è molto facilitata sopratutto controllata
+                li8: Facciamo felici gli amministratori di sistema ma anche i dipendenti risolvendo la rischiosa gestione delle password tradizionali
                 li9: Gestione Semplice e Centralizzata
                li10: Tecnologia integrata e autoamatizzata nella rete
         box4:
