@@ -800,7 +800,7 @@ offerta:
                 text: Richiedi la Demo<br/>Contattaci
 
         intro:
-            headline: Infrastruttura Completa PKI
+            headline: PKI Infrastruttura Completa
             details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni PKI (Infrastruttura a chiave Pubblica), che integrano la Privacy all'interno della propria rete aziendale
 
         riquadri:
@@ -900,8 +900,8 @@ chisiamo:
 pagina-pki:
         icona: Pagina PKI
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo:  Titolo Pagina PKI
-        sottotitolo: Sottotitolo Pagina PKI
+        titolo:  PKI Infrastruttura a Chiave Pubblica
+        sottotitolo: La infrastruttura a Chiave Pubblica tramite la gestione di certificati, viene offerta per cifrare con la tecnica di crittografia i testi e le comunicazioni aziendali. 
         descrizione: Descrizione Pagina PKI
 
         box1:
