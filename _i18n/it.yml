@@ -901,12 +901,12 @@ pagina-pki:
         icona: Pagina PKI
         teaser: Proteggiamo Dati Ininterrottamente
         titolo:  PKI Infrastruttura a Chiave Pubblica
-        sottotitolo: La infrastruttura a Chiave Pubblica tramite la gestione di certificati, viene offerta per cifrare con la tecnica di crittografia i testi e le comunicazioni aziendali. 
+        sottotitolo: La infrastruttura a Chiave Pubblica tramite la gestione di certificati, viene offerta per cifrare con la tecnica di crittografia i testi e le comunicazioni aziendali.
         descrizione: Descrizione Pagina PKI
 
         box1:
-            headline: Box1 - Headline
-            teaser:  Box1 - Teaser
+            headline: La privacy è Garantita dai Certificati
+            teaser:  Certificati a 2048 Bit SHA256
             description: Box1 - Description.
 
         box2:
