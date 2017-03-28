@@ -898,7 +898,7 @@ chisiamo:
 
 #PAGINA PKI (/offerta/pagina-pki.html)
 pagina-pki:
-        icona: Pagina PKI
+         icona: Pagina PKI
         teaser: Proteggiamo Dati Ininterrottamente
         titolo:  PKI Infrastruttura a Chiave Pubblica
         sottotitolo: L'infrastruttura a Chiave Pubblica tramite la gestione di certificati, viene offerta per cifrare automaticamente con la tecnica di crittografia i testi e le comunicazioni aziendali.
