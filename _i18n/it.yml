@@ -913,14 +913,15 @@ pagina-pki:
             headline: Applicazioni dei Certificati Digitali
             list:
                 li1: E-mail Sicure - Privacy mail tra i corrispondenti
-                li2: Https - Comunicazioni sicure tra il cliente utente (utilizzatore del sito), e l'azienda
+                li2: Https - Trasmissioni dati protetti tra il cliente utente (utilizzatore del sito), e l'azienda
                 li3: Digital Identity - Riconoscimento sicuro (Identità Fisica), di chi accede ai servizi aziendali, esempio accesso ai dati, oppure Posta Elettronica
                 li4: Autenticazione - si basa su di un fatture più forte rispetto alle tradizionali password (maggiore sicurezza)
                 li5: Timestamp - è possibile conoscere nel tempo l'integrità assoluta di un documento aziendale (Autenticazione Temporale)
                 li6: Firma Elettronica - Accresce il valore della firma l'ufficio Ente Certificatore garantisce la firma identificando il firmatario
+                li7: Certificati per dispositivi di rete (Server, client, Router ecc.. OID Object Identfier)
 
         box3:
-            headline: Vantaggi
+            headline: Vantaggi PKI
             teaser: Dieci Ottimi Vantaggi a Protezione del tuo Business
             list:
                 li1: Riservatezza e tutela di tutte le attività quotidiane. Il Bord aziendale da subito ne constaterà i suoi benefici
