@@ -913,8 +913,8 @@ pagina-pki:
             headline: Applicazioni dei Certificati Digitali
             list:
                 li1: E-mail Sicure - Privacy mail tra i corrispondenti
-                li2: Https - Comunicazioni sicure tra il cliente utente utilizzatore del sito e l'azienda
-                li3: Digital Identity - Riconoscimento sicuro di chi accede ai servizi aziendali (esempio accesso ai dati)
+                li2: Https - Comunicazioni sicure tra il cliente utente (utilizzatore del sito), e l'azienda
+                li3: Digital Identity - Riconoscimento sicuro (Identità Fisica), di chi accede ai servizi aziendali, esempio accesso ai dati, oppure Posta Elettronica
                 li4: Autenticazione - si basa su di un fatture più forte rispetto alle tradizionali password (maggiore sicurezza)
                 li5: Timestamp - è possibile conoscere nel tempo l'integrità assoluta di un documento aziendale (autenticazione Temporale)
                 li6: Firma Elettronica - Accresce il valore della firma l'ufficio Ente Certificatore garantisce la firma identificando il firmatario
