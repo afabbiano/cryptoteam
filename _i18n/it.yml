@@ -907,13 +907,13 @@ pagina-pki:
         box1:
             headline: La Privacy è Garantita dai Certificati
             teaser:  Certificati a 2048 Bit SHA256 Codifica e Decodifica - Standard S-MIME e X509
-            description: L'infrastruttura proposta nasce per gestire il ciclo di vita dei Certificati Digitali. L'approccio in azienda è di gestire internamente i certificati digitali verso la propria organizzazione, verso i dispositivi di rete (Certidicati SCEP), verso i collaboratori esterni, per le operatività quotidiane&#58 Crea, Convalida, Revoca, Sospende, Recupera, Gestisce le Policy e Controlla lo Stato dei Certificati e le sue scadenze.
+            description: L'infrastruttura proposta nasce per gestire il ciclo di vita dei Certificati Digitali. L'approccio in azienda è di gestire internamente i certificati digitali verso la propria organizzazione, verso i dispositivi di rete (Certificati SCEP), verso i collaboratori esterni, per le operatività quotidiane&#58 Crea, Convalida, Revoca, Sospende, Recupera, Gestisce le Policy e Controlla lo Stato dei Certificati e le sue scadenze.
 
         box2:
             headline: Applicazioni dei Certificati Digitali
             list:
                 li1: E-mail Sicure - Privacy mail tra i corrispondenti
-                li2: Https - Trasmissioni dati protetti tra il cliente utente (utilizzatore del sito), e l'azienda
+                li2: Https - Trasmissioni dati protetti tra il cliente utente utilizzatore del sito (cliente, collabaratore, corrispondente, ecc..), e l'azienda
                 li3: Digital Identity - Riconoscimento sicuro (Identità Fisica), di chi accede ai servizi aziendali, esempio accesso ai dati, oppure Posta Elettronica
                 li4: Autenticazione - si basa su di un fatture più forte rispetto alle tradizionali password (maggiore sicurezza)
                 li5: Timestamp - è possibile conoscere nel tempo l'integrità assoluta di un documento aziendale (Autenticazione Temporale)
