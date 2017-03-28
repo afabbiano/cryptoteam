@@ -242,7 +242,7 @@ servizi:
 
         box4a:
             headline: HTTPS
-            teaser: Teaser HTTPS
+            teaser: La crittografia inisita nel certificato https protocollo TLS 1.2 serve a dimostrare che il brouser di un cliente è  connesso ad un sito Web reale e sicuro (sito del fornitore azienda),e non ad un sito fasullo.
             list:
                 li1: Soluzione 1 - HTTPS
                 li2: Soluzione 2 - HTTPS
