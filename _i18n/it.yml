@@ -242,7 +242,7 @@ servizi:
 
         box4a:
             headline: HTTPS - Hypertext Transfer Protocol Secure
-            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito che sta visitando. Gli utenti si aspettano che la navigazione ad un sito web avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare siamo tutti incoraggiati a lavorare con siti https. VANTAGGI&#58
+            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
             list:
                 li1: Soluzione 1 - HTTPS
                 li2: Soluzione 2 - HTTPS
