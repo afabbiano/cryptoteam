@@ -241,11 +241,11 @@ servizi:
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
         box4:
-            headline: Security Mail
+            headline: Privacy-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
-                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
+                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -443,7 +443,7 @@ offerta:
             details: Dettagli Offerta Cifratura Dati.
 
         technologies:
-            headline: Security E-mail OpenXPKI
+            headline: Privacy-Mail OpenXPKI
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di firma e di autenticazione."
@@ -583,10 +583,10 @@ offerta:
                 text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
 
         profiles:
-            headline: Security Mail OpenPGP
-            lead: Richiedi un prevento per il Security Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            headline: Privacy-Mail OpenPGP
+            lead: Richiedi un prevento per il Privacy-Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
-                lead: Il sistema Security Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
+                lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
@@ -791,35 +791,35 @@ offerta:
 
         carousel:
             slide1:
-                text: Piattaforma PKI<br/>Sottotitolo Slide 1
+                text: Piattaforma PKI<br/> Privacy integrata nella tua azienda
             slide2:
-                text: Slide2<br/>Sottotitolo Slide 2
+                text: Servizio<br/>Housing & Outsourcing
             slide3:
-                text: Slide3<br/>Sottotitolo Slide 3
+                text: Certificati Https<br/>PKI Sicurezza On Line
             slide4:
-                text: Slide4<br/>Sottotitolo Slide 4
+                text: Richiedi la Demo<br/>Contattaci
 
         intro:
-            headline: PKI
-            details: Details
+            headline: Infrastruttura Completa PKI
+            details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni PKI (Infrastruttura a chiave Pubblica), che integrano la Privacy all'interno della propria rete aziendale
 
         riquadri:
             box1:
-                headline: Titolo Box1
-                details:  Dettagli Box1.
+                headline: Privacy-Mail
+                details:  Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito. La riservatezza delle Mail, Privacy-Mail, è attuata tramite il certificato digitale della PKI e risulta fondamentale per le attività quotidiane di lavoro.
             box2:
-                headline: Titolo Box2
-                details:  Dettagli Box2.
+                headline: Digital Identity
+                details:  La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
             box3:
-                headline: Titolo Box3
-                details:  Dettagli Box3.
+                headline: Strong Autentication
+                details:  Nelle aziende le password (tradizionali), sono numerose e dimostrate vulnerabili, oltre che onerose nella gestione. Tramite il certificato digitale si garantisce l'identità reale di chi accede alle aplicazioni e ai dati sensibili. Proponiamo una soluzione (forte), basata sullo scambio di comunicazione tra la Digital Identity e Autenticazione sicura.
             box4:
-                headline: Titolo Box4
-                details:  Dettagli Box4.
+                headline: Firma Elettronica
+                details:  Nell'era digitale i documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità dei documenti che circolano in rete. Tramite il certificato digitale della PKI sia ha la certezza che un insieme di dati in forma elettronica, allegati alla Digital Identity, di sapere se i documenti vengono violati.
 
         welcome_teaser:
-            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-            action_button: Scopri
+            headline: Richiedi un preventivo.
+            action_button: Contattaci
 ########################################################################
 
 
