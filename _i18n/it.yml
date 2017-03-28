@@ -907,7 +907,7 @@ pagina-pki:
         box1:
             headline: La Privacy è Garantita dai Certificati
             teaser:  Certificati a 2048 Bit SHA256 Standard S-MIME e X509
-            description: Box1 - Description.
+            description: L'infrastruttura proposta nasce per gestire il ciclo di vita dei Certificati Digitali. L'approccio è di autocertificazione cioè in azienda l'ufficio preposto come certificatore rilascia i certificati digitali alla sua organizzazione, ai dispositivi di rete per le operatività quotidiane&#58 Crea, Convalida, Revoca, Sospende, Recupera, Gestisce le Policy e Controllo lo Stato.  
 
         box2:
             headline: Box2 - Headline
