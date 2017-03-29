@@ -116,10 +116,10 @@ homepage:
 
     carousel:
         service_slide:
-            text: Piattaforma PKI<br/>Perché la tua sicurezza è importante
+            text: Privacy<br/>Protezione Dati
             btn: Scopri
-        dw_slide: Cloud In-House<br/>Controllo fisico dei tuoi dati
-        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
+        dw_slide: Privacy<br/>Piattaforma PKI
+        load_slide: Privacy<br/>Cloud in-House
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
@@ -137,7 +137,7 @@ homepage:
             details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizzare i prorpi partner (es. Clienti, Fornitori, Commericialista).
 
         box4:
-            headline: Crittografia SUPER
+            headline: Voip PBX
             details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
 
     welcome_teaser:
