@@ -240,7 +240,18 @@ servizi:
                 li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
-        box4:
+        box4a:
+            headline: https - Hypertext Transfer Protocol Secure -
+            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
+            list:
+                li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
+                li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
+                li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni - Previo Autorizzazione -
+                li4: Trattamento dei dati compliance alla GDPR
+                li5: Inevitabile aumento della reputazione - L'azienda è ritenuta attendibile -
+                li6: Aumento della cosistenza patrimoniale (dati aziendali integri e sicuri)
+
+        box4b:
             headline: Privacy-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
@@ -251,7 +262,7 @@ servizi:
             headline: File Sharing - Condivisione Dati Sicura
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile Sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
+                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmo SHA 256.
                 li4: Il dato viene sempre tracciato in modlalità cronologica. Quindi l'amministratore di sistema è in grado di stabilire quotidianamente l'operatività dell'utente.
@@ -906,60 +917,34 @@ pagina-pki:
 
         box1:
             headline: La Privacy è Garantita dai Certificati
-            teaser:  Certificati a 2048 Bit SHA256 Codifica e Decodifica - Standard S-MIME e X509 
-            description: L'infrastruttura proposta nasce per gestire il ciclo di vita dei Certificati Digitali. L'approccio è di autocertificazione cioè in azienda l'ufficio preposto come Ente Certificatore rilascia i certificati digitali alla sua organizzazione, ai dispositivi di rete, ai collaboratori esterni, per le operatività quotidiane&#58 Crea, Convalida, Revoca, Sospende, Recupera, Gestisce le Policy e Controlla lo Stato dei Certificati e le sue scadenze.
+            teaser:  Certificati a 2048 Bit SHA256 Codifica e Decodifica - Standard S-MIME e X509
+            description: L'infrastruttura proposta nasce per gestire il ciclo di vita dei Certificati Digitali. L'approccio in azienda è di gestire internamente i certificati digitali verso la propria organizzazione, verso i dispositivi di rete (Certificati SCEP), verso i collaboratori esterni, per le operatività quotidiane&#58 Crea, Convalida, Revoca, Sospende, Recupera, Gestisce le Policy e Controlla lo Stato dei Certificati e le sue scadenze.
 
         box2:
             headline: Applicazioni dei Certificati Digitali
             list:
                 li1: E-mail Sicure - Privacy mail tra i corrispondenti
-                li2: Https - Comunicazioni sicure tra il cliente utente (utilizzatore del sito), e l'azienda
+                li2: Https - Trasmissioni dati protetti tra il cliente utente utilizzatore del sito (cliente, collabaratore, corrispondente, ecc..), e l'azienda
                 li3: Digital Identity - Riconoscimento sicuro (Identità Fisica), di chi accede ai servizi aziendali, esempio accesso ai dati, oppure Posta Elettronica
                 li4: Autenticazione - si basa su di un fatture più forte rispetto alle tradizionali password (maggiore sicurezza)
                 li5: Timestamp - è possibile conoscere nel tempo l'integrità assoluta di un documento aziendale (Autenticazione Temporale)
                 li6: Firma Elettronica - Accresce il valore della firma l'ufficio Ente Certificatore garantisce la firma identificando il firmatario
+                li7: Certificati SCEP per dispositivi di rete (Server, client, Router ecc.. OID Object Identfier)
 
         box3:
-            headline: Box3 - Headline
-            teaser: Box3 - Teaser
+            headline: Vantaggi PKI
+            teaser: Dieci Ottimi Vantaggi a Protezione del tuo Business
             list:
-                li1: Box3 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box3 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box3 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box3 - Riga4. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li5: Box3 - Riga5. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
-        box4:
-            headline: Box4 - Headline
-            teaser: Box4 - Teaser
-            list:
-                li1: Box4 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box4 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
-        box5:
-            headline: Box5 - Headline
-            teaser: Box5 - Teaser
-            list:
-                li1: Box5 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box5 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box5 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-                li4: Box5 - Riga4. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-
-        box6:
-            headline: Box6 - Headline
-            teaser: Box6 - Teaser
-            list:
-                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-
-        box7:
-            headline: Box7 - Headline
-            teaser: Box7 - Teaser
-            list:
-                li1: Box6 - Riga1. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero.
-                li2: Box6 - Riga2. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem.
-                li3: Box6 - Riga3. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
-
+                li1: Riservatezza e tutela di tutte le attività quotidiane. Il Board aziendale da subito ne constaterà i suoi benefici
+                li2: Privacy come Valore Strutturale Aggiuntivo. I dati aziendali sono il valore più pregiato nello scambio Commerciale
+                li3: Aumento assoluto della fiducia tra i corrispondenti Interni e Esterni
+                li4: Aumento della Reputazione e Professionalità da parte di tutti gli operatori esterni
+                li5: Compliance Aziendale - Avere procedure interne adeguate alla Privacy determina maggiore attenzione e rispetto
+                li6: Compliance GDPR -  stiamo al passo con i tempi evitando sanzioni
+                li7: La Revoca della auterizzazioni nel caso di dipendenti dimissionari in possesso di informazioni sensibili è molto facilitata sopratutto controllata
+                li8: Facciamo felici gli amministratori di sistema ma anche i dipendenti risolvendo la rischiosa gestione delle password tradizionali
+                li9: Gestione Semplice e Centralizzata
+                li10: Tecnologia integrata e autoamatizzata nella rete
 ###########################################################################
 
 

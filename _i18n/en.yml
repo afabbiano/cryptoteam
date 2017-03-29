@@ -244,12 +244,19 @@ servizi:
                 li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
                 li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
 
-        box4:
-            headline: Security Mail
+        box4a:
+            headline: HTTPS
+            teaser: Teaser HTTPS
+            list:
+                li1: Soluzione 1 - HTTPS
+                li2: Soluzione 2 - HTTPS
+
+        box4b:
+            headline: Privacy-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
-                li2: Soluzione 2 - OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
+                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
