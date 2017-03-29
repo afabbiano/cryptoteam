@@ -835,6 +835,64 @@ offerta:
 
 
 
+#PAGINA OFFERTA -> VoIP PBX (/offerta/voip.html)
+# PLACEHOLDER - NON MODIFICARE
+########################################################################
+
+
+
+#PAGINA OFFERTA -> IDS (/offerta/ids.html)
+    ids:
+        icona: IDS
+        teaser: I tuoi dati sempre con te
+        titolo: IDS Titolo
+        sottotitolo: IDS Sottotitolo
+        descrizione: IDS Descrizione
+
+        carousel:
+            slide1: IDS Carousel Intro
+            slide2:
+                headline: IDS Carousel Headline
+                btn: BTN
+            slide3: IDS Carousel Slide3
+
+        intro:
+            headline: IDS Intro headline
+            details: IDS Intro Details
+
+        box-sx:
+            headline: box-sx headline
+            lead: box-sx lead
+            text1: box-sx text1
+            features:
+                headline: box-sx.features.headline
+                details: "box-sx.features.details linea1</li>
+                        <li>box-sx.features.details linea2</li>
+                        <li>box-sx.features.details linea...</li>
+                        <li>box-sx.features.details lineaN</li>"
+            text2: box-sx text2.
+
+        box-dx:
+            headline: box-dx headline
+            lead: box-dx lead
+            text1: "<p>Text1 (paragrafo)</p>
+                    <p>
+                        Text2
+                    </p>
+                    <p>
+                        Text3
+                    </p>"
+            features:
+                headline: box-dx.features.headline
+                details: "box-dx.features.details linea1</li>
+                        <li>box-dx.features.details linea2</li>
+                        <li>box-dx.features.details linea...</li>
+                        <li>box-dx.features.details lineaN</li>"
+            text2: Text2
+########################################################################
+
+
+
 # *************************************************************************
 # INIZIO CONTENUTI MENU CHI SIAMO
 # *************************************************************************
