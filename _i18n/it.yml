@@ -835,6 +835,69 @@ offerta:
 
 
 
+#PAGINA OFFERTA -> VoIP PBX (/offerta/voip.html)
+# PLACEHOLDER - NON MODIFICARE
+########################################################################
+
+
+
+#PAGINA OFFERTA -> IDS (/offerta/ids.html)
+    ids:
+        icona: IDS
+        teaser: I tuoi dati sempre con te
+        titolo: IDS Titolo
+        sottotitolo: IDS Sottotitolo
+        descrizione: IDS Descrizione
+
+        carousel:
+            slide1:
+                headline: IDS Slide1 Headline
+                text: IDS Slide1 Text
+            slide2:
+                headline: IDS Slide2 Headline
+                text: IDS Slide2 Text
+                btn: BTN
+            slide3:
+                headline: IDS Slide3 Headline
+                text: IDS Slide3 Text
+
+        intro:
+            headline: IDS Intro headline
+            details: IDS Intro Details
+
+        box-sx:
+            headline: box-sx headline
+            lead: box-sx lead
+            text1: box-sx text1
+            features:
+                headline: box-sx.features.headline
+                details: "box-sx.features.details linea1</li>
+                        <li>box-sx.features.details linea2</li>
+                        <li>box-sx.features.details linea...</li>
+                        <li>box-sx.features.details lineaN</li>"
+            text2: box-sx text2.
+
+        box-dx:
+            headline: box-dx headline
+            lead: box-dx lead
+            text1: "<p>Text1 (paragrafo)</p>
+                    <p>
+                        Text2
+                    </p>
+                    <p>
+                        Text3
+                    </p>"
+            features:
+                headline: box-dx.features.headline
+                details: "box-dx.features.details linea1</li>
+                        <li>box-dx.features.details linea2</li>
+                        <li>box-dx.features.details linea...</li>
+                        <li>box-dx.features.details lineaN</li>"
+            text2: Text2
+########################################################################
+
+
+
 # *************************************************************************
 # INIZIO CONTENUTI MENU CHI SIAMO
 # *************************************************************************
@@ -850,7 +913,6 @@ chisiamo:
 
     facts:
         headline: Competenze e Abilità
-
         # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
         # Esempio:
         # 1990 è un valore numerico e DEVE essere messo tra virgolette
@@ -863,15 +925,6 @@ chisiamo:
             value:
         riga3:
             key: Consulenza
-            value:
-        riga4:
-            key:
-            value:
-        riga5:
-            key:
-            value:
-        riga6:
-            key:
             value:
 
     box1:
