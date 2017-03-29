@@ -116,7 +116,7 @@ homepage:
 
     carousel:
         service_slide:
-            text: Privacy<br/>Protezione Dati
+            text: Privacy<br/>Protezione Dati Compliance CDPR
             btn: Scopri
         dw_slide: Privacy<br/>Piattaforma PKI
         load_slide: Privacy<br/>Cloud in-House
