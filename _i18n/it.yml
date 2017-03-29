@@ -850,11 +850,16 @@ offerta:
         descrizione: IDS Descrizione
 
         carousel:
-            slide1: IDS Carousel Intro
+            slide1:
+                headline: IDS Slide1 Headline
+                text: IDS Slide1 Text
             slide2:
-                headline: IDS Carousel Headline
+                headline: IDS Slide2 Headline
+                text: IDS Slide2 Text
                 btn: BTN
-            slide3: IDS Carousel Slide3
+            slide3:
+                headline: IDS Slide3 Headline
+                text: IDS Slide3 Text
 
         intro:
             headline: IDS Intro headline
