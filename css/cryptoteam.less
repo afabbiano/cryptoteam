@@ -1616,6 +1616,76 @@ table {
 }
 
 
+/* --- Impostazioni specifiche per la pagina Servizi->VoIP -- */
+.offerta-ids {
+	#teaser {
+		background: url(/images/cryptoteam/FascioneVoip.png) center @navBarHeight no-repeat @cDoubleDarkendLightGray;
+		background-attachment: fixed;
+	}
+
+	.tab {
+    .row-padding;
+    .ourStyledList;
+    .thumbnailDefinition;
+		.headlineDefinition;
+
+		.headline {
+			margin: 0;
+			padding-top: 0em;
+
+			/* to easily control the icons */
+			p {
+				text-align: center;
+				font-size: 120%;
+			}
+		}
+
+		img {
+			margin-top: 1em;
+			margin-bottom: 1em;
+			.floatingShadow;
+		}
+
+		/* queste definizioni servono a gestire meglio le immagini all'interno dei paragrafi */
+		p {
+	    img:first-of-type {
+        &.pull-left {
+            margin-top: 0;
+            margin-right: 1em;
+        }
+	    }
+	    img:first-of-type {
+        &.pull-right {
+            margin-top: 0;
+            margin-left: 1em;
+        }
+	    }
+    }
+
+    &.even {
+      background-color: @cLightGray;
+    }
+    &.odd {
+      background-color: White;
+    }
+	}
+}
+
+#offerta-ids-overview {
+	.row-padding;
+	.headlineDefinition;
+	.ourStyledList;
+
+	#product-logo {
+		padding-bottom: 0.25em;
+	}
+}
+
+
+
+
+
+
 
 .pagina-pki {
 
@@ -1678,7 +1748,13 @@ table {
 }
 
 
- /* --- Seguono le vecchie definizioni per le pagine che ancora usano gli ID services */
+
+
+
+
+
+
+/* --- Seguono le vecchie definizioni per le pagine che ancora usano gli ID services */
 
 .services {
 
