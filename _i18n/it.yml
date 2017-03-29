@@ -122,19 +122,19 @@ homepage:
         load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
 
     intro:
-        headline: Impegnati nella sicurezza
-        details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+        headline: Integriamo la Privacy nella tua Azienda
+        details: Vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: La protezione dei dati aziendali non è soltanto necessaria per adeguarsi alle normative sulla privacy, è una scelta di tutela del patrimonio aziendale.
+            details: Privacy Compliance GPRD - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
         box2:
             headline: Piattaforma PKI
             details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
         box3:
             headline: Cloud in House
-            details: È un canale di lavoro sicuro e riservato. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
         box4:
             headline: Crittografia SUPER
             details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
@@ -218,7 +218,7 @@ servizi:
         description: We are Demandware partner
 
         box1:
-            headline: Privacy-Protection-Easy
+            headline: Compliance GDPR
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
             description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
 
