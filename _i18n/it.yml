@@ -115,11 +115,18 @@ homepage:
     description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
     carousel:
-        service_slide:
-            text: Piattaforma PKI<br/>Perché la tua sicurezza è importante
-            btn: Scopri
-        dw_slide: Cloud In-House<br/>Controllo fisico dei tuoi dati
-        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
+        slide1:
+            riga1: Piattaforma PKI
+            riga2: Perché la tua sicurezza è importante
+        slide2:
+            riga1: Cloud In-House
+            riga2: Controllo fisico dei tuoi dati
+        slide3:
+            riga1: VoIP PBX Cifrato
+            riga2: Sicurezza nelle comunicazioni aziendali
+        slide4:
+            riga1: Slide4 - Riga1
+            riga2: Slide4 - Riga2
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
