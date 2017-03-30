@@ -3,31 +3,31 @@
 	{% include head.html %}
 
     <body class="homepage local-scroll" id="page">
-        {% include privacy-message.html %}
-        
-        {% include top-scroller.html %}
+      {% include privacy-message.html %}
 
-		<!-- container centers things -->
-		<div id="navigation" class="navbar-fixed-top">
-			<div class="container">
-				{% include navigation.html isMainNavigation=true %}
+      {% include top-scroller.html %}
+
+			<!-- container centers things -->
+			<div id="navigation" class="navbar-fixed-top">
+				<div class="container">
+					{% include navigation.html isMainNavigation=true %}
+				</div>
 			</div>
-		</div>
 
-		<header id="teaser">
-			<div class="container">
-				{% include homepage/carousel.html %}
+			<header id="teaser">
+				<div class="container">
+					{% include homepage/carousel.html %}
+				</div>
+			</header>
+
+			<div id="main">
+				{{ content }}
 			</div>
-		</header>
 
-		<div id="main">
-			{{ content }}
-		</div>
+			<footer>
+				{% include footer.html %}
+			</footer>
 
-		<footer>
-			{% include footer.html %}
-		</footer>
-
-		{% include tracking.html %}
+			{% include tracking.html %}
     </body>
 </html>
