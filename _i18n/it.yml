@@ -135,7 +135,7 @@ homepage:
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: Privacy Compliance GPRD - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+            details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
         box2:
             headline: Piattaforma PKI
             details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
@@ -145,7 +145,7 @@ homepage:
 
         box4:
             headline: Voip PBX
-            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, ecc.. .
+            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
