@@ -856,11 +856,11 @@ offerta:
 
       intro:
         headline: IDS-PSAD
-        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
+        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
 
       box1:
-        headline: box-sx headline
-        riga1: box1-sx riga1
+        headline: Caratteristiche Operative
+        riga1: Rivela programmi backdoor (es. EvilFTP, GirlFriend, SubSeven)
         riga2: box1-sx riga2
         riga3: box1-sx riga3
         riga4: box1-sx riga4
