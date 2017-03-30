@@ -859,9 +859,9 @@ offerta:
         details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
 
       box1:
-        headline: Caratteristiche Operative
+        headline: Caratteristiche
         riga1: Rivela programmi backdoor (es. EvilFTP, GirlFriend, SubSeven)
-        riga2: Rivela  DDoS (avvisi basai su attacchi Buffer Overflow-)
+        riga2: Rivela  DDoS (avvisi basai su attacchi Buffer Overflow)
         riga3: Esegue scansioni sulle porte per il traffico sospetto
         riga4: Rilevazione per TCP SYN, FIN, NULL, e scansioni XMAS, come scansioni UDP
         riga5: Avvisi e-mail che contengono  TCP / UDP / ICMP + informazioni  DNS
@@ -869,15 +869,15 @@ offerta:
         riga7: Filtra e blocca il traffico ritenuto dannoso
 
       box2:
-        headline: box-dx headline
-        text: box2 Text2 voluptas dei index lorem ipsum
-        riga1: box2-sx riga1
-        riga2: box2-sx riga2
-        riga3: box2-sx riga3
-        riga4: box2-sx riga4
-        riga5: box2-sx riga5
+        headline: Fasi Installazione
+        text: Consigliamo L’installazione IDS-PSAD su macchina dedicata
+        riga1: Verifica l’ ambiente informatico e la sua compatibilità
+        riga2: Convalida di Funzionamento
+        riga3: Processo di Installazione IDS-PSAD
+        riga4: Collaudo di Funzionamento
+        riga5: Formazione
 
-        button: Clicca Qui
+        button: Richiedi Preventivo
 
       linkdx:
         alt: linkdx alt
