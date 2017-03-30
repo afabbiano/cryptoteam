@@ -135,7 +135,7 @@ homepage:
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: Privacy Compliance GPRD - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+            details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
         box2:
             headline: Piattaforma PKI
             details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
@@ -145,7 +145,7 @@ homepage:
 
         box4:
             headline: Voip PBX
-            details: Chimate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, ecc.. .
+            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
@@ -855,21 +855,29 @@ offerta:
       descrizione: Descrizione Scheda IDS
 
       intro:
-        headline: IDS Headline Lista SX
-        details: IDS Details
+        headline: IDS-PSAD
+        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
 
       box1:
-        headline: box-sx headline
-        riga1: box1-sx riga1
-        riga2: box1-sx riga2
-        riga3: box1-sx riga3
-        riga4: box1-sx riga4
-        riga5: box1-sx riga5
+        headline: Caratteristiche
+        riga1: Rivela programmi backdoor (es. EvilFTP, GirlFriend, SubSeven)
+        riga2: Rivela  DDoS (avvisi basai su attacchi Buffer Overflow)
+        riga3: Esegue scansioni sulle porte per il traffico sospetto
+        riga4: Rilevazione per TCP SYN, FIN, NULL, e scansioni XMAS, come scansioni UDP
+        riga5: Avvisi e-mail che contengono  TCP / UDP / ICMP + informazioni  DNS
+        riga6: Supporto per IPv4 e IPv6 log generati da iptables e ip6tables
+        riga7: Filtra e blocca il traffico ritenuto dannoso
 
       box2:
-        headline: box-dx headline
-        text: box2 Text2
-        button: Clicca Qui
+        headline: Fasi Installazione
+        text: Consigliamo L’installazione IDS-PSAD su macchina dedicata
+        riga1: Verifica l’ ambiente informatico e la sua compatibilità
+        riga2: Convalida il Funzionamento
+        riga3: Processo Installazione IDS-PSAD
+        riga4: Collaudo
+        riga5: Formazione Pesonale
+
+        button: Richiedi Preventivo
 
       linkdx:
         alt: linkdx alt
