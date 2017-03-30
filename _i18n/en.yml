@@ -876,27 +876,56 @@ offerta:
 
 #PAGINA OFFERTA -> IDS (/offerta/ids.html)
     ids:
-        icona: IDS
+      titolo: Titolo Scheda IDS
+      descrizione: Descrizione Scheda IDS
+
+      intro:
+        headline: IDS Headline Lista SX
+        details: IDS Details
+
+      box1:
+        headline: box-sx headline
+        riga1: box1-sx riga1
+        riga2: box1-sx riga2
+        riga3: box1-sx riga3
+        riga4: box1-sx riga4
+        riga5: box1-sx riga5
+
+      box2:
+        headline: box-dx headline
+        text: box2 Text2
+        button: Clicca Qui
+
+      linkdx:
+        alt: linkdx alt
+        title: linkdx title
+########################################################################
+
+
+
+#PAGINA OFFERTA -> Cancellazione Dati (/offerta/cancellazione.html)
+    cancellazione:
+        icona: Cancellazione Dati
         teaser: I tuoi dati sempre con te
-        titolo: IDS Titolo
-        sottotitolo: IDS Sottotitolo
-        descrizione: IDS Descrizione
+        titolo: Cancellazione Dati Titolo
+        sottotitolo: Cancellazione Dati Sottotitolo
+        descrizione: Cancellazione Dati Descrizione
 
         carousel:
             slide1:
-                headline: IDS Slide1 Headline
-                text: IDS Slide1 Text
+                headline: Cancellazione Dati Slide1 Headline
+                text: Cancellazione Dati Slide1 Text
             slide2:
-                headline: IDS Slide2 Headline
-                text: IDS Slide2 Text
+                headline: Cancellazione Dati Slide2 Headline
+                text: Cancellazione Dati Slide2 Text
                 btn: BTN
             slide3:
-                headline: IDS Slide3 Headline
-                text: IDS Slide3 Text
+                headline: Cancellazione Dati Slide3 Headline
+                text: Cancellazione Dati Slide3 Text
 
         intro:
-            headline: IDS Intro headline
-            details: IDS Intro Details
+            headline: Cancellazione Dati Intro headline
+            details: Cancellazione Dati Intro Details
 
         box-sx:
             headline: box-sx headline
