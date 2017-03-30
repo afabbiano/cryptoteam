@@ -876,57 +876,29 @@ offerta:
 
 #PAGINA OFFERTA -> IDS (/offerta/ids.html)
     ids:
-        icona: IDS
-        teaser: I tuoi dati sempre con te
-        titolo: IDS Titolo
-        sottotitolo: IDS Sottotitolo
-        descrizione: IDS Descrizione
+      titolo: Titolo Scheda IDS
+      descrizione: Descrizione Scheda IDS
 
-        carousel:
-            slide1:
-                headline: IDS Slide1 Headline
-                text: IDS Slide1 Text
-            slide2:
-                headline: IDS Slide2 Headline
-                text: IDS Slide2 Text
-                btn: BTN
-            slide3:
-                headline: IDS Slide3 Headline
-                text: IDS Slide3 Text
+      intro:
+        headline: IDS Headline Lista SX
+        details: IDS Details
 
-        intro:
-            headline: IDS Intro headline
-            details: IDS Intro Details
+      box1:
+        headline: box-sx headline
+        riga1: box1-sx riga1
+        riga2: box1-sx riga2
+        riga3: box1-sx riga3
+        riga4: box1-sx riga4
+        riga5: box1-sx riga5
 
-        box-sx:
-            headline: box-sx headline
-            lead: box-sx lead
-            text1: box-sx text1
-            features:
-                headline: box-sx.features.headline
-                details: "box-sx.features.details linea1</li>
-                        <li>box-sx.features.details linea2</li>
-                        <li>box-sx.features.details linea...</li>
-                        <li>box-sx.features.details lineaN</li>"
-            text2: box-sx text2.
+      box2:
+        headline: box-dx headline
+        text: box2 Text2
+        button: Clicca Qui
 
-        box-dx:
-            headline: box-dx headline
-            lead: box-dx lead
-            text1: "<p>Text1 (paragrafo)</p>
-                    <p>
-                        Text2
-                    </p>
-                    <p>
-                        Text3
-                    </p>"
-            features:
-                headline: box-dx.features.headline
-                details: "box-dx.features.details linea1</li>
-                        <li>box-dx.features.details linea2</li>
-                        <li>box-dx.features.details linea...</li>
-                        <li>box-dx.features.details lineaN</li>"
-            text2: Text2
+      linkdx:
+        alt: linkdx alt
+        title: linkdx title
 ########################################################################
 
 
