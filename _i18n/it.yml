@@ -115,11 +115,18 @@ homepage:
     description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
     carousel:
-        service_slide:
-            text: Privacy<br/>Protezione Dati Compliance GDPR
-            btn: Scopri
-        dw_slide: Privacy<br/>Piattaforma PKI
-        load_slide: Privacy<br/>Cloud in-House
+        slide1:
+            riga1: Privacy
+            riga2: Protezione Dati Compliance GDPR
+        slide2:
+            riga1: Privacy
+            riga2: Piattaforma PKI
+        slide3:
+            riga1: Privacy
+            riga2: Cloud in-House
+        slide4:
+            riga1: Privacy
+            riga2: VoIP PBX
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
