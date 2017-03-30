@@ -878,6 +878,63 @@ offerta:
 
 
 
+#PAGINA OFFERTA -> Cancellazione Dati (/offerta/cancellazione.html)
+    cancellazione:
+        icona: Cancellazione Dati
+        teaser: I tuoi dati sempre con te
+        titolo: Cancellazione Dati Titolo
+        sottotitolo: Cancellazione Dati Sottotitolo
+        descrizione: Cancellazione Dati Descrizione
+
+        carousel:
+            slide1:
+                headline: Cancellazione Dati Slide1 Headline
+                text: Cancellazione Dati Slide1 Text
+            slide2:
+                headline: Cancellazione Dati Slide2 Headline
+                text: Cancellazione Dati Slide2 Text
+                btn: BTN
+            slide3:
+                headline: Cancellazione Dati Slide3 Headline
+                text: Cancellazione Dati Slide3 Text
+
+        intro:
+            headline: Cancellazione Dati Intro headline
+            details: Cancellazione Dati Intro Details
+
+        box-sx:
+            headline: box-sx headline
+            lead: box-sx lead
+            text1: box-sx text1
+            features:
+                headline: box-sx.features.headline
+                details: "box-sx.features.details linea1</li>
+                        <li>box-sx.features.details linea2</li>
+                        <li>box-sx.features.details linea...</li>
+                        <li>box-sx.features.details lineaN</li>"
+            text2: box-sx text2.
+
+        box-dx:
+            headline: box-dx headline
+            lead: box-dx lead
+            text1: "<p>Text1 (paragrafo)</p>
+                    <p>
+                        Text2
+                    </p>
+                    <p>
+                        Text3
+                    </p>"
+            features:
+                headline: box-dx.features.headline
+                details: "box-dx.features.details linea1</li>
+                        <li>box-dx.features.details linea2</li>
+                        <li>box-dx.features.details linea...</li>
+                        <li>box-dx.features.details lineaN</li>"
+            text2: Text2
+########################################################################
+
+
+
 # *************************************************************************
 # INIZIO CONTENUTI MENU CHI SIAMO
 # *************************************************************************
