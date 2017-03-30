@@ -861,9 +861,10 @@ offerta:
       box1:
         headline: Caratteristiche Operative
         riga1: Rivela programmi backdoor (es. EvilFTP, GirlFriend, SubSeven)
-        riga3: box1-sx riga3
-        riga4: box1-sx riga4
-        riga5: box1-sx riga5
+        riga2: Rivela  DDoS (avvisi basai su attacchi Buffe Overflow-)
+        riga3: Esegue scansioni sulle porte per il traffico sospetto
+        riga4: Rilevazione per TCP SYN, FIN, NULL, e scansioni XMAS così come scansioni UDP
+        riga5: Avvisi e-mail che contengono  TCP / UDP / ICMP + informazioni  DNS 
 
       box2:
         headline: box-dx headline
