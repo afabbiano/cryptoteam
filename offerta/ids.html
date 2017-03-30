@@ -8,46 +8,37 @@ subNavLinkName: navigation.sub.IDS
 parent: Offerta
 ---
 
-<div id="offerta-ids-overview">
+<div id="documentation">
 	<div class="row">
 		<div class="container">
-			<div class="col-md-10 col-md-offset-1 text-center">
-				<h1><img src="/images/XLT-logo-transparent-250x82.png" id="product-logo" alt="IDS Product logo" title="IDS"/></h1>
+			<div class="col-sm-10 col-sm-offset-1 text-center">
+				<h1>{% t offerta.ids.intro.headline %}</h1>
 				<p class="lead">{% t offerta.ids.intro.details %}</p>
 			</div>
 		</div>
 	</div>
-
 	<div class="row">
 		<div class="container">
-			<div class="col-sm-6">
-				<div class="headline">
-					<p><i class="fa fa-magic fa-3x"></i></p>
-					<h2>{% t offerta.ids.box-sx.headline %}</h2>
-				</div>
-				<p class="lead">{% t offerta.ids.box-sx.lead %}</p>
-        <p>{% t offerta.ids.box-sx.text1 %}</p>
-        <h3>{% t offerta.ids.box-sx.features.headline %}</h3>
-        <ul>{% t offerta.ids.box-sx.features.details %}</ul>
-        <p>{% t offerta.ids.box-sx.text2 %}</p>
-			</div>
+			<div class="col-sm-4">
+                <h2>{% t offerta.ids.box1.headline %}</h2>
+                <ul>
+            		<li><a href="https://lab.xceptance.de/releases/xlt/latest/user-manual/index.html">{% t offerta.ids.box1.riga1 %}</a></li>
+                    <li><a href="https://lab.xceptance.de/releases/xlt/latest/getting-started/index.html">{% t offerta.ids.box1.riga2 %}</a></li>
+                    <li><a href="https://lab.xceptance.de/releases/xlt/latest/apidoc/">{% t offerta.ids.box1.riga3 %}</a></li>
+                    <li><a href="https://lab.xceptance.de/releases/xlt/latest/release-notes/index.html">{% t offerta.ids.box1.riga4 %}</a></li>
+                    <li><a href="https://ask.xceptance.de/">{% t offerta.ids.box1.riga5 %}</a></li>
+                </ul>
 
-			<div class="col-sm-6">
-				<div class="headline">
-					<p><i class="fa fa-tachometer fa-3x"></i></p>
-					<h2>{% t offerta.ids.box-dx.headline %}</h2>
-				</div>
+                <h2>{% t offerta.ids.box2.headline %}</h2>
+                <p>{% t offerta.ids.box2.text %}</p>
+                <p><a class="btn btn-primary" href="http://eepurl.com/eWvKw" role="button">{% t offerta.ids.box2.button %}</a></p>
+   			</div>
 
-				<p class="lead">{% t offerta.ids.box-dx.lead %}</p>
-
-        {% t offerta.ids.box-dx.text1 %}
-
-        <h3>{% t offerta.ids.box-dx.features.headline %}</h3>
-        <ul>{% t offerta.ids.box-dx.features.details %}</ul>
-
-        <p>{% t offerta.ids.box-dx.text2 %}</p>
-			</div>
+   			<div class="col-sm-8">
+                <a href="https://lab.xceptance.de/releases/xlt/latest/" target="_blank">
+                    <img src="/images/xlt/documentation.png" width="90%" alt="{% t offerta.ids.linkdx.alt %}" title="{% t offerta.ids.linkdx.title %}">
+                </a>
+   			</div>
 		</div>
 	</div>
-
 </div>
