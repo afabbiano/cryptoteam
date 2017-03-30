@@ -117,11 +117,18 @@ homepage:
     description: CryptoTeam, your experts in Data Security and Privacy.
 
     carousel:
-        service_slide:
-            text: Public Keys infrastructure<br/>Your Keys in Your hands
-            btn: Learn More
-        dw_slide: In-House Cloud<br/>Your Data under Your control
-        load_slide: VoIP PBX Cifrato<br/>Sicurezza nelle comunicazioni aziendali
+        slide1:
+            riga1: Public Key Infrastructure
+            riga2: our Keys in Your hands
+        slide2:
+            riga1: In-House Cloud
+            riga2: Your Data under Your control
+        slide3:
+            riga1: Encrypted VoIP PBX
+            riga2: Secure Company Communication
+        slide4:
+            riga1: Slide4 - Riga1
+            riga2: Slide4 - Riga2
 
     intro:
         headline: Your security is our mission
