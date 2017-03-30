@@ -116,17 +116,17 @@ homepage:
 
     carousel:
         slide1:
-            riga1: Piattaforma PKI
-            riga2: Perché la tua sicurezza è importante
+            riga1: Privacy
+            riga2: Protezione Dati Compliance GDPR
         slide2:
-            riga1: Cloud In-House
-            riga2: Controllo fisico dei tuoi dati
+            riga1: Privacy
+            riga2: Piattaforma PKI
         slide3:
-            riga1: VoIP PBX Cifrato
-            riga2: Sicurezza nelle comunicazioni aziendali
+            riga1: Privacy
+            riga2: Cloud in-House
         slide4:
-            riga1: Slide4 - Riga1
-            riga2: Slide4 - Riga2
+            riga1: Privacy
+            riga2: VoIP PBX
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
@@ -138,13 +138,14 @@ homepage:
             details: Privacy Compliance GPRD - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
         box2:
             headline: Piattaforma PKI
-            details: Scopri come gestire, in piena autonomia, l'emissione dei certificati a chiave pubblica X509 per la tua azienda.
+            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
         box3:
-            headline: Cloud in House
-            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di distribuire in modo sicuro i dati sensibili all'interno dell'azienda
+            headline: Cloud in-House
+            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
+
         box4:
-            headline: Crittografia SUPER
-            details: Scrittura convenzionale segreta, decifrabile solo da chi sia a conoscenza del codice. Come la usiamo?
+            headline: Voip PBX
+            details: Chimate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, ecc.. .
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
@@ -843,7 +844,7 @@ offerta:
 
 
 #PAGINA OFFERTA -> VoIP PBX (/offerta/voip.html)
-# PLACEHOLDER - NON MODIFICARE
+# PLACEHOLDER - NON MODIFICARE QUESTE TRE RIGHE
 ########################################################################
 
 
