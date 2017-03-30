@@ -868,7 +868,13 @@ offerta:
 
       box2:
         headline: box-dx headline
-        text: box2 Text2
+        text: box2 Text2 voluptas dei index lorem ipsum
+        riga1: box2-sx riga1
+        riga2: box2-sx riga2
+        riga3: box2-sx riga3
+        riga4: box2-sx riga4
+        riga5: box2-sx riga5
+
         button: Clicca Qui
 
       linkdx:
