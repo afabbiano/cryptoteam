@@ -871,7 +871,7 @@ offerta:
 
         intro:
             headline: IDS Intro headline
-            details: IDS è un sistema di sorveglianza (dei pacchetti), e di prevenzione in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative 
+            details: IDS è un sistema di sorveglianza (Pacchetti In & Out), e di prevenzione in grado di rilevare minacce e intrusioni indesiderate nella propria rete. In concreto gestisce i rischi in anticipo, ha l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali 
 
         box-sx:
             headline: box-sx headline
