@@ -912,9 +912,9 @@ offerta:
 
         box-sx:
             headline: Cancellazione Sicura
-            lead: La nostre soluzioni compliance GDPR
+            lead: Soluzioni compliance GDPR
             features:
-                headline: <strong>OPzioni Procedure</strong> 
+                headline: <strong>Opzioni Procedure</strong>
                 details: <li>Sovrascrittura</li>
                           <li>Demagnetizzazione</li>
                           <li>Punzonatura</li>
@@ -929,10 +929,10 @@ offerta:
 
             features:
                 headline: Servizi da valutare
-                details: "<li>Stabilire la sede di lavoro (On-Site o altra sede) </li>
+                details: "<li>Stabilire la sede di lavoro (On-Site o altra Sede) </li>
                           <li>Trasporti inclusi aree di destinazione (es.smaltimento)</li>
                           <li>Tipo opzioni di cancellazione</li>
-                          <li>Eventuale Estrazione di HDD dagli apparati inform.</li>
+                          <li>Eventuale Estrazione di HDD dagli apparati informatici.</li>
                           <li>Servizio di Noleggio</li>"
             text2: Per trasmettervi un preventivo adeguato è necessario conoscere la quantità di beni (Venduti o Avvicendati o da Smaltire), la sede operativa per effetuare le procedure di cancellazione, la sede di destinazione, infine il trasporto.
 ########################################################################
