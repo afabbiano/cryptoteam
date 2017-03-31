@@ -919,7 +919,8 @@ offerta:
                           <li>Demagnetizzazione</li>
                           <li>Punzonatura</li>
             riga1: <strong>Sovrascrittura&#58</strong> Applicativi che scrivono ripetutamente le aree del disco occupate dalle informazioni da eliminare.
-            riga2: <strong>Demagnetizzazione&#58</strong> Hardware di memorizzazione (anche guasti).<br><strong>Punzonatura&#58</strong> Distruzione fisica dei prodotti HW (anche guasti).
+            riga2: <strong>Demagnetizzazione&#58</strong> Hardware di memorizzazione (anche guasti).
+            riga3: <strong>Punzonatura&#58</strong> Distruzione fisica dei prodotti HW (anche guasti).
 
 
         box-dx:
