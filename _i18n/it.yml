@@ -872,6 +872,7 @@ offerta:
         headline: Fasi Installazione
         text: Consigliamo L’installazione IDS-PSAD su macchina dedicata
         riga1: Verifica l’ ambiente informatico e la sua compatibilità
+        riga2: Convalidiamo il Funzionamento
         riga3: Processo Installazione IDS-PSAD
         riga4: Collaudo
         riga5: Formazione Pesonale
