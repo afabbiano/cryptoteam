@@ -912,15 +912,16 @@ offerta:
 
         box-sx:
             headline: Cancellazione Sicura
-            lead: La nostre soluzioni compliance alle norme
-            text1: Procedura
+            lead: La nostre soluzioni compliance GDPR
+            text1:
             features:
-                headline: box-sx.features.headline
-                details: "box-sx.features.details linea1</li>
-                        <li>box-sx.features.details linea2</li>
-                        <li>box-sx.features.details linea...</li>
-                        <li>box-sx.features.details lineaN</li>"
-            text2: box-sx text2.
+                headline: Procedure Conformi
+                details:
+                        <li>Sovrascrittura</li>
+                        <li>Demagnetizzazione</li>
+                        <li>Punzonatura</li>"
+            text2: Sovrascrittura: Applicativi che scrivono ripetutamente le aree del disco occupate dalle informazioni da eliminaresx. - Demagnetizzazione: Hardware di memorizzazione (anche guasti). - Punzonatura: Distruzione fisica dei prodotti (anche guasti).
+
 
         box-dx:
             headline: box-dx headline
