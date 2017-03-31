@@ -959,6 +959,48 @@ offerta:
 ########################################################################
 
 
+# *************************************************************************
+# INIZIO CONTENUTI MENU NEWS
+# *************************************************************************
+
+# News
+news:
+    title: Notizie CryptoTeam
+    description: Cosa c'è di nuovo in CryptoTeam
+    previous:
+        headline: Notizie Precedenti
+        all: Tutte le Notizie
+    blog:
+        headline: Visita il nostro Blog!
+        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+        btn: Inizia
+    latest: Ultime Notizie
+
+    archive:
+        title: Archivio Notizie
+        description: Sommario di tutte le Notizie
+        headline: Archivio Notizie
+########################################################################
+
+# Posts
+posts:
+    news:
+        1:
+            title: CryptoTeam prepara il lancio del nuovo sito web!
+            when: 7 Febbraio 2017
+            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
+        2:
+            title: Primi test per il nuovo sito basato su Jekyll
+            when: 8 Febbraio 2017
+            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
+        3:
+            title: Primi test per il nuovo sito basato su Jekyll
+            when: 31 Marzo 2017
+            excerpt: Una nuova notizia fresca fresca.
+########################################################################
+
+
+
 
 # *************************************************************************
 # INIZIO CONTENUTI MENU CHI SIAMO
