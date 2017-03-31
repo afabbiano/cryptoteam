@@ -911,9 +911,9 @@ offerta:
             details: La Normativa Privacy impone la cancellazione Sicura dei dati. Dopo la cancellazione dei dati bisogna essere in grado di dimostrare di aver adottato le tecniche di cancellazione sicure capaci di eliminare i dati per sempre e di aver attuato tutte le misure di sicurezza previste dalle Norme
 
         box-sx:
-            headline: box-sx headline
-            lead: box-sx lead
-            text1: box-sx text1
+            headline: Cancellazione Sicura
+            lead: La nostre soluzioni compliance alle norme
+            text1: Procedura
             features:
                 headline: box-sx.features.headline
                 details: "box-sx.features.details linea1</li>
