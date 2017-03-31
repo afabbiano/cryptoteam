@@ -913,7 +913,6 @@ offerta:
         box-sx:
             headline: Cancellazione Sicura
             lead: La nostre soluzioni compliance GDPR
-            text1:
             features:
                 headline: Procedure Conformi
                 details: <li>Sovrascrittura</li>
@@ -926,7 +925,6 @@ offerta:
         box-dx:
             headline: La nostra Offerta
             lead: Soluzione da concordare
-            text1: "<p>Text1 (paragrafo)</p>"
 
             features:
                 headline: Servizi da valutare
