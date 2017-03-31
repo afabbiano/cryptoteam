@@ -897,14 +897,14 @@ offerta:
         carousel:
             slide1:
                 headline: Cancellazione Dati Sicura
-                text: Perchè bisogna cancellare i dati in modo sicuro
+                text: perchè bisogna cancellare i dati in modo sicuro?
             slide2:
                 headline: Tecnicamente i dati sono sempre memorizzati
-                text: I file sono facilmente recuperabili
+                text: i file sono facilmente recuperabili
                 btn: BTN
             slide3:
                 headline: Senza adeguata procedura di cancellazione sicura
-                text: si è a rischio di Richiesta di Risarcimento Danni 
+                text: si è a rischio di sanzioni e di risarcimento danni
 
         intro:
             headline: Cancellazione Dati Intro headline
