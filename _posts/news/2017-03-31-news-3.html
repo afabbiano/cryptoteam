@@ -1,0 +1,29 @@
+---
+layout: news-post
+title: posts.news.3.title
+when: posts.news.3.when
+categories: news
+excerpt: posts.news.3.excerpt
+---
+{% if site.lang == 'it' %}
+<p class="lead">
+	Titolo N.3
+</p>
+
+<!-- that is regular content -->
+<p>
+	Notizia 3 in Italiano.
+</p>
+
+
+{% else %}
+<p class="lead">
+	Title #3
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #3.
+</p>
+
+{% endif %}
