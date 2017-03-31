@@ -899,8 +899,8 @@ offerta:
                 headline: Cancellazione Dati Sicura
                 text: Perchè bisogna cancellare i dati in modo sicuro
             slide2:
-                headline: Cancellazione Dati Slide2 Headline
-                text: Cancellazione Dati Slide2 Text
+                headline: Tecnicamente i dati non si cancellano sono sempre memorizzati
+                text: Cestino, Formatazione, o modalità simili, non sono sufficienti. I file sono facilmente recuperabili
                 btn: BTN
             slide3:
                 headline: Cancellazione Dati Slide3 Headline
