@@ -880,21 +880,29 @@ offerta:
       descrizione: Descrizione Scheda IDS
 
       intro:
-        headline: IDS Headline Lista SX
-        details: IDS Details
+        headline: IDS-PSAD
+        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in  grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
 
       box1:
-        headline: box-sx headline
-        riga1: box1-sx riga1
-        riga2: box1-sx riga2
-        riga3: box1-sx riga3
-        riga4: box1-sx riga4
-        riga5: box1-sx riga5
+        headline: Caratteristiche
+        riga1: Rivela programmi backdoor (es. EvilFTP, GirlFriend, SubSeven)
+        riga2: Rivela  DDoS (avvisi basai su attacchi Buffer Overflow)
+        riga3: Esegue scansioni sulle porte per il traffico sospetto
+        riga4: Rilevazione per TCP SYN, FIN, NULL, e scansioni XMAS, come scansioni UDP
+        riga5: Avvisi e-mail che contengono  TCP / UDP / ICMP + informazioni  DNS
+        riga6: Supporto per IPv4 e IPv6 log generati da iptables e ip6tables
+        riga7: Filtra e blocca il traffico ritenuto dannoso
 
       box2:
-        headline: box-dx headline
-        text: box2 Text2
-        button: Clicca Qui
+        headline: Fasi Installazione
+        text: Consigliamo L’installazione IDS-PSAD su macchina dedicata
+        riga1: Verifica l’ ambiente informatico e la sua compatibilità
+        riga2: Convalidiamo il Funzionamento
+        riga3: Processo Installazione IDS-PSAD
+        riga4: Collaudo
+        riga5: Formazione Pesonale
+
+        button: Richiedi Preventivo
 
       linkdx:
         alt: linkdx alt
@@ -913,49 +921,45 @@ offerta:
 
         carousel:
             slide1:
-                headline: Cancellazione Dati Slide1 Headline
-                text: Cancellazione Dati Slide1 Text
+                headline: Cancellazione Dati Sicura
+                text: perchè bisogna cancellare i dati in modo sicuro?
             slide2:
-                headline: Cancellazione Dati Slide2 Headline
-                text: Cancellazione Dati Slide2 Text
+                headline: Tecnicamente i dati sono sempre memorizzati
+                text: i file sono facilmente recuperabili
                 btn: BTN
             slide3:
-                headline: Cancellazione Dati Slide3 Headline
-                text: Cancellazione Dati Slide3 Text
+                headline: Senza adeguata procedura di cancellazione sicura
+                text: si è a rischio di sanzioni e di risarcimento danni
 
         intro:
             headline: Cancellazione Dati Intro headline
-            details: Cancellazione Dati Intro Details
+            details: La Normativa Privacy impone la cancellazione Sicura dei dati. Dopo la cancellazione dei dati bisogna essere in grado di dimostrare di aver adottato le tecniche di cancellazione sicure capaci di eliminare i dati per sempre e di aver attuato tutte le misure di sicurezza previste dalle Norme
 
         box-sx:
-            headline: box-sx headline
-            lead: box-sx lead
-            text1: box-sx text1
+            headline: Cancellazione Sicura
+            lead: Soluzioni compliance GDPR
             features:
-                headline: box-sx.features.headline
-                details: "box-sx.features.details linea1</li>
-                        <li>box-sx.features.details linea2</li>
-                        <li>box-sx.features.details linea...</li>
-                        <li>box-sx.features.details lineaN</li>"
-            text2: box-sx text2.
+                headline: <strong>Opzioni Procedure</strong>
+                details: <li>Sovrascrittura</li>
+                          <li>Demagnetizzazione</li>
+                          <li>Punzonatura</li>
+            riga1: <strong>Sovrascrittura&#58</strong> Applicativi che scrivono ripetutamente le aree del disco occupate dalle informazioni da eliminare.
+            riga2: <strong>Demagnetizzazione&#58</strong> Hardware di memorizzazione (anche guasti).
+            riga3: <strong>Punzonatura&#58</strong> Distruzione fisica dei prodotti HW (anche guasti).
+
 
         box-dx:
-            headline: box-dx headline
-            lead: box-dx lead
-            text1: "<p>Text1 (paragrafo)</p>
-                    <p>
-                        Text2
-                    </p>
-                    <p>
-                        Text3
-                    </p>"
+            headline: La nostra Offerta
+            lead: Soluzione da concordare
+
             features:
-                headline: box-dx.features.headline
-                details: "box-dx.features.details linea1</li>
-                        <li>box-dx.features.details linea2</li>
-                        <li>box-dx.features.details linea...</li>
-                        <li>box-dx.features.details lineaN</li>"
-            text2: Text2
+                headline: Servizi da valutare
+                details: "<li>Stabilire la sede di lavoro (On-Site o altra Sede) </li>
+                          <li>Trasporti inclusi aree di destinazione (es.smaltimento)</li>
+                          <li>Tipo opzioni di cancellazione</li>
+                          <li>Eventuale Estrazione di HDD dagli apparati informatici.</li>
+                          <li>Soluzione Noleggio Servizio</li>"
+            text2: Per trasmettervi un preventivo adeguato è necessario conoscere la quantità di beni (Venduti o Avvicendati o da Smaltire), la sede operativa per effetuare le procedure di cancellazione, la sede di destinazione, infine il trasporto.
 ########################################################################
 
 
@@ -986,17 +990,17 @@ news:
 posts:
     news:
         1:
-            title: CryptoTeam prepara il lancio del nuovo sito web!
+            title: Notizia1 title - CryptoTeam prepara il lancio del nuovo sito web!
             when: 7 Febbraio 2017
             excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
         2:
-            title: Primi test per il nuovo sito basato su Jekyll
+            title: Notizia2 title - Primi test per il nuovo sito basato su Jekyll
             when: 8 Febbraio 2017
             excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
         3:
-            title: Primi test per il nuovo sito basato su Jekyll
+            title: Notizia3 title - Prova
             when: 31 Marzo 2017
-            excerpt: Una nuova notizia fresca fresca.
+            excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
 ########################################################################
 
 
@@ -1582,24 +1586,6 @@ contact:
                 <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
 
 
-# News
-news:
-    title: Notizie CryptoTeam
-    description: Cosa c'è di nuovo in CryptoTeam
-    previous:
-        headline: Notizie Precedenti
-        all: Tutte le Notizie
-    blog:
-        headline: Visita il nostro Blog!
-        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
-        btn: Inizia
-    latest: Ultime Notizie
-
-    archive:
-        title: Archivio Notizie
-        description: Sommario di tutte le Notizie
-        headline: Archivio Notizie
-
 ########################################################################
 # XLT
 xlt:
@@ -2133,19 +2119,8 @@ xlt:
                 headline: Training
                 details: To introduce you to XLT and have you quickly become productive with it, we offer individual trainings. The standard XLT training takes four hours and is limited to 10 participants.
                 contact: <a href="/en/contact/">Contact us</a> for further options and details. Send us your requirements and we will find a fitting setup.
-
 ########################################################################
-# Posts
-posts:
-    news:
-        1:
-            title: CryptoTeam prepara il lancio del nuovo sito web!
-            when: 7 Febbraio 2017
-            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
-        2:
-            title: Primi test per il nuovo sito basato su Jekyll
-            when: 8 Febbraio 2017
-            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
+
 
 ########################################################################
 # EOF
