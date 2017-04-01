@@ -17,20 +17,20 @@ parent: Notizie
 			</div>
 			<div class="col-sm-9 col-md-5">
 				{% for news in site.categories.news limit:15%}
-				<div class="news-post news-post-{{forloop.index}}">
-					<span class="meta">{% t news.when %}</span>
-					<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
-				</div>
-				<hr>
+					<div class="news-post news-post-{{forloop.index}}">
+						<span class="meta">{% t news.when %}</span>
+						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
+					</div>
+					<hr>
 				{% endfor %}
 			</div>
 			<div class="col-sm-9 col-sm-offset-3 col-md-5 col-md-offset-0">
 				{% for news in site.categories.news limit:15 offset:15%}
-				<div class="news-post news-post-{{forloop.index}}">
-					<span class="meta">{% t news.when %}</span>
-					<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
-				</div>
-				<hr>
+					<div class="news-post news-post-{{forloop.index}}">
+						<span class="meta">{% t news.when %}</span>
+						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
+					</div>
+					<hr>
 				{% endfor %}
 			</div>
 		</div>
