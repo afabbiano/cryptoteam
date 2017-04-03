@@ -563,7 +563,7 @@ offerta:
 
         realtime:
             headline: Https
-            lead: Https è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati in un sito che sta visitando in quel momento.
+            lead: Https è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati in un sito visitato in quel momento.
             details:
                 lead: E' dimostrato che l’Https aumenta la fiducia, sia dei clienti che dei corrispondi, collaboratori, ecc.. che operano su tali siti web protetti. Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo l’https offre, cioè la comunicazione  protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati o pirati informatici, nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto.
                 text: <p>By supporting the well known and established open source tools Graphite and Grafana, XLT enables you to get all the needed insights into running tests instantly.</p><p>You can also correlate XLT data with all your infrastructure data, if you use Graphite for your monitoring already.</p>
