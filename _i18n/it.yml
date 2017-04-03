@@ -250,7 +250,7 @@ servizi:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
+            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
                 li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
@@ -562,8 +562,8 @@ offerta:
 
 
         realtime:
-            headline: Instant Feedback
-            lead: Realtime monitoring capabilties give you instant insights into progress and health of your running load test.
+            headline: Https
+            lead: Https è un protocollo che garantisce l'integrità e riservatezza per la comunicazione su rete internet tra un utente che interagisce scambiando i suoi dati  in  un sito che sta visitando in quel momento. 
             details:
                 lead: XLT realtime monitoring gives you quick and realible insights into your running tests by utilizing known technologies.
                 text: <p>By supporting the well known and established open source tools Graphite and Grafana, XLT enables you to get all the needed insights into running tests instantly.</p><p>You can also correlate XLT data with all your infrastructure data, if you use Graphite for your monitoring already.</p>
