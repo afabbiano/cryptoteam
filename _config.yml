@@ -46,8 +46,9 @@ sitenavigation:
         - name: VoIP PBX
         - name: IDS
         - name: Cancellazione Sicura
-  - name: Notizie
+  - name: Normativa
     secondarynav:
+        - name: Norme
         - name: Notizie
         - name: Archivio News
   - name: Azienda
