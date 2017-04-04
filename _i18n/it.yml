@@ -968,20 +968,19 @@ normativa:
             headline: Integriamo la Privacy nella tua Azienda
             details: Vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
-        riquadri:
-            box1:
-                headline: Protezione dei dati
-                details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
-            box2:
-                headline: Piattaforma PKI
-                details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
-            box3:
-                headline: Cloud in-House
-                details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
+        box1:
+            headline: Protezione dei dati
+            details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+        box2:
+            headline: Piattaforma PKI
+            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
+        box3:
+            headline: Cloud in-House
+            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
 
-            box4:
-                headline: Voip PBX
-                details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
+        box4:
+            headline: Voip PBX
+            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.

@@ -69,7 +69,7 @@ navigation:
         Home: Home
         Servizi: Services
         Offerta: Products
-        Notizie: News
+        Normativa: Normativa
         Azienda: Company
         Contatti: Contact
     sub:
@@ -93,6 +93,7 @@ navigation:
         CancellazioneSicura: Cancellazione Sicura
 
 # News
+        Norme: Normativa
         Notizie: News
         ArchivioNews: Old News
 
@@ -964,43 +965,91 @@ offerta:
 
 
 # *************************************************************************
-# INIZIO CONTENUTI MENU NEWS
+# INIZIO CONTENUTI MENU NORMATIVA
 # *************************************************************************
+normativa:
+
+# Pagina NORMATIVA -> Normativa (/news/index.html)
+    norme:
+        title: CryptoTeam - Esperti in Sicurezza dei Dati e Privacy
+        description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
+
+        carousel:
+            slide1:
+                riga1: Privacy
+                riga2: Protezione Dati Compliance GDPR
+            slide2:
+                riga1: Privacy
+                riga2: Piattaforma PKI
+            slide3:
+                riga1: Privacy
+                riga2: Cloud in-House
+            slide4:
+                riga1: Privacy
+                riga2: VoIP PBX
+
+        intro:
+            headline: Integriamo la Privacy nella tua Azienda
+            details: Vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+
+        riquadri:
+            box1:
+                headline: Protezione dei dati
+                details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+            box2:
+                headline: Piattaforma PKI
+                details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
+            box3:
+                headline: Cloud in-House
+                details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
+
+            box4:
+                headline: Voip PBX
+                details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
 
 # News
-news:
-    title: Notizie CryptoTeam
-    description: Cosa c'è di nuovo in CryptoTeam
-    previous:
-        headline: Notizie Precedenti
-        all: Tutte le Notizie
-    blog:
-        headline: Visita il nostro Blog!
-        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
-        btn: Inizia
-    latest: Ultime Notizie
+    news:
+        title: Notizie CryptoTeam
+        description: Cosa c'è di nuovo in CryptoTeam
+        previous:
+            headline: Notizie Precedenti
+            all: Tutte le Notizie
+        blog:
+            headline: Visita il nostro Blog!
+            details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+            btn: Inizia
+        latest: Ultime Notizie
 
-    archive:
-        title: Archivio Notizie
-        description: Sommario di tutte le Notizie
-        headline: Archivio Notizie
+        archive:
+            title: Archivio Notizie
+            description: Sommario di tutte le Notizie
+            headline: Archivio Notizie
 ########################################################################
 
 # Posts
-posts:
-    news:
-        1:
-            title: Titolo Notizia 1
-            when: 7 Febbraio 2017
-            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
-        2:
-            title: Titolo Notizia 2
-            when: 12 Febbraio 2017
-            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
-        3:
-            title: Titolo Notizia 3
-            when: 31 Marzo 2017
-            excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
+    posts:
+        news:
+            1:
+                title: Titolo Notizia 1
+                when: 7 Febbraio 2017
+                excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
+            2:
+                title: Titolo Notizia 2
+                when: 12 Febbraio 2017
+                excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
+            3:
+                title: Titolo Notizia 3
+                when: 31 Marzo 2017
+                excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
+            3:
+                title: Titolo Notizia 4
+                when: 3 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 3 Aprile 2017
 ########################################################################
 
 
