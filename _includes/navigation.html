@@ -10,6 +10,10 @@
         {% endif %}
     {% endfor %}
 {% endif %}
+{% comment %} Il codice qui sopra da riga 4 a riga 12 serve ad assegnare al vettore "navigation" 					{% endcomment %}
+{% comment %} l'elenco delle voci di menù. Il vettore navigation contiene l'elenco delle voci principali	{% endcomment %}
+{% comment %} se la chiamata di INCLUDE ha passato il parametro isMainNavigation=true	                    {% endcomment %}
+{% comment %} altrimenti contiene le voci di menu secondarie contenute nel menu "parent"	                {% endcomment %}
 
 <nav class="navbar navbar-default" role="navigation">
 	{% if include.isMainNavigation == true %}
@@ -71,7 +75,7 @@
     </ul>
 
     {% if include.isMainNavigation == true %}
-		<div id="language-switcher">
+    		<div id="language-switcher">
             {% if site.lang == "it" %}
                 {% capture link1 %}{{ site.baseurl_root }}en{{ page.url }}{% endcapture %}
                 <span class="language"><a href="/{{ link1 }}">EN</a></span>
@@ -79,9 +83,9 @@
                 {% capture link2 %}{{ site.baseurl_root }}it{{ page.url }}{% endcapture %}
                 <span class="language"><a href="/{{ link2 }}">IT</a></span>
             {% endif %}
-		</div>
-    </div> <!-- from collapse div -->
-    </div> <!-- from navbar-header -->
+    		</div>
+        </div> <!-- from collapse div -->
+        </div> <!-- from navbar-header -->
     {% endif %}
 
 </nav>
