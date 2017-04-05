@@ -366,7 +366,7 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        titolo: Ti aiutiamo a realizzare il tuo Progetto Privacy
         sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
 
@@ -434,8 +434,8 @@ offerta:
 
         riquadri:
             box1:
-                headline: Acquista Cloud Privato
-                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi a 2048 bit e algoritmo SHA256, riservatezza e condivisione sicura.
+                headline: Acquista Cloud in-House
+                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage CryptoTeam
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una gestione di Back-up e di condivisione dei dati in sicurezza con chiavi a 2048 bit algoritmo SHA256.
