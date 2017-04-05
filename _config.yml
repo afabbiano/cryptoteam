@@ -1,3 +1,11 @@
+# File _config.yml
+# Contiene le definizioni delle variabili globali disponibili a livello di sito.
+# NB: le variabili definite in questo file _config.yml avviene anteponendo il prefisso site.
+#     Esempio: site.name site.timezone ecc. ecc.
+#
+# IMPORTANTE: una variabile definita qui può far riferimento ad una variabile definita in uno dei file di language, come ad esempio it.yml
+#             In questo caso, si potrà usare una traduzione.
+
 name: global.website.name
 highlighter: pygments
 #url:
