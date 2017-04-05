@@ -491,7 +491,7 @@ offerta:
                 text:
                     keyfeatures:
                         headline: Soluzione
-                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata Data Encryption nel sistema, permette di non compromettere le informazioni aziendali.
+                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
                         list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
                                 <li><strong>Dati Cifrati Sistematicamente</strong></li>
                                 <li><strong>Dati Salvati Sistematicamente</strong></li>
@@ -503,7 +503,7 @@ offerta:
 
                     download:
                         headline: Fatevi Aiutare
-                        text: La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
 
         deployment:
             headline: Cambiato Tamplay
