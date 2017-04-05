@@ -16,7 +16,7 @@
 {% comment %} altrimenti contiene le voci di menu secondarie contenute nel menu "parent"	                {% endcomment %}
 
 <nav class="navbar navbar-default" role="navigation">
-	{% if include.isMainNavigation == true %}
+  	{% if include.isMainNavigation == true %}
         <div class="navbar-brand navbar-left">
             <a rel="home" title="Home" href="{{ '/'  | to_absoluteurl }}">
             <img src="/images/cryptoteam-logo-256x34.png" title="CryptoTeam company logo" alt="CryptoTeam company logo" />
@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="collapse navbar-collapse">
-	{% endif %}
+  	{% endif %}
 
     <ul class="nav {% if isMainNavigation == false %}nav-stacked{%else%}navbar-nav{% endif %}">
         {% for e in navigation %}
@@ -70,8 +70,6 @@
                 {% endif %}
             {% endif %}
         {% endfor %}
-
-
     </ul>
 
     {% if include.isMainNavigation == true %}
