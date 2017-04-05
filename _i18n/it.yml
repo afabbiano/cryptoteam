@@ -280,7 +280,7 @@ servizi:
             teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
-                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è paese di destinazione dove risiedono i dati.
+                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
             headline: Spostamento Fisico dei Dati
