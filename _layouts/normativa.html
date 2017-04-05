@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 <html lang="it">
 	{% include head.html %}
+  <body class="general-page news local-scroll" id="page">
+    {% include privacy-message.html %}
 
-    <body class="homepage local-scroll" id="page">
-      {% include privacy-message.html %}
+    {% include top-scroller.html %}
 
-      {% include top-scroller.html %}
-
-			<!-- container centers things -->
-			<div id="navigation" class="navbar-fixed-top">
-				<div class="container">
-					{% include navigation.html isMainNavigation=true %}
-				</div>
+		<!-- container centers things -->
+		<div id="navigation" class="navbar-fixed-top">
+			<div class="container">
+				{% include navigation.html isMainNavigation=true %}
 			</div>
+		</div>
 
-			<header id="teaser">
-				<div class="container">
-					{% include homepage/carousel.html %}
-				</div>
-			</header>
+		<div id="sub-navigation">
+			<div class="container">
+		    {% include navigation.html isMainNavigation=false %}
+		  </div>
+		</div>
 
-			<div id="main">
-				{{ content }}
-			</div>
+		<header id="teaser" class="hidden-xs">
+			<div class="teaser-image">&nbsp;</div>
+		</header>
 
-			<footer>
-				{% include footer.html %}
-			</footer>
+		<div id="main">
+			{{ content }}
+		</div>
 
-			{% include tracking.html %}
-    </body>
+		<footer>
+			{% include footer.html %}
+		</footer>
+
+		{% include tracking.html %}
+  </body>
 </html>
