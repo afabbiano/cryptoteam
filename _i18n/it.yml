@@ -297,12 +297,12 @@ servizi:
         icona: Controllo Accesso
         teaser: Controllo accesso
         titolo: Soluzione Controllo Accessi Sicuro
-        sottotitolo: Riconoscimento Automatomatico
+        sottotitolo: Riconoscimento Automatimatico
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, client, utenti interni, utenti esterni.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Accesso ai Dati ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
+            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi (Posta, Cloud, Accesso ai Dati Sensibili, ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
             numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete.
 
         box2:
