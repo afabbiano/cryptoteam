@@ -180,7 +180,7 @@ servizi:
         controllo:
             icona: Controllo Accessi
             titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e quali profili.
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
 
         cloud:
             icona: Cloud in House
