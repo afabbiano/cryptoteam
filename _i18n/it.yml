@@ -435,16 +435,16 @@ offerta:
         riquadri:
             box1:
                 headline: Acquista Cloud in-House
-                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
+                details:  Progettiamo e realizziamo piattaforme <strong>Cloud Privati</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage CryptoTeam
-                details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta. La bassa spesa ti permetterà di avere una gestione di Back-up e di condivisione dei dati sicura, cioè con chiavi in tuo possesso fino a 4096 bit algoritmo SHA256.
+                details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta. La bassa spesa ti permetterà di avere una gestione di Back-up e di condivisione dei dati sicura, cioè con <strong>chiavi in tuo possesso</strong> fino a 4096 bit algoritmo SHA256.
             box3:
                 headline: Prova Condivisione Gratuita
-                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali, in possesso delle proprie chiavi, potranno con pochi click creare collegamenti di condivisione, programmare password e date di scadenza.
+                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali, in <strong>possesso delle proprie chiavi</strong>, potranno con pochi click creare collegamenti di condivisione, programmare password e date di scadenza.
             box4:
                 headline: Servizio di Housing & Outsorsing
-                details: Due modi a misura cliente. <strong>Il servizio Housing </strong> è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server. Mentre l’<strong>Outsourcing</strong> è la possibilità di concordare il servizio Cloud.
+                details: Due modi a misura cliente. Il <strong>servizio Housing </strong> è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server. Mentre l’<strong>Outsourcing</strong> è la possibilità di concordare il servizio Cloud.
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
