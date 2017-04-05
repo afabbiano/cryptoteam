@@ -638,7 +638,7 @@ offerta:
 
         resultbrowser:
             headline: Spostamento Fisico dei Dati (Dati in Movimento)
-            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
             details:
                 lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
@@ -647,7 +647,7 @@ offerta:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulterio HD (disco Hidden), all'interno dello stesso HD. In più potrà scegliere in fase d'installazione qual'è l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
                                 </p>
                                 <p>
                                     <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
