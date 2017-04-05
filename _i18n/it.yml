@@ -228,7 +228,7 @@ servizi:
         box1:
             headline: Compliance GDPR
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai Grandi Gruppi. Visto i risultati ottenuti in passto, loro sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
+            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai Grandi Gruppi. Visto gli ottimi risultati ottenuti in passto, loro sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
 
         box2:
             headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
@@ -240,7 +240,7 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologiaca consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
             list:
                 li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
                 li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
@@ -250,7 +250,7 @@ servizi:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
+            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. <strong>Vantaggi&#58</strong>
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
                 li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
