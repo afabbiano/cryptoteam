@@ -5,27 +5,28 @@
 
 {% for p in site.pages %}
 
-    {% comment %}
-    <!--
-        getPageLinkName: {{include.getPageLinkName}}
-        isMainNavigation: {{include.isMainNavigation}}
-        active: {{include.active}}
-        dropdown: {{include.dropdown}}
-        name: {{p.name}}
-    -->
-    {% endcomment %}
+  {% comment %}
+  <!--
+      getPageLinkName: {{include.getPageLinkName}}
+      isMainNavigation: {{include.isMainNavigation}}
+      active: {{include.active}}
+      dropdown: {{include.dropdown}}
+      name: {{p.name}}
+  -->
+  {% endcomment %}
 
 	{% if p.navName == include.name %}
 		
-        {% comment %}Determine Link title first{% endcomment %}
-        {% if include.isMainNavigation %}
+    {% comment %}Determine Link title first{% endcomment %}
+
+    {% if include.isMainNavigation %}
 			{% assign title = p.mainNavLinkName %}
 		{% else %}
 			{% assign title = p.subNavLinkName %}
-	    {% endif %}
+    {% endif %}
 
 		{% if include.active %}
-            <a href="{{ p.url | to_absoluteurl }}" class="active">{% t title %}</a>
+      <a href="{{ p.url | to_absoluteurl }}" class="active">{% t title %}</a>
 		{% else %}
 			<a href="{{ p.url | to_absoluteurl }}">{% t title %}</a>
 		{% endif %}
