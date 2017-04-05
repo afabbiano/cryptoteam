@@ -303,7 +303,7 @@ servizi:
         box1:
             headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi (Posta, Cloud, Accesso ai Dati Sensibili, ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
-            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete. E' importante accede ai dati in modo sicuro ma è altrettanto importante depositare i dati e condividerli in ambienti chiusi "end to end" e protetti. 
+            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete. E' importante accede ai dati in modo sicuro ma è altrettanto importante depositare i dati e condividerli in ambienti chiusi e protetti. 
 
         box2:
             teaser: Gestione Semplice e Centralizzata
