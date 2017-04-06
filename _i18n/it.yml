@@ -430,7 +430,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una Piattaforma <strong>Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio&#58 Tecniche, Strutturali, Fiscali, Spesa. Ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.  
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una Piattaforma <strong>Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio&#58 Tecniche, Strutturali, Fiscali, Spesa. Ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.
 
         riquadri:
             box1:
@@ -668,9 +668,9 @@ offerta:
 
         resultbrowser2:
             headline: Controllo Accessi Sicuro
-            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
+            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Assicurano una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (utente o device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P-N associato, Data di Scadenza, Nome del Soggetto e Id, Profili assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica.
+                lead: Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (Utente o Device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, "P/N" associato, Data di Scadenza, Nome del Soggetto e Id, Profili assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica.
                 text:
                     block1:
                         image:
