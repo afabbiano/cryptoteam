@@ -134,7 +134,7 @@ homepage:
 
     riquadri:
         box1:
-            headline: Protezione dei dati
+            headline: <BLINK>Protezione dei dati</BLINK>
             details: La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
         box2:
             headline: Piattaforma PKI
