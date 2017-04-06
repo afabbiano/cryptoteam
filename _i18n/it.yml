@@ -670,7 +670,7 @@ offerta:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Assicurano una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (Utente o Device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, "P/N" associato, Data di Scadenza, Nome del Soggetto e Id, Profili assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica.
+                lead: "Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (Utente o Device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P/N Associato, Data di Scadenza, Nome del Soggetto, ID, Profili Assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica."
                 text:
                     block1:
                         image:
