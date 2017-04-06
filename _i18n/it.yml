@@ -134,7 +134,7 @@ homepage:
 
     riquadri:
         box1:
-            headline: <BLINK>Protezione dei dati</BLINK>
+            headline: Protezione dei dati
             details: La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
         box2:
             headline: Piattaforma PKI
@@ -430,7 +430,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una Piattaforma Cloud Privata cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio, Tecniche, Strutturali, Fiscali,  ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.  
 
         riquadri:
             box1:
