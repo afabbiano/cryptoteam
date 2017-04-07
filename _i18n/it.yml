@@ -67,7 +67,7 @@ navigation:
         Home: Home
         Servizi: Cosa Facciamo
         Offerta: Offerta
-        Notizie: Normativa
+        Normativa: Normativa
         Azienda: Chi Siamo
         Contatti: Contatti
     sub:
@@ -91,6 +91,7 @@ navigation:
         CancellazioneSicura: Cancellazione Sicura
 
 # Normativa
+        Norme: Normativa
         Notizie: Ultime Notizie
         ArchivioNews: Archivio
 
@@ -125,27 +126,27 @@ homepage:
             riga1: Privacy
             riga2: Cloud in-House
         slide4:
-            riga1: Privacy
+            riga1: Privacy Phone
             riga2: VoIP PBX
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
-        details: Vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+        details: La 1° chiave segreta è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+            details: La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
         box2:
             headline: Piattaforma PKI
-            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
+            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. E' un automatismo semplice che tramite la gestione dei certificati digitali si otterrà, <strong>riservatezza e più sicurezza verso tutte le attività svolte.</strong> L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma Elettronica.
         box3:
             headline: Cloud in-House
-            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
+            details: Si basa sulla tecnica “end to end” cioè un canale di lavoro <strong>chiuso sicuro e riservato.</strong> Questa soluzione consente di ottenere la condivisione dei dati e il suo back-up, sempre protetti e riservati dalle intercettazioni a fini di lucro - I dati sono sistematicamente crittografati - E' conforme al GDPR, si tratta di una soluzione aperta che tramite le condivisioni (File Sharing), aumenta la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
 
         box4:
             headline: Voip PBX
-            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
+            details: Chiamate Sicure - Privacy Voip PBX – <strong>Cifra la conversazione tra Pc e lo Smartphone,</strong> evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici o innovativi, che trattano via Voip. Esempio&#58 Brevetti, Utilizzo di Nuove Tecniche, Lancio di Nuovi Prodotti, Segreti Industriali, Scambio di Idee, Proprietà Intellettuale, ecc.. Soluz. - Privacy Phone -
 
     welcome_teaser:
         headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
@@ -180,7 +181,7 @@ servizi:
         controllo:
             icona: Controllo Accessi
             titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e quali profili.
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
 
         cloud:
             icona: Cloud in House
@@ -228,7 +229,7 @@ servizi:
         box1:
             headline: Compliance GDPR
             teaser:  La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Finalmente le istituzioni hanno deciso responsabilmente di colmare il forte disequilibrio che riguarda il mondo dei privati nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (quindi private), sono molto utilizzate dai grandi Gruppi, infatti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
+            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (riservate), sono sempre state utilizzate dai Grandi Gruppi Megacorps. Considerandoo gli ottimi risultati ottenuti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
 
         box2:
             headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
@@ -240,7 +241,7 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologiaca consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività dipendente sopratutto dalla protezione dati.
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
             list:
                 li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
                 li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
@@ -250,7 +251,7 @@ servizi:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. VANTAGGI&#58
+            teaser:  Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. <strong>Vantaggi&#58</strong>
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
                 li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
@@ -263,32 +264,32 @@ servizi:
             headline: Privacy-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail in assoluta riservatezza.
-                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende spesso utilizzato in modalità ibrida con la soluzioni 1 - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
+                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
             list:
                 li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
-                li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure può essere autorizzato volta per volta (Password Temporanee trasmesse via SMS).
-                li3: Eco sistema protetto da crittografia chivi Pubbliche a 4096 bit Algortmo SHA 256.
-                li4: Il dato viene sempre tracciato in modlalità cronologica. Quindi l'amministratore di sistema è in grado di stabilire quotidianamente l'operatività dell'utente.
+                li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
+                li3: Eco sistema protetto da crittografia chiavi Pubbliche a 4096 bit Algortmo SHA 256.
+                li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
             headline: Cifratura Dati Memorizzati
             teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
-                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione ADEGUATO. La commissione ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE).
+                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
             headline: Spostamento Fisico dei Dati
             teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendondo impossibile la sua identificazione.
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendendo impossibile la sua identificazione.
                 li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
-                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO RESI inutilizzabili.
+                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
 
 ########################################################################
 
@@ -297,13 +298,13 @@ servizi:
         icona: Controllo Accesso
         teaser: Controllo accesso
         titolo: Soluzione Controllo Accessi Sicuro
-        sottotitolo: Riconoscimento Automatomatico
+        sottotitolo: Riconoscimento Automatimatico - E' reale il bisogno da parte delle imprese avere una gestione più professionale agli accessi sicuro. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, client, utenti interni, utenti esterni.
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso ai servizi (Posta, Cloud, Accesso ai Dati ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
-            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete.
+            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi (Posta, Cloud, Accesso ai Dati Sensibili, ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
+            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete. E' importante accede ai dati in modo sicuro ma è altrettanto importante depositare i dati e condividerli in ambienti chiusi e protetti.
 
         box2:
             teaser: Gestione Semplice e Centralizzata
@@ -325,9 +326,9 @@ servizi:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
+            headline: Depositare i dati in ambienti non sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati sempre con te senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica precludendo la tua riservatezza.
+            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>
             numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
@@ -366,7 +367,7 @@ servizi:
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
-        titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
+        titolo: Ti aiutiamo a realizzare il tuo Progetto Privacy
         sottotitolo: Siamo al tuo fianco
         descrizione: Prova descrizione in Progetti, prova, prova
 
@@ -430,21 +431,21 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: Aiutiamo i nostri clienti a proteggere uno dei patrimoni più preziosi, l'insieme globale dei dati aziendali.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio&#58 Tecniche, Strutturali, Fiscali, Spesa. Ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.
 
         riquadri:
             box1:
-                headline: Acquista Cloud Privato
-                details:  Progettiamo e realizziamo piattaforme Cloud Privati per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi a 2048 bit e algoritmo SHA256, riservatezza e condivisione sicura.
+                headline: Acquista Cloud in-House
+                details:  Progettiamo e realizziamo piattaforme <strong>Cloud Privati</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage CryptoTeam
-                details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta e la sua capacità. Ti permetterà di avere una gestione di Back-up e di condivisione dei dati in sicurezza con chiavi a 2048 bit algoritmo SHA256.
+                details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta. La bassa spesa ti permetterà di avere una gestione di Back-up e di condivisione dei dati sicura, cioè con <strong>chiavi in tuo possesso</strong> fino a 4096 bit algoritmo SHA256.
             box3:
                 headline: Prova Condivisione Gratuita
-                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali con pochi click potranno creare collegamenti di condivisione, programmare password e date di scadenza.
+                details: Ottimizza il tuo lavoro prova il servizio gratuito Cloud CryptoTeam di 30 giorni. I responsabili aziendali, in <strong>possesso delle proprie chiavi</strong>, potranno con pochi click creare collegamenti di condivisione, programmare password e date di scadenza.
             box4:
                 headline: Servizio di Housing & Outsorsing
-                details: Il servizio di Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server, mentre l’outsourcing è la possibilità di concordare il solo servizio.
+                details: Due modi a misura cliente. Il <strong>servizio Housing </strong> è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server. Mentre l’<strong>Outsourcing</strong> è la possibilità di concordare il servizio Cloud.
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
@@ -465,7 +466,7 @@ offerta:
             headline: Privacy-Mail OpenXPKI
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
-                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di firma e di autenticazione."
+                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
 
                 <ul>
@@ -491,7 +492,7 @@ offerta:
                 text:
                     keyfeatures:
                         headline: Soluzione
-                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata Data Encryption nel sistema, permette di non compromettere le informazioni aziendali.
+                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
                         list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
                                 <li><strong>Dati Cifrati Sistematicamente</strong></li>
                                 <li><strong>Dati Salvati Sistematicamente</strong></li>
@@ -503,7 +504,7 @@ offerta:
 
                     download:
                         headline: Fatevi Aiutare
-                        text: La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
 
         deployment:
             headline: Cambiato Tamplay
@@ -562,11 +563,11 @@ offerta:
 
 
         realtime:
-            headline: Instant Feedback
-            lead: Realtime monitoring capabilties give you instant insights into progress and health of your running load test.
+            headline: Https - Hypertext transfer Protocol Secure -
+            lead: è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
             details:
-                lead: XLT realtime monitoring gives you quick and realible insights into your running tests by utilizing known technologies.
-                text: <p>By supporting the well known and established open source tools Graphite and Grafana, XLT enables you to get all the needed insights into running tests instantly.</p><p>You can also correlate XLT data with all your infrastructure data, if you use Graphite for your monitoring already.</p>
+                lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
+                text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
                 image:
                     alt: Grafana Views of an running XLT test
                     title: Realtime Monitoring with XLT
@@ -622,7 +623,7 @@ offerta:
 
                 <h3>Procedura Certificata CryptoTeam</h3>
                 <p>
-                    Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio il Virus, Malware o altri simili.
+                    Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.
                 </p>
 
                 <p>
@@ -638,7 +639,7 @@ offerta:
 
         resultbrowser:
             headline: Spostamento Fisico dei Dati (Dati in Movimento)
-            lead: Nel pieno controllo aziendale, queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
             details:
                 lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
@@ -647,7 +648,7 @@ offerta:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong>L'applicativo è installato sulla chiavetta o HD (USB), personale dell'Utente. A questo punto partizionando il disco avrà la possibilità di cifrare o nascondere (disco Hidden), tutti i dati salvati. In più potrà scegliere in fase d'installazione quale sia l'algoritmo di cifratura più adatto alle sue esigenze. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabile.
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabili.
                                 </p>
                                 <p>
                                     <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
@@ -668,16 +669,16 @@ offerta:
 
         resultbrowser2:
             headline: Controllo Accessi Sicuro
-            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Di assicurarsi una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
+            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Assicurano una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
-                lead: Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento. Fondamentale è il riconoscimento del soggetto (utente o device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P-N associato, Data di Scadenza, Nome del Soggetto e Id, Profili assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica.
+                lead: "Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento univoco. Fondamentale è il riconoscimento del soggetto (Utente o Device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P/N Associato, Data di Scadenza, Nome del Soggetto, ID, Profili Assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica."
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia a 2048 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.
+                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.
                                 </p>
                                 <p>
 
@@ -697,7 +698,7 @@ offerta:
 
         resultbrowser3:
             headline: Autenticazione
-            lead: Cerchiamo di garantire soluzioni più forti Strong Autentication, che consentono di autenticare gli utenti aziendali in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono altamente onerose, più sono complesse più sono pericolose.
+            lead: Siamo immersi nel mercato digitale per cui queste soluzioni sono ritenute indispensabili, cioè il primo passo per accedere ai servizi aziendali. Cerchiamo di garantire soluzioni più forti <strong>Strong Autentication,</strong> che consentono di autenticare gli utenti in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono state un problema&#58 Altamente onerose, più sono complesse più sono pericolose.
             details:
                 lead: L’intenzione di copiare i dati aziendali da parte di attaccanti è sempre più attuale. Le solite credenziali di accesso anche se complesse, non sono più sufficienti per fermare un attaccante deciso. Le soluzioni che proponiamo hanno un approccio di sbloccare il computer in modo automatico e sicuro. Facilmente gli utenti possono autenticarsi  e accedere ai servizi che l’azienda gli mette a disposizione.
                 text:
@@ -706,7 +707,7 @@ offerta:
                             alt: Start View of the Result Browser
                             title: The Result Browser
                         text: "<p>
-                                    <strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58  Tipo di Certificato, Validità, Numero Serie,  Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                    <strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia fino a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58 Tipo di Certificato, Validità, Numero Serie, Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
                                 </p>
                                 <p>
 
@@ -940,43 +941,89 @@ offerta:
 
 
 # *************************************************************************
-# INIZIO CONTENUTI MENU NEWS
+# INIZIO CONTENUTI MENU NORMATIVA
 # *************************************************************************
+normativa:
 
-# News
-news:
-    title: Notizie CryptoTeam
-    description: Cosa c'è di nuovo in CryptoTeam
-    previous:
-        headline: Notizie Precedenti
-        all: Tutte le Notizie
-    blog:
-        headline: Visita il nostro Blog!
-        details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
-        btn: Inizia
-    latest: Ultime Notizie
+# Pagina NORMATIVA -> Normativa (/news/index.html)
+    norme:
+        title: Normativa -> Norme Title
+        description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
-    archive:
-        title: Archivio Notizie
-        description: Sommario di tutte le Notizie
-        headline: Archivio Notizie
+        carousel:
+            slide1:
+                riga1: Privacy
+                riga2: Protezione Dati Compliance GDPR
+            slide2:
+                riga1: Privacy
+                riga2: Piattaforma PKI
+            slide3:
+                riga1: Privacy
+                riga2: Cloud in-House
+            slide4:
+                riga1: Privacy
+                riga2: VoIP PBX
+
+        intro:
+            headline: Headline Normativa -> Norme
+            details: Details Normativa -> Norme
+
+        box1:
+            headline: Norme Box1 - Headline
+            details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
+        box2:
+            headline: Norme Box2 - Headline
+            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese l'integrazione procedurale e informatica della Privacy all'interno della propria azienda. Tramite la gestione dei certificati digitali si garantisce una corretta protezione all'accesso ai dati sensibili e alle informazioni&#58 Privacy Mail, Digital Identity, Strong Autenticaion, Firma Elettronica.
+        box3:
+            headline: Norme Box4 - Headline
+            details: È un canale di lavoro sicuro e riservato end to end. Questa soluzione consente di ottenere la condivisione dei dati e il suo back protetti e riservati dalle intercettazioni a fini di lucro. Inoltre l’utilizzo sistematico della crittografia rende il sistema conforme GDPR, aperto e produttivo&#58 Crea azioni pubbliche - Federa e autorizza i prorpi partner (es. Clienti, Fornitori, Collab., Commericialista).
+        box4:
+            headline: Norme Box4 - Headline
+            details: Chiamate Sicure - Privacy Voip PBX – Cifra la conversazione tra Pc e lo Smartphone, evita ogni forma di spionaggio elettronico. Questa soluzione trova impiego verso quelle aziende che intendono garantirsi la protezione di tutti quegli argomenti strategici che trattano via Voip.  Esempio&#58 Brevetti, scoperta di nuove tecniche, lancio di nuovi prodotti, segreti industriali, scambio di idee, proprietà intellettuale, ecc.. .
+
+        welcome_teaser:
+            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            action_button: Scopri
+########################################################################
+
+# Pagina NORMATIVA -> Notizie (/news/notizie.html)
+    news:
+        title: Notizie CryptoTeam
+        description: Cosa c'è di nuovo in CryptoTeam
+        previous:
+            headline: Notizie Precedenti
+            all: Tutte le Notizie
+        blog:
+            headline: Visita il nostro Blog!
+            details: Scopri le ultime novità tecnologiche e le notizie dal mondo della Privacy, Sicurezza e Crittografia.
+            btn: Inizia
+        latest: Ultime Notizie
+
+        archive:
+            title: Archivio Notizie
+            description: Sommario di tutte le Notizie
+            headline: Archivio Notizie
 ########################################################################
 
 # Posts
-posts:
-    news:
-        1:
-            title: Titolo Notizia 1
-            when: 7 Febbraio 2017
-            excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
-        2:
-            title: Titolo Notizia 2
-            when: 12 Febbraio 2017
-            excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
-        3:
-            title: Titolo Notizia 3
-            when: 31 Marzo 2017
-            excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
+    posts:
+        news:
+            1:
+                title: Titolo Notizia 1
+                when: 7 Febbraio 2017
+                excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
+            2:
+                title: Titolo Notizia 2
+                when: 12 Febbraio 2017
+                excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
+            3:
+                title: Titolo Notizia 3
+                when: 31 Marzo 2017
+                excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
+            3:
+                title: Titolo Notizia 4
+                when: 3 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 3 Aprile 2017
 ########################################################################
 
 
