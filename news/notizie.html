@@ -1,0 +1,51 @@
+---
+layout: news
+title: normativa.news.title
+description: normativa.news.description
+
+navName: Notizie
+mainNavLinkName: navigation.main.Normativa
+subNavLinkName: navigation.sub.Notizie
+parent: Normativa
+---
+
+<div id="news-overview">
+	<div class="row">
+		<div class="container">
+			<div class="col-sm-8">
+				<h1 class="news-headline">News</h1>
+				<!-- the latest -->
+				{% for x in site.categories.news limit:1 %}
+					<div class="news-post">
+						<h1>{% t x.title %}</h1>
+						<p class="meta">{% t x.when %}</p>
+						{{x.content}}
+					</div>
+				{% endfor %}
+			</div>
+
+			<div class="col-sm-4 news-post-minis">
+				<h3 class="news-headline">{% t normativa.news.previous.headline %}</h3>
+				{% for x in site.categories.news limit:3 offset:1%}
+					<div class="news-post news-post-mini news-post-{{forloop.index}}">
+						<h2><a href="{{ x.url | to_absoluteurl }}">{% t x.title %}</a></h2>
+						<p class="meta">{% t x.when %}</p>
+						<p class="excerpt">{% t x.excerpt %}</p>
+						{{x.image}}
+					</div>
+				{% endfor %}
+				<p id="preview-end">
+					<a href="{{ 'news/archivio.html' | to_absoluteurl }}">{% t normativa.news.previous.all %}</a>
+				</p>
+				<div class="highlighted text-center">
+					<div class="headline ">
+          	<p><i class="fa fa-edit fa-4x"></i></p>
+          	<h2>{% t normativa.news.blog.headline %}</h2>
+          </div>
+          <p>{% t normativa.news.blog.details %}</p>
+          <a class="btn btn-primary" href="https://blog.xceptance.com/" role="button">{% t normativa.news.blog.btn %}</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
