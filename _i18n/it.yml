@@ -965,11 +965,11 @@ normativa:
                 riga2: VoIP PBX
 
         intro:
-            headline: Headline Normativa -> Norme
-            details: Details Normativa -> Norme
+            headline: Normativa Privacy
+            details: Adempimenti Previsti
 
         box1:
-            headline: Norme Box1 - Headline
+            headline: Adempimenti Verso Il Garante Privacy
             details: Privacy Compliance GDPR - La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’aumento della fiducia da parte dei clienti (utenti), e una maggiore reputazione dovuta all’integrità reale del patrimonio dati aziendale.
         box2:
             headline: Norme Box2 - Headline
