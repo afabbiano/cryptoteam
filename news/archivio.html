@@ -1,19 +1,20 @@
 ---
 layout: news
-title: news.archive.title
-description: news.archive.description
+title: normativa.news.archive.title
+description: normativa.news.archive.description
 
 navName: Archivio News
-mainNavLinkName:
+mainNavLinkName: navigation.main.Normativa
 subNavLinkName: navigation.sub.ArchivioNews
-parent: Notizie
+parent: Normativa
 ---
+
 <div id="news-archive">
 	<div class="row">
 		<div class="container">
 			<div class="col-sm-3 col-md-2 headline">
 				<p><i class="fa fa-comment-o fa-3x"></i></p>
-				<h2>{% t news.archive.headline %}</h2>
+				<h2>{% t normativa.news.archive.headline %}</h2>
 			</div>
 			<div class="col-sm-9 col-md-5">
 				{% for news in site.categories.news limit:15%}
