@@ -2,22 +2,22 @@
 <html lang="it">
 	{% include head.html %}
 
-    <body class="xlt-landing local-scroll" id="page">
-        {% include privacy-message.html %}
+  <body class="xlt-landing local-scroll" id="page">
+    {% include privacy-message.html %}
 
-        {% include top-scroller.html %}
+    {% include top-scroller.html %}
 
-        <div id="navigation" class="navbar-fixed-top">
+    <div id="navigation" class="navbar-fixed-top">
 			<div class="container">
 				{% include navigation.html isMainNavigation=true %}
-			</div>            
+			</div>
 		</div>
 
-        <div id="sub-navigation">
+    <div id="sub-navigation">
 			<div class="container">
-                {% include navigation.html isMainNavigation=false %}
-            </div>
-        </div>
+        {% include navigation.html isMainNavigation=false %}
+      </div>
+    </div>
 
 		<header id="teaser">
 			<div class="container">
@@ -34,5 +34,5 @@
 		</footer>
 
 		{% include tracking.html %}
-    </body>
+  </body>
 </html>
