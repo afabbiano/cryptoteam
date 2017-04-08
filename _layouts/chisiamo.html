@@ -2,10 +2,10 @@
 <html lang="it">
 	{% include head.html hashBasedTabbing=true %}
 
-    <body class="general-page about local-scroll" id="page">
-        {% include privacy-message.html %}
+  <body class="general-page about local-scroll" id="page">
+    {% include privacy-message.html %}
 
-        {% include top-scroller.html %}
+    {% include top-scroller.html %}
 
 		<!-- container centers things -->
 		<div id="navigation" class="navbar-fixed-top">
@@ -14,11 +14,11 @@
 			</div>
 		</div>
 
-        <div id="sub-navigation">
+    <div id="sub-navigation">
 			<div class="container">
-                {% include navigation.html isMainNavigation=false %}
-            </div>
-        </div>
+        {% include navigation.html isMainNavigation=false %}
+	    </div>
+    </div>
 
 		<header id="teaser" class="hidden-xs">
 			<div class="teaser-image">&nbsp;</div>
@@ -33,5 +33,5 @@
 		</footer>
 
 		{% include tracking.html %}
-    </body>
+  </body>
 </html>
