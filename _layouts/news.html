@@ -2,10 +2,10 @@
 <html>
 	{% include head.html %}
 
-    <body class="general-page news local-scroll" id="page">
-        {% include privacy-message.html %}
+  <body class="general-page news local-scroll" id="page">
+    {% include privacy-message.html %}
 
-        {% include top-scroller.html %}
+    {% include top-scroller.html %}
 
 		<!-- container centers things -->
 		<div id="navigation" class="navbar-fixed-top">
@@ -19,7 +19,7 @@
 		    {% include navigation.html isMainNavigation=false %}
 		  </div>
 		</div>
-		
+
 		<header id="teaser" class="hidden-xs">
 			<div class="teaser-image">&nbsp;</div>
 		</header>
@@ -31,6 +31,7 @@
 		<footer>
 			{% include footer.html %}
 		</footer>
+
 		{% include tracking.html %}
-    </body>
+  </body>
 </html>
