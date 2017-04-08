@@ -1,11 +1,19 @@
-{% comment %} isMainNavigation : are we within the main nav 					{% endcomment %}
-{% comment %} forcedName : force to mark that name instead of the auto mode 	{% endcomment %}
+{% comment %} Elenco dei parametri passati con la chiamata INCLUDE: 					{% endcomment %}
+{% comment %} isMainNavigation: are we within the main nav 					 {% endcomment %}
+{% comment %} forcedName: viene forzato quel name al posto di quello calcolato automaticamente (auto mode) 	{% endcomment %}
 
+{% comment %} Se la chiamata a questo include contiene il parametro isMainNavigation == true, assegna al vettore navigation l'elenco delle voci del menu principale	{% endcomment %}
 {% if include.isMainNavigation == true %}
     {% assign navigation = site.sitenavigation %}
+
+{% comment %} Altrimenti fa una scansione delle voci del menu principale 					{% endcomment %}
 {% else %}
     {% for e in site.sitenavigation %}
+
+{% comment %} Se la variabile parent definita per il file che ha lanciato INCLUDE coincide con la voce del menu principale {% endcomment %}
+{% comment %} E quella voce del menu principale contiene un sottovettore di voci di menu secondario {% endcomment %}
         {% if e.name == page.parent and e.secondarynav%}
+{% comment %} ALLORA assegna al vettore navigation le voci di menu secondario corrispondente al menu principale parent {% endcomment %}
             {% assign navigation = e.secondarynav %}
         {% endif %}
     {% endfor %}
