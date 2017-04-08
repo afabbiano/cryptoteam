@@ -844,8 +844,76 @@ offerta:
 
 
 
-#PAGINA OFFERTA -> VoIP PBX (/offerta/voip.html)
-# PLACEHOLDER - NON MODIFICARE QUESTE TRE RIGHE
+#PAGINA SERVIZI--->VOIP (/servizi/voip.html)
+    voip:
+        icona: CryptoVoIP
+        teaser: I tuoi dati sempre con te
+        titolo: VoIP Cifrato
+        sottotitolo: Comunicazioni Telefoniche Protette
+        descrizione: Prova descrizione in VoIP, prova, prova
+
+        carousel:
+            intro: "La Miglior Piattaforma VoIP<br/>Per le tue Comunicazioni Protette"
+            license:
+                headline: Open Source, una scelta consapevole.<br/>Gli aggiornamenti sono sempre gratuiti.
+                btn: Prezzi &amp; Licenze
+            webdriver: Know WebDriver and Selenium already?<br/>You’re good to go.
+            report:
+                headline: Awesome Reporting. In tempo reale, Ricco, Completo, Personalizzabile.
+                btn: Alcuni esempi
+        intro:
+            headline: Centralino VoIP Protetto
+            details: Progettiamo e configuriamo il sistema VoIP più adatto alle tue esigenze di comunicazione.
+
+        box-sx:
+            headline: Perché scegliere una soluzione VoIP?
+            lead: La tecnologia VoIP (Voice over IP, comunicazioni audio/video su connessioni IP) si è imposta da tempo come standard de-facto per tutte le comunicazioni audio/video.
+            text1: Abbiamo scelto due prodotti open source leader di settore, la centrale di commutazione FreeSWITCH e l'interfaccia utente FusionPBX. You can utilize our Script Developer UI or code all your tests in Java using the familiar WebDriver syntax. Of course, XLT also works perfectly with all <a href="http://docs.seleniumhq.org/projects/webdriver/">WebDrivers</a>, with <a href="http://www.browserstack.com/">BrowserStack</a>, and <a href="https://saucelabs.com/">Sauce Labs</a>.
+            features:
+                headline: Vantaggi offerti dalla soluzione Freeswitch+FusionPBX
+                details: "<li>Sistema facilmente <strong>scalabile</strong> da poche unità utenti fino a migliaia di connessioni contemporanee</li>
+                        <li><strong>Standard</strong> di mercato, garantisce ampia scelta di terminali hardware</li>
+                        <li><strong>Parameters</strong> to pass data to modules</li>
+                        <li><strong>Variables</strong> to deal with flexible test data as well as random data</li>
+                        <li><strong>Macros</strong> to generate data dynamically</li>
+                        <li><strong>Test documentation</strong> is maintained together with the scripts</li>
+                        <li>An <strong>open file format</strong> to avoid exporting to Java if not necessary</li>
+                        <li><strong>Test data sets</strong> to run</li>
+                        <li><strong>ZRTP</strong> nativo: la protezione </li>"
+            text2: FreeSWITCH e FusionPBX sono progetti Open Source, in costante sviluppo e aggiornamento. CryptoTeam fornisce tutto il supporto tecnico necessario per la realizzazione degli obbiettivi del cliente, dalla fase di progettazione fino alla configurazione finale.
+
+        box-dx:
+            headline: FreeSwitch + OpenPBX
+            lead: Abbiamo scelto i due prodotti open source leader di settore, la centrale di commutazione Freeswitch e l'interfaccia utente FusionPBX.
+            text1: "<p>
+                    FreeSWITCH
+                     </p>
+
+                    <p>
+                        OpenPBX è l'interfaccia ideale per interagire con FreeSWITCH. E' stato progettato per semplificare e automatizzare le operazioni di configurazione e controllo di FreeSWITCH.
+                    </p>
+                    <p>
+                        Il risultato dell'unione tra FreeSWITCH e OpenPBX è un centralino (PABX) VoIP configurabile secondo le esigenze del cliente.
+                    </p>"
+
+            features:
+                headline: Caratteristiche e funzionalità principali della soluzione proposta.
+                details: <li>Sistema <strong>scalabile</strong>, puoi iniziare con pochi utenti e crescere fino a migliaia di connessioni contemporanee</li>
+                        <li>Sistema <strong>modulare</strong>, puoi attivare le funzioni base e aggiungere tutti i moduli che desideri (*)</li>
+                        <li><strong>Java</strong> as scripting language, if scripting is needed</li>
+                        <li><strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
+                        <li><strong>Realtime reporting</strong> using Graphite and Grafana</li>
+                        <li><strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
+                        <li>Support for <strong>SLA</strong> definitions</li>
+                        <li><strong>Test offline</strong>. Start the test and decouple the controller.</li>
+                        <li><strong>Open data formats</strong> for report and result data</li>
+                        <li><strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
+                        <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
+                        <li>Get <strong>full reports</strong> at any time during test execution.</li>
+                        <li><strong>External data</strong> can be captured and added to the reports.</li>
+                        (*) Configurazioni complesse possono richiedere adeguamenti hardware per consentire la fruizione dei nuovi servizi (ad esempio, sistemi di videoconferenza)
+
+            text2: Gli aggiornamenti sono sempre gratuiti ed il costo non dipende dal numero di utenti, ma solo dalla complessità della realizzazione. In questo modo l'azienda sostiene costi predeterminati e inferiori alle altre soluzioni di mercato proprietario.
 ########################################################################
 
 
