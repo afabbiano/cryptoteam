@@ -92,8 +92,8 @@ navigation:
         IDS: IDS
         CancellazioneSicura: Cancellazione Sicura
 
-# News
-        Norme: Normativa
+# Normativa
+        Normativa: Normativa
         Notizie: News
         ArchivioNews: Old News
 

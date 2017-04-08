@@ -3,20 +3,42 @@
 {% comment %}isMainNavigation : are we talking about the main navigation{% endcomment %}
 {% comment %}active : active link, aka we are on that one right now{% endcomment %}
 
+{% comment %}
+<!--
+    DEBUG: file getPageLink.html - BP01: INIZIO del ciclo for
+    ==================================================================
+-->
+{% endcomment %}
+
 {% for p in site.pages %}
 
-  {% comment %}
-  <!--
-      getPageLinkName: {{include.getPageLinkName}}
-      isMainNavigation: {{include.isMainNavigation}}
-      active: {{include.active}}
-      dropdown: {{include.dropdown}}
-      name: {{p.name}}
-  -->
-  {% endcomment %}
+{% comment %}
+<!--
+    DEBUG: file getPageLink.html - BP02: DENTRO al ciclo for
+    =================================================================
+    include.getPageLinkName:  {{include.getPageLinkName}}
+    include.isMainNavigation: {{include.isMainNavigation}}
+    include.active:           {{include.active}}
+    include.dropdown:         {{include.dropdown}}
+    include.name:             {{include.name}}
+
+    p.name:                   {{p.name}}
+    p.navName:                {{p.navName}}
+    p.mainNavLinkName:        {{p.mainNavLinkName}}
+    p.subNavLinkName:         {{p.subNavLinkName}}
+-->
+{% endcomment %}
+
+{% comment %}
+<!--
+    DEBUG: getPageLink.html - BP03: PRIMA di if
+    =================================================================
+    p.navName:                {{p.navName}}
+    include.name:             {{include.name}}
+-->
+{% endcomment %}
 
 	{% if p.navName == include.name %}
-		
     {% comment %}Determine Link title first{% endcomment %}
 
     {% if include.isMainNavigation %}
@@ -25,11 +47,21 @@
 			{% assign title = p.subNavLinkName %}
     {% endif %}
 
+{% comment %}
+<!--
+    DEBUG: getPageLink.html - BP04: PRIMA di if
+    =================================================================
+    title:                {{title}}
+    t title:              {% t title %}
+-->
+{% endcomment %}
+
 		{% if include.active %}
       <a href="{{ p.url | to_absoluteurl }}" class="active">{% t title %}</a>
 		{% else %}
 			<a href="{{ p.url | to_absoluteurl }}">{% t title %}</a>
 		{% endif %}
+
 	{% endif %}
 
 {% endfor %}

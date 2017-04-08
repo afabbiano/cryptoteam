@@ -2,10 +2,10 @@
 <html>
 	{% include head.html %}
 
-    <body class="general-page news local-scroll" id="page">
-        {% include privacy-message.html %}
+  <body class="general-page news local-scroll" id="page">
+    {% include privacy-message.html %}
 
-        {% include top-scroller.html %}
+    {% include top-scroller.html %}
 
 		<!-- container centers things -->
 		<div id="navigation" class="navbar-fixed-top">
@@ -47,15 +47,14 @@
 									{% assign wasfound = true %}
 
 									{% if last %}
-									<div class="news-post news-post-mini news-newer">
-										<p class="pull-left"><a href="{{ last.url  | to_absoluteurl }}"><i class="fa fa-chevron-left"></i></a></p>
-                                        <div class="text">
-                                            <h2><a href="{{ last.url | to_absoluteurl }}">{% t last.title %}</a></h2>
-                                            <p class=" meta">{% t last.when %}</p>
-                                        </div>
-                                        <div class="clearfix "></div>
-									</div>
-
+										<div class="news-post news-post-mini news-newer">
+											<p class="pull-left"><a href="{{ last.url  | to_absoluteurl }}"><i class="fa fa-chevron-left"></i></a></p>
+	                    <div class="text">
+	                        <h2><a href="{{ last.url | to_absoluteurl }}">{% t last.title %}</a></h2>
+	                        <p class=" meta">{% t last.when %}</p>
+	                    </div>
+	                    <div class="clearfix "></div>
+										</div>
 									{% endif %}
 								{% endif %}
 
@@ -64,11 +63,11 @@
 
 									<div class="news-post news-post-mini news-older">
 										<p class="pull-right"><a href="{{ news.url | to_absoluteurl }}"><i class="fa fa-chevron-right"></i></a></p>
-                                        <div class="text">
-                                            <h2><a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a></h2>
-                                            <p class="meta">{% t news.when %}</p>
-                                        </div>
-                                        <div class="clearfix "></div>
+                    <div class="text">
+                        <h2><a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a></h2>
+                        <p class="meta">{% t news.when %}</p>
+                    </div>
+                    <div class="clearfix "></div>
 									</div>
 								{% endif %}
 
@@ -89,6 +88,7 @@
 		<footer>
 			{% include footer.html %}
 		</footer>
+
 		{% include tracking.html %}
     </body>
 </html>
