@@ -14,7 +14,7 @@ parent: Normativa
 		<div class="container">
 			<div class="col-sm-8">
 				<h1 class="news-headline">News</h1>
-				<!-- the latest -->
+				<!-- Nel box di sinistra inserisce la prima notizia (cioè l'ultima) -->
 				{% for x in site.categories.news limit:1 %}
 					<div class="news-post">
 						<h1>{% t x.title %}</h1>
