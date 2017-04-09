@@ -1117,6 +1117,7 @@ normativa:
             action_button: Scopri
 ########################################################################
 
+
 # Pagina NORMATIVA -> Notizie (/news/notizie.html)
     news:
         title: Notizie CryptoTeam
@@ -1151,7 +1152,7 @@ normativa:
                 title: Titolo Notizia 3
                 when: 31 Marzo 2017
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
-            3:
+            4:
                 title: Titolo Notizia 4
                 when: 3 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 3 Aprile 2017
