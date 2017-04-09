@@ -1,21 +1,24 @@
 ---
 layout: news-post
+categories: news
+
 title: normativa.posts.news.2.title
 when: normativa.posts.news.2.when
-categories: news
 excerpt: normativa.posts.news.2.excerpt
 ---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
 {% if site.lang == 'it' %}
 <p class="lead">
 	Titolo N.2
 </p>
 
-<!-- that is regular content -->
+<!-- Testo della notizia inserito qui -->
 <p>
 	Notizia 2 in Italiano.
 </p>
 
 
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
 {% else %}
 <p class="lead">
 	Title #2

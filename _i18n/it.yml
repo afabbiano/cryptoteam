@@ -986,6 +986,7 @@ normativa:
             action_button: Scopri
 ########################################################################
 
+
 # Pagina NORMATIVA -> Notizie (/news/notizie.html)
     news:
         title: Notizie CryptoTeam
