@@ -1,25 +1,37 @@
-{% comment %} isMainNavigation : are we within the main nav 					{% endcomment %}
-{% comment %} forcedName : force to mark that name instead of the auto mode 	{% endcomment %}
+{% comment %}
+    Elenco dei parametri passati con la chiamata INCLUDE:
+    - isMainNavigation: are we within the main nav
+    - forcedName: viene forzato quel name al posto di quello calcolato automaticamente (auto mode)
+
+    Se la chiamata a questo include contiene il parametro isMainNavigation == true, assegna al vettore navigation
+    l'elenco delle voci del menu principale...
+{% endcomment %}
 
 {% if include.isMainNavigation == true %}
     {% assign navigation = site.sitenavigation %}
+
+{% comment %}
+    ...altrimenti fa una scansione delle voci del menu principale
+{% endcomment %}
 {% else %}
     {% for e in site.sitenavigation %}
+
+{% comment %}
+    Se la variabile parent definita per il file che ha lanciato INCLUDE coincide con la voce del menu principale
+    e quella voce del menu principale contiene un sottovettore di voci di menu secondario,
+    ASSEGNA al vettore navigation le voci di menu secondario corrispondente al menu principale parent
+{% endcomment %}
         {% if e.name == page.parent and e.secondarynav%}
             {% assign navigation = e.secondarynav %}
         {% endif %}
     {% endfor %}
 {% endif %}
-{% comment %} Il codice qui sopra da riga 4 a riga 12 serve ad assegnare al vettore "navigation" 					{% endcomment %}
-{% comment %} l'elenco delle voci di menù. Il vettore navigation contiene l'elenco delle voci principali	{% endcomment %}
-{% comment %} se la chiamata di INCLUDE ha passato il parametro isMainNavigation=true	                    {% endcomment %}
-{% comment %} altrimenti contiene le voci di menu secondarie contenute nel menu "parent"	                {% endcomment %}
 
 <nav class="navbar navbar-default" role="navigation">
   	{% if include.isMainNavigation == true %}
         <div class="navbar-brand navbar-left">
             <a rel="home" title="Home" href="{{ '/'  | to_absoluteurl }}">
-            <img src="/images/cryptoteam-logo-256x34.png" title="CryptoTeam company logo" alt="CryptoTeam company logo" />
+              <img src="/images/cryptoteam-logo-256x34.png" title="CryptoTeam company logo" alt="CryptoTeam company logo" />
             </a>
         </div>
 
@@ -30,26 +42,30 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="collapse navbar-collapse">
+        <div class="collapse navbar-collapse">
   	{% endif %}
 
     <ul class="nav {% if isMainNavigation == false %}nav-stacked{%else%}navbar-nav{% endif %}">
         {% for e in navigation %}
 
-            {% comment %}
+{% comment %}
             <!--
-                For debugging only!
-                ===================
-                isMainNavigation: {{include.isMainNavigation}}
+                DEBUG: navigation.html - BP01: dentro al ciclo for e in navigation
+                ==================================================================
                 navigation: {{navigation}}
+
+                include.isMainNavigation: {{include.isMainNavigation}}
                 include.forcedName: {{include.forcedName}}
+
                 page.mainNavLinkName: {{page.mainNavLinkName}}
                 page.name: {{page.name}}
                 page.navName: {{page.navName}}
-                e.parent: {{e.parent}}
+                page.parent: {{page.parent}}
+
+                e: {{e}}
                 e.name: {{e.name}}
               -->
-            {% endcomment %}
+{% endcomment %}
 
             {% if include.isMainNavigation %}
                 {% if e.name == page.navName or e.name == page.parent or e.name == include.forcedName %}
