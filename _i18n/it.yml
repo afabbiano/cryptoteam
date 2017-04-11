@@ -131,8 +131,8 @@ homepage:
             riga2: VoIP PBX
 
     intro:
-        headline: Integriamo la Privacy nella tua Azienda
-        details: La 1° chiave segreta è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+        headline: Integriamo la Privacy nella tua Rete Aziendale
+        details: La 1° chiave di cifratura è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo gli operatori economici a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
@@ -953,14 +953,16 @@ normativa:
 
         intro:
             headline: Normativa Nazionale ed Europea
-            details: Le principali norme che regolamentano la gestione dei dati aziendali
+            details: Le principali norme che regolamentano la potezione dei dati e diritti fondamentali
 
         technologies:
-            headline: Norma 1
+            headline: Codice in materia di protezione dei dati personali Decreto legislativo 30 giugno 2003, n. 196
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+
+                <p>
                     <strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.
                     <strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).
                     <strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.
@@ -968,7 +970,8 @@ normativa:
                     <strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.
                     <strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.
                     <strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.
-                    <strong>Cancellami</strong>.</p>
+                    <strong>Cancellami</strong>.
+                </p>
 
                 <p>
                     Cancellami ...is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
