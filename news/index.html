@@ -1,0 +1,348 @@
+---
+layout: normativa-index
+title: normativa.norme.title
+description: normativa.norme.description
+
+navName: Normativa
+mainNavLinkName: navigation.main.Normativa
+subNavLinkName: navigation.sub.Normativa
+parent: Normativa
+
+permalink: /news/
+---
+<div id="feature-areas" class="tab">
+	<div class="row">
+		<div class="container">
+			<div class="col-md-10 col-md-offset-1 text-center">
+				<h1>{% t normativa.norme.intro.headline %}</h1>
+				<p class="lead">{% t normativa.norme.intro.details %}</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#known-tech">
+		<div class="container">
+			<div class="iconLarge col-sm-2 hidden-xs col-md-offset-1">
+				<i class="fa fa-star-o"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-star-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.technologies.headline %}</h2>
+				<p class="explanation">
+                    {% t normativa.norme.technologies.lead %}
+                    <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="known-tech" class="collapse">
+		{% include offerta/known-technologies.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#ui">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-laptop"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-laptop hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.ui.headline %}</h2>
+				<p class="explanation">
+                    {% t normativa.norme.ui.lead %}
+                    <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="ui" class="collapse">
+		{% include offerta/intuitive-ui.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#deployment">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-cloud"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-cloud hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.deployment.headline %}</h2>
+				<p class="explanation">
+          {% t normativa.norme.deployment.lead %}
+          <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="deployment" class="collapse">
+		{% include offerta/deployment-and-cloud.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#report">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-bar-chart-o"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-bar-chart-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.reporting.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.reporting.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="report" class="collapse">
+		{% include offerta/awesome-reporting.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#realtime">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-dashboard"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-edit hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.realtime.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.realtime.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="realtime" class="collapse">
+		{% include offerta/realtime-monitoring.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#adjustable">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-edit"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-edit hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.adjustable.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.adjustable.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="adjustable" class="collapse">
+		{% include offerta/easily-adjustable.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#automation">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-cogs"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-cogs hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.automation.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.automation.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="automation" class="collapse">
+		{% include offerta/made-for-automation.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#profiles">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-random"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-random hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.profiles.headline %}</h2>
+				<p class="explanation">
+          {% t normativa.norme.profiles.lead %}
+          <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="profiles" class="collapse">
+		{% include offerta/load-profiles.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#scenarios">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-users"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-users hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.scenarios.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.scenarios.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="scenarios" class="collapse">
+		{% include offerta/user-scenarios.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#resultbrowser">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-eye"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-eye hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.resultbrowser.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.resultbrowser.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="resultbrowser" class="collapse">
+		{% include offerta/resultbrowser.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#resultbrowser2">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-eye"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-eye hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.resultbrowser2.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.resultbrowser2.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="resultbrowser2" class="collapse">
+		{% include offerta/resultbrowser2.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#resultbrowser3">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-eye"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-eye hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.resultbrowser3.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.resultbrowser3.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="resultbrowser3" class="collapse">
+		{% include offerta/resultbrowser3.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#verify">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-check"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-check hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.verify.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.verify.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="verify" class="collapse">
+		{% include offerta/verify-everything.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#scalable">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-signal"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-signal hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.scalable.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.scalable.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="scalable" class="collapse">
+		{% include offerta/scalable.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#configurable">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-wrench"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-wrench hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.configurable.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.configurable.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="configurable" class="collapse">
+		{% include offerta/configurable.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#archivable">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-archive"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-archive hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.archivable.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.archivable.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="archivable" class="collapse">
+		{% include offerta/archivable.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#shareable">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-share-square-o"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-share-square-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.shareable.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.shareable.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="shareable" class="collapse">
+		{% include offerta/shareable.html row='even' %}
+	</div>
+</div>
+
+<!-- takes care of the collapsing arrow change -->
+<script type="text/javascript">
+    function toggleChevron(e) {
+        var id = $(e.target).attr('id');
+        var oIcon = $('div[data-target="#' + id + '"] p button i');
+        oIcon.toggleClass('fa-chevron-down fa-chevron-up');
+    }
+
+    // find the right element and execute
+    $('#feature-areas div.collapse').on('shown.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+
+    $('#feature-areas div.collapse').on('hidden.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+</script>
