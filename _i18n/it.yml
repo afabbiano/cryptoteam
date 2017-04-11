@@ -92,6 +92,7 @@ navigation:
 
 # Normativa
         Normativa: Normativa
+        Adempimenti: Adempimenti
         Notizie: Ultime Notizie
         ArchivioNews: Archivio
 
@@ -947,6 +948,357 @@ normativa:
 
 # Pagina NORMATIVA -> Normativa (/news/index.html)
     norme:
+        title: Normativa
+        description: Descrizione Normativa.
+
+        intro:
+            headline: Normativa Nazionale ed Europea
+            details: Le principali norme che regolamentano la gestione dei dati aziendali
+
+        technologies:
+            headline: Norma 1
+            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
+            details:
+                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
+                text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+
+                <ul>
+                    <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
+                    <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
+                    <li><strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.</li>
+                    <li><strong>Protegge le mail</strong> scambiate incluso i suoi allegati tra i corrispondenti evitando sottrazioni o copie delle informazioni aziendali.</li>
+                    <li><strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.</li>
+                    <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
+                    <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
+                    <li><strong>Cancellami</strong>.</li>
+                </ul>
+
+                <p>
+                    Cancellami ...is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
+                </p>"
+
+        ui:
+            headline: Norma 2
+            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
+            details:
+                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
+                text:
+                    keyfeatures:
+                        headline: Soluzione
+                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
+                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
+                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
+                                <li><strong>Dati Salvati Sistematicamente</strong></li>
+                                <li><strong>Policy per la Condivisione</strong></li>
+                                <li><strong>Compliance Normative</strong></li>
+                                <li><strong>Classificazione dei dati </strong></li>
+                                <li><strong>Identificazione dei Dati</strong></li>
+                                <li><strong>Privacy all'interno dei processi informatici</strong></li>
+
+                    download:
+                        headline: Fatevi Aiutare
+                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+
+        deployment:
+            headline: Norma 3
+            lead: Provaaaa.
+            details:
+                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                </p>
+
+                <p>
+                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
+                    possible, to make it as flexible as possible.
+                </p>"
+
+        reporting:
+            headline: Norma 4
+            lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
+            details:
+                lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
+                text:
+                    loadtestreport:
+                        headline: Load Test Reports
+                        text: " <p>
+                                    The XLT performance report includes everything you need to know about your application.
+                                </p>
+                                <p>
+                                    Besides the obvious data such as runtime totals, averages, and medians, you can find projections for hourly or daily traffic. It also features service-level-agreement numbers, lists the configuration of your test as well as all errors and problems, and includes links to the result browser for quick analysis.
+                                    <a href=\"/demo-reports/report/\" target=\"_blank\">Open an example here</a>.
+                                </p>"
+                        link:
+                            alt: LoadTest Report Image
+                            title: Overview of a LoadTest Report
+                    comparisonreports:
+                        headline: Comparison Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report.
+                                </p>
+                                <p>
+                                    Color codes and percentages help you quickly determine what changed between the test runs.
+                                </p>"
+                        link:
+                            alt: Comparison Report Example Table
+                            title: Color Codes and Percentages For Easy Comparison
+                    trendreports:
+                        headline: Trend Reports
+                        text: "<p>
+                                    <a href=\"/demo-reports/trend-report/\" target=\"_blank\">View here. </a>A trend report shows how performance developed over many test runs. It also uses color codes to visualize the changes.
+                                </p>
+                                <p>
+                                    The trend report visualizes two performance trends: first, a baseline comparison showing you the performance changes compared to your first test run; and second, a comparison to the previous run telling you what happened at a specific point in time.
+                                </p>"
+                        link:
+                            alt: Example Trend Chart
+                            title: Trend Performance Over Different Runs
+
+
+        realtime:
+            headline: Norma 5
+            lead: è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
+            details:
+                lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
+                text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
+                image:
+                    alt: Grafana Views of an running XLT test
+                    title: Realtime Monitoring with XLT
+
+        adjustable:
+            headline: Norma 6
+            lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
+            details:
+                lead: A good tool has to be adjustable to the environment it is used in. Thus, XLT supports many ways to be extended or modified to fit your needs even better.
+                reports:
+                    headline: Reports
+                    text: <p>All reports can be adjusted in content and layout, because we deliver the CSS and the render templates as part of XLT. So if you need custom layouts of reports, you are covered. You want to have your own summary of data? Not a problem. You want to reduce the data? Fine as well.</p>
+
+                data:
+                    headline: Custom and External Data
+                    text: "<p>
+                            During a load test, XLT logs a large amount of data relevant to the test run. Nevertheless, sometimes it comes in handy to log additional information about the system under test. For this purpose, XLT provides custom values.
+                        </p>
+                        <p>
+                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.
+                        </p>"
+
+                java:
+                    headline: Use Java
+                    text: <p>If there is anything that is not part of XLT, you can use Java to make it happen. Of course there are limits, because you can influence the measurements or limit the scaling, but with that in mind, a lot of things are possible.</p>
+
+
+        automation:
+            headline: Norma 7
+            lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
+            details:
+                lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
+                text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
+
+        profiles:
+            headline: Norma 8
+            lead: Richiedi un prevento per il Privacy-Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            details:
+                lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
+                text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
+                <ul>
+                    <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
+                    <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
+                    <li><strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
+                    <li><strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
+                    <li><strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
+                    <li><strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
+                    <li><strong>Inserimento delle Chiavi nel Keyring</strong></li>
+                    <li><strong>Test di Funzionamento</strong></li>
+                    <li><strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
+                    <li><strong>Assistenza Tecnica</strong></li>
+                </ul>
+
+                <h3>Procedura Certificata CryptoTeam</h3>
+                <p>
+                    Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.
+                </p>
+
+                <p>
+                    <img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" />
+                </p>"
+
+        scenarios:
+            headline: Norma 9
+            lead: Unlimited number of user scenarios that can be part of a test. Each scenario can have a different configuration or load profile.
+            details:
+                lead: Reality is versatile and your test should reflect that. You can set up as many different scenarios as you need and run them together.
+                text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
+
+        resultbrowser:
+            headline: Norma 10
+            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            details:
+                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabili.
+                                </p>
+                                <p>
+                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
+
+                                </p>
+                                <p>
+                                    <strong>Scegli sotto il tuo modello.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        resultbrowser2:
+            headline: Norma 11
+            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Assicurano una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
+            details:
+                lead: "Proponiamo soluzioni di controllo accessi basati su fattori più forti di identificazione e riconoscimento univoco. Fondamentale è il riconoscimento del soggetto (Utente o Device), che chiede l'accesso ai servizi aziendali. Verifica il tipo di Certificato, P/N Associato, Data di Scadenza, Nome del Soggetto, ID, Profili Assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica."
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.
+                                </p>
+                                <p>
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo (Riconoscimento Utente). Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
+
+                                </p>
+                                <p>
+                                    <strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        resultbrowser3:
+            headline: Norma 12
+            lead: Siamo immersi nel mercato digitale per cui queste soluzioni sono ritenute indispensabili, cioè il primo passo per accedere ai servizi aziendali. Cerchiamo di garantire soluzioni più forti <strong>Strong Autentication,</strong> che consentono di autenticare gli utenti in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono state un problema&#58 Altamente onerose, più sono complesse più sono pericolose.
+            details:
+                lead: L’intenzione di copiare i dati aziendali da parte di attaccanti è sempre più attuale. Le solite credenziali di accesso anche se complesse, non sono più sufficienti per fermare un attaccante deciso. Le soluzioni che proponiamo hanno un approccio di sbloccare il computer in modo automatico e sicuro. Facilmente gli utenti possono autenticarsi  e accedere ai servizi che l’azienda gli mette a disposizione.
+                text:
+                    block1:
+                        image:
+                            alt: Start View of the Result Browser
+                            title: The Result Browser
+                        text: "<p>
+                                    <strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia fino a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58 Tipo di Certificato, Validità, Numero Serie, Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
+                                </p>
+                                <p>
+
+
+                                </p>"
+                    block2:
+                        image:
+                            alt: Details View of the Result Browser
+                            title: Detailed Information About Application Errors
+                        text: "<p>
+                                    <strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantite nello stesso modo (Validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
+
+                                </p>
+                                <p>
+                                    <strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong>
+                                </p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+
+        verify:
+            headline: Norma 13
+            lead: Assertions permit you to verify everything in detail to ensure that your test is valid.
+            details:
+                lead: A test is only as good as its verifications. XLT supports and encourages as much validation as possible to really make sure that the pages loaded match the expectations.
+                text: <p>You can use the full syntax of assertions known from JUnit and Selenium. If you like Hamcrest, include it, XLT gives you that flexibility. XLT also provides access to all sub-requests of a page, so you can run even more detailed validations.
+                    The XLT Action API allows you to include validations before and after each activity.</p>
+
+        scalable:
+            headline: Norma 14
+            lead: Run load tests from any number of machines, different locations, and with nearly unlimited users.
+            details:
+                lead: You can utilize an unlimited number of machines for your load testing. Scale up across datacenters easily. XLT orchestrates the load distribution, uploads, and downloads on its own.
+                text: "<p>
+                            Scale up XLT per machine by bringing up more processes for perfect hardware utilization. Scale up across machines easily by adding more locations. XLT uses differential and concurrent up- and downloads for maximum speed.
+                        </p>
+                        <p>
+                            The load is automatically distributed across all agents. If you use heterogenous hardware, you can attach a weight to each machine to indicate a different speed or size.
+                        </p>
+                        <p>
+                            Installing XLT is easy and only takes a few minutes. It leverages HTTPS and authentication for protecting your agents. Bind XLT to any port you wish.
+                        </p>
+                        <p>
+                            Preconfigured Amazon Web Service Images (AMIs) get you started quickly on Amazon EC2. Just start it and you are good to go.
+                        </p>"
+
+        configurable:
+            headline: Norma 15
+            lead: Set timeouts, keep-alive, compression, image loading, permitted hosts, thinktimes, error handling, and much more.
+            details:
+                lead: To match the behavior with your testing needs, lots of parameters can be adjusted.
+                text: "<p>
+                            XLT offers a richt set of options to modify the behavior so that all kinds of different
+                            configurations can be tested. For example:
+                        </p>
+
+                        <ul>
+                            <li><strong>Keep-alive</strong></li>
+                            <li><strong>Timeouts</strong></li>
+                            <li><strong>Content compression</strong></li>
+                            <li><strong>Header fields</strong></li>
+                            <li><strong>Thinktimes</strong></li>
+                            <li><strong>Content loading</strong></li>
+                            <li><strong>Error handling</strong></li>
+                            <li><strong>Maximum error count</strong></li>
+                            <li><strong>Permitted hosts</strong></li>
+                            <li><strong>User agent</strong></li>
+                        </ul>
+
+                        <p>
+                            If XLT does not provide a property for a certain parameter, it can also be influenced programmatically.
+                        </p>"
+        archivable:
+            headline: Norma 16
+            lead: Open formats for reports and results to archive them. Go back later for reanalysis. Test configurations are stored with the reports.
+            details:
+                lead: XLT uses open formats for results and reports. Perfectly suited for storing them anywhere.
+                text: "<p>
+                        Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine.
+                      </p>
+                      <p>
+                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds.
+                      </p>"
+
+        shareable:
+            headline: Norma 17
+            lead: Test suites and configurations can be shared easily. Reports are plain HTML and perfect for quick sharing.
+            details:
+                lead: XLT reports are easily sharable with anyone. They are not connected to XLT anymore after they have been created.
+                text: "<p>
+                        All reports are plain HTML. So you can zip them up, mail them, upload them, attach them, and share them with whatever system you prefer.
+                      </p>
+                      <p>
+                        Did you know that you can start your load test on one machine, and collect the results on another? Or maybe your co-worker can collect the data later and analyze it for you, while you're already on your way to a meeting.
+                      </p>"
+########################################################################
+
+
+# Pagina NORMATIVA -> Adempimenti (/news/index.html)
+    adempimenti:
         title: Normativa -> Norme Title
         description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
