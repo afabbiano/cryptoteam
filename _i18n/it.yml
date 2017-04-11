@@ -471,14 +471,14 @@ offerta:
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
 
                 <ul>
-                    <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
-                    <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
-                    <li><strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.</li>
-                    <li><strong>Protegge le mail</strong> scambiate incluso i suoi allegati tra i corrispondenti evitando sottrazioni o copie delle informazioni aziendali.</li>
-                    <li><strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.</li>
-                    <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
-                    <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
-                    <li><strong>Cancellami</strong>.</li>
+                    <strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
+                    <strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
+                    <strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.</li>
+                    <strong>Protegge le mail</strong> scambiate incluso i suoi allegati tra i corrispondenti evitando sottrazioni o copie delle informazioni aziendali.</li>
+                    <strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.</li>
+                    <strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
+                    <strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
+                    <strong>Cancellami</strong>.</li>
                 </ul>
 
                 <p>
@@ -494,14 +494,14 @@ offerta:
                     keyfeatures:
                         headline: Soluzione
                         text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
-                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
-                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
-                                <li><strong>Dati Salvati Sistematicamente</strong></li>
-                                <li><strong>Policy per la Condivisione</strong></li>
-                                <li><strong>Compliance Normative</strong></li>
-                                <li><strong>Classificazione dei dati </strong></li>
-                                <li><strong>Identificazione dei Dati</strong></li>
-                                <li><strong>Privacy all'interno dei processi informatici</strong></li>
+                        list:  <strong>Crittografia SHA256 e 2048 Bit</strong></li>
+                                <strong>Dati Cifrati Sistematicamente</strong></li>
+                                <strong>Dati Salvati Sistematicamente</strong></li>
+                                <strong>Policy per la Condivisione</strong></li>
+                                <strong>Compliance Normative</strong></li>
+                                <strong>Classificazione dei dati </strong></li>
+                                <strong>Identificazione dei Dati</strong></li>
+                                <strong>Privacy all'interno dei processi informatici</strong></li>
 
                     download:
                         headline: Fatevi Aiutare
@@ -610,16 +610,16 @@ offerta:
                 lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
-                    <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
-                    <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
-                    <li><strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
-                    <li><strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
-                    <li><strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
-                    <li><strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
-                    <li><strong>Inserimento delle Chiavi nel Keyring</strong></li>
-                    <li><strong>Test di Funzionamento</strong></li>
-                    <li><strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
-                    <li><strong>Assistenza Tecnica</strong></li>
+                    <strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
+                    <strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
+                    <strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
+                    <strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
+                    <strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
+                    <strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
+                    <strong>Inserimento delle Chiavi nel Keyring</strong></li>
+                    <strong>Test di Funzionamento</strong></li>
+                    <strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
+                    <strong>Assistenza Tecnica</strong></li>
                 </ul>
 
                 <h3>Procedura Certificata CryptoTeam</h3>
@@ -764,16 +764,16 @@ offerta:
                         </p>
 
                         <ul>
-                            <li><strong>Keep-alive</strong></li>
-                            <li><strong>Timeouts</strong></li>
-                            <li><strong>Content compression</strong></li>
-                            <li><strong>Header fields</strong></li>
-                            <li><strong>Thinktimes</strong></li>
-                            <li><strong>Content loading</strong></li>
-                            <li><strong>Error handling</strong></li>
-                            <li><strong>Maximum error count</strong></li>
-                            <li><strong>Permitted hosts</strong></li>
-                            <li><strong>User agent</strong></li>
+                            <strong>Keep-alive</strong></li>
+                            <strong>Timeouts</strong></li>
+                            <strong>Content compression</strong></li>
+                            <strong>Header fields</strong></li>
+                            <strong>Thinktimes</strong></li>
+                            <strong>Content loading</strong></li>
+                            <strong>Error handling</strong></li>
+                            <strong>Maximum error count</strong></li>
+                            <strong>Permitted hosts</strong></li>
+                            <strong>User agent</strong></li>
                         </ul>
 
                         <p>
@@ -917,9 +917,9 @@ offerta:
             lead: Soluzioni compliance GDPR
             features:
                 headline: <strong>Opzioni Procedure</strong>
-                details: <li>Sovrascrittura</li>
-                          <li>Demagnetizzazione</li>
-                          <li>Punzonatura</li>
+                details: Sovrascrittura</li>
+                          Demagnetizzazione</li>
+                          Punzonatura</li>
             riga1: <strong>Sovrascrittura&#58</strong> Applicativi che scrivono ripetutamente le aree del disco occupate dalle informazioni da eliminare.
             riga2: <strong>Demagnetizzazione&#58</strong> Hardware di memorizzazione (anche guasti).
             riga3: <strong>Punzonatura&#58</strong> Distruzione fisica dei prodotti HW (anche guasti).
@@ -931,11 +931,11 @@ offerta:
 
             features:
                 headline: Servizi da valutare
-                details: "<li>Stabilire la sede di lavoro (On-Site o altra Sede) </li>
-                          <li>Trasporti inclusi aree di destinazione (es.smaltimento)</li>
-                          <li>Tipo opzioni di cancellazione</li>
-                          <li>Eventuale Estrazione di HDD dagli apparati informatici.</li>
-                          <li>Soluzione Noleggio Servizio</li>"
+                details: "Stabilire la sede di lavoro (On-Site o altra Sede) </li>
+                          Trasporti inclusi aree di destinazione (es.smaltimento)</li>
+                          Tipo opzioni di cancellazione</li>
+                          Eventuale Estrazione di HDD dagli apparati informatici.</li>
+                          Soluzione Noleggio Servizio</li>"
             text2: Per trasmettervi un preventivo adeguato è necessario conoscere la quantità di beni (Venduti o Avvicendati o da Smaltire), la sede operativa per effetuare le procedure di cancellazione, la sede di destinazione, infine il trasporto.
 ########################################################################
 
@@ -961,6 +961,7 @@ normativa:
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+
                 <p>
                     <strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.
                     <strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).
@@ -985,14 +986,14 @@ normativa:
                     keyfeatures:
                         headline: Soluzione
                         text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
-                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
-                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
-                                <li><strong>Dati Salvati Sistematicamente</strong></li>
-                                <li><strong>Policy per la Condivisione</strong></li>
-                                <li><strong>Compliance Normative</strong></li>
-                                <li><strong>Classificazione dei dati </strong></li>
-                                <li><strong>Identificazione dei Dati</strong></li>
-                                <li><strong>Privacy all'interno dei processi informatici</strong></li>
+                        list:  <strong>Crittografia SHA256 e 2048 Bit</strong></li>
+                                <strong>Dati Cifrati Sistematicamente</strong></li>
+                                <strong>Dati Salvati Sistematicamente</strong></li>
+                                <strong>Policy per la Condivisione</strong></li>
+                                <strong>Compliance Normative</strong></li>
+                                <strong>Classificazione dei dati </strong></li>
+                                <strong>Identificazione dei Dati</strong></li>
+                                <strong>Privacy all'interno dei processi informatici</strong></li>
 
                     download:
                         headline: Fatevi Aiutare
@@ -1101,16 +1102,16 @@ normativa:
                 lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
-                    <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
-                    <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
-                    <li><strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
-                    <li><strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
-                    <li><strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
-                    <li><strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
-                    <li><strong>Inserimento delle Chiavi nel Keyring</strong></li>
-                    <li><strong>Test di Funzionamento</strong></li>
-                    <li><strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
-                    <li><strong>Assistenza Tecnica</strong></li>
+                    <strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
+                    <strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
+                    <strong>Generazioni delle sottochiavi RSA (Firma, Autenticazione, Cifratura)</strong></li>
+                    <strong>Copia di Sicurezza delle Chiavi e sottochiavi in contenitore cifrato (doppia Cifratura)</strong></li>
+                    <strong>Trasferimento della Chiave Primaria su Smartcard</strong></li>
+                    <strong>Trasferimento delle sottochiavi su Token Usb</strong></li>
+                    <strong>Inserimento delle Chiavi nel Keyring</strong></li>
+                    <strong>Test di Funzionamento</strong></li>
+                    <strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
+                    <strong>Assistenza Tecnica</strong></li>
                 </ul>
 
                 <h3>Procedura Certificata CryptoTeam</h3>
@@ -1255,16 +1256,16 @@ normativa:
                         </p>
 
                         <ul>
-                            <li><strong>Keep-alive</strong></li>
-                            <li><strong>Timeouts</strong></li>
-                            <li><strong>Content compression</strong></li>
-                            <li><strong>Header fields</strong></li>
-                            <li><strong>Thinktimes</strong></li>
-                            <li><strong>Content loading</strong></li>
-                            <li><strong>Error handling</strong></li>
-                            <li><strong>Maximum error count</strong></li>
-                            <li><strong>Permitted hosts</strong></li>
-                            <li><strong>User agent</strong></li>
+                            <strong>Keep-alive</strong></li>
+                            <strong>Timeouts</strong></li>
+                            <strong>Content compression</strong></li>
+                            <strong>Header fields</strong></li>
+                            <strong>Thinktimes</strong></li>
+                            <strong>Content loading</strong></li>
+                            <strong>Error handling</strong></li>
+                            <strong>Maximum error count</strong></li>
+                            <strong>Permitted hosts</strong></li>
+                            <strong>User agent</strong></li>
                         </ul>
 
                         <p>
@@ -1765,11 +1766,11 @@ company:
             headline: Come usiamo le informazioni che raccogliamo su di te
             details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
             list: "
-                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
-                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
-                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
-                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
-                <li>Per inviare email di risposta alle tue richieste.</li>"
+                Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
+                Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
+                Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
+                Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                Per inviare email di risposta alle tue richieste.</li>"
         cookies:
             headline: Utilizziamo i Cookies?
             details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
@@ -1862,10 +1863,10 @@ jobs:
             headline: Material
             text: "<p>We want to learn as much as possible about you, so please provide the following material with your application:</p>
             <ul>
-                <li>Resume</li>
-                <li>Cover letter</li>
-                <li>Why you would be a good addition to our team</li>
-                <li>Possible start date and desired salary</li>
+                Resume</li>
+                Cover letter</li>
+                Why you would be a good addition to our team</li>
+                Possible start date and desired salary</li>
             </ul>"
 
 
@@ -1919,11 +1920,11 @@ contact:
             headline: How Do We Use Your Information
             details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
             list: "
-                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
-                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
-                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
-                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
-                <li>To send emails to answer your inquiries.</li>"
+                To personalize your experience (your information helps us to better respond to your individual needs),</li>
+                To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
+                To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
+                To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
+                To send emails to answer your inquiries.</li>"
         cookies:
             headline: Do We Use Cookies?
             details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
@@ -1988,15 +1989,15 @@ xlt:
         text1: Choose your preferred way of writing tests. You can utilize our Script Developer UI or code all your tests in Java using the familiar WebDriver syntax. Of course, XLT also works perfectly with all <a href="http://docs.seleniumhq.org/projects/webdriver/">WebDrivers</a>, with <a href="http://www.browserstack.com/">BrowserStack</a>, and <a href="https://saucelabs.com/">Sauce Labs</a>.
         features:
             headline: What XLT Brings to the Table
-            details: "<li><strong>Script Developer</strong> as a small but flexible IDE that lets you script right in Firefox</li>
-                    <li><strong>Modules</strong> to achieve great reusability</li>
-                    <li><strong>Parameters</strong> to pass data to modules</li>
-                    <li><strong>Variables</strong> to deal with flexible test data as well as random data</li>
-                    <li><strong>Macros</strong> to generate data dynamically</li>
-                    <li><strong>Test documentation</strong> is maintained together with the scripts</li>
-                    <li>An <strong>open file format</strong> to avoid exporting to Java if not necessary</li>
-                    <li><strong>Test data sets</strong> to run</li>
-                    <li><strong>No-programming configuration</strong> of WebDrivers to simplify development</li>"
+            details: "<strong>Script Developer</strong> as a small but flexible IDE that lets you script right in Firefox</li>
+                    <strong>Modules</strong> to achieve great reusability</li>
+                    <strong>Parameters</strong> to pass data to modules</li>
+                    <strong>Variables</strong> to deal with flexible test data as well as random data</li>
+                    <strong>Macros</strong> to generate data dynamically</li>
+                    <strong>Test documentation</strong> is maintained together with the scripts</li>
+                    An <strong>open file format</strong> to avoid exporting to Java if not necessary</li>
+                    <strong>Test data sets</strong> to run</li>
+                    <strong>No-programming configuration</strong> of WebDrivers to simplify development</li>"
         text2: XLT is always free for functional testing. And that includes all updates.
 
     loadtesting:
@@ -2015,19 +2016,19 @@ xlt:
 
         features:
             headline: Features and Functionality in a Nutshell
-            details: <li><strong>Realistic load profiles</strong>, like arrival rate and user rate. Combinable with ramp-up time and initial delays</li>
-                    <li><strong>Different test approaches</strong>, such as URL-based or DOM-based</li>
-                    <li><strong>Java</strong> as scripting language, if scripting is needed</li>
-                    <li><strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
-                    <li><strong>Realtime reporting</strong> using Graphite and Grafana</li>
-                    <li><strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
-                    <li>Support for <strong>SLA</strong> definitions</li>
-                    <li><strong>Test offline</strong>. Start the test and decouple the controller.</li>
-                    <li><strong>Open data formats</strong> for report and result data</li>
-                    <li><strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
-                    <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
-                    <li>Get <strong>full reports</strong> at any time during test execution.</li>
-                    <li><strong>External data</strong> can be captured and added to the reports.</li>
+            details: <strong>Realistic load profiles</strong>, like arrival rate and user rate. Combinable with ramp-up time and initial delays</li>
+                    <strong>Different test approaches</strong>, such as URL-based or DOM-based</li>
+                    <strong>Java</strong> as scripting language, if scripting is needed</li>
+                    <strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
+                    <strong>Realtime reporting</strong> using Graphite and Grafana</li>
+                    <strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
+                    Support for <strong>SLA</strong> definitions</li>
+                    <strong>Test offline</strong>. Start the test and decouple the controller.</li>
+                    <strong>Open data formats</strong> for report and result data</li>
+                    <strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
+                    <strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
+                    Get <strong>full reports</strong> at any time during test execution.</li>
+                    <strong>External data</strong> can be captured and added to the reports.</li>
 
         text2: Updates are always free and we do not charge for seats. You just pay for the users you need.
 
@@ -2099,14 +2100,14 @@ xlt:
                 text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>
 
                 <ul>
-                    <li><strong>Java</strong> is the scripting language when scripting is required. Use your favourite IDE, profilers, and debuggers.</li>
-                    <li><strong>JUnit</strong> allows easy integration into test automation processes.</li>
-                    <li>Result data is delivered as <strong>CSV</strong> for optional post-processing.</li>
-                    <li>Reports are <strong>HTML</strong> for easy sharing.</li>
-                    <li>Reports are rendered from <strong>XML via XSL</strong> for easy adjustments of content and layout.</li>
-                    <li>Reports feature an <strong>XML data file</strong> for machine-based evaluation.</li>
-                    <li>The <strong>command line</strong> helps you automate everything quickly.</li>
-                    <li><strong>WebDriver</strong> is used for functional testing as well as client-performance testing.</li>
+                    <strong>Java</strong> is the scripting language when scripting is required. Use your favourite IDE, profilers, and debuggers.</li>
+                    <strong>JUnit</strong> allows easy integration into test automation processes.</li>
+                    Result data is delivered as <strong>CSV</strong> for optional post-processing.</li>
+                    Reports are <strong>HTML</strong> for easy sharing.</li>
+                    Reports are rendered from <strong>XML via XSL</strong> for easy adjustments of content and layout.</li>
+                    Reports feature an <strong>XML data file</strong> for machine-based evaluation.</li>
+                    The <strong>command line</strong> helps you automate everything quickly.</li>
+                    <strong>WebDriver</strong> is used for functional testing as well as client-performance testing.</li>
                 </ul>
 
                 <p>
@@ -2122,14 +2123,14 @@ xlt:
                     keyfeatures:
                         headline: Key Features
                         text: Script Developer is a Firefox extension that lets you record, edit, and replay Selenium-style scripts with all the benefits of XLT test automation.
-                        list: "<li><strong>Record & Replay</strong> test scripts in Firefox.</li>
-                                <li><strong>Edit</strong> scripts.</li>
-                                <li><strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
-                                <li>Add <strong>comments</strong>.</li>
-                                <li>Extract <strong>reusable modules</strong>.</li>
-                                <li>Manage global and local <strong>test data</strong>.</li>
-                                <li><strong>Document</strong> test cases and code.</li>
-                                <li>Execute <strong>batch tests</strong>.</li>"
+                        list: "<strong>Record & Replay</strong> test scripts in Firefox.</li>
+                                <strong>Edit</strong> scripts.</li>
+                                <strong>Debug</strong> scripts with the integrated debugger, highlighter, and assertion evaluator.</li>
+                                Add <strong>comments</strong>.</li>
+                                Extract <strong>reusable modules</strong>.</li>
+                                Manage global and local <strong>test data</strong>.</li>
+                                <strong>Document</strong> test cases and code.</li>
+                                Execute <strong>batch tests</strong>.</li>"
                     download:
                         headline: Free Download
                         text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
@@ -2237,10 +2238,10 @@ xlt:
                 lead: XLT supports a very flexible setup of load profiles ranging from steady user rates to arrival rates. Compose long-running test setups to reflect what happens during a day, absolutely freely configurable.
                 text: "<h3>Load Profile Features</h3>
                 <ul>
-                    <li><strong>Arrival rate model</strong> for realistic simulations.</li>
-                    <li><strong>Steady user rate</strong> for predictable measurements.</li>
-                    <li><strong>Ramp-up</strong> for gradually increasing traffic.</li>
-                    <li><strong>Free configuration</strong> to compile challenging tests.</li>
+                    <strong>Arrival rate model</strong> for realistic simulations.</li>
+                    <strong>Steady user rate</strong> for predictable measurements.</li>
+                    <strong>Ramp-up</strong> for gradually increasing traffic.</li>
+                    <strong>Free configuration</strong> to compile challenging tests.</li>
                 </ul>
 
                 <h3>Freely Configurable</h3>
@@ -2325,16 +2326,16 @@ xlt:
                         </p>
 
                         <ul>
-                            <li><strong>Keep-alive</strong></li>
-                            <li><strong>Timeouts</strong></li>
-                            <li><strong>Content compression</strong></li>
-                            <li><strong>Header fields</strong></li>
-                            <li><strong>Thinktimes</strong></li>
-                            <li><strong>Content loading</strong></li>
-                            <li><strong>Error handling</strong></li>
-                            <li><strong>Maximum error count</strong></li>
-                            <li><strong>Permitted hosts</strong></li>
-                            <li><strong>User agent</strong></li>
+                            <strong>Keep-alive</strong></li>
+                            <strong>Timeouts</strong></li>
+                            <strong>Content compression</strong></li>
+                            <strong>Header fields</strong></li>
+                            <strong>Thinktimes</strong></li>
+                            <strong>Content loading</strong></li>
+                            <strong>Error handling</strong></li>
+                            <strong>Maximum error count</strong></li>
+                            <strong>Permitted hosts</strong></li>
+                            <strong>User agent</strong></li>
                         </ul>
 
                         <p>
