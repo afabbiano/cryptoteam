@@ -953,11 +953,11 @@ normativa:
 
         intro:
             headline: Normativa Nazionale ed Europea
-            details: In questa pagina pubblichiamo  la norma Nazionale ed Europea in riferimento al trattamento e alla protezione dei dati, più la Direttiva  riguardante la protezione del know-how e delle informazioni commerciali (Segreti Aziendali)
+            details: In questa pagina pubblichiamo  la norma Nazionale ed Europea in riferimento al trattamento e alla protezione dei dati, più la Direttiva  riguardante la protezione del know-how e delle informazioni commerciali - Segreti Aziendali -
 
         technologies:
-            headline: Norma 1
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
+            headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
+            lead: La struttuta del "Codice Privacy" è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° PARTE: Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
