@@ -959,12 +959,12 @@ normativa:
             headline: Norma 1
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
-                lead: Testo della variabile lead. Non serve metterlo tra virgolette se non ci sono caratteri speciali o se non si va su più righe con Enter.
+                lead: Testo della variabile details-lead. Non serve metterlo tra virgolette se non ci sono caratteri speciali o se non si va su più righe con Enter.
                 text: "<p>
-                        Primo paragrafo della variabile text. Può anche essere l'unico.
+                        Primo paragrafo della variabile details-text. Può anche essere l'unico.
                       </p>
                       <p>
-                        Inserire qui il secondo paragrafo della variabile text. Si posso aggiungere altri blocchi p e slash-p, l'importante è lasciare le virgolette dopo l'ultiomo blocco slash-p.
+                        Inserire qui il secondo paragrafo della variabile details-text. Si posso aggiungere altri blocchi p e slash-p, l'importante è lasciare le virgolette dopo l'ultiomo blocco slash-p.
                       </p>"
 
         ui:
