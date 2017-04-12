@@ -959,9 +959,9 @@ normativa:
             headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
             lead: La struttuta del "Codice Privacy" è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
-                lead: Testo della variabile details-lead. Non serve metterlo tra virgolette se non ci sono caratteri speciali o se non si va su più righe con Enter.
+                lead: 1° PARTE Disposizioni generali (Art. 1-45)
                 text: "<p>
-                        Primo paragrafo della variabile details-text. Può anche essere l'unico.
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero - 
                       </p>
                       <p>
                         Inserire qui il secondo paragrafo della variabile details-text. Si posso aggiungere altri blocchi p e slash-p, l'importante è lasciare le virgolette dopo l'ultiomo blocco slash-p.
