@@ -959,35 +959,35 @@ normativa:
             headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
             lead: La struttuta del "Codice Privacy" è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
-                lead: 1° PARTE Disposizioni generali (Art. 1-45)
+                lead: <strong>1° Parte "Disposizioni Generali" (Art. 1-45)</strong>
                 text: "<p>
-                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero - 
-                      </p>
-                      <p>
-                        Inserire qui il secondo paragrafo della variabile details-text. Si posso aggiungere altri blocchi p e slash-p, l'importante è lasciare le virgolette dopo l'ultiomo blocco slash-p.
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
+                lead2: <strong>2° Parte "Disposizioni DUE" (Art. 1-45)</strong>
+                text2: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
+                lead3: <strong>3° Parte "Disposizioni DUE" (Art. 1-45)</strong>
+                text3: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
                       </p>"
 
         ui:
-            headline: Norma 2
-            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
+            headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
+            lead: La struttuta del "Codice Privacy" è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
-                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
-                text:
-                    keyfeatures:
-                        headline: Soluzione
-                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
-                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
-                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
-                                <li><strong>Dati Salvati Sistematicamente</strong></li>
-                                <li><strong>Policy per la Condivisione</strong></li>
-                                <li><strong>Compliance Normative</strong></li>
-                                <li><strong>Classificazione dei dati </strong></li>
-                                <li><strong>Identificazione dei Dati</strong></li>
-                                <li><strong>Privacy all'interno dei processi informatici</strong></li>
-
-                    download:
-                        headline: Fatevi Aiutare
-                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+                lead: <strong>1° Parte "Disposizioni Generali" (Art. 1-45)</strong>
+                text: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
+                lead2: <strong>2° Parte "Disposizioni DUE" (Art. 1-45)</strong>
+                text2: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
+                lead3: <strong>3° Parte "Disposizioni DUE" (Art. 1-45)</strong>
+                text3: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
 
         deployment:
             headline: Norma 3
