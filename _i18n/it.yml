@@ -1043,7 +1043,7 @@ normativa:
                 </p>"
 
         reporting:
-            headline: Cancellare da questo testo fino a Norma17
+            headline: Cancellare
             lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
             details:
                 lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
@@ -1085,7 +1085,7 @@ normativa:
 
 
         realtime:
-            headline: Norma 5
+            headline: Cancellare
             lead: è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
             details:
                 lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
@@ -1095,8 +1095,8 @@ normativa:
                     title: Realtime Monitoring with XLT
 
         adjustable:
-            headline: Norma 6
-            lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
+            headline: Che cosa è un segreto commerciale?
+            lead: In linea di massima, tutte le informazioni commerciali riservate che fornisce un'impresa un vantaggio competitivo può essere considerato un segreto commerciale. I segreti commerciali comprendono la fabbricazione o segreti industriali e segreti commerciali. L'uso non autorizzato di tali informazioni da parte di persone diverse dal titolare è considerato come una pratica sleale e una violazione del segreto commerciale. A seconda del sistema giuridico, la tutela dei segreti commerciali fa parte del concetto generale di protezione contro la concorrenza sleale o si basa su specifiche norme o la giurisprudenza in materia di protezione delle informazioni riservate.
             details:
                 lead: A good tool has to be adjustable to the environment it is used in. Thus, XLT supports many ways to be extended or modified to fit your needs even better.
                 reports:
