@@ -1133,7 +1133,7 @@ normativa:
         news:
             1:
                 title: Titolo Notizia 1
-                when: 7 Febbraio 2017
+                when: 22 Ottobre 2016
                 excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
             2:
                 title: Titolo Notizia 2
@@ -1147,6 +1147,18 @@ normativa:
                 title: Titolo Notizia 4
                 when: 3 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 3 Aprile 2017
+            5:
+                title: Titolo Notizia 5
+                when: 12 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 12 Aprile 2017
+            6:
+                title: Titolo Notizia 6
+                when: 13 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 13 Aprile 2017
+            7:
+                title: Titolo Notizia 7
+                when: 14 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 14 Aprile 2017
 ########################################################################
 
 
