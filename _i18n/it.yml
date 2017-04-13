@@ -1043,7 +1043,7 @@ normativa:
                 </p>"
 
         reporting:
-            headline: Norma 4
+            headline: Cancellare da questo testo fino a Norma17
             lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
             details:
                 lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
