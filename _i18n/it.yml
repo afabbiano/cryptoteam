@@ -1028,11 +1028,18 @@ normativa:
                 lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
                 text: "<p>
                     You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
-                </p>
-
-                <p>
-                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
-                    possible, to make it as flexible as possible.
+                </p>"
+                lead2: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text2: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                </p>"
+                lead3: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text3: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                </p>"
+                lead4: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                text4: "<p>
+                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
                 </p>"
 
         reporting:
