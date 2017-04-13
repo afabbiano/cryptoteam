@@ -1025,9 +1025,9 @@ normativa:
             headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
             lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
-                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                lead: CAPO I "Oggetto e ambito di applicazione" (Art.1-2)
                 text: "<p>
-                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                    (Art.1) Oggetto e ambito di applicazione - (Art.2) Definizioni - 
                 </p>"
                 lead2: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
                 text2: "<p>
