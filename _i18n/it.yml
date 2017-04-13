@@ -1025,19 +1025,19 @@ normativa:
             headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
             lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
-                lead: CAPO I "Oggetto e ambito di applicazione" (Art.1-2)
+                lead: <strong>CAPO I "Oggetto e ambito di applicazione" (Art.1-2)</strong>
                 text: "<p>
-                    (Art.1) Oggetto e ambito di applicazione - (Art.2) Definizioni - 
+                    (Art.1) Oggetto e ambito di applicazione - (Art.2) Definizioni -
                 </p>"
-                lead2: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                lead2: <strong>CAPO II Acquisizione, utilizzo e divulgazione dei segreti commerciali (Art.3-5)</strong>
                 text2: "<p>
-                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                    (Art.3) Acquisizione, utilizzo e divulgazione leciti dei segreti commerciali - (Art.4) Acquisizione, utilizzo e divulgazione illeciti dei segreti commerciali - (Art.5) Eccezioni -
                 </p>"
-                lead3: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                lead3: <strong>CAPO III Misure, procedure e strumenti di tutela (Art.6-15)</strong>
                 text3: "<p>
-                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
+                    (Art.6) Obbligo generale - (Art.7) Proporzionalità e abuso del processo - (Art.8) Prescrizione - (Art.9) Tutela della riservatezza dei segreti commerciali nel corso di procedimenti giudiziari - (Art.10) Misure provvisorie e misure cautelari - (Art.11) Condizioni di applicazione e protezione - (Art.12) Ingiunzioni e misure correttive - (Art.13) Condizioni di applicazione, protezione e misure alternative - (Art.14) Risarcimento del danno - (Art.15) Pubblicazione delle decisioni giudiziarie - 
                 </p>"
-                lead4: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                lead4: <strong> </strong>
                 text4: "<p>
                     You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
                 </p>"
