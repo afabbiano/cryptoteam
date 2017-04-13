@@ -978,7 +978,7 @@ normativa:
 
         ui:
             headline: (UE) 2016/679 - GDPR - General Data Protection Regulation
-            lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "CAPI" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
+            lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
             details:
                 lead: <strong>CAPO 1  "Disposizioni Generali" (Art. 1-4)</strong>
                 text: "<p>
@@ -1022,8 +1022,8 @@ normativa:
                       </p>"
 
         deployment:
-            headline: Norma 3
-            lead: Provaaaa.
+            headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
+            lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
                 lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
                 text: "<p>
