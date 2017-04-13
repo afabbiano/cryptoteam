@@ -953,68 +953,97 @@ normativa:
 
         intro:
             headline: Normativa Nazionale ed Europea
-            details: Le principali norme che regolamentano la gestione dei dati aziendali
+            details: In questa pagina pubblichiamo  la norma Nazionale ed Europea in riferimento al trattamento e alla protezione dei dati, più la Direttiva  riguardante la protezione del know-how e delle informazioni commerciali - Segreti Aziendali -
 
         technologies:
-            headline: Norma 1
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
+            headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
+            lead: La struttuta del "Codice Privacy" come LINEA GUIDA è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
-                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
-                text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
-
-                <p>
-                    <strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.
-                    <strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).
-                    <strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing e spam.
-                    <strong>Protegge le mail</strong> scambiate incluso i suoi allegati tra i corrispondenti evitando sottrazioni o copie delle informazioni aziendali.
-                    <strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.
-                    <strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.
-                    <strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.
-                    <strong>Cancellami</strong>.
-                </p>
-
-                <p>
-                    Cancellami ...is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
-                </p>"
+                lead: <strong>1° Parte "Disposizioni Generali" (Art. 1-45)</strong>
+                text: "<p>
+                        Titolo I - Principi generali  - Titolo II - Diritti dell'interessato -  Titolo III - Regole generali per il trattamento dei dati - Titolo IV - Soggetti che effettuano il trattamento -  Titolo V - Sicurezza dei dati e dei sistemi - Titolo VI – Adempimenti - Titolo VII - Trasferimento dei dati all'estero -
+                      </p>"
+                lead2: <strong>2° Parte "Disposizioni DUE" (Art. 46-140)</strong>
+                text2: "<p>
+                        Titolo I - Trattamenti in ambito giudiziario - Titolo II - Trattamenti da parte di forze di polizia -  Titolo III - Difesa e sicurezza dello Stato - Titolo IV - Trattamenti in ambito pubblico - Titolo V - Trattamento di dati  - personali in ambito sanitario -  Titolo VI – Istruzione - Titolo VII - Trattamento per scopi storici, statistici o scientifici  - Titolo VIII - Lavoro e previdenza sociale -  Titolo IX - Sistema bancario, finanziario ed assicurativo -  Titolo X - Comunicazioni elettroniche - Titolo XI - Libere professioni e investigazione privata - Titolo XII - Giornalismo ed espressione letteraria ed artistica - Titolo XIII - Marketing diretto -
+                      </p>"
+                lead3: <strong>3° Parte "Disposizioni DUE" (Art. 141-186)</strong>
+                text3: "<p>
+                        Titolo I - Tutela amministrativa e giurisdizionale - Titolo II - L'Autorità - Titolo III – Sanzioni - Titolo IV - Disposizioni modificative, abrogative, transitorie e finali –
+                      </p>"
+                lead4: <strong>Allegati</strong>
+                text4: "<p>
+                        - Allegato A.1 . Codice di deontologia - Trattamento dei dati personali nell'esercizio dell'attività giornalistica - Allegato A.2 . Codici di deontologia - Trattamento dei dati personali per scopi storici - Allegato A.3 . Codice di deontologia - Trattamento dei dati personali a scopi statistici in ambito Sistan - Allegato A.4 . Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici - Allegato A.5 . Codice di deontologia e di buona condotta per i sistemi informativi gestiti da soggetti privati in tema di crediti al consumo, affidabilità e puntualità nei pagamenti - Allegato A.6 . Codice di deontologia e di buona condotta per i trattamenti di dati personali effettuati per svolgere investigazioni difensive - A.7. Codice di deontologia e di buona condotta per il trattamento dei dati personali effettuato a fini di informazione commerciale -
+                      </p>"
 
         ui:
-            headline: Norma 2
-            lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
+            headline: (UE) 2016/679 - GDPR - General Data Protection Regulation
+            lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
             details:
-                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
-                text:
-                    keyfeatures:
-                        headline: Soluzione
-                        text: In caso di attacchi o di errori nella gestione delle password eseguiti dagli utenti, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
-                        list:  <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
-                                <li><strong>Dati Cifrati Sistematicamente</strong></li>
-                                <li><strong>Dati Salvati Sistematicamente</strong></li>
-                                <li><strong>Policy per la Condivisione</strong></li>
-                                <li><strong>Compliance Normative</strong></li>
-                                <li><strong>Classificazione dei dati </strong></li>
-                                <li><strong>Identificazione dei Dati</strong></li>
-                                <li><strong>Privacy all'interno dei processi informatici</strong></li>
-
-                    download:
-                        headline: Fatevi Aiutare
-                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+                lead: <strong>CAPO 1  "Disposizioni Generali" (Art. 1-4)</strong>
+                text: "<p>
+                        Oggetto e finalità - Ambito di applicazione materiale - Ambito di applicazione territoriale - Definizioni -
+                      </p>"
+                lead2: <strong>CAPO 2 "Principi" (Art. 5-11)</strong>
+                text2: "<p>
+                        Principi applicabili al trattamento di dati personali - Liceità del trattamento - Condizioni per il consenso - Condizioni applicabili al consenso dei minori in relazione ai servizi della società dell'informazione - Trattamento di categorie particolari di dati personali - Trattamento dei dati personali relativi a condanne penali e reati - Trattamento che non richiede l'identificazione -
+                      </p>"
+                lead3: <strong>CAPO III 3° "Diritto dell'interessato" (Art. 12-23)</strong>
+                text3: "<p>
+                        Sez.1, Trasparenza e modalità - Sez.2, Informazione e accesso ai dati personali - Sez.3, Rettifica e cancellazione - Sez.4, Diritto di opposizione e processo decisionale automatizzato relativo alle persone fisiche - Sez.5, Limitazioni -
+                      </p>"
+                lead4: <strong>CAPO IV "Titolare del trattamento e resp. del tratt." (Art. 24-43)</strong>
+                text4: "<p>
+                        Sez.1, Obblighi generali - Sez.2, Sicurezza dei dati personali - Sez.3, Valutazione d'impatto sulla protezione dei dati e consultazione preventiva - Sez.4, Responsabile della protezione dei dati - Sez.5, Codici di condotta e certificazione -
+                      </p>"
+                lead5: <strong>CAPO V "Trasferimenti di dati personali verso paesi terzi o organizzazioni internazionali" (Art. 44-50)</strong>
+                text5: "<p>
+                         (Art.44) Principio generale per il trasferimento - (Art.45) Trasferimento sulla base di una decisione di adeguatezza - (Art.46) Trasferimento soggetto a garanzie adeguate - (Art.47) Norme vincolanti d'impresa - (Art.48) Trasferimento o comunicazione non autorizzati dal diritto dell'Unione - (Art.49) Deroghe in specifiche situazioni - (Art.50) Cooperazione internazionale per la protezione dei dati personali -
+                      </p>"
+                lead6: <strong>CAPO VI "Autorità di controllo indipendenti" (Art.51-59)</strong>
+                text6: "<p>
+                        Sez.1, Indipendenza - Sez.2, Competenza, compiti e poteri -
+                      </p>"
+                lead7: <strong>CAPO VII "Cooperazione e coerenza" (Art.60-76)</strong>
+                text7: "<p>
+                        Sez.1, Cooperazione - Sez.2, Coerenza - Sez.3, Comitato europeo per la protezione dei dati -
+                      </p>"
+                lead8: <strong>CAPO VIII "Mezzi di ricorso, responsabilità e sanzioni" (Art.77-84)</strong>
+                text8: "<p>
+                        (Art.77) Diritto di proporre reclamo all'autorità di controllo - (Art.78) Diritto a un ricorso giurisdizionale effettivo nei confronti dell'autorità di controllo - (Art.79) Diritto a un ricorso giurisdizionale effettivo nei confronti del titolare del trattamento o del responsabile del trattamento - (Art.80) Rappresentanza degli interessati - (Art.81) Sospensione delle azioni - (Art.82) Diritto al risarcimento e responsabilità - (Art.83) Condizioni generali per infliggere sanzioni amministrative pecuniarie - (Art.84) Sanzioni
+                      </p>"
+                lead9: <strong>CAPO IX "Disposizioni relative a specifiche situazioni di trattamento" (Art.85-91)</strong>
+                text9: "<p>
+                        (Art.85) Trattamento e libertà d'espressione e di informazione - (Art.86) Trattamento e accesso del pubblico ai documenti ufficiali - (Art.87) Trattamento del numero di identificazione nazionale - (Art.88) Trattamento dei dati nell'ambito dei rapporti di lavoro - (Art.89) Garanzie e deroghe relative al trattamento a fini di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici - (Art.90) Obblighi di segretezza - (Art.91) Norme di protezione dei dati vigenti presso chiese e associazioni religiose -
+                      </p>"
+                lead10: <strong>CAPO X "Atti delegati e atti di esecuzione" (Art.92-93) + CAPO XI "Disposizioni finali" (Art.94-99)</strong>
+                text10: "<p>
+                        (Art.92) Esercizio della delega - (Art.93) Procedura di comitato - (Art.94) Abrogazione della direttiva 95/46/CE - (Art.95) Rapporto con la direttiva 2002/58/CE Il - (Art.96) Rapporto con accordi precedentemente conclusi - (Art.97) Relazioni della Commissione - (Art.98) Riesame di altri atti legislativi dell'Unione in materia di protezione dei dati - (Art.99) Entrata in vigore e applicazione -
+                      </p>"
 
         deployment:
-            headline: Norma 3
-            lead: Provaaaa.
+            headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
+            lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
-                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
+                lead: <strong>CAPO I "Oggetto e ambito di applicazione" (Art. 1-2)</strong>
                 text: "<p>
-                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
-                </p>
-
-                <p>
-                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
-                    possible, to make it as flexible as possible.
+                    (Art.1) Oggetto e ambito di applicazione - (Art.2) Definizioni -
+                </p>"
+                lead2: <strong>CAPO II "Acquisizione, utilizzo e divulgazione dei segreti commerciali" (Art. 3-5)</strong>
+                text2: "<p>
+                    (Art.3) Acquisizione, utilizzo e divulgazione leciti dei segreti commerciali - (Art.4) Acquisizione, utilizzo e divulgazione illeciti dei segreti commerciali - (Art.5) Eccezioni -
+                </p>"
+                lead3: <strong>CAPO III "Misure, procedure e strumenti di tutela" (Art. 6-15)</strong>
+                text3: "<p>
+                    (Art.6) Obbligo generale - (Art.7) Proporzionalità e abuso del processo - (Art.8) Prescrizione - (Art.9) Tutela della riservatezza dei segreti commerciali nel corso di procedimenti giudiziari - (Art.10) Misure provvisorie e misure cautelari - (Art.11) Condizioni di applicazione e protezione - (Art.12) Ingiunzioni e misure correttive - (Art.13) Condizioni di applicazione, protezione e misure alternative - (Art.14) Risarcimento del danno - (Art.15) Pubblicazione delle decisioni giudiziarie -
+                </p>"
+                lead4: <strong>CAPO IV "Sanzioni, relazioni e disposizioni finali" (Art. 16-21 )</strong>
+                text4: "<p>
+                    (Art.16) Sanzioni in caso di mancato adempimento della presente direttiva - (Art.17) Scambio di informazioni e corrispondenti - (Art.18) Relazioni - (Art.19) Recepimento - (Art.20) Entrata in vigore - (Art.21) Destinatari -
                 </p>"
 
         reporting:
-            headline: Norma 4
+            headline: Cancellare da questo testo fino a Norma17
             lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
             details:
                 lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
