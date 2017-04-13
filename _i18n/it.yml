@@ -1130,11 +1130,19 @@ normativa:
                 excerpt: Questa pagina è stata inserita il 3 Aprile 2017
             6:
                 title: Titolo Notizia 6
-                when: 13 Aprile 2017
-                excerpt: Questa pagina è stata inserita il 13 Aprile 2017
+                when: 10 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 10 Aprile 2017
             7:
                 title: Titolo Notizia 7
-                when: 14 Aprile 2017
+                when: 11 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 11 Aprile 2017
+            8:
+                title: Titolo Notizia 8
+                when: 12 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 12 Aprile 2017
+            9:
+                title: Titolo Notizia 9
+                when: La data qui non ha importanza!
                 excerpt: Questa pagina è stata inserita il 14 Aprile 2017
 ########################################################################
 
