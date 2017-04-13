@@ -1152,9 +1152,13 @@ normativa:
                 when: 12 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 12 Aprile 2017
             6:
-                title: Titolo Notizia
+                title: Titolo Notizia 6
                 when: 13 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 13 Aprile 2017
+            7:
+                title: Titolo Notizia 7
+                when: 14 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 14 Aprile 2017
 ########################################################################
 
 
