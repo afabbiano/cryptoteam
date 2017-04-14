@@ -1,0 +1,32 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.3.title
+when: normativa.posts.news.3.when
+excerpt: normativa.posts.news.3.excerpt
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Pubblichiamo una notizia riguardante la nota società Milanese Hacking Team relativamente al furto di dati che convolge gran parte dei loro cliente istitutidi credito inclusi
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	"Terroristi, estorsori ed altri possono implementare a volontà la nostra tecnologia", spiega l'azienda milanese, che il 6 luglio è stata "derubata" di dati e documenti riservati. Il direttore del Dis, chiamato a riferire al Copasir sul caso, spiega che il rischio è infatti che dati della nostra intelligence siano stati hackerati. Prime conferme sull'utilizzo dei suoi software da parte dell'Aise, il nostro servizio per la sicurezza esterna. “Abbiamo perso la capacità di controllare chi utilizza la nostra tecnologia. Terroristi, estorsori ed altri possono implementarla a volontà. Crediamo sia una situazione estremamente pericolosa, è oramai evidente che esiste una grave minaccia”. L’allarme è di Hacking Team, società milanese specializzata nello sviluppo e gestione di software per hackerare computer e smartphone che fornisce a governi di tutto il mondo. Il 6 luglio ha subito un grave attacco hacker, a seguito del quale sono finiti in rete oltre 400 gigabyte con email, codici, liste clienti poi pubblicati su Twitter, inclusa la corrispondenza virtuale del Ceo David Vincenzetti. Dati e tecnologie che ora “ a causa del lavoro Online, i giornali anglosassoni titolano con tutte le maiuscole per catturare l’occhio del lettore fino all’ultima parola. Sono le distorsioni del passaggio dalla carta al digitale. Sul web, la guerra dell’attenzione si gioca sul campo dell’inconscio perché l’interesse delle persone tende a crollare in una frazione di secondo.
+</p>
+
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news #3. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #3.
+</p>
+
+{% endif %}
