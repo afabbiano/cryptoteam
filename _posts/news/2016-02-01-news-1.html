@@ -1,0 +1,32 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.1.title
+when: normativa.posts.news.1.when
+excerpt: normativa.posts.news.1.excerpt
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Titolo N. 1.
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+Gli utenti, frastornati dalla molteplicità delle offerte, si lasciano trasportare sull’onda della novità senza rendersi conto dei rischi che corrono e un certo tipo di industria non perde l’occasione di sfruttare le opportunità: la notizia che in un caso giudiziario sono state intercettate molte telefonate spinge gli utenti a preferire applicazioni di comunicazione su internet che offrono servizi gratuiti e cifrati, chiedendogli in cambio copia dei loro contatti, senza pensare che così facendo rinunciano alla loro privacy in favore di un provider straniero, vittime del cyberspazio.
+</p>
+
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #1.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #1.
+</p>
+
+{% endif %}
