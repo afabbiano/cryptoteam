@@ -1109,16 +1109,16 @@ normativa:
     posts:
         news:
             1:
-                title: Titolo Notizia 1
-                when: 22 Ottobre 2016
-                excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
+                title: Tutela del segreto delle comunicazioni e sorveglianza elettronica nell’era dei social network e dell’internet delle cose
+                when: 01 Febbraio 2016
+                excerpt: pppppippa
             2:
-                title: Titolo Notizia 2
-                when: 12 Febbraio 2017
+                title: Furto di dati aziendali. Dipendenti infedeli responsabili nel 43% dei casi
+                when: 29 Novembre 2016
                 excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
             3:
-                title: Titolo Notizia 3
-                when: 31 Marzo 2017
+                title: Hacking Team, servizi segreti&#58 “Possibile impatto su software e dati della nostra intelligence”
+                when: 09 Luglio 2015
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
             4:
                 title: Titolo Notizia 4
