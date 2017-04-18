@@ -432,7 +432,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio&#58 Tecniche, Strutturali, Fiscali, Spesa. Ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze esempio di tipo&#58 Tecnico, Rispetto delle Norme, tipo di Spesa e fiscalità. Sono tutte finalizzate a proteggere il patrimonio dati e tramite l'innovazione della condivisione sicura, orientate verso l’aumento della produttività.
 
         riquadri:
             box1:
@@ -1121,13 +1121,13 @@ normativa:
                 when: 09 Luglio 2015
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
             4:
-                title: Titolo Notizia 4
-                when: 3 Aprile 2017
-                excerpt: Questa pagina è stata inserita il 3 Aprile 2017
+                title: Dall’ultimo Global Fraud Report 2015 stilato dalla società di risk consulting Kroll
+                when: 1 Dicembre 2015
+                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
             5:
-                title: Titolo Notizia 5
-                when: 3 Aprile 2017
-                excerpt: Questa pagina è stata inserita il 3 Aprile 2017
+                title: "- Comunicato Stampa - Le imprese vedono un aumento significativo delle frodi durante il 2016"
+                when: 18 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
             6:
                 title: Titolo Notizia 6
                 when: 10 Aprile 2017
