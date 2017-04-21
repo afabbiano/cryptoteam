@@ -1254,9 +1254,9 @@ contatti:
         headline: Benvenuto in questo menu Contatti
         details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
     germany:
-        country: Contatto / Commerciale
+        country: Area Commerciale
         head: Andrea Fabbiano
-        address-country: 
+        address-country:
         management:
             label: Managing Directors
         registry:
@@ -1265,7 +1265,7 @@ contatti:
         vat:
             label: VAT Number
     usa:
-        country: Contatto / Tecnico
+        country: Area Tecnica
         address: Stefano Martinelli
         management:
             label: Management
