@@ -1255,8 +1255,8 @@ contatti:
         details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
     germany:
         country: Area Commerciale
-        head: Andrea Fabbiano
-        address-country:
+        head:
+        address-country: Andrea Fabbiano 
         management:
             label: Managing Directors
         registry:
