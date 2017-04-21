@@ -1157,23 +1157,23 @@ normativa:
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             13:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia
-                when: 12 Gennaio 2017
+                title: Furti e ricatti, i file pirata svuotano le aziende italiane
+                when: 12 Febbraio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             14:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia
+                title: xxxx
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             15:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia
+                title: xxxx
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             16:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia
+                title: xxx
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             17:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia
+                title: xxx
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
 ########################################################################
@@ -1256,7 +1256,7 @@ contatti:
     germany:
         country: Area Commerciale
         head:
-        address-country: Andrea Fabbiano 
+        address-country: Andrea Fabbiano
         management:
             label: Managing Directors
         registry:
