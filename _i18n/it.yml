@@ -1255,8 +1255,8 @@ contatti:
         details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
     germany:
         country: Contatto / Commerciale
-        head: Headquarters
-        address-country: Germany
+        head: Andrea Fabbiano
+        address-country: 
         management:
             label: Managing Directors
         registry:
@@ -1265,8 +1265,8 @@ contatti:
         vat:
             label: VAT Number
     usa:
-        country: USA / North America
-        address: One Broadway, 14th Floor<br/>Cambridge, MA 02142<br/>United States
+        country: Contatto / Tecnico
+        address: Stefano Martinelli
         management:
             label: Management
             details: René Schwietzke, President and CEO<br/>Roy Sarnoch, CFO<br/>Sara B. Young, Director, USA
