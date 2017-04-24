@@ -68,7 +68,7 @@ sitenavigation:
   - name: Contatti
     secondarynav:
         - name: Contatti
-        - name: Tecnico
+#        - name: Tecnico
 #  - name: :External
 #    title: Blog
 #    url: https://blog.cryptoteam.it/
