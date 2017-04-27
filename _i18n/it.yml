@@ -101,8 +101,8 @@ navigation:
         Privacy: Privacy
 
 # Contatti
-        Contatti: Commerciale
-        Tecnico: Tecnico
+        Contatti: Come contattarci
+#        Tecnico: Tecnico
 ########################################################################
 
 
@@ -244,7 +244,7 @@ servizi:
             headline: Perchè Proteggere i Dati
             teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
             list:
-                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
+                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.<br>Vuoi un esempio di cosa può accadere in caso di attacco informatico ai tuoi documenti? Leggi <a href="/it/news/2017/02/12/news-13.html" target="_blank">questa notizia</a>.
                 li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
                 li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
                 li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
@@ -432,7 +432,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio  coprono diverse esigenze esempio&#58 Tecniche, Strutturali, Fiscali, Spesa. Ma sono tutte finalizzate a proteggere il  patrimonio  dati e tramite la condivisione sicura verso l’aumento della produttività aziendale.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze esempio di tipo&#58 Tecnico, Rispetto delle Norme, tipo di Spesa e fiscalità. Sono tutte finalizzate a proteggere il patrimonio dati e tramite l'innovazione della condivisione sicura, orientate verso l’aumento della produttività.
 
         riquadri:
             box1:
@@ -1109,21 +1109,73 @@ normativa:
     posts:
         news:
             1:
-                title: Titolo Notizia 1
-                when: 7 Febbraio 2017
-                excerpt: Con la decisione di passare a Jekyll, Cryptoteam prepara il lancio del nuovo sito web. Stay tuned!
+                title: Tutela del segreto delle comunicazioni e sorveglianza elettronica nell’era dei social network e dell’internet delle cose - (www.sicurezzanazionale.gov.it) -
+                when: 01 Febbraio 2016
+                excerpt: pppppippa
             2:
-                title: Titolo Notizia 2
-                when: 12 Febbraio 2017
+                title: Furto di dati aziendali. Dipendenti infedeli responsabili nel 43% dei casi - (Report Intel Security) -
+                when: 29 Novembre 2016
                 excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
             3:
-                title: Titolo Notizia 3
-                when: 31 Marzo 2017
+                title: Hacking Team, servizi segreti&#58 “Possibile impatto su software e dati della nostra intelligence” - (www.ilfattoquotidiano.it/) -
+                when: 09 Luglio 2015
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
             4:
-                title: Titolo Notizia 4
-                when: 3 Aprile 2017
-                excerpt: Questa pagina è stata inserita il 3 Aprile 2017
+                title: Dall’ultimo Global Fraud Report 2015 stilato dalla società di risk consulting Kroll - (/www.kroll.com) -
+                when: 1 Dicembre 2015
+                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
+            5:
+                title: Comunicato Stampa - Le imprese vedono un aumento significativo delle frodi durante il 2016  - (www.kroll.com) -
+                when: 17 Gennaio 2017
+                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
+            6:
+                title: Roma - Rapporto Clusit - (ww.clusit.it) -
+                when: 07 Giugno 2016
+                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
+            7:
+                title: Milano - Presentazione Rapporto Clusit - Security Summit è la manifestazione dedicata alla sicurezza delle informazioni - (ww.clusit.it) -
+                when: 14 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
+            8:
+                title: Usa e web&#58 la privacy è finita, andate in pace di Umberto Rapetto - (www.ilfattoquotidiano.it) -
+                when: 29 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
+            9:
+                title: Cybersicurezza, la spia nel televisore non è quella luminosa - (www.ilfattoquotidiano.it) -
+                when: 08 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
+            10:
+                title: Spionaggio, nel database degli arrestati 18.327 username. “Vantaggi e profitti anche per altri” - (www.ilfattoquotidiano.it) -
+                when: 10 Gennaio 2017
+                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
+            11:
+                title: Cyber security report 2016, il vademecum anti-hacker per la sicurezza nazionale. L’Italia non ha una protezione adeguata nel cyberspace - (www.repubblica.it) -
+                when: 03 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 20 Aprile 2017
+            12:
+                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia - (www.infodata.ilsole24ore.com) -
+                when: 12 Gennaio 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+            13:
+                title: Furti e ricatti, i file pirata svuotano le aziende italiane - www.lastampa.it) -
+                when: 12 Febbraio 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+            14:
+                title: Gli attacchi informatici più dannosi del 2016, mese per mese - (www.cybersecurity.startupitalia.eu) -
+                when: 29 Dicembre 2016
+                excerpt: Questa pagina è stata inserita il 24 Aprile 2017
+            15:
+                title: Dopo alcuni mesi di gestazione la riforma della sicurezza informatica nazionale prende corpo in 13 articoli. Tra le novità il ruolo dei privati e i nuovi poteri del DIS - (www.cybersecurity.startupitalia.eu) -
+                when: 14 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+            16:
+                title: xxx
+                when: 12 Gennaio 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+            17:
+                title: xxx
+                when: 12 Gennaio 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
 ########################################################################
 
 
@@ -1184,6 +1236,105 @@ chisiamo:
         headline: Box8
         details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
+
+
+
+# *************************************************************************
+# INIZIO CONTENUTI MENU CONTATTI
+# *************************************************************************
+
+#PAGINA CONTATTI--->Come contattarci (/contatti/index.html)
+########################################################################
+contatti:
+    title: Xceptance - Contact Information
+    description: All about addresses, names, owners, privacy, and other legal stuff.
+
+    quote: Quality assurance can make that little difference between a good product and a great product.
+    intro:
+        headline: Benvenuto in questo menu Contatti
+        details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
+    germany:
+        country: Area Commerciale
+        head:
+        address-country: Andrea Fabbiano
+        management:
+            label: Managing Directors
+        registry:
+            label: Company Registry
+            details: "Amtsgericht Jena<br/>Registration Number: HRB 210087"
+        vat:
+            label: VAT Number
+    usa:
+        country: Area Tecnica
+        address: Stefano Martinelli
+        management:
+            label: Management
+            details: René Schwietzke, President and CEO<br/>Roy Sarnoch, CFO<br/>Sara B. Young, Director, USA
+    trademarks:
+        headline: Trademarks
+        details: Xceptance and XLT are registered trademarks.
+    disclaimer:
+        headline: Disclaimer
+        details: Despite careful verification of our content, we assume no liability for any content of external links. Only the respective site owners themselves are liable for the content of linked pages.
+##################################
+    privacy:
+        title: Xceptance - Privacy Information
+        description: All about privacy, and other legal stuff.
+
+        info: In case of questions, feel free to <a href="/en/contact/">contact us</a>.
+        intro:
+            headline: Privacy
+            lead: We deal with your data carefully.
+        collect:
+            headline: What Information Do We Collect?
+            details: "<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. In order to improve the content and format of our site, Xceptance automatically captures technical information that is then stored in our servers’ log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site. Xceptance uses an internal Web site analytics software that doesn't transfer the data to any third party.</p>"
+        use:
+            headline: How Do We Use Your Information
+            details: "<p>Any of the information we collect from you may be used in one of the following ways:</p>"
+            list: "
+                <li>To personalize your experience (your information helps us to better respond to your individual needs),</li>
+                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you),</li>
+                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs),</li>
+                <li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.),</li>
+                <li>To send emails to answer your inquiries.</li>"
+        cookies:
+            headline: Do We Use Cookies?
+            details: "<p>Yes (cookies are small blocks of information that a site transfers to your computer - if you allow). Only our analytics software uses cookies actively to recognize your browser and capture and remember certain information. If you opt-out of analytics tracking, we will set a single unpersonalized cookie to remember your decision.</p>"
+        thirdparty:
+            headline: Do We Disclose any Information to Outside Parties?
+            details: "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours' or others rights, property, or safety.</p>"
+        links:
+            headline: Third Party Links
+            details: "<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>"
+        privacy-protection:
+            headline: California Online Privacy Protection Act Compliance
+            details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
+        privacy-policy:
+            headline: Online Privacy Policy Only
+            details: "<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>"
+        consent:
+            headline: Your Consent
+            details: "<p>By using our site, you consent to our website's privacy policy.</p>"
+        privacy-changes:
+            headline: Changes to Our Privacy Policy
+            details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
+        sites:
+            headline: Web Sites
+            details: "<p>Xceptance owns, maintains, and contributes at:
+                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
+                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
+                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
+                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
+                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
+                <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
+                <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
+                <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
+                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
+                <a href=\"https://ask.xceptance.de/\">XLT Forum</a>,
+                <a href=\"https://xltportal.xceptance.de/\">XLT Self Service Center</a>, and all other content published on
+                <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
+########################################################################
 
 
 
