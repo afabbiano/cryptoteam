@@ -1,0 +1,34 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.4.title
+when: normativa.posts.news.4.when
+excerpt: normativa.posts.news.4.excerpt
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Lavoro: vietati i controlli indiscriminati su e-mail e smartphone aziendali - Telemarketing: no all'uso dei numeri di telefono "pescati" in rete -
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+Il datore di lavoro non può accedere in maniera indiscriminata alla posta elettronica o ai dati personali contenuti negli smartphone in dotazione al personale. È un comportamento illecito. Lo ha ribadito il Garante della privacy vietando a una multinazionale l'ulteriore utilizzo dei dati personali trattati in violazione di legge [doc. web n. 5958296]. La società potrà solo conservarli per la tutela dei diritti in sede giudiziaria. Nel disporre il divieto l'Autorità ha affermato che il datore di lavoro, pur avendo la facoltà di verificare l'esatto adempimento della prestazione professionale ed il corretto utilizzo degli strumenti di lavoro da parte dei dipendenti, deve in ogni caso salvaguardarne la libertà e la dignità, attenendosi ai limiti previsti dalla normativa. La disciplina di settore in materia di controlli a distanza, inoltre, non consente di effettuare  attività idonee a realizzare, anche indirettamente, il controllo massivo, prolungato e indiscriminato dell'attività del lavoratore. I lavoratori, poi, devono essere sempre informati in modo chiaro e dettagliato sulle modalità di utilizzo degli strumenti aziendali ed eventuali verifiche.
+</p>
+<p>
+	Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5989944" TARGET="_blank">www.garanteprivacy.it&nbsp;</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news #4.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #4. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+{% endif %}

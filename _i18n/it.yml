@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
-        details: La 1° chiave segreta è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
@@ -181,14 +181,14 @@ servizi:
 
         controllo:
             icona: Controllo Accessi
-            titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
+            titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
             testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
 
         cloud:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
-                titolo: Cloud in-House ha la finalità di renderti autonomo, quindi non dipendere da altri fornitori di servizi (Cloud), ma potenzialmente sfruttando il top della tecnologia e della sicurezza
+                titolo: Cloud in-House è una piattaforma di proprietà del cliente, ha la finalità di renderlo autonomo, non dipendente da altri fornitori di servizi (Cloud), sopratutto sfruttando il top della tecnologia e della sicurezza
                 descrizione: Grazie al Cloud in-House e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
@@ -244,11 +244,14 @@ servizi:
             headline: Perchè Proteggere i Dati
             teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
             list:
-                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.<br>Vuoi un esempio di cosa può accadere in caso di attacco informatico ai tuoi documenti? Leggi <a href="/it/news/2017/02/12/news-13.html" target="_blank">questa notizia</a>.
-                li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
-                li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
-                li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
-                li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il famoso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora Doxing (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatizzato (cancellazione dati completa). Virus ATP è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema. Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
+                li2: Nel mondo esistono moltissime piattaforme di spionaggio società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
+                li3: Sono ARMI CYBERNETICHE, se dati sensibili copiati illecitamente, ad insaputa dell’azienda vittima, vanno i mano ai competitor significa nella migliore delle ipotesi, perdere posizioni di mercato. In più è anche un metodo fraudolento "scorciatoia" negli investimenti in ricerca e sviluppo.
+                li4: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
+                li5: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+                li8: <strong>E'importante contestualizzare&#58 una azienda con profilo Cyber Security BASSO non potrà in futuro progredire.</strong>
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
@@ -432,7 +435,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze esempio di tipo&#58 Tecnico, Rispetto delle Norme, tipo di Spesa e fiscalità. Sono tutte finalizzate a proteggere il patrimonio dati e tramite l'innovazione della condivisione sicura, orientate verso l’aumento della produttività.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale (security file sharing), aumento della produttività e  contemporaneamente alla protezione del  hi patrimonio dati.
 
         riquadri:
             box1:
@@ -1109,8 +1112,8 @@ normativa:
     posts:
         news:
             1:
-                title: Tutela del segreto delle comunicazioni e sorveglianza elettronica nell’era dei social network e dell’internet delle cose - (www.sicurezzanazionale.gov.it) -
-                when: 01 Febbraio 2016
+                title:  No all'algoritmo della reputazione, viola la dignità della persona - (www.garanteprivacy.it) -
+                when: 28 Dicembre 2016
                 excerpt: pppppippa
             2:
                 title: Furto di dati aziendali. Dipendenti infedeli responsabili nel 43% dei casi - (Report Intel Security) -
@@ -1121,8 +1124,8 @@ normativa:
                 when: 09 Luglio 2015
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
             4:
-                title: Dall’ultimo Global Fraud Report 2015 stilato dalla società di risk consulting Kroll - (/www.kroll.com) -
-                when: 1 Dicembre 2015
+                title: Vietati controlli indiscriminati su e-mail e smartphone aziendali - Telemarketing&#58 no a uso numeri "pescati" in rete (www.garanteprivacy.it)
+                when: 17 Febbraio 2017
                 excerpt: Questa pagina è stata inserita il 18 Aprile 2017
             5:
                 title: Comunicato Stampa - Le imprese vedono un aumento significativo delle frodi durante il 2016  - (www.kroll.com) -
@@ -1165,16 +1168,28 @@ normativa:
                 when: 29 Dicembre 2016
                 excerpt: Questa pagina è stata inserita il 24 Aprile 2017
             15:
-                title: Dopo alcuni mesi di gestazione la riforma della sicurezza informatica nazionale prende corpo in 13 articoli. Tra le novità il ruolo dei privati e i nuovi poteri del DIS - (www.cybersecurity.startupitalia.eu) -
+                title: In gazzetta ufficiale la “Direttiva recante indirizzi per la protezione cibernetica e la sicurezza informatica nazionali” -  (www.cybersecurity.startupitalia.eu) -
                 when: 14 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             16:
-                title: xxx
-                when: 12 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+                title: Presentazione Cybersecurity Report 2016 a cura di Roberto Baldoni, Luca Montanari, Leonardo Querzoni (www.cybersecurityframework.it)
+                when: 02 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 28 Aprile 2017
             17:
-                title: xxx
-                when: 12 Gennaio 2017
+                title: Nuovo Regolamento Ue sulla privacy. Dal Garante la prima Guida applicativa (www.garanteprivacy.it)
+                when: 28 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 28 Aprile 2017
+            18:
+                title: Money transfer&#58 Garante privacy, 11 mln di multa a cinque società per uso illecito di dati (www.garanteprivacy.it)
+                when: 10 Marzo 2017
+                excerpt: Questa pagina è stata inserita il 28 Aprile 2017
+            19:
+                title: xxxxx
+                when: 28 Aprile 2017
+                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+            20:
+                title: xxxx
+                when: 28 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
 ########################################################################
 
@@ -1223,11 +1238,11 @@ chisiamo:
         headline: Competenze
         details: Il team è in grado di realizzare software, integrare tool, progettare e offrire consulenza in ambito di sicurezza dei dati e di riservatezza delle comunicazioni aziendali.
     box5:
-        headline: Obiettivi
-        details: CryptoTeam è una start-up in fase di avviamento. La continuità, l'assistenza tecnica è garantita da un team di professionisti che collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. <strong>Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
+        headline: CryptoTeam
+        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda". La continuità, l'assistenza tecnica è garantita da un team di professionisti che collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi a loro richiesti. <strong>Usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
     box6:
         headline: Filosofia
-        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di cifratura.
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di "anonimizzazione".
 
     collaborate:
         headline: Box7

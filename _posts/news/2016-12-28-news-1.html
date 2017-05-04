@@ -1,0 +1,35 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.1.title
+when: normativa.posts.news.1.when
+excerpt: normativa.posts.news.1.excerpt
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	No all'algoritmo della reputazione, viola la dignità della persona - Rinnovate le autorizzazioni generali per i dati sensibili e giudiziari - Sicurezza: sì alle smart cam nella sede di Roma Capitale
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+No del Garante privacy alla banca dati on line della reputazione [doc. web n. 5796783]. Il progetto per la misurazione del "rating reputazionale", elaborato da una organizzazione articolata in un'associazione e da una società preposta alla  gestione dell'iniziativa,  viola le norme del Codice sulla protezione dei dati personali e incide negativamente sulla dignità delle persone. L'infrastruttura, costituita da una piattaforma web e un archivio informatico, dovrebbe raccogliere ed elaborare una mole rilevante di dati personali contenuti in documenti "caricati" volontariamente sulla piattaforma dagli stessi utenti o "pescati" dal web. Attraverso un algoritmo, il sistema assegnerebbe poi ai soggetti censiti degli indicatori alfanumerici in grado, secondo la società, di misurare in modo oggettivo l'affidabilità delle persone  in campo economico e professionale.
+</p>
+<p>
+	Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5805596#2" TARGET="_blank">www.garanteprivacy.it &nbsp;</A>
+</p>
+
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #1.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #1.
+</p>
+
+{% endif %}
