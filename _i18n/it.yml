@@ -821,7 +821,7 @@ offerta:
 
         intro:
             headline: PKI Infrastruttura Completa
-            details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni PKI (Infrastruttura a chiave Pubblica), che integrano la Privacy all'interno della propria rete aziendale
+            details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni automatizzate PKI (Infrastruttura a chiave Pubblica), integrata nella rete IT, come piattaforma fulcro delle proprie "Security Operations"
 
         riquadri:
             box1:
@@ -1116,11 +1116,11 @@ normativa:
                 when: 29 Novembre 2016
                 excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
             3:
-                title: Hacking Team, servizi segreti&#58 “Possibile impatto su software e dati della nostra intelligence” - (www.ilfattoquotidiano.it/) -
+                title: Hacking Team  Fuga di dati del 2015 (https://it.wikipedia.org) 
                 when: 09 Luglio 2015
                 excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
             4:
-                title: Vietati controlli indiscriminati su e-mail e smartphone aziendali - Telemarketing&#58 no a uso numeri "pescati" in rete (www.garanteprivacy.it)
+                title: Vietati controlli indiscriminati su e-mail.. (www.garanteprivacy.it)
                 when: 17 Febbraio 2017
                 excerpt: Questa pagina è stata inserita il 18 Aprile 2017
             5:
@@ -1132,7 +1132,7 @@ normativa:
                 when: 07 Giugno 2016
                 excerpt: Questa pagina è stata inserita il 19 Aprile 2017
             7:
-                title: Milano - Presentazione Rapporto Clusit - Security Summit è la manifestazione dedicata alla sicurezza delle informazioni - (ww.clusit.it) -
+                title: Presentazione Rapporto Clusit - (ww.clusit.it) -
                 when: 14 Marzo 2017
                 excerpt: Questa pagina è stata inserita il 19 Aprile 2017
             8:
@@ -1148,35 +1148,35 @@ normativa:
                 when: 10 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 19 Aprile 2017
             11:
-                title: Cyber security report 2016, il vademecum anti-hacker per la sicurezza nazionale. L’Italia non ha una protezione adeguata nel cyberspace - (www.repubblica.it) -
+                title: L’Italia non ha una protezione adeguata nel cyberspace (www.repubblica.it)
                 when: 03 Marzo 2017
                 excerpt: Questa pagina è stata inserita il 20 Aprile 2017
             12:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia - (www.infodata.ilsole24ore.com) -
+                title: La Top 5 dei Malware in Italia - (www.infodata.ilsole24ore.com) -
                 when: 12 Gennaio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             13:
-                title: Furti e ricatti, i file pirata svuotano le aziende italiane - www.lastampa.it) -
+                title: Furti e ricatti, i file pirata svuotano le aziende italiane (www.lastampa.it) -
                 when: 12 Febbraio 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             14:
-                title: Gli attacchi informatici più dannosi del 2016, mese per mese - (www.cybersecurity.startupitalia.eu) -
+                title: Gli attacchi informatici più dannosi del 2016, mese per mese (www.cybersecurity.startupitalia.eu)
                 when: 29 Dicembre 2016
                 excerpt: Questa pagina è stata inserita il 24 Aprile 2017
             15:
-                title: In gazzetta ufficiale la “Direttiva recante indirizzi per la protezione cibernetica e la sicurezza informatica nazionali” -  (www.cybersecurity.startupitalia.eu) -
+                title: Gazzetta ufficiale “Protezione cibernetica e sicurezza informatica” (www.cybersecurity.startupitalia.eu)
                 when: 14 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 21 Aprile 2017
             16:
-                title: Presentazione Cybersecurity Report 2016 a cura di Roberto Baldoni, Luca Montanari, Leonardo Querzoni (www.cybersecurityframework.it)
+                title: Presentazione Cybersecurity Report 2016 (www.cybersecurityframework.it)
                 when: 02 Marzo 2017
                 excerpt: Questa pagina è stata inserita il 28 Aprile 2017
             17:
-                title: Nuovo Regolamento Ue sulla privacy. Dal Garante la prima Guida applicativa (www.garanteprivacy.it)
+                title: Nuovo Regolamento Ue sulla privacy (www.garanteprivacy.it)
                 when: 28 Aprile 2017
                 excerpt: Questa pagina è stata inserita il 28 Aprile 2017
             18:
-                title: Money transfer&#58 Garante privacy, 11 mln di multa a cinque società per uso illecito di dati (www.garanteprivacy.it)
+                title: Garante Privacy&#58 11 mln di multa a 5 società (www.garanteprivacy.it)
                 when: 10 Marzo 2017
                 excerpt: Questa pagina è stata inserita il 28 Aprile 2017
             19:
