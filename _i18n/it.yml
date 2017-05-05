@@ -218,24 +218,20 @@ servizi:
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo: Dati Aziendali
-        sottotitolo: Forniamo soluzioni per la Privacy
+        titolo: Protezione dei Dati Aziendali
+        sottotitolo: Forniamo soluzioni per la Tutela della Privacy
         descrizione: Prova descrizione in protezione, prova, prova
-
-    pd:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
-        title: Xceptance – Demandware Partner
-        description: We are Demandware partner
 
         box1:
             headline: Compliance GDPR
-            teaser: La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
+            teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
             description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (riservate), sono sempre state utilizzate dai Grandi Gruppi Megacorps. Considerandoo gli ottimi risultati ottenuti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
 
         box2:
-            headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
+            headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
+            teaser: L'insieme dei dati aziendali, sensibili e non, costituisce una parte fondamentale del patrimonio societario, e come tale va difeso e protetto dagli attacchi informatici.
             list:
-                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li1: Buste Paghe, Brevetti, Stato Patrimoniale, Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
                 li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
                 li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
                 li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
@@ -1270,7 +1266,7 @@ contatti:
         details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
     germany:
         country: Area Commerciale
-        head:
+        head: Headquarters
         address-country: Andrea Fabbiano
         management:
             label: Managing Directors
