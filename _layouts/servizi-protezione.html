@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html lang="it">
-	{% include head.html %}
+	{% include head.html hashBasedTabbing=true %}
 
-  <body class="xlt-subpages xlt-landing local-scroll" id="page">
+	<body class="xlt-subpages xlt-landing servizi-protezione local-scroll" id="page">
     {% include privacy-message.html %}
 
     {% include top-scroller.html %}
 
-    <div id="navigation" class="navbar-fixed-top">
+		<div id="navigation" class="navbar-fixed-top">
 			<div class="container">
 				{% include navigation.html isMainNavigation=true %}
 			</div>
 		</div>
 
-    <div id="sub-navigation">
+		<div id="sub-navigation">
 			<div class="container">
         {% include navigation.html isMainNavigation=false %}
       </div>
     </div>
+
+    <header id="teaser" class="hidden-xs">
+		</header>
 
 		<div id="main">
 			{{ content }}
@@ -27,6 +30,6 @@
 			{% include footer.html %}
 		</footer>
 
-		{% include tracking.html %}
+    {% include tracking.html %}
   </body>
 </html>
