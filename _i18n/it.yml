@@ -1105,8 +1105,8 @@ normativa:
 ########################################################################
 
 # Posts
-    posts:
-        news:
+   posts:
+    news:
             1:
                 title:  No all'algoritmo della reputazione, viola la dignità della persona
                 when: 28 Dicembre 2016
