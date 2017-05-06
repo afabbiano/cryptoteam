@@ -21,6 +21,8 @@ parent: Normativa
 					<div class="news-post news-post-{{forloop.index}}">
 						<span class="meta">{% t news.when %}</span>
 						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
+						<span class="meta">{% t news.excerpt %}</span>
+						<span class="meta">Fonte: <a href="{% t news.link %}" target="_blank">{% t news.fonte %}</a></span>
 					</div>
 					<hr>
 				{% endfor %}
@@ -30,6 +32,8 @@ parent: Normativa
 					<div class="news-post news-post-{{forloop.index}}">
 						<span class="meta">{% t news.when %}</span>
 						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
+						<span class="meta">{% t news.excerpt %}</span>
+						<span class="meta">Fonte: <a href="{% t news.link %}" target="_blank">{% t news.fonte %}</a></span>
 					</div>
 					<hr>
 				{% endfor %}
