@@ -2,9 +2,11 @@
 layout: news-post
 categories: news
 
-title: normativa.posts.news.13.title
-when: normativa.posts.news.13.when
-excerpt: normativa.posts.news.13.excerpt
+title: normativa.posts.news.20170130.title
+when: normativa.posts.news.20170130.when
+excerpt: normativa.posts.news.20170130.excerpt
+fonte: normativa.posts.news.20170130.fonte
+link: normativa.posts.news.20170130.link
 ---
 <!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
 {% if site.lang == 'it' %}
@@ -16,8 +18,9 @@ excerpt: normativa.posts.news.13.excerpt
 <p>
  L'impatto dei Big Data sull'organizzazione sociale e i processi decisionali, le prospettive che essi aprono per l'intelligenza artificiale e la genomica, il nuovo capitalismo digitale e i nuovi modelli di business. Sono questi i temi al centro del convegno dal titolo "Big Data e Privacy. La nuova geografia dei poteri", organizzato il 30 gennaio dal Garante per la privacy in occasione della Giornata europea per la protezione dei dati personali (Aula del Palazzo dei Gruppi Parlamentari – Roma, a partire dalle ore 9.15). Al convegno, articolato in tre sessioni, moderate dalle Componenti dell'Autorità Garante, Augusta Iannini, Giovanna Bianchi Clerici e Licia Califano parteciperanno Franco Bernabè, Stefano Ceri,  Ilvo Diamanti, Enrico Giovannini, Diego Piacentini, Giulio Tremonti. I lavori, aperti dal Presidente dell'Autorità Garante, Antonello Soro, saranno conclusi dal Ministro per i rapporti con il Parlamento, Anna Finocchiaro. L'evento sarà trasmesso in diretta dalla web tv della Camera. Le richieste di accredito (comprensive di testata e numero di tessera) per giornalisti e cineoperatori potranno essere rivolte all'Ufficio Stampa della Camera all'indirizzo e-mail: sg_ufficiostampa@camera.it o al numero di fax 06/6783082. Per l'ingresso gli uomini devono indossare la giacca. Roma, 24 gennaio 2017
 </p>
+
 <p>
-Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5892736" TARGET="_blank">www.garanteprivacy.it&nbsp;</A>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 <!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
@@ -29,6 +32,10 @@ Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-disp
 <!-- that is regular content -->
 <p>
 	English news EIGHT. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 {% endif %}

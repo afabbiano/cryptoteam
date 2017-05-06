@@ -2,14 +2,16 @@
 layout: news-post
 categories: news
 
-title: normativa.posts.news.3.title
-when: normativa.posts.news.3.when
-excerpt: normativa.posts.news.3.excerpt
+title: normativa.posts.news.20150709.title
+when: normativa.posts.news.20150709.when
+excerpt: normativa.posts.news.20150709.excerpt
+fonte: normativa.posts.news.20150709.fonte
+link: normativa.posts.news.20150709.link
 ---
 <!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
 {% if site.lang == 'it' %}
 <p class="lead">
-	Pubblichiamo quanto riportotato su  Wikipedia una notizia riguardante la nota società Milanese Hacking Team relativamente al furto di dati che convolge gran parte dei loro clienti
+	Pubblichiamo quanto riportato su Wikipedia, una notizia riguardante la nota società Milanese Hacking Team relativamente al furto di dati che convolge gran parte dei loro clienti
 </p>
 
 <!-- Testo della notizia inserito qui -->
@@ -18,7 +20,7 @@ excerpt: normativa.posts.news.3.excerpt
 </p>
 
 <p>
-	Continua la lettura direttamente dalla fonte: <a href="https://it.wikipedia.org/wiki/Hacking_Team" target="_blank">www.wikipedia.org</a>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 <!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
@@ -30,6 +32,10 @@ excerpt: normativa.posts.news.3.excerpt
 <!-- that is regular content -->
 <p>
 	English news #3.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 {% endif %}

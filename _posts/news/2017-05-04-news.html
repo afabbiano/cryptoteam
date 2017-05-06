@@ -2,9 +2,11 @@
 layout: news-post
 categories: news
 
-title: normativa.posts.news.2.title
-when: normativa.posts.news.2.when
-excerpt: normativa.posts.news.2.excerpt
+title: normativa.posts.news.20170504.title
+when: normativa.posts.news.20170504.when
+excerpt: normativa.posts.news.20170504.excerpt
+fonte: normativa.posts.news.20170504.fonte
+link: normativa.posts.news.20170504.link
 ---
 <!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
 {% if site.lang == 'it' %}
@@ -16,8 +18,9 @@ excerpt: normativa.posts.news.2.excerpt
 <p>
 	Suscita sconcerto e preoccupazione la norma, contenuta nel testo del Ddl concorrenza, relativa al telemarketing. Essa elimina il requisito del consenso preventivo per le chiamate promozionali, "liberalizzando" il fenomeno del telemarketing selvaggio e prevedendo come unica forma di tutela dell'utente la possibilità di rifiutare le sole chiamate successive alla prima.
 </p>
+
 <p>
-	Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6328158" TARGET="_blank">www.garanteprivacy.it &nbsp;</A>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 <!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
@@ -29,6 +32,10 @@ excerpt: normativa.posts.news.2.excerpt
 <!-- that is regular content -->
 <p>
 	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
 </p>
 
 {% endif %}
