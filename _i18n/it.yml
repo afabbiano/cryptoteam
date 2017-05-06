@@ -745,7 +745,7 @@ normativa:
             headline: Normativa Nazionale ed Europea
             details: In questa pagina pubblichiamo la normativa Nazionale ed Europea in riferimento al trattamento e alla protezione dei dati, più la Direttiva  riguardante la protezione del know-how e delle informazioni commerciali - Segreti Aziendali -
 
-        technologies:
+        privacy:
             headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
             lead: La struttuta del "Codice Privacy" come LINEA GUIDA è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
@@ -766,7 +766,7 @@ normativa:
                         - Allegato A.1 . Codice di deontologia - Trattamento dei dati personali nell'esercizio dell'attività giornalistica - Allegato A.2 . Codici di deontologia - Trattamento dei dati personali per scopi storici - Allegato A.3 . Codice di deontologia - Trattamento dei dati personali a scopi statistici in ambito Sistan - Allegato A.4 . Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici - Allegato A.5 . Codice di deontologia e di buona condotta per i sistemi informativi gestiti da soggetti privati in tema di crediti al consumo, affidabilità e puntualità nei pagamenti - Allegato A.6 . Codice di deontologia e di buona condotta per i trattamenti di dati personali effettuati per svolgere investigazioni difensive - A.7. Codice di deontologia e di buona condotta per il trattamento dei dati personali effettuato a fini di informazione commerciale -
                       </p>"
 
-        ui:
+        gdpr:
             headline: (UE) 2016/679 - GDPR - General Data Protection Regulation
             lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
             details:
@@ -811,7 +811,7 @@ normativa:
                         (Art.92) Esercizio della delega - (Art.93) Procedura di comitato - (Art.94) Abrogazione della direttiva 95/46/CE - (Art.95) Rapporto con la direttiva 2002/58/CE Il - (Art.96) Rapporto con accordi precedentemente conclusi - (Art.97) Relazioni della Commissione - (Art.98) Riesame di altri atti legislativi dell'Unione in materia di protezione dei dati - (Art.99) Entrata in vigore e applicazione -
                       </p>"
 
-        deployment:
+        ue943:
             headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
             lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
