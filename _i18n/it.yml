@@ -736,7 +736,7 @@ offerta:
 # *************************************************************************
 normativa:
 
-# Pagina NORMATIVA -> Normativa (/news/index.html)
+# Pagina NORMATIVA -> Normativa (/normativa/index.html)
     norme:
         title: Normativa
         description: Descrizione Normativa.
@@ -834,7 +834,7 @@ normativa:
 ########################################################################
 
 
-# Pagina NORMATIVA -> Adempimenti (/news/index.html)
+# Pagina NORMATIVA -> Adempimenti (/normativa/adempimenti.html)
     adempimenti:
         title: Normativa -> Norme Title
         description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
@@ -876,7 +876,7 @@ normativa:
 ########################################################################
 
 
-# Pagina NORMATIVA -> Notizie (/news/notizie.html)
+# Pagina NORMATIVA -> Notizie (/normativa/notizie.html)
     news:
         title: Notizie CryptoTeam
         description: Cosa c'è di nuovo in CryptoTeam
