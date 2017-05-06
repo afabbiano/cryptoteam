@@ -1,0 +1,35 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.5.title
+when: normativa.posts.news.5.when
+excerpt: normativa.posts.news.5.excerpt
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Le Autorità europee a confronto sui nuovi orizzonti della privacy
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	Il tradizionale appuntamento di primavera delle Autorità europee per la protezione dei dati si è tenuto quest'anno a Limassol (Cipro) il 27 e 28 aprile. Alla Conferenza, intitolata "New Horizons", ha partecipato anche una delegazione del Garante italiano. Nel corso dei lavori sono stati affrontati importanti temi connessi ai cambiamenti nel quadro normativo europeo introdotti dal Nuovo Regolamento Ue 2016/679 e il conseguente impatto su imprese, istituzioni e persone; le sfide poste dal cloud e dal trattamento dei dati genetici; l'accesso ai dati da parte delle forze di polizia e la cooperazione nelle attività di contrasto degli illeciti.
+</p>
+<p>
+	Fonte: <A HREF="http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6317215" TARGET="_blank">www.garanteprivacy.it&nbsp;</A>
+</p>
+
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news #5.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #5. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+{% endif %}
