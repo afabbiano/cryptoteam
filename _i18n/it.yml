@@ -1107,126 +1107,126 @@ normativa:
 # Posts
     posts:
       news:
-          1:
-              title:  No all'algoritmo della reputazione, viola la dignità della persona
-              when: 28 Dicembre 2016
-              excerpt: pppppippa
-              fonte: www.garanteprivacy.it
-              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5805596#2"
-          2:
-              title: Ddl concorrenza, Soro
-              when: 04 Maggio 2017
-              excerpt: sconcerto e preoccupazione per norma su telemarketing
-              fonte: www.garanteprivacy.it
-              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6328158"
-          3:
-              title: Hacking Team Fuga di dati del 2015
+          20150709:
+              title: Hacking Team sotto attacco
               when: 09 Luglio 2015
-              excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
+              excerpt: La società milanese vittima di un pesante attacco hacker
               fonte: www.wikipedia.org
               link: "https://it.wikipedia.org/wiki/Hacking_Team"
-          4:
-              title: Vietati controlli indiscriminati su e-mail
-              when: 17 Febbraio 2017
-              excerpt: Questa pagina è stata inserita il 18 Aprile 2017
-              fonte: www.garanteprivacy.it
-              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5989944"
-          5:
-              title: Le Autorità europee a confronto
-              when: 02 Maggio 2017
-              excerpt: sui nuovi orizzonti della privacy
-              fonte: www.garanteprivacy.it
-              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6317215"
-          6:
-              title: Rapporto Clusit
-              when: 07 Giugno 2016 - Roma
-              excerpt: Presentazione Rapporto Clusit 2016
-              fonte: ww.clusit.it
+          20160607:
+              title: Rapporto Clusit 2016
+              when: 07 Giugno 2016
+              excerpt: Presentazione del Rapporto Clusit 2016
+              fonte: Clusit
               link: "è un pdf"
-          7:
-              title: Rapporto Clusit
-              when: 14 Marzo 2017 - Milano
-              excerpt: Presentazione Rapporto Clusit 2017
-              fonte: ww.clusit.it
-              link: "è un pdf"
-          8:
-              title: Virus, Botnet, state hacking
+          20161026:
+              title: Virus, Botnet, State Hacking
               when: 26 Ottobre 2016
               excerpt: Paganini&#58 “Il cyberspazio diventa teatro di guerra”
-              fonte: www.cybersecurity.startupitalia.eu
+              fonte: startupitalia.eu
               link: "http://cybersecurity.startupitalia.eu/53158-20161026-cyberwar-malware-botnet-hacking"
-          9:
-              title: Più intelligence
+          20161121:
+              title: Più intelligence alla sicurezza
               when: 21 Novembre 2016
-              excerpt: alla sicurezza con la formazione dei professionisti del rischio
-              fonte: www.cybersecurity.startupitalia.eu
+              excerpt: La nuova formazione dei professionisti del rischio
+              fonte: startupitalia.eu
               link: "http://cybersecurity.startupitalia.eu/53405-20161121-risk-management-formazione"
-          10:
-              title: Bastano $200 per un attacco
-              when: 01 Marzo 2017
-              excerpt: DDoS organizzato da concorrenti e dipendenti rancorosi
-              fonte: www.cybersecurity.startupitalia.eu
-              link: "http://cybersecurity.startupitalia.eu/54249-20170301-ddos-colpa-concorrenti-dipendenti-rancorosi-dice-kaspersky"
-          11:
-              title: Guarda come ti attacco un impianto
-              when: 16 Febbraio 2017
-              excerpt: industriale col ransomware (e ti inquino l’acqua)
-              fonte: www.cybersecurity.startupitalia.eu
-              link: "http://cybersecurity.startupitalia.eu/54163-20170216-ransomware-modifica-impianti-industriali"
-          12:
-              title: La Top 5 dei Malware in Italia - (www.infodata.ilsole24ore.com) -
+          20161228:
+              title: No all'algoritmo della reputazione
+              when: 28 Dicembre 2016
+              excerpt: Per il Garante viola la dignità della persona
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5805596#2"
+          20161229:
+              title: Gli attacchi informatici più dannosi del 2016
+              when: 29 Dicembre 2016
+              excerpt: Pubblicato l'elenco degli attacchi più devastanti
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/53770-20161230-gmail-yahoo-linkedin-attacchi-informatici-2016"
+          20170112:
+              title: La Top 5 dei Malware in Italia
               when: 12 Gennaio 2017
-              excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+              excerpt: I principali vettori di attacco ai dati finanziari
               fonte: /www.infodata.ilsole24ore.com
               link: "http://www.infodata.ilsole24ore.com/2017/01/12/un-miliardo-malware-nel-2016-si-torna-al-furto-dati-finanziari"
-          13:
+          20170130:
               title: Big Data e Privacy
               when: 30 gennaio 2017
               excerpt: La nuova geografia dei poteri
-              fonte: www.garanteprivacy.it
+              fonte: Garante Privacy
               link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5892736"
-          14:
-              title: Gli attacchi informatici più dannosi del 2016, mese per mese
-              when: 29 Dicembre 2016
-              excerpt: Questa pagina è stata inserita il 24 Aprile 2017
-              fonte: www.cybersecurity.startupitalia.eu
-              link: "http://cybersecurity.startupitalia.eu/53770-20161230-gmail-yahoo-linkedin-attacchi-informatici-2016"
-          15:
-              title: Gazzetta ufficiale “Protezione cibernetica e sicurezza informatica”
-              when: 14 Aprile 2017
-              excerpt: Questa pagina è stata inserita il 21 Aprile 2017
-              fonte: www.cybersecurity.startupitalia.eu
-              link: "http://cybersecurity.startupitalia.eu/54588-20170414-riforma-cybersecurity-pubblicata-in-gazzetta-ufficiale"
-          16:
-              title: Presentazione Cybersecurity Report 2016
+          20170216:
+              title: Nuovi attacchi agli impianti industriali
+              when: 16 Febbraio 2017
+              excerpt: Ti attacco col ransomware (e ti inquino l’acqua)
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54163-20170216-ransomware-modifica-impianti-industriali"
+          20170217:
+              title: Vietati controlli indiscriminati su e-mail
+              when: 17 Febbraio 2017
+              excerpt: Interveneto del Garante della Privacy
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5989944"
+          20170301:
+              title: Bastano 200€ per un attacco DDOS
+              when: 01 Marzo 2017
+              excerpt: Spesso organizzato da concorrenti e dipendenti rancorosi
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54249-20170301-ddos-colpa-concorrenti-dipendenti-rancorosi-dice-kaspersky"
+          20170302:
+              title: Cybersecurity Report 2016
               when: 02 Marzo 2017
-              excerpt: Questa pagina è stata inserita il 28 Aprile 2017
-              fonte: www.cybersecurityframework.it
+              excerpt: Presentato a Roma il nuovo report sulla Cybersecurity nel 2016
+              fonte: cybersecurityframework.it
               link: "http://www.cybersecurityframework.it/csr2016"
-          17:
-              title: Nuovo Regolamento Ue sulla privacy
-              when: 28 Aprile 2017
-              excerpt: Questa pagina è stata inserita il 28 Aprile 2017
-              fonte: www.garanteprivacy.it
-              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6302257"
-          18:
-              title: Garante Privacy&#58 11 mln di multa a 5 società
+          20170310:
+              title: Garante Privacy&#58 11 mln di sanzioni per 5 società
               when: 10 Marzo 2017
-              excerpt: Questa pagina è stata inserita il 28 Aprile 2017
-              fonte: www.garanteprivacy.it
+              excerpt: Pesanti sanzioni alle società che non rispettano la privacy degli utenti
+              fonte: Garante Privacy
               link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6009674"
-          19:
-              title: Rapporto Marzo 2017
+          20170314:
+              title: Rapporto Clusit 2017
+              when: 14 Marzo 2017
+              excerpt: Presentazione del Rapporto Clusit 2017
+              fonte: Clusit
+              link: "è un pdf"
+          20170322:
+              title: Rapporto Federprivacy Marzo 2017
               when: 27 Marzo 2017
-              excerpt: a cura Federprivacy
-              fonte: www.Federprivacy.it
+              excerpt: Il nuovo rapporto a cura di Federprivacy
+              fonte: Federprivacy
               link: "http://www.ilsole24ore.com/pdf2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/Online/_Oggetti_Embedded/Documenti/2017/03/22/Report_Finale_gestione_protezione_dati.pdf"
-          20:
+          20170414:
+              title: Protezione cibernetica e sicurezza informatica
+              when: 14 Aprile 2017
+              excerpt: Pubblicata in Gazzetta Ufficiale la riforma della Cybersecurity
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54588-20170414-riforma-cybersecurity-pubblicata-in-gazzetta-ufficiale"
+          20170426:
               title: Password sicure?
               when: 28 Aprile 2017
-              excerpt: tutto quello che sapevate fino ad oggi è sbagliato
-              fonte: Libero pubblicato da Federprivacy
+              excerpt: Tutto quello che sapevate fino ad oggi è sbagliato
+              fonte: Federprivacy
               link: "https://www.federprivacy.it/informazione/flash-news/1942-password-sicure-tutto-quello-che-sapevate-fino-ad-oggi-e-sbagliato.html"
+          20170428:
+              title: Nuovo Regolamento UE sulla privacy
+              when: 28 Aprile 2017
+              excerpt: Le principali novità introddotte dal nuovo regolamento UE
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6302257"
+          20170502:
+              title: Le Autorità europee a confronto
+              when: 02 Maggio 2017
+              excerpt: I cambiamenti introdotti dal Nuovo Regolamento UE 2016/679
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6317215"
+          20170504:
+              title: Nuovo Ddl concorrenza
+              when: 04 Maggio 2017
+              excerpt: "Soro: sconcerto e preoccupazione per norma su telemarketing"
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6328158"
 ########################################################################
 
 
