@@ -20,58 +20,58 @@ permalink: /news/
 		</div>
 	</div>
 
-	<div class="row feature-row" data-toggle="collapse" data-target="#known-tech">
+	<div class="row feature-row" data-toggle="collapse" data-target="#privacy">
 		<div class="container">
 			<div class="iconLarge col-sm-2 hidden-xs col-md-offset-1">
 				<i class="fa fa-star-o"></i>
 			</div>
 			<div class="col-sm-10 col-md-9">
-				<h2><i class="fa fa-star-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.technologies.headline %}</h2>
+				<h2><i class="fa fa-star-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.privacy.headline %}</h2>
 				<p class="explanation">
-	        {% t normativa.norme.technologies.lead %}
+	        {% t normativa.norme.privacy.lead %}
 	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
 				</p>
 			</div>
 		</div>
 	</div>
-	<div id="known-tech" class="collapse">
-		{% include normativa/box01.html row='even' %}
+	<div id="privacy" class="collapse">
+		{% include normativa/privacy.html row='even' %}
 	</div>
 
-	<div class="row feature-row" data-toggle="collapse" data-target="#ui">
+	<div class="row feature-row" data-toggle="collapse" data-target="#gdpr">
 		<div class="container">
 			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
 				<i class="fa fa-laptop"></i>
 			</div>
 			<div class="col-sm-10 col-md-9">
-				<h2><i class="fa fa-laptop hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.ui.headline %}</h2>
+				<h2><i class="fa fa-laptop hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.gdpr.headline %}</h2>
 				<p class="explanation">
-          {% t normativa.norme.ui.lead %}
+          {% t normativa.norme.gdpr.lead %}
           <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
 				</p>
 			</div>
 		</div>
 	</div>
-	<div id="ui" class="collapse">
-		{% include normativa/box02.html row='even' %}
+	<div id="gdpr" class="collapse">
+		{% include normativa/gdpr.html row='even' %}
 	</div>
 
-	<div class="row feature-row" data-toggle="collapse" data-target="#deployment">
+	<div class="row feature-row" data-toggle="collapse" data-target="#ue943">
 		<div class="container">
 			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
 				<i class="fa fa-cloud"></i>
 			</div>
 			<div class="col-sm-10 col-md-9">
-				<h2><i class="fa fa-cloud hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.deployment.headline %}</h2>
+				<h2><i class="fa fa-cloud hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.ue943.headline %}</h2>
 				<p class="explanation">
-          {% t normativa.norme.deployment.lead %}
+          {% t normativa.norme.ue943.lead %}
           <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
 				</p>
 			</div>
 		</div>
 	</div>
 	<div id="deployment" class="collapse">
-		{% include normativa/box03.html row='even' %}
+		{% include normativa/ue943.html row='even' %}
 	</div>
 </div>
 
