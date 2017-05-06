@@ -1,0 +1,41 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170322.title
+when: normativa.posts.news.20170322.when
+excerpt: normativa.posts.news.20170322.excerpt
+fonte: normativa.posts.news.20170322.fonte
+link: normativa.posts.news.20170322.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+		Italiani confusi sugli obblighi per la privacy
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	A 14 mesi dal termine entro cui ci si deve adeguare alle norme europe sulla protezione dei dati personali, le aziende si sono già mosse, ma le idee sono un po’ confuse. Il regolamento Ue 2016/679, entrato in vigore il 24 maggio 2016, richiede alle imprese private e pubbliche di adeguare entro il 25 maggio 2018, le proprie procedure in materia di sicurezza delle informazioni personali, anche con la nomina di un responsabile della protezione dei dati. Secondo una ricerca condotta dall’osservatorio di Federprivacy, il 75% delle aziende ha previsto una funzione specifica per la gestione della privacy e la protezione dei dati personali e quasi il 73% ha individuato anche un referente. Tuttavia la funzione di protezione, in un caso su cinque, è stata collocata nell’area dell’information technology, scelta che espone al rischio di conflitto di interessi e a possibili sanzioni. Sanzioni che possono avere un impatto rilevante, dato che potranno arrivare a 20 milioni di euro o al 4% del fatturato annuo.
+</p>
+
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news EIGHT.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news EIGHT. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}

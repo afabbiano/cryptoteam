@@ -1,0 +1,41 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170216.title
+when: normativa.posts.news.20170216.when
+excerpt: normativa.posts.news.20170216.excerpt
+fonte: normativa.posts.news.20170216.fonte
+link: normativa.posts.news.20170216.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	I ricercatori del Georgia Tech attaccano un sistema per il trattamento delle acque. È solo una dimostrazione di quello che potrebbe accadere se i sistemi industriali diventano obiettivo dei criminali
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	 Un gruppo di ricercatori del Georgia Institute of Technology ha condotto un interessante studio sull’impatto di un ransomware sui sistemi per il controllo di processi in impianti industriali, comunemente chiamati “industrial control systems (ICS)”. - Un ransomware che attacca la centrale di trattamento della acque - Il gruppo composto dagli esperti David Formby e Raheem Beyah ha simulato l’attacco di un ransomware ad una centrale per il trattamento delle acque. Per l’occasione gli esperti hanno messo a punto un ransomware che era in grado di prendere il controllo dei sistemi in uso nell’impianto ed alterare la logica di controllo dei processi. Un simile scenario nella realtà è inquietante, criminali o hacker che lavorano con governi stranieri potrebbero compromettere un impianto industriale rappresentando un pericolo per la popolazione. Gli esperti hanno testato un gran numero di dispositivi PLC – controllori a Logica Programmabile per la gestione di processi industriali – comunemente utilizzati in impianti per la gestione delle acque e hanno cercato di individuare vulnerabilità in essi per hackerarli.
+</p>
+
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news EIGHT.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news EIGHT. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
