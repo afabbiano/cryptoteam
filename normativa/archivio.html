@@ -22,7 +22,10 @@ parent: Normativa
 						<span class="meta">{% t news.when %}</span>
 						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
 						<span class="meta">{% t news.excerpt %}</span>
+						<!--
 						<span class="meta">Fonte: <a href="{% t news.link %}" target="_blank">{% t news.fonte %}</a></span>
+					  -->
+						<span class="meta">Fonte: <strong>{% t news.fonte %}</strong></span>
 					</div>
 					<hr>
 				{% endfor %}
@@ -33,7 +36,10 @@ parent: Normativa
 						<span class="meta">{% t news.when %}</span>
 						<a href="{{ news.url | to_absoluteurl }}">{% t news.title %}</a>
 						<span class="meta">{% t news.excerpt %}</span>
+						<!--
 						<span class="meta">Fonte: <a href="{% t news.link %}" target="_blank">{% t news.fonte %}</a></span>
+					  -->
+						<span class="meta">Fonte: <strong>{% t news.fonte %}</strong></span>
 					</div>
 					<hr>
 				{% endfor %}
