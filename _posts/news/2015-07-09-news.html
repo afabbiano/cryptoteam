@@ -1,0 +1,41 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20150709.title
+when: normativa.posts.news.20150709.when
+excerpt: normativa.posts.news.20150709.excerpt
+fonte: normativa.posts.news.20150709.fonte
+link: normativa.posts.news.20150709.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Pubblichiamo quanto riportato su Wikipedia, una notizia riguardante la nota società Milanese Hacking Team relativamente al furto di dati che convolge gran parte dei loro clienti
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	Il 5 luglio 2015 l'account Twitter della società fu violato da uno sconosciuto che pubblicò l'annuncio di una fuga di dati (data breach) partita dai sistemi informatici di Hacking Team. Il messaggio iniziale recitava «Visto che non abbiamo nulla da nascondere, stiamo pubblicando tutti i nostri messaggi di posta elettronica, file e codici sorgente…» e dava i collegamenti a oltre 400 gigabyte di dati, tra cui asseritamente e-mail ad uso interno, fatture e codice sorgente...
+</p>
+
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news #3. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #3.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}

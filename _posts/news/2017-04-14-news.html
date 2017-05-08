@@ -1,0 +1,41 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170414.title
+when: normativa.posts.news.20170414.when
+excerpt: normativa.posts.news.20170414.excerpt
+fonte: normativa.posts.news.20170414.fonte
+link: normativa.posts.news.20170414.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+ Dopo alcuni mesi di gestazione la riforma della sicurezza informatica nazionale prende corpo in 13 articoli. Tra le novità il ruolo dei privati e i nuovi poteri del DIS.
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 17 febbraio 2017 - Direttiva recante indirizzi per la protezione cibernetica e la sicurezza informatica nazionali (GU n.87 del 13-4-2017) - IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI - Vista la legge 3 agosto 2007, n. 124, recante «Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto», come modificata e integrata dalla legge 7 agosto 2012, n. 133, e, in particolare, l’art. 1, comma 3-bis, che dispone che il Presidente del Consiglio dei ministri, sentito il Comitato interministeriale per la sicurezza della Repubblica (CISR), adotti apposite direttive per rafforzare le attività di informazione per la protezione delle infrastrutture critiche materiali e immateriali, con particolare riguardo alla protezione cibernetica e alla sicurezza informatica nazionali; Visti altresì, l’art. 5, della legge n. 124 del 2007, che disciplina le funzioni del CISR cui sono attribuiti compiti di consulenza, proposta e deliberazione sugli indirizzi e sulle finalità generali della politica dell’informazione per la sicurezza, nonchè di elaborazione degli indirizzi generali e degli obiettivi fondamentali da perseguire nel quadro della politica dell’informazione per la sicurezza;
+</p>
+
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news EIGHT.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news EIGHT. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
