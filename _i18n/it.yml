@@ -902,7 +902,7 @@ normativa:
               title: Hacking Team sotto attacco
               when: 09 Luglio 2015
               excerpt: La società milanese vittima di un pesante attacco hacker
-              fonte: www.wikipedia.org
+              fonte: Wikipedia
               link: "https://it.wikipedia.org/wiki/Hacking_Team"
           20160607:
               title: Rapporto Clusit 2016
@@ -938,7 +938,7 @@ normativa:
               title: La Top 5 dei Malware in Italia
               when: 12 Gennaio 2017
               excerpt: I principali vettori di attacco ai dati finanziari
-              fonte: /www.infodata.ilsole24ore.com
+              fonte: ilsole24ore.com
               link: "http://www.infodata.ilsole24ore.com/2017/01/12/un-miliardo-malware-nel-2016-si-torna-al-furto-dati-finanziari"
           20170130:
               title: Big Data e Privacy
@@ -996,7 +996,7 @@ normativa:
               link: "http://cybersecurity.startupitalia.eu/54588-20170414-riforma-cybersecurity-pubblicata-in-gazzetta-ufficiale"
           20170426:
               title: Password sicure?
-              when: 28 Aprile 2017
+              when: 26 Aprile 2017
               excerpt: Tutto quello che sapevate fino ad oggi è sbagliato
               fonte: Federprivacy
               link: "https://www.federprivacy.it/informazione/flash-news/1942-password-sicure-tutto-quello-che-sapevate-fino-ad-oggi-e-sbagliato.html"
@@ -1018,6 +1018,12 @@ normativa:
               excerpt: "Soro: sconcerto e preoccupazione per norma su telemarketing"
               fonte: Garante Privacy
               link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6328158"
+          20170508:
+              title: Evento e-privacy XXI
+              when: 08 Maggio 2017
+              excerpt: Lucca 23 e 24 Giugno 2017
+              fonte: e-privacy.winstonsmith.org
+              link: "http://e-privacy.winstonsmith.org"
 ########################################################################
 
 
