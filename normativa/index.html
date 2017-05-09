@@ -1,0 +1,96 @@
+---
+layout: normativa-index
+title: normativa.norme.title
+description: normativa.norme.description
+
+navName: Normativa
+mainNavLinkName: navigation.main.Normativa
+subNavLinkName: navigation.sub.Normativa
+parent: Normativa
+
+permalink: /normativa/
+---
+<div id="feature-areas" class="tab">
+	<div class="row">
+		<div class="container">
+			<div class="col-md-10 col-md-offset-1 text-center">
+				<h1>{% t normativa.norme.intro.headline %}</h1>
+				<p class="lead">{% t normativa.norme.intro.details %}</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#privacy">
+		<div class="container">
+			<div class="iconLarge col-sm-2 hidden-xs col-md-offset-1">
+				<i class="fa fa-star-o"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-star-o hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.privacy.headline %}</h2>
+				<p class="explanation">
+	        {% t normativa.norme.privacy.lead %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="privacy" class="collapse">
+		{% include normativa/privacy.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#gdpr">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-laptop"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-laptop hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.gdpr.headline %}</h2>
+				<p class="explanation">
+          {% t normativa.norme.gdpr.lead %}
+          <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="gdpr" class="collapse">
+		{% include normativa/gdpr.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#ue943">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-cloud"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-cloud hidden-sm hidden-md hidden-lg"></i>{% t normativa.norme.ue943.headline %}</h2>
+				<p class="explanation">
+          {% t normativa.norme.ue943.lead %}
+          <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="ue943" class="collapse">
+		{% include normativa/ue943.html row='even' %}
+	</div>
+</div>
+
+<!-- takes care of the collapsing arrow change -->
+<script type="text/javascript">
+    function toggleChevron(e) {
+        var id = $(e.target).attr('id');
+        var oIcon = $('div[data-target="#' + id + '"] p button i');
+        oIcon.toggleClass('fa-chevron-down fa-chevron-up');
+    }
+
+    // find the right element and execute
+    $('#feature-areas div.collapse').on('shown.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+
+    $('#feature-areas div.collapse').on('hidden.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+</script>

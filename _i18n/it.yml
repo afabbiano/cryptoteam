@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
-        details: La 1° chiave segreta è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
@@ -181,14 +181,14 @@ servizi:
 
         controllo:
             icona: Controllo Accessi
-            titolo: <strong>Tieni sotto controllo chi accede a dati Aziendali</strong>
+            titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
             testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
 
         cloud:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
-                titolo: Cloud in-House ha la finalità di renderti autonomo, quindi non dipendere da altri fornitori di servizi (Cloud), ma potenzialmente sfruttando il top della tecnologia e della sicurezza
+                titolo: Cloud in-House è una piattaforma di proprietà del cliente, ha la finalità di renderlo autonomo, non dipendente da altri fornitori di servizi (Cloud), sopratutto sfruttando il top della tecnologia e della sicurezza
                 descrizione: Grazie al Cloud in-House e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
@@ -218,24 +218,20 @@ servizi:
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo: Dati Aziendali
-        sottotitolo: Forniamo soluzioni per la Privacy
+        titolo: Protezione dei Dati Aziendali
+        sottotitolo: Forniamo soluzioni per la Tutela della Privacy
         descrizione: Prova descrizione in protezione, prova, prova
-
-    pd:
-        teaser: "11 Years of Quality Assurance Support for Demandware."
-        title: Xceptance – Demandware Partner
-        description: We are Demandware partner
 
         box1:
             headline: Compliance GDPR
-            teaser: La Privacy è diventata strategiaca per il futuro operativo delle Aziende. Lo scopo è di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
+            teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
             description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (riservate), sono sempre state utilizzate dai Grandi Gruppi Megacorps. Considerandoo gli ottimi risultati ottenuti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
 
         box2:
-            headline: Cosa Intendiamo per "Patrimonio Dati Digitali"
+            headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
+            teaser: L'insieme dei dati aziendali, sensibili e non, costituisce una parte fondamentale del patrimonio societario, e come tale va difeso e protetto dagli attacchi informatici.
             list:
-                li1: Buste Paghe,Brevetti,Stato Patrimoniale,Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li1: Buste Paghe, Brevetti, Stato Patrimoniale, Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
                 li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
                 li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
                 li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
@@ -244,11 +240,14 @@ servizi:
             headline: Perchè Proteggere i Dati
             teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
             list:
-                li1: Cyber attackers a fini Commerciali - Nessun sistema operativo è IMMUNE, vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza.
-                li2: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
-                li3: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
-                li4: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
-                li5: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il famoso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora Doxing (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatizzato (cancellazione dati completa). Virus ATP è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema. Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
+                li2: Nel mondo esistono moltissime piattaforme di spionaggio società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
+                li3: Sono ARMI CYBERNETICHE, se dati sensibili copiati illecitamente, ad insaputa dell’azienda vittima, vanno i mano ai competitor significa nella migliore delle ipotesi, perdere posizioni di mercato. In più è anche un metodo fraudolento "scorciatoia" negli investimenti in ricerca e sviluppo.
+                li4: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
+                li5: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+                li8: <strong>E'importante contestualizzare&#58 una azienda con profilo Cyber Security BASSO non potrà in futuro progredire.</strong>
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
@@ -496,7 +495,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze esempio di tipo&#58 Tecnico, Rispetto delle Norme, tipo di Spesa e fiscalità. Sono tutte finalizzate a proteggere il patrimonio dati e tramite l'innovazione della condivisione sicura, orientate verso l’aumento della produttività.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale (security file sharing), aumento della produttività e  contemporaneamente alla protezione del  hi patrimonio dati.
 
         riquadri:
             box1:
@@ -527,13 +526,12 @@ offerta:
             headline: Cifratura Dati
             details: Dettagli Offerta Cifratura Dati.
 
-        technologies:
+        openxpki:
             headline: Privacy-Mail OpenXPKI
             lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
-
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
@@ -543,13 +541,9 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                     <li><strong>Cancellami</strong>.</li>
-                </ul>
+                </ul>"
 
-                <p>
-                    Cancellami ...is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
-                </p>"
-
-        ui:
+        cifratura-riposo:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
@@ -566,70 +560,13 @@ offerta:
                               <li><strong>Classificazione dei dati </strong></li>
                               <li><strong>Identificazione dei Dati</strong></li>
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
-
                     download:
                         headline: Fatevi Aiutare
                         text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
 
-        deployment:
-            headline: Cambiato Tamplay
-            lead: Provaaaa.
-            details:
-                lead: XLT is platform-independent and you just have to unzip it. If you need ready-to-go cloud images, we provide Amazon Web Services EC2-AMIs free of charge.
-                text: "<p>
-                    You can deploy XLT to any cloud provider and use any OS that has support for Java 7 or 8. We strongly recommend Unix server environments for running large tests.
-                </p>
-
-                <p>
-                    XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
-                    possible, to make it as flexible as possible.
-                </p>"
-
-        reporting:
-            headline: Awesome Reporting
-            lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
-            details:
-                lead: Are you tired of configuring your reports manually? Are the provided data-sets just not what you want or do they hide crucial details? We‘ve got you covered! XLT provides best-practice reports out of the box, based on over a decade of load and performance testing experience.
-                text:
-                    loadtestreport:
-                        headline: Load Test Reports
-                        text: " <p>
-                                  The XLT performance report includes everything you need to know about your application.
-                                </p>
-                                <p>
-                                  Besides the obvious data such as runtime totals, averages, and medians, you can find projections for hourly or daily traffic. It also features service-level-agreement numbers, lists the configuration of your test as well as all errors and problems, and includes links to the result browser for quick analysis.
-                                  <a href=\"/demo-reports/report/\" target=\"_blank\">Open an example here</a>.
-                                </p>"
-                        link:
-                            alt: LoadTest Report Image
-                            title: Overview of a LoadTest Report
-                    comparisonreports:
-                        headline: Comparison Reports
-                        text: "<p>
-                                  <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report.
-                                </p>
-                                <p>
-                                  Color codes and percentages help you quickly determine what changed between the test runs.
-                                </p>"
-                        link:
-                            alt: Comparison Report Example Table
-                            title: Color Codes and Percentages For Easy Comparison
-                    trendreports:
-                        headline: Trend Reports
-                        text: "<p>
-                                    <a href=\"/demo-reports/trend-report/\" target=\"_blank\">View here. </a>A trend report shows how performance developed over many test runs. It also uses color codes to visualize the changes.
-                                </p>
-                                <p>
-                                    The trend report visualizes two performance trends: first, a baseline comparison showing you the performance changes compared to your first test run; and second, a comparison to the previous run telling you what happened at a specific point in time.
-                                </p>"
-                        link:
-                            alt: Example Trend Chart
-                            title: Trend Performance Over Different Runs
-
-
-        realtime:
-            headline: Https - Hypertext transfer Protocol Secure -
-            lead: è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
+        https:
+            headline: Https (HyperText Transfer Protocol over Secure Socket Layer)
+            lead: E' un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
             details:
                 lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
                 text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
@@ -637,37 +574,7 @@ offerta:
                     alt: Grafana Views of an running XLT test
                     title: Realtime Monitoring with XLT
 
-        adjustable:
-            headline: Easily Adjustable
-            lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
-            details:
-                lead: A good tool has to be adjustable to the environment it is used in. Thus, XLT supports many ways to be extended or modified to fit your needs even better.
-                reports:
-                    headline: Reports
-                    text: <p>All reports can be adjusted in content and layout, because we deliver the CSS and the render templates as part of XLT. So if you need custom layouts of reports, you are covered. You want to have your own summary of data? Not a problem. You want to reduce the data? Fine as well.</p>
-
-                data:
-                    headline: Custom and External Data
-                    text: "<p>
-                            During a load test, XLT logs a large amount of data relevant to the test run. Nevertheless, sometimes it comes in handy to log additional information about the system under test. For this purpose, XLT provides custom values.
-                        </p>
-                        <p>
-                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.
-                        </p>"
-
-                java:
-                    headline: Use Java
-                    text: <p>If there is anything that is not part of XLT, you can use Java to make it happen. Of course there are limits, because you can influence the measurements or limit the scaling, but with that in mind, a lot of things are possible.</p>
-
-
-        automation:
-            headline: Made for Automation
-            lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
-            details:
-                lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
-                text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
-
-        profiles:
+        openpgp:
             headline: Privacy-Mail OpenPGP
             lead: Richiedi un prevento per il Privacy-Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
@@ -685,24 +592,11 @@ offerta:
                     <li><strong>Trasferimento delle competenze teoriche per assicurare l'azienda un corretto utilizzo degli strumenti</strong></li>
                     <li><strong>Assistenza Tecnica</strong></li>
                 </ul>
-
                 <h3>Procedura Certificata CryptoTeam</h3>
-                <p>
-                    Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.
-                </p>
+                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>
+                <p><img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" /></p>"
 
-                <p>
-                    <img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" />
-                </p>"
-
-        scenarios:
-            headline: User Scenarios
-            lead: Unlimited number of user scenarios that can be part of a test. Each scenario can have a different configuration or load profile.
-            details:
-                lead: Reality is versatile and your test should reflect that. You can set up as many different scenarios as you need and run them together.
-                text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
-
-        resultbrowser:
+        spostamento:
             headline: Spostamento Fisico dei Dati (Dati in Movimento)
             lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
             details:
@@ -712,27 +606,17 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p>
-                                    <strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non potranno essere utilizzabili.
-                                </p>
-                                <p>
-                                    <strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.
-
-                                </p>"
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non  potranno essere utilizzabili.</p>
+                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p>
-                                    <strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.
-
-                                </p>
-                                <p>
-                                    <strong>Scegli sotto il tuo modello.</strong>
-                                </p>
+                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
+                                <p><strong>Scegli sotto il tuo modello.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
-        resultbrowser2:
+        accessi:
             headline: Controllo Accessi Sicuro
             lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. Assicurano una gestione semplice verso i servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), da parte degli utenti interni ed esterni.
             details:
@@ -742,26 +626,17 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p>
-                                    <strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.
-                                </p>
-                                <p>
-
-                                </p>"
+                        text: "<p><strong>Soluzione OpenXPKI.</strong> Sistema avanzato dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256. Questa soluzione completa, innovativa, permette di rispondere a tutti i problemi riguardanti gli accessi ai servizi aziendali. L’automatismo, la centralità della gestione, la sicurezza, la riservatezza, attualmente nel mercato digitale la rendono necessaria.</p>
+                                <p></p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p>
-                                    <strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo (Riconoscimento Utente). Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
-
-                                </p>
-                                <p>
-                                    <strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong>
-                                </p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo (Riconoscimento Utente). Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                                <p><strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
-        resultbrowser3:
+        autenticazione:
             headline: Autenticazione
             lead: Siamo immersi nel mercato digitale per cui queste soluzioni sono ritenute indispensabili, cioè il primo passo per accedere ai servizi aziendali. Cerchiamo di garantire soluzioni più forti <strong>Strong Autentication,</strong> che consentono di autenticare gli utenti in modalità sicura. Queste 2 soluzioni aiutano le aziende a gestire le password che gruppi di dipendenti adottano durante le attività lavorative. Hanno anche il vantaggio di essere ottimizzate per l'efficenza dei processi senza introdurre latenze. La gestione delle password tradizionali per l'IT Manager sono state un problema&#58 Altamente onerose, più sono complesse più sono pericolose.
             details:
@@ -771,100 +646,15 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p>
-                                    <strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia fino a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58 Tipo di Certificato, Validità, Numero Serie, Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.
-                                </p>
-                                <p>
-
-
-                                </p>"
+                        text: "<p><strong>Soluzione OpenXPKI</strong> è innovativa progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione sicura e univoca (utente o device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia fino a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58 Tipo di Certificato, Validità, Numero Serie, Nome del Soggetto, ID,  Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.</p>
+                                <p></p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p>
-                                    <strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantite nello stesso modo (Validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.
-
-                                </p>
-                                <p>
-                                    <strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong>
-                                </p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantite nello stesso modo (Validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                                <p><strong>Entrambe le soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). Il sistema HSM serve a innalzare il livello di sicurezza. E' un sistema di Crittografia tenuto OFF Line che contiene le Chiavi Private più le informazioni rigurdante gli utenti. Strumento nativo. Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
-
-        verify:
-            headline: Verify Everything
-            lead: Assertions permit you to verify everything in detail to ensure that your test is valid.
-            details:
-                lead: A test is only as good as its verifications. XLT supports and encourages as much validation as possible to really make sure that the pages loaded match the expectations.
-                text: <p>You can use the full syntax of assertions known from JUnit and Selenium. If you like Hamcrest, include it, XLT gives you that flexibility. XLT also provides access to all sub-requests of a page, so you can run even more detailed validations.
-                    The XLT Action API allows you to include validations before and after each activity.</p>
-
-        scalable:
-            headline: Scalable
-            lead: Run load tests from any number of machines, different locations, and with nearly unlimited users.
-            details:
-                lead: You can utilize an unlimited number of machines for your load testing. Scale up across datacenters easily. XLT orchestrates the load distribution, uploads, and downloads on its own.
-                text: "<p>
-                            Scale up XLT per machine by bringing up more processes for perfect hardware utilization. Scale up across machines easily by adding more locations. XLT uses differential and concurrent up- and downloads for maximum speed.
-                        </p>
-                        <p>
-                            The load is automatically distributed across all agents. If you use heterogenous hardware, you can attach a weight to each machine to indicate a different speed or size.
-                        </p>
-                        <p>
-                            Installing XLT is easy and only takes a few minutes. It leverages HTTPS and authentication for protecting your agents. Bind XLT to any port you wish.
-                        </p>
-                        <p>
-                            Preconfigured Amazon Web Service Images (AMIs) get you started quickly on Amazon EC2. Just start it and you are good to go.
-                        </p>"
-
-        configurable:
-            headline: Configurable
-            lead: Set timeouts, keep-alive, compression, image loading, permitted hosts, thinktimes, error handling, and much more.
-            details:
-                lead: To match the behavior with your testing needs, lots of parameters can be adjusted.
-                text: "<p>
-                            XLT offers a richt set of options to modify the behavior so that all kinds of different
-                            configurations can be tested. For example:
-                        </p>
-
-                        <ul>
-                            <li><strong>Keep-alive</strong></li>
-                            <li><strong>Timeouts</strong></li>
-                            <li><strong>Content compression</strong></li>
-                            <li><strong>Header fields</strong></li>
-                            <li><strong>Thinktimes</strong></li>
-                            <li><strong>Content loading</strong></li>
-                            <li><strong>Error handling</strong></li>
-                            <li><strong>Maximum error count</strong></li>
-                            <li><strong>Permitted hosts</strong></li>
-                            <li><strong>User agent</strong></li>
-                        </ul>
-
-                        <p>
-                            If XLT does not provide a property for a certain parameter, it can also be influenced programmatically.
-                        </p>"
-        archivable:
-            headline: Archivable
-            lead: Open formats for reports and results to archive them. Go back later for reanalysis. Test configurations are stored with the reports.
-            details:
-                lead: XLT uses open formats for results and reports. Perfectly suited for storing them anywhere.
-                text: "<p>
-                       Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine.
-                    </p>
-                    <p>
-                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds.
-                    </p>"
-
-        shareable:
-            headline: Shareable
-            lead: Test suites and configurations can be shared easily. Reports are plain HTML and perfect for quick sharing.
-            details:
-                lead: XLT reports are easily sharable with anyone. They are not connected to XLT anymore after they have been created.
-                text: "<p>
-                            All reports are plain HTML. So you can zip them up, mail them, upload them, attach them, and share them with whatever system you prefer.
-                        </p>
-                        <p>
-                            Did you know that you can start your load test on one machine, and collect the results on another? Or maybe your co-worker can collect the data later and analyze it for you, while you're already on your way to a meeting.</p>"
 ########################################################################
 
 
@@ -886,7 +676,7 @@ offerta:
 
         intro:
             headline: PKI Infrastruttura Completa
-            details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni PKI (Infrastruttura a chiave Pubblica), che integrano la Privacy all'interno della propria rete aziendale
+            details: Grazie alle profonde innovazioni digitali nei processi economici siamo in grado di offrire alle imprese soluzioni automatizzate PKI (Infrastruttura a chiave Pubblica), integrata nella rete IT, come piattaforma fulcro delle proprie "Security Operations"
 
         riquadri:
             box1:
@@ -1078,7 +868,7 @@ offerta:
 # *************************************************************************
 normativa:
 
-# Pagina NORMATIVA -> Normativa (/news/index.html)
+# Pagina NORMATIVA -> Normativa (/normativa/index.html)
     norme:
         title: Normativa
         description: Descrizione Normativa.
@@ -1087,7 +877,7 @@ normativa:
             headline: Normativa Nazionale ed Europea
             details: In questa pagina pubblichiamo la normativa Nazionale ed Europea in riferimento al trattamento e alla protezione dei dati, più la Direttiva  riguardante la protezione del know-how e delle informazioni commerciali - Segreti Aziendali -
 
-        technologies:
+        privacy:
             headline: Codice Privacy Decreto Legislativo 30 giugno 2003, n. 196
             lead: La struttuta del "Codice Privacy" come LINEA GUIDA è fatta di n. 3 parti&#58 1° parte Disposizioni Generali (art. 1-45) - 2° parte Disposizioni relative a specifici settori (art. 46-140) - 3° parte&#58 Tutela dell’interessato e sanzioni (Art. 141-186).
             details:
@@ -1108,7 +898,7 @@ normativa:
                         - Allegato A.1 . Codice di deontologia - Trattamento dei dati personali nell'esercizio dell'attività giornalistica - Allegato A.2 . Codici di deontologia - Trattamento dei dati personali per scopi storici - Allegato A.3 . Codice di deontologia - Trattamento dei dati personali a scopi statistici in ambito Sistan - Allegato A.4 . Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici - Allegato A.5 . Codice di deontologia e di buona condotta per i sistemi informativi gestiti da soggetti privati in tema di crediti al consumo, affidabilità e puntualità nei pagamenti - Allegato A.6 . Codice di deontologia e di buona condotta per i trattamenti di dati personali effettuati per svolgere investigazioni difensive - A.7. Codice di deontologia e di buona condotta per il trattamento dei dati personali effettuato a fini di informazione commerciale -
                       </p>"
 
-        ui:
+        gdpr:
             headline: (UE) 2016/679 - GDPR - General Data Protection Regulation
             lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
             details:
@@ -1153,7 +943,7 @@ normativa:
                         (Art.92) Esercizio della delega - (Art.93) Procedura di comitato - (Art.94) Abrogazione della direttiva 95/46/CE - (Art.95) Rapporto con la direttiva 2002/58/CE Il - (Art.96) Rapporto con accordi precedentemente conclusi - (Art.97) Relazioni della Commissione - (Art.98) Riesame di altri atti legislativi dell'Unione in materia di protezione dei dati - (Art.99) Entrata in vigore e applicazione -
                       </p>"
 
-        deployment:
+        ue943:
             headline: DIRETTIVA (UE) 2016/943 8 Giugno 2016 - Segreti Commerciali -
             lead: La Direttiva 2016/943 sulla protezione del know-how riservato e delle informazioni commerciali riservate (segreti commerciali) contro l'acquisizione, l'utilizzo e la divulgazione illeciti si articola in n.4 Capitoli, mentre il suo recepimento è previsto entro il 9 giugno 2018 da parte di tutti gli Stati Membri.
             details:
@@ -1176,7 +966,7 @@ normativa:
 ########################################################################
 
 
-# Pagina NORMATIVA -> Adempimenti (/news/index.html)
+# Pagina NORMATIVA -> Adempimenti (/normativa/adempimenti.html)
     adempimenti:
         title: Normativa -> Norme Title
         description: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
@@ -1218,7 +1008,7 @@ normativa:
 ########################################################################
 
 
-# Pagina NORMATIVA -> Notizie (/news/notizie.html)
+# Pagina NORMATIVA -> Notizie (/normativa/notizie.html)
     news:
         title: Notizie CryptoTeam
         description: Cosa c'è di nuovo in CryptoTeam
@@ -1239,75 +1029,133 @@ normativa:
 
 # Posts
     posts:
-        news:
-            1:
-                title: Tutela del segreto delle comunicazioni e sorveglianza elettronica nell’era dei social network e dell’internet delle cose - (www.sicurezzanazionale.gov.it) -
-                when: 01 Febbraio 2016
-                excerpt: pppppippa
-            2:
-                title: Furto di dati aziendali. Dipendenti infedeli responsabili nel 43% dei casi - (Report Intel Security) -
-                when: 29 Novembre 2016
-                excerpt: Sono iniziati i primi test del nuovo sito CryptoTeam in ambiente Jekyll.
-            3:
-                title: Hacking Team, servizi segreti&#58 “Possibile impatto su software e dati della nostra intelligence” - (www.ilfattoquotidiano.it/) -
-                when: 09 Luglio 2015
-                excerpt: Una nuova notizia fresca fresca, inserita il 31/03/2017
-            4:
-                title: Dall’ultimo Global Fraud Report 2015 stilato dalla società di risk consulting Kroll - (/www.kroll.com) -
-                when: 1 Dicembre 2015
-                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
-            5:
-                title: Comunicato Stampa - Le imprese vedono un aumento significativo delle frodi durante il 2016  - (www.kroll.com) -
-                when: 17 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 18 Aprile 2017
-            6:
-                title: Roma - Rapporto Clusit - (ww.clusit.it) -
-                when: 07 Giugno 2016
-                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
-            7:
-                title: Milano - Presentazione Rapporto Clusit - Security Summit è la manifestazione dedicata alla sicurezza delle informazioni - (ww.clusit.it) -
-                when: 14 Marzo 2017
-                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
-            8:
-                title: Usa e web&#58 la privacy è finita, andate in pace di Umberto Rapetto - (www.ilfattoquotidiano.it) -
-                when: 29 Marzo 2017
-                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
-            9:
-                title: Cybersicurezza, la spia nel televisore non è quella luminosa - (www.ilfattoquotidiano.it) -
-                when: 08 Marzo 2017
-                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
-            10:
-                title: Spionaggio, nel database degli arrestati 18.327 username. “Vantaggi e profitti anche per altri” - (www.ilfattoquotidiano.it) -
-                when: 10 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 19 Aprile 2017
-            11:
-                title: Cyber security report 2016, il vademecum anti-hacker per la sicurezza nazionale. L’Italia non ha una protezione adeguata nel cyberspace - (www.repubblica.it) -
-                when: 03 Marzo 2017
-                excerpt: Questa pagina è stata inserita il 20 Aprile 2017
-            12:
-                title: Un miliardo di malware nel 2016 Si torna al furto di dati finanziari - La Top 5 dei Malware in Italia - (www.infodata.ilsole24ore.com) -
-                when: 12 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
-            13:
-                title: Furti e ricatti, i file pirata svuotano le aziende italiane - www.lastampa.it) -
-                when: 12 Febbraio 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
-            14:
-                title: Gli attacchi informatici più dannosi del 2016, mese per mese - (www.cybersecurity.startupitalia.eu) -
-                when: 29 Dicembre 2016
-                excerpt: Questa pagina è stata inserita il 24 Aprile 2017
-            15:
-                title: Dopo alcuni mesi di gestazione la riforma della sicurezza informatica nazionale prende corpo in 13 articoli. Tra le novità il ruolo dei privati e i nuovi poteri del DIS - (www.cybersecurity.startupitalia.eu) -
-                when: 14 Aprile 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
-            16:
-                title: xxx
-                when: 12 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
-            17:
-                title: xxx
-                when: 12 Gennaio 2017
-                excerpt: Questa pagina è stata inserita il 21 Aprile 2017
+      news:
+          20150709:
+              title: Hacking Team sotto attacco
+              when: 09 Luglio 2015
+              excerpt: La società milanese vittima di un pesante attacco hacker
+              fonte: Wikipedia
+              link: "https://it.wikipedia.org/wiki/Hacking_Team"
+          20160607:
+              title: Rapporto Clusit 2016
+              when: 07 Giugno 2016
+              excerpt: Presentazione del Rapporto Clusit 2016
+              fonte: Clusit
+              link: "è un pdf"
+          20161026:
+              title: Virus, Botnet, State Hacking
+              when: 26 Ottobre 2016
+              excerpt: Paganini&#58 “Il cyberspazio diventa teatro di guerra”
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/53158-20161026-cyberwar-malware-botnet-hacking"
+          20161121:
+              title: Più intelligence alla sicurezza
+              when: 21 Novembre 2016
+              excerpt: La nuova formazione dei professionisti del rischio
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/53405-20161121-risk-management-formazione"
+          20161228:
+              title: No all'algoritmo della reputazione
+              when: 28 Dicembre 2016
+              excerpt: Per il Garante viola la dignità della persona
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5805596#2"
+          20161229:
+              title: Gli attacchi informatici più dannosi del 2016
+              when: 29 Dicembre 2016
+              excerpt: Pubblicato l'elenco degli attacchi più devastanti
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/53770-20161230-gmail-yahoo-linkedin-attacchi-informatici-2016"
+          20170112:
+              title: La Top 5 dei Malware in Italia
+              when: 12 Gennaio 2017
+              excerpt: I principali vettori di attacco ai dati finanziari
+              fonte: ilsole24ore.com
+              link: "http://www.infodata.ilsole24ore.com/2017/01/12/un-miliardo-malware-nel-2016-si-torna-al-furto-dati-finanziari"
+          20170130:
+              title: Big Data e Privacy
+              when: 30 gennaio 2017
+              excerpt: La nuova geografia dei poteri
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5892736"
+          20170216:
+              title: Nuovi attacchi agli impianti industriali
+              when: 16 Febbraio 2017
+              excerpt: Ti attacco col ransomware (e ti inquino l’acqua)
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54163-20170216-ransomware-modifica-impianti-industriali"
+          20170217:
+              title: Vietati controlli indiscriminati su e-mail
+              when: 17 Febbraio 2017
+              excerpt: Interveneto del Garante della Privacy
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/5989944"
+          20170301:
+              title: Bastano 200€ per un attacco DDOS
+              when: 01 Marzo 2017
+              excerpt: Spesso organizzato da concorrenti e dipendenti rancorosi
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54249-20170301-ddos-colpa-concorrenti-dipendenti-rancorosi-dice-kaspersky"
+          20170302:
+              title: Cybersecurity Report 2016
+              when: 02 Marzo 2017
+              excerpt: Presentato a Roma il nuovo report sulla Cybersecurity nel 2016
+              fonte: cybersecurityframework.it
+              link: "http://www.cybersecurityframework.it/csr2016"
+          20170310:
+              title: Garante Privacy&#58 11 mln di sanzioni per 5 società
+              when: 10 Marzo 2017
+              excerpt: Pesanti sanzioni alle società che non rispettano la privacy degli utenti
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6009674"
+          20170314:
+              title: Rapporto Clusit 2017
+              when: 14 Marzo 2017
+              excerpt: Presentazione del Rapporto Clusit 2017
+              fonte: Clusit
+              link: "è un pdf"
+          20170322:
+              title: Rapporto Federprivacy Marzo 2017
+              when: 27 Marzo 2017
+              excerpt: Il nuovo rapporto a cura di Federprivacy
+              fonte: Federprivacy
+              link: "http://www.ilsole24ore.com/pdf2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/Online/_Oggetti_Embedded/Documenti/2017/03/22/Report_Finale_gestione_protezione_dati.pdf"
+          20170414:
+              title: Protezione cibernetica e sicurezza informatica
+              when: 14 Aprile 2017
+              excerpt: Pubblicata in Gazzetta Ufficiale la riforma della Cybersecurity
+              fonte: startupitalia.eu
+              link: "http://cybersecurity.startupitalia.eu/54588-20170414-riforma-cybersecurity-pubblicata-in-gazzetta-ufficiale"
+          20170426:
+              title: Password sicure?
+              when: 26 Aprile 2017
+              excerpt: Tutto quello che sapevate fino ad oggi è sbagliato
+              fonte: Federprivacy
+              link: "https://www.federprivacy.it/informazione/flash-news/1942-password-sicure-tutto-quello-che-sapevate-fino-ad-oggi-e-sbagliato.html"
+          20170428:
+              title: Nuovo Regolamento UE sulla privacy
+              when: 28 Aprile 2017
+              excerpt: Le principali novità introddotte dal nuovo regolamento UE
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6302257"
+          20170502:
+              title: Le Autorità europee a confronto
+              when: 02 Maggio 2017
+              excerpt: I cambiamenti introdotti dal Nuovo Regolamento UE 2016/679
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6317215"
+          20170504:
+              title: Nuovo Ddl concorrenza
+              when: 04 Maggio 2017
+              excerpt: "Soro: sconcerto e preoccupazione per norma su telemarketing"
+              fonte: Garante Privacy
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/6328158"
+          20170508:
+              title: Evento e-privacy XXI
+              when: 08 Maggio 2017
+              excerpt: Lucca 23 e 24 Giugno 2017
+              fonte: e-privacy.winstonsmith.org
+              link: "http://e-privacy.winstonsmith.org"
 ########################################################################
 
 
@@ -1355,11 +1203,11 @@ chisiamo:
         headline: Competenze
         details: Il team è in grado di realizzare software, integrare tool, progettare e offrire consulenza in ambito di sicurezza dei dati e di riservatezza delle comunicazioni aziendali.
     box5:
-        headline: Obiettivi
-        details: CryptoTeam è una start-up in fase di avviamento. La continuità, l'assistenza tecnica è garantita da un team di professionisti che collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. <strong>Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
+        headline: CryptoTeam
+        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda". La continuità, l'assistenza tecnica è garantita da un team di professionisti che collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi a loro richiesti. <strong>Usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
     box6:
         headline: Filosofia
-        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di cifratura.
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di "anonimizzazione".
 
     collaborate:
         headline: Box7
@@ -1387,7 +1235,7 @@ contatti:
         details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
     germany:
         country: Area Commerciale
-        head:
+        head: Headquarters
         address-country: Andrea Fabbiano
         management:
             label: Managing Directors

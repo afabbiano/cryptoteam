@@ -1,0 +1,44 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170302.title
+when: normativa.posts.news.20170302.when
+excerpt: normativa.posts.news.20170302.excerpt
+fonte: normativa.posts.news.20170302.fonte
+link: normativa.posts.news.20170302.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	 a cura di Roberto Baldoni, Luca Montanari, Leonardo Querzoni. Autori in ordine alfabetico: Stefano Armenia, Roberto Baldoni, Claudia Biancotti, Camillo Carlini, Fabrizio d’Amore, Luisa Franchina, Michele Kidane Mariam, Luca Montanari, Leonardo Querzoni, Lorenzo Russo, Federico Ruzzi, Marco Spada, Emanuele Spagnoli, Annalisa Vitale. - Executive Summary -
+</p>
+
+<!-- Testo della notizia inserito qui -->
+<p>
+	Assistiamo ormai a un continuo aumento di attacchi cyber che diventano sempre più complessi e articolati. Questi attacchi avvengono sfruttando una combinazione di vulnerabilità umane e tecnologiche che permettono ai cyber-criminali l’ingresso all’interno di una organizzazione. I cyber-criminali non attaccano soltanto banche e grandi multinazionali: gran parte del loro fatturato è infatti realizzato attaccando decine di migliaia di medie, piccole e micro imprese completamente impreparate a affrontare efficacemente la minaccia. I criminali bloccano l’operatività di queste imprese per poi chiedere un riscatto, rubano i loro asset, i loro dati o spiano le loro strategie di business. Questo mette a rischio la sopravvivenza stessa dell’impresa. Tuttavia molti di questi attacchi sfruttano vulnerabilità banali presenti nei sistemi informativi dell’impresa o una mancanza di consapevolezza di questa problematica da parte del personale interno.
+</p>
+
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+<p>
+In aggiunta consigliamo la visione del video " Un Framework Nazionale per la Cyber Security" intervento di Roberto Baldoni (Sapienza, CINI): <A HREF="https://www.youtube.com/watch?v=EKCtRSLXoCM" TARGET="_blank">http://www.cybersecurityframework.it &nbsp;</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Headline news EIGHT.
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news EIGHT. Voluptas explicabo adipisci quisquam saepe. Sed molestiae voluptate quia qui impedit et dolorem occaecati. Enim asperiores repudiandae asperiores dolor vero. Reprehenderit ipsum consequatur ab nihil sint quis. Similique quis voluptas voluptas hic. Aut nihil culpa saepe alias natus animi. Ea a sunt rerum ullam laudantium odio voluptatem. Labore dolorum rerum beatae dolores voluptatem consequuntur. Dolores ut enim et ea. Reprehenderit dolor blanditiis et. Corporis id consequatur dolorem necessitatibus voluptas. Et magnam sunt quo temporibus assumenda modi.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
