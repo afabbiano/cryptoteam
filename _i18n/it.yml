@@ -464,7 +464,7 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Si tratta di uno strumento fondamentale per la sicurezza delle reti e della comunicazioni aziendali. E' in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali che permettono di trasformare i dati rendoli anonimi o accessibili solo ad utenti autorizzati" Chiunque senza un adeguato sistema di protezione può essere vittima di spionaggio (intellettuale, segreti industriale, segreti commerciale, Know-How in genere).
+            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Si tratta di uno strumento fondamentale per la sicurezza delle reti e della comunicazioni aziendali. E' in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali che permettono di trasformare i dati rendoli anonimi o accessibili solo ad utenti autorizzati" Chiunque senza un adeguato sistema di protezione può essere vittima di spionaggio (intellettuale, segreti industriali, segreti commerciali, Know-How in genere inteso come valore).
             details:
                 lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
                 text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
