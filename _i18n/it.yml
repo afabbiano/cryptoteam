@@ -464,10 +464,10 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni ,  in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi oppure accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un  adeguato sistema di protezione può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
+            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni ,  in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi oppure accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
             details:
-                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
-                text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+                lead: "Sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
+                text: "<p>Una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
