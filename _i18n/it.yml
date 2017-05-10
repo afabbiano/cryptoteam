@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua Azienda
-        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati e Documenti di ogni tipo, e tutte le Informazioni associate che viaggiano in rete.
+        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
@@ -464,10 +464,10 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead: "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), in grado di gestire e soddisfare le esigenze di grandi e medie organizzazioni per la gestione del ciclo di vita dei certificati digitali."
+            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi oppure accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
             details:
-                lead: "Si tratta di un sistema completo teconologicamente scalabile integrato nella rete aziendale. In automatico garantisce la riservatezza delle mail oltre a soddisfare esigenze di Firma, Autenticazione, Identità."
-                text: "<p>E'una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+                lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
+                text: "<p>Una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
@@ -482,7 +482,7 @@ offerta:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
-                lead: Vogliamo aiutarvi nella gestione dei dati sicura. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
+                lead: Vogliamo aiutarvi nella gestione sicura dei dati. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
                 text:
                     keyfeatures:
                         headline: Soluzione
@@ -500,8 +500,8 @@ offerta:
                         text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
 
         https:
-            headline: Https (HyperText Transfer Protocol over Secure Socket Layer)
-            lead: E' un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
+            headline: Un sito sicuro utilizza un protocollo https.
+            lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
             details:
                 lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
                 text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
