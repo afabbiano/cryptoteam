@@ -392,7 +392,7 @@ servizi:
                 li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
                 li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
                 li12: Approvazione dell'investimento.
-                li13: Mandato e obbietivi stabili.
+                li13: Mandato e obbietivi stabiliti.
                 li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
                 li15: Collaudo e Formazione.
 
@@ -431,7 +431,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale (security file sharing), aumento della produttività e  contemporaneamente alla protezione del  hi patrimonio dati.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale aumento della produttività (security file sharing), e alla protezione dati.
 
         riquadri:
             box1:
