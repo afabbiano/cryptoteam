@@ -326,9 +326,9 @@ servizi:
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Depositare i dati in ambienti apparentemente sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati sui tuoi server, sempre con te, senza dipendere da altri.
+            headline: Depositare i dati in ambienti apparentemente sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>  Più precisamente, per  ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
+            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>  Più precisamente, per ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
             numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
@@ -338,7 +338,7 @@ servizi:
                 li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
                 li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
-                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules, sistema resistente all’intrusione progettato per proteggere le chiavi di cifratura).
 
         box3:
             headline: Condivisione Dati Sicura
