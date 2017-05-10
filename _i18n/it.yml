@@ -436,7 +436,7 @@ offerta:
         riquadri:
             box1:
                 headline: Acquista Cloud in-House
-                details: Progettiamo e realizziamo piattaforme <strong>Cloud Privati</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
+                details: Progettiamo e realizziamo piattaforme <strong>Cloud Private</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage CryptoTeam
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta. La bassa spesa ti permetterà di avere una gestione di Back-up e di condivisione dei dati sicura, cioè con <strong>chiavi in tuo possesso</strong> fino a 4096 bit algoritmo SHA256.
@@ -464,7 +464,7 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi oppure accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
+            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi e accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
                 text: "<p>Una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
