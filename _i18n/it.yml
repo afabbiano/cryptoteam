@@ -297,14 +297,14 @@ servizi:
     controllo:
         icona: Controllo Accesso
         teaser: Controllo accesso
-        titolo: Soluzione Controllo Accessi Sicuro
-        sottotitolo: Riconoscimento Automatimatico - E' reale il bisogno da parte delle imprese avere una gestione più professionale agli accessi sicuro. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
+        titolo: Controllo Accessi Sicuro e Automaticco
+        sottotitolo: E' reale il bisogno da parte delle imprese avere una gestione più professionale agli accessi. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
+            headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore (più), forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi (Posta, Cloud, Accesso ai Dati Sensibili, ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
-            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete. E' importante accede ai dati in modo sicuro ma è altrettanto importante depositare i dati e condividerli in ambienti chiusi e protetti.
+            numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
             teaser: Gestione Semplice e Centralizzata
