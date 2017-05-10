@@ -311,10 +311,10 @@ servizi:
             list:
                 li1: Riconoscimento Univoco (Nome Utente o Device associato al ID).
                 li2: Tipo di Certificato Emesso (Tipo e data di Scadenza).
-                li3: Riconoscimento dei profili (cosa possono fare ? Con quale Device posso connetermi ? IP da dove posso connerttermi ?).
-                li4: Usi Consenti (Policy).
-                li5: Chiave Pubblica.
-                li6: Firma Digitale.
+                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare? Con quale Device posso connetermi? Con quali IP? Da dove posso connerttermi?
+                li4: Usi Consenti (discilinati dalla Policy).
+                li5: Tipo di Chiave Pubblica.
+                li6: Tipo di Firma Digitale.
 
 ########################################################################
 
