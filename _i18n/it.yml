@@ -225,7 +225,7 @@ servizi:
         box1:
             headline: Compliance GDPR
             teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (riservate), sono sempre state utilizzate dai Grandi Gruppi Megacorps. Considerandoo gli ottimi risultati ottenuti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
+            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Da decenni nel privato le comunicazioni crittografate sono state utilizzate dai grandi gruppi Megacorps. Tutti siamo stati testimoni dei loro ottimi risultati di crescita dovuti anche alla riservatezza integrata nei loro sistemi tecnologici. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire. E' uno strumento fondamentale per la sicurezza dei sistemi e delle proprie reti.
 
         box2:
             headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
@@ -238,10 +238,10 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
+            teaser: Lo scambio elettronico concettualmente è una caratteristica che non ha alternative, tecnologicamente  non tornerà indietro. L'innovazione consente nuove tecniche di comunicazione (Virtualizzazione, Mobile, Cloud, IP). Ogni sistema connesso a una rete accessibile “in chiaro”, o senza un adeguato sistema crittografico può essere vittima di un attaccante. A questo punto è necessario chiedersi&#58 Quali sono le garanzie in nostro possesso che le informazioni sensibili siano effettivamente protette ? Abbiamo gli strumenti di controllo ?  Abbiamo la consapevolezza dei rischi a cui siamo sottoposti ? Abbiamo coscienza che i nostri segreti aziendali sono vulnerabili? E’ fondamentale per la crescita aziendale offrire un senso di maggiore sicurezza e di fiducia tra i corrispondenti, per cui il successo della propria attività dipenderà dal profilo di Cyber Security e dalle strategie messe in atto sulla protezione dati effettiva.
             list:
-                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il famoso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora Doxing (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatizzato (cancellazione dati completa). Virus ATP è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema. Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
-                li2: Nel mondo esistono moltissime piattaforme di spionaggio società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
+                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze, gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il dannooso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora <strong>Doxing</strong> (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatico (cancellazione dati completa). Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
+                li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
                 li3: Sono ARMI CYBERNETICHE, se dati sensibili copiati illecitamente, ad insaputa dell’azienda vittima, vanno i mano ai competitor significa nella migliore delle ipotesi, perdere posizioni di mercato. In più è anche un metodo fraudolento "scorciatoia" negli investimenti in ricerca e sviluppo.
                 li4: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
                 li5: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
@@ -251,14 +251,14 @@ servizi:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. <strong>Vantaggi&#58</strong>
+            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti.
             list:
-                li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
-                li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
-                li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni - Previo Autorizzazione -
-                li4: Trattamento dei dati compliance alla GDPR
-                li5: Inevitabile aumento della reputazione - L'azienda è ritenuta attendibile -
-                li6: Aumento della cosistenza patrimoniale (dati aziendali integri e sicuri)
+                li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
+                li2: Cifratura fino 4096 Bit SHA 256 i messaggi o i dati anche se intercettati non sono leggibili
+                li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni (Previo Policy > Autorizzazione)
+                li4: Trattamento dei dati compliance al GDPR
+                li5: Inevitabile aumento dell'immagine aziendale del suo prestigio e della sua reputazione
+                li6: Infrastruttura IT all'avanguardia consegue un aumento di valore patrimoniale
 
         box4b:
             headline: Privacy-Mail
@@ -278,10 +278,10 @@ servizi:
 
         box6:
             headline: Cifratura Dati Memorizzati
-            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud.
+            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud. La soluzione proposta standard è di cifrare i propri dati prima di trasferirli nel cloud e di decifrarli nel trasferimento inverso.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
-                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
+                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
             headline: Spostamento Fisico dei Dati
@@ -297,24 +297,24 @@ servizi:
     controllo:
         icona: Controllo Accesso
         teaser: Controllo accesso
-        titolo: Soluzione Controllo Accessi Sicuro
-        sottotitolo: Riconoscimento Automatimatico - E' reale il bisogno da parte delle imprese avere una gestione più professionale agli accessi sicuro. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
+        titolo: Controllo Accessi Sicuro e Automatico
+        sottotitolo: E' reale il bisogno da parte delle imprese avere una gestione più semplice degli accessi ai servizi&#58 Posta, Cloud, Accesso ai Dati. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
         descrizione: Prova descrizione in controllo, prova, prova
 
         box1:
-            headline: Il sistema si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Int. +  Utenti Est..
-            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi (Posta, Cloud, Accesso ai Dati Sensibili, ecc..), esclusivamente agli utenti autorizzati. Compliance alle normative GDPR.
-            numbers: L'aumento della complessità tecnica (codifica e decodifica), di riconoscimento e di identificazione semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non intrudurre latenze nella rete. E' importante accede ai dati in modo sicuro ma è altrettanto importante depositare i dati e condividerli in ambienti chiusi e protetti.
+            headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore (più), forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Interni & Esterni.
+            description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi esclusivamente agli utenti autorizzati.
+            numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
             teaser: Gestione Semplice e Centralizzata
             list:
-                li1: Riconoscimento Univoco (Nome Utente o Device associato al ID).
+                li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
                 li2: Tipo di Certificato Emesso (Tipo e data di Scadenza).
-                li3: Riconoscimento dei profili (cosa possono fare ? Con quale Device posso connetermi ? IP da dove posso connerttermi ?).
-                li4: Usi Consenti (Policy).
-                li5: Chiave Pubblica.
-                li6: Firma Digitale.
+                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare ? Con quale device posso connetermi ? Con quale IP ? Da dove posso connerttermi ?
+                li4: Usi Consenti (disciplinati dalla Policy).
+                li5: Tipo di Chiave Pubblica.
+                li6: Tipo di Firma elettronica.
 
 ########################################################################
 
@@ -322,13 +322,13 @@ servizi:
     cloud:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
-        titolo: La tua Piattaforma Cloud
+        titolo: La tua Piattaforma Cloud Privata
         descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Depositare i dati in ambienti non sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati sempre con te senza dipendere da altri.
+            headline: Depositare i dati in ambienti apparentemente sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: Cloud in-House ha la finalità di rendirti autonomo cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>
+            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>  Più precisamente, per ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
             numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
@@ -338,7 +338,7 @@ servizi:
                 li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
                 li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
-                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
+                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules, sistema resistente all’intrusione progettato per proteggere le chiavi di cifratura).
 
         box3:
             headline: Condivisione Dati Sicura
@@ -456,7 +456,7 @@ servizi:
                 li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
                 li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
                 li12: Approvazione dell'investimento.
-                li13: Mandato e obbietivi stabili.
+                li13: Mandato e obbietivi stabiliti.
                 li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
                 li15: Collaudo e Formazione.
 
@@ -495,12 +495,12 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la  filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale (security file sharing), aumento della produttività e  contemporaneamente alla protezione del  hi patrimonio dati.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa Fiscalmente Ammortizzabile, Normative. Sono tutte finalizzate alla innovazione digitale aumento della produttività (security file sharing), e alla protezione dati.
 
         riquadri:
             box1:
                 headline: Acquista Cloud in-House
-                details: Progettiamo e realizziamo piattaforme <strong>Cloud Privati</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
+                details: Progettiamo e realizziamo piattaforme <strong>Cloud Private</strong> per la protezione dei dati aziendali. La crittografia inisita nel sistema garantisce, tramite chiavi da 2048 a 4096 bit e algoritmo SHA256, riservatezza e condivisione sicura.
             box2:
                 headline: Acquista Storage CryptoTeam
                 details: Verifica il piano tariffario basato sul costo fisso mensile della risorsa scelta. La bassa spesa ti permetterà di avere una gestione di Back-up e di condivisione dei dati sicura, cioè con <strong>chiavi in tuo possesso</strong> fino a 4096 bit algoritmo SHA256.
@@ -528,7 +528,7 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi oppure accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
+            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli  anonimi e accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Chiunque senza un adeguato sistema di protezione a sua insaputa può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluti aziendale."
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
                 text: "<p>Una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
@@ -546,7 +546,7 @@ offerta:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
-                lead: Vogliamo aiutarvi nella gestione sicura dei dati. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sono vitali per l'azienda stessa.
+                lead: Vogliamo aiutarvi nella gestione sicura dei dati. Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o sono a riposo. Molti di questi dati sensibili, sono vitali per l'azienda stessa.
                 text:
                     keyfeatures:
                         headline: Soluzione
@@ -564,10 +564,10 @@ offerta:
                         text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
 
         https:
-            headline: Un sito sicuro utilizza un protocollo https.
-            lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, con un sito visitato in quel momento.
+            headline: Un sito internet sicuro utilizza il protocollo https.
+            lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, e un sito internet visitato in quel momento.
             details:
-                lead: E' dimostrato che l’<strong>Https aumenta la fiducia di tutti&#58 Clienti, Fornitori, Corrispondi, Collaboratori, Partner, ecc..</strong> Però NON è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale spesso a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
+                lead: E' dimostrato che l’Https aumenta la fiducia di tutti partner&#58 Clienti, Fornitori, Corrispondi, Collaboratori, ecc.. Però non è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale quasi sempre a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
                 text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
                 image:
                     alt: Grafana Views of an running XLT test
