@@ -476,7 +476,6 @@ offerta:
                     <li><strong>Identificazione</strong> Digital Identity è l'informazione contenuta nel certificato digitale può riguardate una persona oppure un disposito di rete, tipo Client o Server o altri.</li>
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
-                    <li><strong>Cancellami</strong>.</li>
                 </ul>"
 
         cifratura-riposo:
