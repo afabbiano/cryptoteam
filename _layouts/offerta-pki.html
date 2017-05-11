@@ -2,7 +2,7 @@
 <html lang="it">
 	{% include head.html %}
 
-  <body class="homepage local-scroll" id="page">
+	<body class="general-page about local-scroll" id="page">
     {% include privacy-message.html %}
 
     {% include top-scroller.html %}
@@ -19,10 +19,8 @@
 			</div>
 		</div>
 
-		<header id="teaser">
-			<div class="container">
-				{% include offerta/carousel-pki.html %}
-			</div>
+		<header id="teaser" class="hidden-xs">
+			<div class="teaser-image">&nbsp;</div>
 		</header>
 
 		<div id="main">
