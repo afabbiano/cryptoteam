@@ -421,13 +421,13 @@ offerta:
 
         carousel:
             slide1:
-                text: Protezione Dati <br/>Cloud Privato Data Encryption
+                text: Richiedi Offerta <br/>Cloud Privato Data Encryption
             slide2:
                 text: Acquista Storage <br/>Cloud CryptoTeam Data Encryption
             slide3:
-                text: Cloud CryptoTeam <br/>Condivisione Gratuita 30 Giorni
+                text: Cloud CryptoTeam <br/>Prova Gratuita 30 Giorni
             slide4:
-                text: Cloud Privato <br/>Concordiamo il servizio di Housing & Outsorsing
+                text: Richiedi Offerta <br/>servizio di Housing o di Outsorsing
 
         intro:
             headline: Cloud in-House
