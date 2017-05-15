@@ -118,8 +118,8 @@ homepage:
 
     carousel:
         slide1:
-            riga1: Privacy
-            riga2: Protezione Dati Compliance GDPR
+            riga1: Protezione dati
+            riga2: come condizione neccessaria per la prosperità economica aziendale
         slide2:
             riga1: Privacy
             riga2: Piattaforma PKI
@@ -131,8 +131,8 @@ homepage:
             riga2: VoIP PBX
 
     intro:
-        headline: Integriamo la Privacy nella tua Azienda
-        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo indecifrabili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate che viaggiano in rete.
+        headline: Integriamo la Privacy nella tua rete
+        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo illegibili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate che viaggiano in rete.
 
     riquadri:
         box1:
@@ -140,10 +140,10 @@ homepage:
             details: La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni nelle architetture informatiche, determinano l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
         box2:
             headline: Piattaforma PKI
-            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. E' un automatismo semplice che tramite la gestione dei certificati digitali si otterrà, <strong>riservatezza e più sicurezza verso tutte le attività svolte.</strong> L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma Elettronica.
+            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. E' un automatismo semplice che tramite la gestione dei certificati digitali, renderà (escludendo i destinatari), <strong>illeggibili tutte le attività di comunicazioni.</strong> L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
         box3:
             headline: Cloud in-House
-            details: Si basa sulla tecnica “end to end” cioè un canale di lavoro <strong>chiuso sicuro e riservato.</strong> Questa soluzione consente di ottenere la condivisione dei dati e il suo back-up, sempre protetti e riservati dalle intercettazioni a fini di lucro - I dati sono sistematicamente crittografati - E' conforme al GDPR, si tratta di una soluzione aperta che tramite le condivisioni (File Sharing), aumenta la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
+            details: Si basa sulla tecnica “end to end” cioè un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione  sicura dei dati (File Sharing), e il suo back-up protetti dalle intercettazioni a fini di lucro. In caso di attacchi i dati rimangono illeggibili. Resta comunque una tecnologia aperta alle condivisioni in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
 
         box4:
             headline: Voip PBX
@@ -218,14 +218,14 @@ servizi:
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo: Protezione dei Dati Aziendali
-        sottotitolo: Forniamo soluzioni per la Tutela della Privacy
+        titolo: Sotto le nostre soluzioni
+        sottotitolo: I Dati Aziendali hanno un valore economico importante per cui è necessario difenderlo
         descrizione: Prova descrizione in protezione, prova, prova
 
         box1:
-            headline: Compliance GDPR
+            headline: Compliance Normativa GDPR
             teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Da decenni nel privato le comunicazioni crittografate sono state utilizzate dai grandi gruppi Megacorps. Tutti siamo stati testimoni dei loro ottimi risultati di crescita dovuti anche alla riservatezza integrata nei loro sistemi tecnologici. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire. E' uno strumento fondamentale per la sicurezza dei sistemi e delle proprie reti.
+            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Da decenni nel privato le comunicazioni crittografate sono state utilizzate dai grandi gruppi Megacorps. Siamo stati testimoni dei loro risultati di crescita dovuti sopratutto alla riservatezza integrata nei loro sistemi tecnologici. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire. E' uno strumento fondamentale per la sicurezza dei sistemi e delle proprie reti.
 
         box2:
             headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
@@ -238,7 +238,7 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non ha alternative, tecnologicamente  non tornerà indietro. L'innovazione consente nuove tecniche di comunicazione (Virtualizzazione, Mobile, Cloud, IP). Ogni sistema connesso a una rete accessibile “in chiaro”, o senza un adeguato sistema crittografico può essere vittima di un attaccante. A questo punto è necessario chiedersi&#58 Quali sono le garanzie in nostro possesso che le informazioni sensibili siano effettivamente protette ? Abbiamo gli strumenti di controllo ?  Abbiamo la consapevolezza dei rischi a cui siamo sottoposti ? Abbiamo coscienza che i nostri segreti aziendali sono vulnerabili? E’ fondamentale per la crescita aziendale offrire un senso di maggiore sicurezza e di fiducia tra i corrispondenti, per cui il successo della propria attività dipenderà dal profilo di Cyber Security e dalle strategie messe in atto sulla protezione dati effettiva.
+            teaser: L'innovazione digitale consente nuove tecniche di comunicazione (Virtualizzazione, Mobile, Cloud, IP). Ogni sistema connesso a una rete accessibile “in chiaro”, o senza un adeguato sistema crittografico può essere vittima di un attaccante malintenzionato. A questo punto bisogna chiedersi&#58 Quali sono le garanzie in nostro possesso che le informazioni sensibili siano effettivamente protette ? Abbiamo gli strumenti di controllo ? Abbiamo la consapevolezza dei rischi a cui siamo sottoposti ? Siamo consapevoli che i nostri segreti aziendali sono vulnerabili ? E’ fondamentale per la crescita aziendale offrire un senso di maggiore sicurezza e di fiducia tra i corrispondenti, per cui il successo della propria attività dipenderà dal profilo di Cyber Security e dalle strategie messe in atto sulla protezione dati effettiva.
             list:
                 li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze, gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il dannooso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora <strong>Doxing</strong> (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatico (cancellazione dati completa). Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
                 li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
@@ -344,7 +344,7 @@ servizi:
             headline: Condivisione Dati Sicura
             teaser: File Sharing
             list:
-                li1: E' possibile condividere i dati sullo stesso server sia come utenti sigoli che come gruppi.
+                li1: E' possibile condividere i dati sullo stesso server sia come utenti singoli che come gruppi.
                 li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
                 li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
                 li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
@@ -597,9 +597,9 @@ offerta:
 
         spostamento:
             headline: Spostamento Fisico dei Dati (Dati in Movimento)
-            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra.
+            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta soluzione 1 e 2).  Più precisamente gli strumenti saranno resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
             details:
-                lead: I metodi operativi di saltaggio dati garantiscono sicurezza e riservatezza all'azienda. Il nostro compito non è solo fornire un prodotto, ma è di guidare l'utente ad un corretto uso dei strumenti.
+                lead: Da tempo siamo impegnati sul fronte della privacy e del diritto a utilizzare le nuove tecnologie, il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
                     block1:
                         image:
@@ -689,7 +689,7 @@ offerta:
                 details: Nelle aziende le password (tradizionali), sono numerose e dimostrate vulnerabili, oltre che onerose nella gestione. Tramite il certificato digitale si garantisce l'identità reale di chi accede alle aplicazioni e ai dati sensibili. Proponiamo una soluzione (forte), basata sullo scambio di comunicazione tra la Digital Identity e Autenticazione sicura.
             box4:
                 headline: Firma Elettronica
-                details: Nell'era digitale i documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità dei documenti che circolano in rete. Tramite il certificato digitale della PKI sia ha la certezza che un insieme di dati in forma elettronica, allegati alla Digital Identity, di sapere se i documenti vengono violati.
+                details: Nell'era digitale i documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità dei documenti che circolano in rete. Tramite il certificato digitale "openXPKI" si ha la certezza che un insieme di dati in forma elettronica, allegati alla Digital Identity, di sapere se i documenti vengono violati.
 
         welcome_teaser:
             headline: Richiedi un preventivo.
@@ -1203,7 +1203,7 @@ chisiamo:
         details: Il team è in grado di realizzare software, integrare tool, progettare e offrire consulenza in ambito di sicurezza dei dati e di riservatezza delle comunicazioni aziendali.
     box5:
         headline: CryptoTeam
-        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda". La continuità, l'assistenza tecnica è garantita da un team di professionisti che collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi a loro richiesti. <strong>Usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.</strong>
+        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda".  La continuità, l'assistenza tecnica è costantemente garantita da un team di professionisti che collaborano a tutta forza impegnandosi con i clienti al raggiungimento degli obiettivi a loro affidati. <strong>Inoltre usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende in che modo tutelare i propri dati e le proprie comunicazioni, rendendole riservate e accessibili solo alle persone autorizzate.</strong>
     box6:
         headline: Filosofia
         details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando l'utilizzo di tecniche di "anonimizzazione".
