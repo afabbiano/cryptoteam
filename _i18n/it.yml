@@ -537,14 +537,14 @@ offerta:
             headline: Trasferimento Fisico dei Dati su Chiavetta o HD
             lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente agli utenti non autorizzati di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta, soluzione 1 e 2).  Più precisamente gli strumenti sono resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
             details:
-                lead: Da tempo siamo impegnati sul fronte della privacy e del diritto a utilizzare le nuove tecnologie, il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
+                lead: Da tempo siamo impegnati sul fronte della privacy il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non  potranno essere utilizzabili.</p>
-                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD virtuale. Per ulteriore livello di sicurezza durante la fase d'installazione, potrà scegliere volta per volta con quale algoritmo di cifratura operare.</p>
+                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sui due client postazione (sede 1 e sede 2 dell'utente). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
