@@ -188,13 +188,14 @@ servizi:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
-                titolo: Cloud in-House è una piattaforma di proprietà del cliente, ha la finalità di renderlo autonomo, non dipendente da altri fornitori di servizi (Cloud), sopratutto sfruttando il top della tecnologia e della sicurezza
+                titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, ad esempio include la funzione "Private*Bin" utile ai manager come ulteriore protezione dei segreti aziendali scambiati in rete.
                 descrizione: Grazie al Cloud in-House e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
                 li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
+                li6: Private*Bin apre una discussione cifrata utilizza il protocollo AES a 256 Bit.
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te, qualunque sia la piattaforma utilizzata
                 descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al Cloud in-House
@@ -202,6 +203,7 @@ servizi:
                 li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
                 li3: Programmare la data di scadenza sulla condivisione pubblica
                 li4: Notifica via mail quando si creano le condivisioni
+                li5: Ad ogni comunicazione Private*Bin può essere impostata una password e la sua callezione temporale
 
         voip:
             icona: Comunicazioni Telefoniche Protette
@@ -431,7 +433,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale di partenza è una <strong>Piattaforma Cloud Privata</strong> cioè  di proprietà  del cliente. Le soluzioni proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), Conformità Normative. Sono tutte finalizzate alla innovazione digitale aumento della produttività (security file sharing), e alla protezione dati.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), e Conformità Normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. L’offerta include il Private*Bin utile per le comunicazioni riservate tra i manager, esempio&#58 Brevetti, Lancio Nuovi prodotti, Scambio Idee, Segreti Industriali.
 
         riquadri:
             box1:
@@ -532,17 +534,17 @@ offerta:
                 <p><img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" /></p>"
 
         spostamento:
-            headline: Spostamento Fisico dei Dati (Dati in Movimento)
-            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta soluzione 1 e 2).  Più precisamente gli strumenti saranno resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
+            headline: Trasferimento Fisico dei Dati su Chiavetta o HD
+            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente agli utenti non autorizzati di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta, soluzione 1 e 2).  Più precisamente gli strumenti sono resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
             details:
-                lead: Da tempo siamo impegnati sul fronte della privacy e del diritto a utilizzare le nuove tecnologie, il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
+                lead: Da tempo siamo impegnati sul fronte della privacy il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD. Sempre in fase d'installazione, potrà scegliere con quale algoritmo di cifratura operare. Inoltre in caso di smarrimento la chiavetta o HD (usb), non  potranno essere utilizzabili.</p>
-                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sul client postazione sede 1 e sede 2 dell'utente (modalità da concordare). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD virtuale. Per ulteriore livello di sicurezza durante la fase d'installazione, potrà scegliere volta per volta con quale algoritmo di cifratura operare.</p>
+                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sui due client postazione (sede 1 e sede 2 dell'utente). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
