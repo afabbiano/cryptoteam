@@ -484,11 +484,11 @@ offerta:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
-                lead: Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o riposano (data at rest). Molti di questi dati sensibili, sono vitali per l'azienda stessa.
+                lead: Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o riposano (data at rest). Molti di questi dati sensibili, sono vitali per l'azienda stessa, per cui è necessario proteggerli.
                 text:
                     keyfeatures:
                         headline: Soluzione
-                        text: In caso di attacchi o di errori o disattenzione nella gestione delle password, la tecnica di cifratura integrata - Data Encryption - nel sistema, permette di non compromettere le informazioni aziendali.
+                        text: In caso di attacchi o di errori o disattenzione nella gestione delle password, la tecnica di cifratura - Data Encryption - permette di non compromettere le informazioni.
                         list: <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
                               <li><strong>Dati Cifrati Sistematicamente</strong></li>
                               <li><strong>Dati Salvati Sistematicamente</strong></li>
@@ -499,7 +499,7 @@ offerta:
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
                     download:
                         headline: Fatevi Aiutare
-                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati centralizzata. Il controllo impedisce il download non autorizzato e una difusione dei dati eseguita con leggerezza.<strong></strong>
+                        text: Depositare i dati in ambineti non sicuri significa comprometterli e condividerli con chiunque. La nostra esperienza può garantirvi una Governace dei dati ed un controllo che impedisce il download non autorizzato.<strong></strong>
 
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
