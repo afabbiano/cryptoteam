@@ -577,7 +577,7 @@ offerta:
             headline: Autenticazione
             lead: L'evoluzione digitale rende necessario un tipo di autenticazione c.d. (più),  forte.  Condizione indispensabile per la sicurezza dati.  E’ il primo passo tecnologico da implementare.  Infatti la vecchia gestione di password tradizionali creano continuamente problemi di vulnerabilità, oltre ad essere onerose proprio per la loro gestione e complessità.  Per questo motivo integriamo e  garantiamo soluzioni di <strong>Strong Autentication,</strong>  che abilitano gli utenti  ai servizi aziendali in modalità semplice e sicura.
             details:
-                lead: Entrambe le soluzioni sbloccano i computer permettendo l’accesso ai servizi senza introdurre latenze. Inoltre tramite la policy si aggiungono fattori di sicurezza maggiore&#58 Limitazioni e Usi Consentiti. Di seguito proponiamo 2 soluzioni all’avanguardia.
+                lead: Entrambe le soluzioni sbloccano i computer permettendo l’accesso ai servizi senza introdurre latenze. Inoltre tramite la policy si aggiungono fattori di sicurezza maggiori&#58 Limitazioni, Usi Consentiti, ID, Firma. Di seguito proponiamo 2 soluzioni all’avanguardia.
                 text:
                     block1:
                         image:
@@ -590,7 +590,7 @@ offerta:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
                         text: "<p><strong>Soluzione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' preferito dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantite nello stesso modo (Validazione Utente). Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
-                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente resistente all'intrusioni progettato per proteggere le chiavi. Il sistema . Per sicurezza viene tenuto OFF Line ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
+                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 ########################################################################
 
