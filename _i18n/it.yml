@@ -469,7 +469,7 @@ offerta:
             lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli incomprensibili e accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluto."
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
-                text: "<p>Una Governace centralizzata che punta a transazioni quotidiane sicure e riservate sotto il proprio controllo.</p>
+                text: "<p>E'una Governace che punta alle transazioni giornaliere sicure e riservate.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
