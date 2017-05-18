@@ -549,9 +549,9 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. L'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
+                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
                                 <p><strong>Scegli sotto il tuo modello.</strong></p>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci richiedi informazioni</a>.</p>"
 
         accessi:
             headline: Controllo Accessi Sicuro
