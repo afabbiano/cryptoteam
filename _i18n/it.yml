@@ -554,9 +554,9 @@ offerta:
 
         accessi:
             headline: Controllo Accessi Sicuro
-            lead: Queste 2 soluzioni consentono di automatizzare i processi di accesso in modalità sicura. E' una validazione semplice gestita facilmente verso tutti servizi aziendali (Cloud, Posta, Accessso ai Dati, ecc..), sia per utenti interni,  che esterni.
+            lead: Queste 2 soluzioni proteggono le fonti d'informazione dati, da accessi non autorizzati. Consentono l'azienda di automatizzare i processi di accesso e di rendere semplice la gestione. Validazione gestita facilmente verso tutti servizi aziendali (Cloud, Posta, Accesso ai Dati, ecc..), sia per utenti interni, che per utenti esterni.
             details:
-                lead: "Si tratta di soluzioni basate su fattori c.d. (più), forti&#58 Identificazione, riconoscimento univoco, (Utente e Device). Verifica il tipo di Certificato, P/N Associato, Data di Scadenza, Nome del Soggetto, ID, Profili Assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica."
+                lead: "Si tratta di soluzioni basate su fattore c.d. (più), forte&#58 Identificazione, riconoscimento univoco, (Utente e Device). Verifica il tipo di Certificato, P/N Associato, Data di Scadenza, Nome del Soggetto, ID, Profili Assegnati, Usi Consentiti (cosa può fare), IP (da dove si può connettere), con quale Device, Firma Digitale e Chiave Pubblica."
                 text:
                     block1:
                         image:
