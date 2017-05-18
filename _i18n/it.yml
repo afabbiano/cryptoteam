@@ -568,7 +568,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno medie esigenze. La differenza sta nelle regole e nelle attività di gestione più impegnativa (è necessario uno skill medio). Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze mediocri. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
@@ -588,7 +588,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Autenticazione OpenPGP.</strong>  Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto dalle piccole organizzazioni. La differenza sta nelle regole e nelle attività di gestione più impegnative. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze mediocri. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 ########################################################################
