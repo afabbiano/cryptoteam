@@ -648,7 +648,7 @@ offerta:
 
       intro:
         headline: IDS-PSAD
-        details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti (ip4, ip6). Integrato nella rete svolge la funzioni di vigilanza, rilevando possibili intrusioni indesiderate. Progettato per migliorare la sicurezza informatica e di produrre risultati coerenti con le aspettative aziendali.
+        details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti. Integrato nella rete svolge funzioni di vigilanza, intercettando le intrusioni indesiderate. Progettato per migliorare la sicurezza informatica e di produrre risultati coerenti con le aspettative aziendali.
 
       box1:
         headline: Caratteristiche
