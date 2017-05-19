@@ -182,7 +182,7 @@ servizi:
         controllo:
             icona: Controllo Accessi
             titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali compiti assegnati.
 
         cloud:
             icona: Cloud in House
@@ -240,7 +240,7 @@ servizi:
 
         box3:
             headline: Perchè Proteggere i Dati
-            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58  Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete, le cui comunicazione scambiate “in chiaro” senza un adeguato sistema di protezione, prima o poi saranno vittima di un attaccante malintenzionato.  Attualmente i virus di spionaggio dati hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano.  Nella maggior parte dei casi descritti le vittime non hanno consapevolezza di quanto accade e quando si accorgono, è troppo tardi.  E facile immaginare la potenzialità devastante, se tali informazioni,  andassero in mano ai competitor.   Conclusione&#58  La futura prosperità aziendale dipenderà dal profilo di Cyber Security e dalle strategie messe in atto verso la Data Protection.
+            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58  Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete, in cui le sue comunicazioni scambiate “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi saranno vittima di malintenzionati. Attualmente i virus di spionaggio dati hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano.  Nella maggior parte dei casi descritti le vittime non hanno consapevolezza di quanto accade e quando si accorgono, è troppo tardi.  E facile immaginare la potenzialità devastante, se tali informazioni,  andassero in mano ai competitor.   Conclusione&#58  La futura prosperità aziendale dipenderà dal profilo di Cyber Security e dalle strategie messe in atto verso la Data Protection.
             list:
                 li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, sopratutto si nota una intelligenza operativa machine to machine. Proprio per sfruttare eventuali debolezze, gli attacchi vengono intensificati durante il weekend e verso sera. Inoltre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il dannoso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora <strong>Doxing</strong> (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la ƒ dati e un modulo di wiping automatico (cancellazione dati completa). Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
                 li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si cancella se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario.
@@ -286,8 +286,8 @@ servizi:
                 li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
-            headline: Spostamento Fisico dei Dati
-            teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
+            headline: Trasferimento Fisico dei Dati su chiavetta o HD
+            teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
             list:
                 li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendendo impossibile la sua identificazione.
                 li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
@@ -466,7 +466,7 @@ offerta:
 
         openxpki:
             headline: Privacy-Mail OpenXPKI
-            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di crittografia automatica. Strumento necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli incomprensibili e accessibili solo ad utenti autorizzati. Tecnologia nata per  soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Intellettuale, Segreti industriali, Segreti commerciali, Know-How in genere inteso come valore assoluto."
+            lead:  "Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la sicurezza delle reti e della comunicazioni, in grado di gestire il ciclo di vita dei certificati digitali che permettono di trasformare i dati aziendali rendendoli incomprensibili e accessibili solo ad utenti autorizzati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio e di pirateria&#58 Segreti industriali, Segreti commerciali, Know-How inteso come valore assoluto."
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
                 text: "<p>E'una Governace che punta alle transazioni giornaliere sicure e riservate.</p>
@@ -568,7 +568,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze mediocre. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 
@@ -588,7 +588,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze mediocre. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
 ########################################################################
@@ -647,8 +647,8 @@ offerta:
       descrizione: Descrizione Scheda IDS
 
       intro:
-        headline: IDS-PSAD
-        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
+        headline: IDS*PSAD
+        details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti. Integrato nella rete svolge funzioni di vigilanza, intercetta intrusioni indesiderate. Migliora la sicurezza informatica e produrre risultati coerenti con le aspettative aziendali.
 
       box1:
         headline: Caratteristiche
