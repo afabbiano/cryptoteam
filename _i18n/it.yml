@@ -182,7 +182,7 @@ servizi:
         controllo:
             icona: Controllo Accessi
             titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali profili.
+            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali compiti assegnati.
 
         cloud:
             icona: Cloud in House
@@ -286,8 +286,8 @@ servizi:
                 li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
-            headline: Spostamento Fisico dei Dati
-            teaser: Lo spostamento fisico dei dati da una sede all'altra in modalità sicura, viene offerta in due modalità&#58
+            headline: Trasferimento Fisico dei Dati su chiavetta o HD
+            teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
             list:
                 li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendendo impossibile la sua identificazione.
                 li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
@@ -648,7 +648,7 @@ offerta:
 
       intro:
         headline: IDS-PSAD
-        details: è un sistema di sorveglianza (Traffico In & Out Pacchetti), e di prevenzione, in grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto gestisce i rischi in anticipo  con l’obiettivo di migliorare la sicurezza informatica al fine di produrre risultati coerenti con le aspettative aziendali
+        details: è un sistema di prevenzione e di sorveglianza in&out traffico paccheti (ip4 e ip6), in grado di rilevare minacce e intrusioni indesiderate nella propria rete aziendale. In concreto individua potenziali rischi. Progettato per migliorare la sicurezza delle rete informatica e di produrre risultati coerenti con le aspettative aziendali.
 
       box1:
         headline: Caratteristiche
