@@ -647,7 +647,7 @@ offerta:
       descrizione: Descrizione Scheda IDS
 
       intro:
-        headline: IDS-PSAD
+        headline: IDS*PSAD
         details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti. Integrato nella rete svolge funzioni di vigilanza, intercetta intrusioni indesiderate. Migliora la sicurezza informatica e produrre risultati coerenti con le aspettative aziendali.
 
       box1:
