@@ -263,11 +263,11 @@ servizi:
                 li6: Infrastruttura IT all'avanguardia consegue un aumento di valore patrimoniale
 
         box4b:
-            headline: Privacy-Mail
+            headline: Private-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
+                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -465,11 +465,11 @@ offerta:
             details: Dettagli Offerta Cifratura Dati.
 
         openxpki:
-            headline: Privacy-Mail OpenXPKI
+            headline: Private-Mail con OpenXPKI
             lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Gestisce il ciclo di vita dei certificati digitali che permettono di trasformare i contenuti in modo incomprensibile ovvero accessibili solo agli utenti autorizzati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Segreti industriali, Segreti commerciali, Know-How inteso come valore assoluto.
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
-                text: "<p>E'una Governace che punta alle transazioni giornaliere sicure e riservate.</p>
+                text: "<p>E'una Governance che punta alle transazioni giornaliere sicure e riservate.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
@@ -512,10 +512,10 @@ offerta:
                     title: Realtime Monitoring with XLT
 
         openpgp:
-            headline: Privacy-Mail OpenPGP
-            lead: Richiedi un prevento per il Privacy-Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            headline: Private-Mail con OpenPGP
+            lead: Richiedi un prevento Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
-                lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
+                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
@@ -531,7 +531,7 @@ offerta:
                 </ul>
                 <h3>Procedura Certificata CryptoTeam</h3>
                 <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>
-                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"  
+                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         spostamento:
             headline: Trasferimento Fisico dei Dati su Chiavetta o HD
@@ -617,8 +617,8 @@ offerta:
 
         riquadri:
             box1:
-                headline: Privacy-Mail
-                details: Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito. La riservatezza delle Mail, Privacy-Mail, è attuata tramite il certificato digitale della PKI e risulta fondamentale per le attività quotidiane di lavoro.
+                headline: Private-Mail
+                details: Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non leggibili da altri, è più che mai sentito. La riservatezza delle Mail, è attuata tramite il certificato digitale della PKI e risulta fondamentale per le attività quotidiane di lavoro.
             box2:
                 headline: Digital Identity
                 details: La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
