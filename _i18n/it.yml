@@ -479,7 +479,6 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                 </ul>"
-                
 
         cifratura-riposo:
             headline: Cifratura Dati a Riposo
