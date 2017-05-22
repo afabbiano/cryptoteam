@@ -263,11 +263,11 @@ servizi:
                 li6: Infrastruttura IT all'avanguardia consegue un aumento di valore patrimoniale
 
         box4b:
-            headline: Privacy-Mail
+            headline: Private-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
-                li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
+                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -465,11 +465,11 @@ offerta:
             details: Dettagli Offerta Cifratura Dati.
 
         openxpki:
-            headline: Privacy-Mail OpenXPKI
+            headline: Private-Mail con OpenXPKI
             lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Gestisce il ciclo di vita dei certificati digitali che permettono di trasformare i contenuti in modo incomprensibile ovvero accessibili solo agli utenti autorizzati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Segreti industriali, Segreti commerciali, Know-How inteso come valore assoluto.
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
-                text: "<p>E'una Governace che punta alle transazioni giornaliere sicure e riservate.</p>
+                text: "<p>E'una Governance che punta alle transazioni giornaliere sicure e riservate.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
@@ -498,24 +498,25 @@ offerta:
                               <li><strong>Identificazione dei Dati</strong></li>
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
                     download:
-                        headline: Fatevi Aiutare
-                        text: La nostra esperienza può garantirvi una Governace dei dati ed un controllo che impedisce il download non autorizzato.<strong></strong>
-
+                        headline: Provate a consultarci
+                        text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzati.<strong></strong>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
             lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, e un sito internet visitato in quel momento.
             details:
                 lead: E' dimostrato che l’Https aumenta la fiducia di tutti partner&#58 Clienti, Fornitori, Corrispondi, Collaboratori, ecc.. Però non è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale quasi sempre a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
                 text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
+                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
                 image:
                     alt: Grafana Views of an running XLT test
                     title: Realtime Monitoring with XLT
 
         openpgp:
-            headline: Privacy-Mail OpenPGP
-            lead: Richiedi un prevento per il Privacy-Mail OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            headline: Private-Mail con OpenPGP
+            lead: Richiedi un prevento Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
             details:
-                lead: Il sistema Privacy-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
+                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
                 text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
@@ -530,7 +531,8 @@ offerta:
                     <li><strong>Assistenza Tecnica</strong></li>
                 </ul>
                 <h3>Procedura Certificata CryptoTeam</h3>
-                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>"
+                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>
+                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         spostamento:
             headline: Trasferimento Fisico dei Dati su Chiavetta o HD
@@ -548,9 +550,9 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capicità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
-                                <p><strong>Scegli sotto il tuo modello.</strong></p>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci richiedi informazioni</a>.</p>"
+                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
+                                <p><strong>Scegli il tuo modello.</strong></p>
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         accessi:
             headline: Controllo Accessi Sicuro
@@ -570,7 +572,7 @@ offerta:
                             title: Detailed Information About Application Errors
                         text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         autenticazione:
             headline: Autenticazione
@@ -590,7 +592,7 @@ offerta:
                             title: Detailed Information About Application Errors
                         text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
                                 <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Open an example here</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 ########################################################################
 
 
@@ -616,8 +618,8 @@ offerta:
 
         riquadri:
             box1:
-                headline: Privacy-Mail
-                details: Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non decifrabili da altri, è più che mai sentito. La riservatezza delle Mail, Privacy-Mail, è attuata tramite il certificato digitale della PKI e risulta fondamentale per le attività quotidiane di lavoro.
+                headline: Private-Mail
+                details: Il problema di scambiarsi per via elettronica informazioni commerciali, confidenziali, sopratutto intatte con i propri partner, e che risultino non leggibili da altri, è più che mai sentito. La riservatezza delle Mail, è attuata tramite il certificato digitale della PKI e risulta fondamentale per le attività quotidiane di lavoro.
             box2:
                 headline: Digital Identity
                 details: La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
@@ -1099,11 +1101,11 @@ contatti:
 
     quote: Quality assurance can make that little difference between a good product and a great product.
     intro:
-        headline: Benvenuto in questo menu Contatti
-        details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
+        headline: Benvenuto nel menu Contatti
+        details: Siamo lieti di conoscerti e darti tutte le informazioni
     germany:
         country: Area Commerciale
-        head: Headquarters
+        head:
         address-country: Andrea Fabbiano
         management:
             label: Managing Directors
