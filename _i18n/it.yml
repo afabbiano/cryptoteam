@@ -510,7 +510,7 @@ offerta:
                 image:
                     alt: Grafana Views of an running XLT test
                     title: Realtime Monitoring with XLT
-                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
         openpgp:
             headline: Private-Mail con OpenPGP
             lead: Richiedi un prevento Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
