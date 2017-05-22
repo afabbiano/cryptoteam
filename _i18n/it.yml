@@ -479,7 +479,8 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                 </ul>"
-
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                                
         cifratura-riposo:
             headline: Cifratura Dati a Riposo
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
@@ -499,7 +500,7 @@ offerta:
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
                     download:
                         headline: Provate a consultarci
-                        text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzato.<strong></strong>
+                        text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzati.<strong></strong>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
