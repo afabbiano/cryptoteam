@@ -479,9 +479,7 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                 </ul>"
-                <h3>Certificata CryptoTeam</h3>
-                <p>L'installazione OpenXPKI e il corretto funzionamento vengono garantiti nel tempo dai tecnici esperti Cryptoteam.</p>
-                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                
 
         cifratura-riposo:
             headline: Cifratura Dati a Riposo
