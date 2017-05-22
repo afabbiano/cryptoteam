@@ -196,6 +196,7 @@ servizi:
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
                 li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
+                li6: Private*Bin apre una discussione cifrata utilizza il protocollo AES a 256 Bit.
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te qualunque sia la piattaforma utilizzata
                 descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al Cloud in-House
@@ -203,6 +204,7 @@ servizi:
                 li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
                 li3: Programmare la data di scadenza sulla condivisione pubblica
                 li4: Notifica via mail quando si creano le condivisioni
+                li5: Ad ogni comunicazione Private*Bin può essere impostata una password e la sua scadenza temporale
 
         voip:
             icona: Comunicazioni Telefoniche Protette
