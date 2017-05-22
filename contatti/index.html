@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: contatti
 title: contatti.title
 description: contatti.description
 
@@ -11,118 +11,82 @@ parent: Contatti
 permalink: /contatti/
 ---
 <div id="contatti">
-    <div class="row">
-        <div class="container">
-            <div class="col-md-3 hidden-sm hidden-xs">
-                <blockquote class="standalone">
-                    <p>{% t contatti.quote %}</p>
-                </blockquote>
-            </div>
-            <div class="col-md-9">
-                <h1 class="text-center">{% t contatti.intro.headline %}</h1>
-                <p class="text-center lead">{% t contatti.intro.details %}</p>
+  <div class="row">
+    <div class="container">
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <blockquote class="standalone">
+          <p>{% t contatti.quote %}</p>
+        </blockquote>
+      </div>
 
-                <div class="row">
-                    <div class="col-sm-6 col-left">
-                        <h2>{% t contatti.germany.country %} {% t contatti.germany.head %}</h2>
-                        <h3>Xceptance<br/>Software Technologies GmbH</h3>
-                        <p>Leutragraben 2-4<br/>07743 Jena<br/>{% t contatti.germany.address-country %}</p>
+      <div class="col-md-9">
+        <h1 class="text-center">{% t contatti.intro.headline %}</h1>
 
-                        <div class="maps">
-                            <a href="http://goo.gl/maps/Pnie7" target="_blank"><img class="img-responsive" src="https://maps.googleapis.com/maps/api/staticmap?center=Leutragraben%202-4,Jena&zoom=16&size=325x250&sensor=false&markers=color:red%7CLeutragraben%202-4,jena"></a>
-                        </div>
+        <div class="row">
+          <div class="col-sm-6 col-left">
+            <h2>{% t contatti.amministrazione.titolo %}</h2>
+            <table class="keyValue">
+              <tr>
+                <td class="key">{% t global.label.phone-label %}</td>
+                <td class="value">{% t contatti.amministrazione.telefono %}</td>
+              </tr>
+              <tr>
+                <td class="key">Fax</td>
+                <td class="value">{% t contatti.amministrazione.fax %}</td>
+              </tr>
+              <tr>
+                <td class="key">{% t global.label.email-label %}</td>
+                <td class="value">{% t contatti.amministrazione.email %}</td>
+              </tr>
+            </table>
 
-                        <table class="keyValue">
-                            <tr>
-                                <td class="key">{% t global.label.phone-label %}</td>
-                                <td class="value">+49-3641-376300</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;</td>
-                                <td class="value">+49-3641-559440</td>
-                            </tr>
-                            <tr>
-                                <td class="key">Fax</td>
-                                <td class="value">+49-3641-376122</td>
-                            </tr>
-                            <tr>
-                                <td class="key">{% t global.label.email-label %}</td>
-                                <td class="value">
-	                                <script type="text/javascript">
-		                                // <![CDATA[
-		                                var s3 = "kontakt";
-		                                var s2 = "@";
-		                                var s1 = "xceptance.";
-		                                var s = s3 + s2 + s1 + "de";
-		                                document.write(s);
-		                                // ]]>
-		                            </script>
-                                </td>
-                            </tr>
-                        </table>
+            <h3>{% t contatti.amministrazione.management.label %}</h3>
+            <p>{% t contatti.amministrazione.management.nominativo %}</p>
+          </div>
 
-                        <h3>{% t contatti.germany.management.label %}</h3>
-                        <p>
-                            Roy Sarnoch<br/>
-                            René Schwietzke
-                        </p>
+          <div class="col-sm-6 col-right">
+            <h2>{% t contatti.commerciale.titolo %}</h2>
+            <table class="keyValue">
+              <tr>
+                <td class="key">{% t global.label.phone-label %}</td>
+                <td class="value">{% t contatti.commerciale.telefono %}</td>
+              </tr>
+              <tr>
+                <td class="key">Fax</td>
+                <td class="value">{% t contatti.commerciale.fax %}</td>
+              </tr>
+              <tr>
+                <td class="key">{% t global.label.email-label %}</td>
+                <td class="value">{% t contatti.commerciale.email %}</td>
+              </tr>
+            </table>
 
-                        <h3>{% t contatti.germany.registry.label %}</h3>
-                        <p>{% t contatti.germany.registry.details %}</p>
+            <h3>{% t contatti.commerciale.management.label %}</h3>
+            <p>{% t contatti.commerciale.management.nominativo %}</p>
+          </div>
 
-                        <h3>{% t contatti.germany.vat.label %}</h3>
-                        <p>DE 235 305 262</p>
-                    </div>
+          <div class="col-sm-6 col-left">
+            <h2>{% t contatti.tecnica.titolo %}</h2>
+            <table class="keyValue">
+              <tr>
+                <td class="key">{% t global.label.phone-label %}</td>
+                <td class="value">{% t contatti.tecnica.telefono %}</td>
+              </tr>
+              <tr>
+                <td class="key">Fax</td>
+                <td class="value">{% t contatti.tecnica.fax %}</td>
+              </tr>
+              <tr>
+                <td class="key">{% t global.label.email-label %}</td>
+                <td class="value">{% t contatti.tecnica.email %}</td>
+              </tr>
+            </table>
 
-                    <div class="col-sm-6 col-right">
-                        <h2>{% t contatti.usa.country %}</h2>
-
-                        <h3>Xceptance<br/>Software Technologies, Inc.</h3>
-                        <p>{% t contatti.usa.address %}</p>
-
-                        <div class="maps">
-                            <a href="http://goo.gl/maps/vtFjL" target="_blank"><img class="img-responsive" src="https://maps.googleapis.com/maps/api/staticmap?center=1%20Broadway,Cambridge,MA&zoom=15&size=325x250&sensor=false&markers=color:red%7C1%20Broadway,Cambridge,MA"></a>
-                        </div>
-
-                        <table class="keyValue">
-                            <tr>
-                                <td class="key">{% t global.label.phone-label %}</td>
-                                <td class="value">+1-617-225-4335</td>
-                            </tr>
-                            <tr>
-                                <td class="key">Fax</td>
-                                <td class="value">+1-617-225-4433</td>
-                            </tr>
-                            <tr>
-                                <td class="key">{% t global.label.email-label %}</td>
-                                <td class="value">
-	                                <script type="text/javascript">
-		                                // <![CDATA[
-		                                var s3 = "contact";
-		                                var s2 = "@";
-		                                var s1 = "xceptance.";
-		                                var s = s3 + s2 + s1 + "com";
-		                                document.write(s);
-		                                // ]]>
-		                            </script>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <h3>{% t contatti.usa.management.label %}</h3>
-                        <p>{% t contatti.usa.management.details %}</p>
-                    </div>
-                </div>
-
-                <h2>{% t contatti.trademarks.headline %}</h2>
-                <p>{% t contatti.trademarks.details %}</p>
-
-                <h2>{% t contatti.disclaimer.headline %}</h2>
-                <p>{% t contatti.disclaimer.details %}</p>
-
-                <h2>{% t contatti.privacy.sites.headline %}</h2>
-                <p>{% t contatti.privacy.sites.details %}</p>
-            </div>
+            <h3>{% t contatti.tecnica.management.label %}</h3>
+            <p>{% t contatti.tecnica.management.nominativo %}</p>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 </div>
