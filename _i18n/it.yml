@@ -1100,11 +1100,11 @@ contatti:
 
     quote: Quality assurance can make that little difference between a good product and a great product.
     intro:
-        headline: Benvenuto in questo menu Contatti
-        details: Sei nel posto giusto siamo lieti di conoscerti e darti tutte le informazioni riguardante la Privacy
+        headline: Benvenuto nel menu Contatti
+        details: Siamo lieti di conoscerti e darti tutte le informazioni
     germany:
         country: Area Commerciale
-        head: Headquarters
+        head:
         address-country: Andrea Fabbiano
         management:
             label: Managing Directors
