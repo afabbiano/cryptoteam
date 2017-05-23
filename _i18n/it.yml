@@ -503,7 +503,7 @@ offerta:
                     download:
                         headline: Provate a consultarci
                         text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzati.<strong></strong>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
             lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, e un sito internet visitato in quel momento.
