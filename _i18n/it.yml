@@ -1125,7 +1125,7 @@ contatti:
         email: "amministrazione@cryptoteam.it"
 
     tecnica:
-        titolo: Area Tecnica
+        titolo: Area Supporto Tecnico
         management:
             label:
             nominativo:
@@ -1134,13 +1134,13 @@ contatti:
         email: "assistenza@cryptoteam.it"
 
     post-vendita:
-        titolo: Area Progetti Ricerca & Sviluppo
+        titolo: Progetti Nuove Tecnologie
         management:
             label:
             nominativo:
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
-        email: "r&d@cryptoteam.it"
+        telefono: "+39 (02) 1234."
+        fax:
+        email: "nt@cryptoteam.it"
 
     trademarks:
         headline: Trademarks
