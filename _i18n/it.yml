@@ -1127,20 +1127,20 @@ contatti:
     tecnica:
         titolo: Area Tecnica
         management:
-            label: Responsabile
-            nominativo: Giovanni Martinelli
+            label: 
+            nominativo:
         telefono: "+39 (02) 1234.5678"
         fax: "+39 (02) 1234.8765"
         email: "assistenza@cryptoteam.it"
 
     post-vendita:
-        titolo: Assistenza Post-Vendita
+        titolo: Area Progetti Ricerca & Sviluppo
         management:
-            label: Responsabile
-            nominativo: Giovanni Martinelli
+            label:
+            nominativo:
         telefono: "+39 (02) 1234.5678"
         fax: "+39 (02) 1234.8765"
-        email: "postvendita@cryptoteam.it"
+        email: "r&d@cryptoteam.it"
 
     trademarks:
         headline: Trademarks
