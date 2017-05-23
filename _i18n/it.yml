@@ -479,9 +479,9 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                 </ul>
-                <h3>Procedura Certificata CryptoTeam</h3>
-                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>
-                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                <h3>Installazione Certificata CryptoTeam</h3>
+                <p>Software completo non servirà nient'altro per comunicare protetti quotidianamente. Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato anche con riguardo i progetti sulle nuove tecnologie.</p>
+                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
         cifratura-riposo:
             headline: Cifratura Dati a Riposo
@@ -503,14 +503,14 @@ offerta:
                     download:
                         headline: Provate a consultarci
                         text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzati.<strong></strong>
-                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
             lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, e un sito internet visitato in quel momento.
             details:
                 lead: E' dimostrato che l’Https aumenta la fiducia di tutti partner&#58 Clienti, Fornitori, Corrispondi, Collaboratori, ecc.. Però non è da sottovalutare uno dei migliori vantaggi che il protocollo https offre, cioè la comunicazione protetta anche sulla rete intranet. Infatti i migliori attacchi portati a termine da utenti malintenzionati nell’acquisizione dei dati (copiati o rubati),  è realizzata  all’interno della rete aziendale quasi sempre a insaputa di chi subisce il furto. <strong>2 Nostre Proposte&#58</strong>
                 text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
-                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
+                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>
                 image:
                     alt: Grafana Views of an running XLT test
                     title: Realtime Monitoring with XLT
@@ -1109,38 +1109,38 @@ contatti:
     commerciale:
         titolo: Area Commerciale
         management:
-            label: Responsabile
+            label: Business Developer Enterprise Security
             nominativo: Andrea Fabbiano
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (320) 320.76.80"
+        fax: "andrea.fabbiano@cryptoteam.it"
         email: "vendite@cryptoteam.it"
 
     amministrazione:
-        titolo: Area Amministrativa
+        titolo: Area Supporto Tecnico
         management:
-            label: Responsabile
+            label: Esperto Data Security
             nominativo: Stefano Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
-        email: "amministrazione@cryptoteam.it"
-
-    tecnica:
-        titolo: Area Tecnica
-        management:
-            label: Responsabile
-            nominativo: Giovanni Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (335) 528.51.10"
+        Personale: "stefano.martinelli@cryptoteam.it"
         email: "assistenza@cryptoteam.it"
 
-    post-vendita:
-        titolo: Assistenza Post-Vendita
+    tecnica:
+        titolo: Area Amministrativa
         management:
-            label: Responsabile
-            nominativo: Giovanni Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
-        email: "postvendita@cryptoteam.it"
+            label:
+            nominativo:
+        telefono:
+        fax:
+        email: "amministrazione@cryptoteam.it"
+
+    post-vendita:
+        titolo: Progetti Nuove Tecnologie
+        management:
+            label:
+            nominativo:
+        telefono:
+        fax:
+        email: "nt@cryptoteam.it"
 
     trademarks:
         headline: Trademarks
