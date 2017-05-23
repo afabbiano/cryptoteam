@@ -1116,6 +1116,15 @@ contatti:
         email: "vendite@cryptoteam.it"
 
     amministrazione:
+        titolo: Area Supporto Tecnico
+        management:
+            label: Esperto Data Security
+            nominativo: Stefano Martinelli
+        telefono: "+39 (335) 528.51.10"
+        fax:
+        email: "assistenza@cryptoteam.it"
+
+    tecnica:
         titolo: Area Amministrativa
         management:
             label:
@@ -1123,15 +1132,6 @@ contatti:
         telefono:
         fax:
         email: "amministrazione@cryptoteam.it"
-
-    tecnica:
-        titolo: Area Supporto Tecnico
-        management:
-            label: Data Security
-            nominativo: Stefano Martinelli
-        telefono: "+39 (335) 528.51.10"
-        fax:
-        email: "assistenza@cryptoteam.it"
 
     post-vendita:
         titolo: Progetti Nuove Tecnologie
