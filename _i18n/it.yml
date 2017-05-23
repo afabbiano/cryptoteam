@@ -479,8 +479,8 @@ offerta:
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
                 </ul>
-                <h3>Procedura Certificata CryptoTeam</h3>
-                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>
+                <h3>Installazione Certificata CryptoTeam</h3>
+                <p>Il software più completo non servirà altro per comunicare quotidianamente, in più il supporto e la garanzia sul corretoo funzionemanto è garantito nel tempo.</p>
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         cifratura-riposo:
@@ -1109,7 +1109,7 @@ contatti:
     commerciale:
         titolo: Area Commerciale
         management:
-            label: 
+            label:
             nominativo: Andrea Fabbiano
         telefono: "+39 (320) 320.76.80"
         fax:
