@@ -1112,7 +1112,7 @@ contatti:
             label: Business Developer Enterprise Security
             nominativo: Andrea Fabbiano
         telefono: "+39 (320) 320.76.80"
-        fax:
+        mail personale: "andrea.fabbiano@cryptoteam.it"
         email: "vendite@cryptoteam.it"
 
     amministrazione:
@@ -1121,7 +1121,7 @@ contatti:
             label: Esperto Data Security
             nominativo: Stefano Martinelli
         telefono: "+39 (335) 528.51.10"
-        fax:
+        mail personale: "stefano.martinelli@cryptoteam.it"
         email: "assistenza@cryptoteam.it"
 
     tecnica:
