@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicura la loro attività quotidiana. Rendiamo illegibili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate che viaggiano in rete.
+        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicure le loro attività quotidiane. Ad esclusione dei destinatari rendiamo illegibili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate scambiate in rete.
 
     riquadri:
         box1:
@@ -653,7 +653,7 @@ offerta:
 
       intro:
         headline: IDS*PSAD
-        details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti. Integrato nella rete svolge funzioni di vigilanza, intercetta intrusioni indesiderate. Migliora la sicurezza informatica e produrre risultati coerenti con le aspettative aziendali.
+        details: è un sistema di prevenzione e di sorveglianza in&out traffico pacchetti. Integrato nella rete svolge funzioni di vigilanza, intercetta le intrusioni indesiderate. Migliora la sicurezza informatica producendo risultati coerenti con le aspettative aziendali.
 
       box1:
         headline: Caratteristiche
@@ -1132,6 +1132,15 @@ contatti:
         telefono: "+39 (02) 1234.5678"
         fax: "+39 (02) 1234.8765"
         email: "assistenza@cryptoteam.it"
+
+    post-vendita:
+        titolo: Assistenza Post-Vendita
+        management:
+            label: Responsabile
+            nominativo: Giovanni Martinelli
+        telefono: "+39 (02) 1234.5678"
+        fax: "+39 (02) 1234.8765"
+        email: "postvendita@cryptoteam.it"
 
     trademarks:
         headline: Trademarks
