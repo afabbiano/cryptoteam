@@ -1109,25 +1109,25 @@ contatti:
     commerciale:
         titolo: Area Commerciale
         management:
-            label: Responsabile
+            label: 
             nominativo: Andrea Fabbiano
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (320) 320.76.80"
+        fax:
         email: "vendite@cryptoteam.it"
 
     amministrazione:
         titolo: Area Amministrativa
         management:
-            label: Responsabile
+            label:
             nominativo: Stefano Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (335) 528.51.10"
+        fax:
         email: "amministrazione@cryptoteam.it"
 
     tecnica:
         titolo: Area Tecnica
         management:
-            label: 
+            label:
             nominativo:
         telefono: "+39 (02) 1234.5678"
         fax: "+39 (02) 1234.8765"
