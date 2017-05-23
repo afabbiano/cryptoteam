@@ -1133,6 +1133,15 @@ contatti:
         fax: "+39 (02) 1234.8765"
         email: "assistenza@cryptoteam.it"
 
+    post-vendita:
+        titolo: Assistenza Post-Vendita
+        management:
+            label: Responsabile
+            nominativo: Giovanni Martinelli
+        telefono: "+39 (02) 1234.5678"
+        fax: "+39 (02) 1234.8765"
+        email: "postvendita@cryptoteam.it"
+
     trademarks:
         headline: Trademarks
         details: Xceptance and XLT are registered trademarks.
