@@ -1128,32 +1128,41 @@ contatti:
     intro:
         headline: Come Contattarci
 
-    commerciale:
+    box1-sx:
+        titolo: Area Supporto Tecnico
+        management:
+            label: Esperto Data Security
+            nominativo: Stefano Martinelli
+        telefono: "+39 (335) 528.51.10"
+        fax: "stefano.martinelli@cryptoteam.it"
+        email: "assistenza@cryptoteam.it"
+
+    box1-dx:
         titolo: Area Commerciale
         management:
-            label: Responsabile
+            label: Business Developer Enterprise Security
             nominativo: Andrea Fabbiano
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (320) 320.76.80"
+        fax: "andrea.fabbiano@cryptoteam.it"
         email: "vendite@cryptoteam.it"
 
-    amministrazione:
+    box2-sx:
         titolo: Area Amministrativa
         management:
-            label: Responsabile
-            nominativo: Stefano Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+            label: "&nbsp"
+            nominativo: "&nbsp"
+        telefono: "&nbsp"
+        fax: "&nbsp"
         email: "amministrazione@cryptoteam.it"
 
-    tecnica:
-        titolo: Area Tecnica
+    box2-dx:
+        titolo: Progetti Nuove Tecnologie
         management:
-            label: Responsabile
-            nominativo: Giovanni Martinelli
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
-        email: "assistenza@cryptoteam.it"
+            label: "&nbsp"
+            nominativo: "&nbsp"
+        telefono: "&nbsp"
+        fax: "&nbsp"
+        email: "nt@cryptoteam.it"
 
     trademarks:
         headline: Trademarks
