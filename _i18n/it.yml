@@ -1120,7 +1120,7 @@ contatti:
         management:
             label:
             nominativo: Stefano Martinelli
-        telefono: "+39 (335) 528.51.10"
+        telefono:
         fax:
         email: "amministrazione@cryptoteam.it"
 
@@ -1129,8 +1129,8 @@ contatti:
         management:
             label:
             nominativo:
-        telefono: "+39 (02) 1234.5678"
-        fax: "+39 (02) 1234.8765"
+        telefono: "+39 (335) 528.51.10"
+        fax:
         email: "assistenza@cryptoteam.it"
 
     post-vendita:
@@ -1138,7 +1138,7 @@ contatti:
         management:
             label:
             nominativo:
-        telefono: "+39 (02) 1234."
+        telefono:
         fax:
         email: "nt@cryptoteam.it"
 
