@@ -1109,7 +1109,7 @@ contatti:
     commerciale:
         titolo: Area Commerciale
         management:
-            label:
+            label: Business Developer Enterprise Security
             nominativo: Andrea Fabbiano
         telefono: "+39 (320) 320.76.80"
         fax:
@@ -1119,7 +1119,7 @@ contatti:
         titolo: Area Amministrativa
         management:
             label:
-            nominativo: Stefano Martinelli
+            nominativo:
         telefono:
         fax:
         email: "amministrazione@cryptoteam.it"
@@ -1127,8 +1127,8 @@ contatti:
     tecnica:
         titolo: Area Supporto Tecnico
         management:
-            label:
-            nominativo:
+            label: Data Security
+            nominativo: Stefano Martinelli
         telefono: "+39 (335) 528.51.10"
         fax:
         email: "assistenza@cryptoteam.it"
