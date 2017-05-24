@@ -246,7 +246,7 @@ servizi:
                 li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si cancella se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto.
                 li3: Sono ARMI CYBERNETICHE, metodi fraudolenti c.d. "scorciatoia" negli investimenti in ricerca e sviluppo. Alla fine nella migliore delle ipotesi, rispetto ai competitor, si perdono posizioni di mercato.
                 li4: Tecnica di Profilazione a fini Marketing - Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
-                li5: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li5: Se non si adottano misure di Cyber Security adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
                 li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
                 li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
                 li8: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire.</strong>
@@ -286,7 +286,7 @@ servizi:
                 li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
-            headline: Trasferimento Fisico dei Dati su chiavetta o HD
+            headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
             list:
                 li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendendo impossibile la sua identificazione.
@@ -538,7 +538,7 @@ offerta:
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         spostamento:
-            headline: Trasferimento Fisico dei Dati su Chiavetta o HD
+            headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente agli utenti non autorizzati di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta, soluzione 1 e 2).  Più precisamente gli strumenti sono resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
             details:
                 lead: Da tempo siamo impegnati sul fronte della privacy il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
