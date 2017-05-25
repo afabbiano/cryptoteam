@@ -279,11 +279,11 @@ servizi:
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
-            headline: Cifratura Dati Memorizzati
-            teaser: I dati sono salvati sistematicamente suoi propri Server (minimo doppio Back-up), più n.1 Back-up nel Coud in-House. Dati sicuri sincronizzati e condivisi all'interno della Piattoforma OnwnCloud. La soluzione proposta standard è di cifrare i propri dati prima di trasferirli nel cloud e di decifrarli nel trasferimento inverso.
+            headline: Cifratura Dati Memorizzati tramite Cloud in-House
+            teaser: I dati sono salvati sistematicamente suoi propri Server (almeno doppio Back-up),  più n.1 Back-up nel Cloud-in House. La soluzione proposta standard è di cifrare i propri dati sistematicamente e condividerli tramite azioni interne e pubbliche. In questo modo viene garantita maggior produttività e sicurezza.
             list:
-                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
-                li2: Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
+                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
