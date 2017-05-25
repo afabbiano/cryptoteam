@@ -330,7 +330,7 @@ servizi:
         box1:
             headline: Depositare i dati in ambienti apparentemente sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi Cloud e dalla loro infrastruttura tecnica <strong>precludendo la tua riservatezza.</strong>  Più precisamente, per ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
+            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi che <strong>precludono la tua riservatezza.</strong>  Più precisamente, per ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
             numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
 
         box2:
