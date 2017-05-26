@@ -279,7 +279,7 @@ servizi:
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
-            headline: Cifratura Dati Memorizzati tramite Cloud in-House
+            headline: Cifratura Dati a Riposo con Cloud in-House
             teaser: I dati sono salvati sistematicamente suoi propri Server (almeno doppio Back-up),  più n.1 Back-up nel Cloud-in House. La soluzione proposta standard è di cifrare i propri dati sistematicamente e condividerli tramite azioni interne e pubbliche. In questo modo viene garantita maggior produttività e sicurezza.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
