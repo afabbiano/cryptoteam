@@ -289,9 +289,9 @@ servizi:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma viene installato su chiavetta o HD (USB). E' necessario installare il software anche sui client con i quali l'utente lavora.  L'installazione può essere standard o particolare,  cioè eseguita partizionando un disco (es. 10 gb), e creando un secondo HD nascosto all'interno del primo (es. 2 gb).  Questa modalità  garantisce l’invisibilità del file da 2 gb contenuto all’interno del disco 10 gb.
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma viene installato su chiavetta o HD (usb). E' necessario installare il software anche sui client con i quali l'utente lavora.  L'installazione può essere standard o particolare,  cioè eseguita partizionando un disco (es. 10 gb), e creando un secondo HD nascosto all'interno del primo (es. 2 gb).  Questa modalità  garantisce l’invisibilità del file da 2 gb contenuto all’interno del disco 10 gb.
                 li2: Soluzione HW Chiavetta e HD Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
-                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
+                li3: In entrami i due casi, soluzione HD virtuale e soluzione HW Chiavetta o HD, in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
 
 ########################################################################
 
