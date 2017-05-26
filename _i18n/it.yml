@@ -365,14 +365,16 @@ servizi:
         descrizione: Prova descrizione in VoIP, prova, prova
 
         carousel:
-            intro: "La Miglior Piattaforma VoIP<br/>Per le tue Comunicazioni Protette"
-            license:
-                headline: Open Source, una scelta consapevole.<br/>Gli aggiornamenti sono sempre gratuiti.
-                btn: Prezzi &amp; Licenze
-            webdriver: Know WebDriver and Selenium already?<br/>You’re good to go.
-            report:
-                headline: Awesome Reporting. In tempo reale, Ricco, Completo, Personalizzabile.
+            slide1:
+                headline: La Miglior Piattaforma VoIP<br/>Per le tue Comunicazioni Protette
+            slide2:
+                headline: Comunicazioni Audio - Video - Testo<br>integrate nella piattaforma
+            slide3:
+                headline: Protezione delle Comunicazioni<br>con Crittografia AES256 (SRTP e ZRTP)
                 btn: Alcuni esempi
+            slide4:
+                headline: Open Source, una scelta consapevole.<br>Gli aggiornamenti sono sempre gratuiti.
+                btn: La nostra offerta
         intro:
             headline: Centralino VoIP Protetto
             details: Progettiamo e configuriamo il sistema VoIP più adatto alle tue esigenze di comunicazione.
@@ -389,7 +391,7 @@ servizi:
                         <li>Comunicazioni <strong>Audio - Video - Testo</strong> integrate nella piattaforma</li>
                         <li>Funzioni avanzate di telefonia disponibili con il modulo standard</li>
                         <li>Integrazione delle comunicazioni nei processi informativi aziendali</li>
-                        <li>Protezione delle comunicazioni con crittografia simmetrica a 256bit dei flussi real time (SRTP e ZRTP nativi)</li>
+                        <li>Protezione delle comunicazioni con crittografia simmetrica AES256 a 256bit dei flussi real time (<strong>SRTP</strong> e <strong>ZRTP</strong> nativi)</li>
                         <li>I moduli DID (Direct Inward Dialing) consentono di espandere la propria presenza locale nei più importanti mercati internazionali</li>
                         <li>Gestione automatica e dematerializzata delle comunicazioni Fax</li>
                         (*) Alcune funzionalità avanzate, quali ad esempio la videoconferenza HD, possono richiedere verifiche e successivi adeguamenti della rete dati."
