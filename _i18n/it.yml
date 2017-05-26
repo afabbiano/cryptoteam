@@ -249,25 +249,25 @@ servizi:
                 li5: Se non si adottano misure di Cyber Security adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
                 li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
                 li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
-                li8: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire.</strong>
+                li8: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti.
+            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Nel lungo periodo le statistische dimostrano uno storico veritiero&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
                 li2: Cifratura fino 4096 Bit SHA 256 i messaggi o i dati anche se intercettati non sono leggibili
                 li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni (Previo Policy > Autorizzazione)
                 li4: Trattamento dei dati compliance al GDPR
                 li5: Inevitabile aumento dell'immagine aziendale del suo prestigio e della sua reputazione
-                li6: Infrastruttura IT all'avanguardia consegue un aumento di valore patrimoniale
+                li6: Infrastruttura IT all'avanguardia consegue un aumento del valore patrimoniale
 
         box4b:
             headline: Private-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
+                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per aziende che hanno minori necessità. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più sensibili che preferiscono una doppia cifratura sui loro contenuti - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assoluta riservatezza.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -279,7 +279,7 @@ servizi:
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
-            headline: Cifratura Dati Memorizzati tramite Cloud in-House
+            headline: Cifratura Dati a Riposo con Cloud in-House
             teaser: I dati sono salvati sistematicamente suoi propri Server (almeno doppio Back-up),  più n.1 Back-up nel Cloud-in House. La soluzione proposta standard è di cifrare i propri dati sistematicamente e condividerli tramite azioni interne e pubbliche. In questo modo viene garantita maggior produttività e sicurezza.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
@@ -289,9 +289,9 @@ servizi:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma, installato su chiavetta (va bene anche HD), USB e PC utente. In più è possibile partizionare il disco creando un ulteriore livello (HD Nascosto), all'interno dello stesso discho cifrato, rendendo impossibile la sua identificazione.
-                li2: Soluzione hardware Chiavetta Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
-                li3: In entrami i due casi (soluzione HD virtuale e soluzione Hard. Chiavetta usb), in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
+                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma viene installato su chiavetta o HD (usb). E' necessario installare il software anche sui client con i quali l'utente lavora.  L'installazione può essere standard o particolare,  cioè eseguita partizionando un disco (es. 10 gb), e creando un secondo HD nascosto all'interno del primo (es. 2 gb).  Questa modalità  garantisce l’invisibilità del file da 2 gb contenuto all’interno del disco 10 gb.
+                li2: Soluzione HW Chiavetta e HD Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
+                li3: In entrami i due casi, soluzione HD virtuale e soluzione HW Chiavetta o HD, in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
 
 ########################################################################
 
@@ -550,7 +550,7 @@ offerta:
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
         cifratura-riposo:
-            headline: Cifratura Dati a Riposo
+            headline: Cifratura Dati a Riposo con Cloud in-House
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
                 lead: Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o riposano (data at rest). Molti di questi dati sensibili, sono vitali per l'azienda stessa, per cui è necessario proteggerli.
@@ -619,7 +619,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione Hardware Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
+                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
                                 <p><strong>Scegli il tuo modello.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
