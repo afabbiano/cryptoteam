@@ -484,7 +484,7 @@ offerta:
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
         cifratura-riposo:
-            headline: Cifratura Dati a Riposo
+            headline: Cifratura Dati a Riposo con Cloud in-House
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
             details:
                 lead: Tutte le aziende hanno a che fare con un enorme quantità di dati che si muovono o riposano (data at rest). Molti di questi dati sensibili, sono vitali per l'azienda stessa, per cui è necessario proteggerli.
