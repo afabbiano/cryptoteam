@@ -238,7 +238,10 @@ cosafacciamo:
             headline: Perchè Proteggere i Dati
             teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
             list:
-                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong> WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il pericolo più evoluto si chiama <strong> Jaff</strong>. Mesi fa si subivano attacchi ransomware <strong> Rocket Kitten</strong> attraverso mail confidenziali. Poi ancora <strong>Doxing</strong> virus progettato per creare cartelle dossier sulla persona. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
+                li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il pericolo più evoluto si chiama <strong>Jaff</strong>.
+                Mesi fa si subivano attacchi ransomware <strong>Rocket Kitten</strong> attraverso mail confidenziali.
+                Poi ancora <strong>Doxing</strong> virus progettato per creare cartelle dossier sulla persona. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro.
+                A seguire viene richiesto un riscatto. <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema."
                 li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si cancella se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto.
                 li3: Sono ARMI CYBERNETICHE, metodi fraudolenti c.d. "scorciatoia" negli investimenti in ricerca e sviluppo. Alla fine nella migliore delle ipotesi, rispetto ai competitor, si perdono posizioni di mercato.
                 li4: Tecnica di Profilazione a fini Marketing - Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
@@ -354,11 +357,77 @@ cosafacciamo:
 
 # Pagina COSA FACCIAMO--->VOIP (/cosafacciamo/voip.html)
     voip:
-        icona: VoIP in House
+        icona: CryptoVoIP
         teaser: I tuoi dati sempre con te
-        titolo: Come funziona il VoIP?
-        sottotitolo: Un modo sicuro per avere i tuoi dati sempre con te
+        titolo: VoIP Cifrato
+        sottotitolo: Comunicazioni Telefoniche Protette
         descrizione: Prova descrizione in VoIP, prova, prova
+
+        carousel:
+            slide1:
+                headline: La Miglior Piattaforma VoIP<br/>Per le tue Comunicazioni Protette
+            slide2:
+                headline: Comunicazioni Audio - Video - Testo<br>integrate nella piattaforma
+            slide3:
+                headline: Protezione delle Comunicazioni<br>con Crittografia AES256 (SRTP e ZRTP)
+                btn: Alcuni esempi
+            slide4:
+                headline: Open Source, una scelta consapevole.<br>Gli aggiornamenti sono sempre gratuiti.
+                btn: La nostra offerta
+        intro:
+            headline: Centralino VoIP Protetto
+            details: Progettiamo e configuriamo il sistema VoIP più adatto alle tue esigenze di comunicazione.
+
+        box-sx:
+            headline: Perché scegliere una soluzione VoIP?
+            lead: La tecnologia VoIP (Voice over IP, comunicazioni audio/video su connessioni IP) è diventata lo standard de-facto per tutte le comunicazioni audio/video.
+            text1: "I vantaggi offerti dalla tecnologia VoIP nel campo delle comunizazioni aziendali sono moltissimi, ma si possono riassumere in un semplice termine: <strong>Flessibilità</strong>"
+            features:
+                headline: Alcuni dei tanti vantaggi offerti da una soluzione VoIP (rispetto ad un centralino PBX tradizionale)
+                details: "<li>Tecnologia consolidata, adottata dai principali operatori telefonici sulle proprie reti backbone</li>
+                        <li>Si appoggia all'infrastruttura della rete dati esistente(*), sempificando e razionalizzando la gestione del punto lavoro</li>
+                        <li>L'ampio mercato di terminali compatibili svincola dal legame col singolo produttore hardware</li>
+                        <li>Comunicazioni <strong>Audio - Video - Testo</strong> integrate nella piattaforma</li>
+                        <li>Funzioni avanzate di telefonia disponibili con il modulo standard</li>
+                        <li>Integrazione delle comunicazioni nei processi informativi aziendali</li>
+                        <li>Protezione delle comunicazioni con crittografia simmetrica AES256 a 256bit dei flussi real time (<strong>SRTP</strong> e <strong>ZRTP</strong> nativi)</li>
+                        <li>I moduli DID (Direct Inward Dialing) consentono di espandere la propria presenza locale nei più importanti mercati internazionali</li>
+                        <li>Gestione automatica e dematerializzata delle comunicazioni Fax</li>
+                        (*) Alcune funzionalità avanzate, quali ad esempio la videoconferenza HD, possono richiedere verifiche e successivi adeguamenti della rete dati."
+            text2: FreeSWITCH e FusionPBX sono progetti Open Source, in costante sviluppo e aggiornamento. CryptoTeam fornisce tutto il supporto tecnico necessario per la realizzazione degli obbiettivi del cliente, dalla fase di progettazione fino alla configurazione finale.
+
+        box-dx:
+            headline: FreeSwitch + OpenPBX
+            lead: Abbiamo scelto i due prodotti open source leader di settore, la centrale di commutazione Freeswitch e l'interfaccia utente FusionPBX.
+            text1: "<p>
+                    FreeSWITCH
+                     </p>
+
+                    <p>
+                        OpenPBX è l'interfaccia ideale per interagire con FreeSWITCH. E' stato progettato per semplificare e automatizzare le operazioni di configurazione e controllo di FreeSWITCH.
+                    </p>
+                    <p>
+                        Il risultato dell'unione tra FreeSWITCH e OpenPBX è un centralino (PABX) VoIP configurabile secondo le esigenze del cliente.
+                    </p>"
+
+            features:
+                headline: Caratteristiche e funzionalità principali della soluzione proposta.
+                details: <li>Sistema <strong>scalabile</strong>, puoi iniziare con pochi utenti e crescere fino a migliaia di connessioni contemporanee</li>
+                        <li>Sistema <strong>modulare</strong>, puoi attivare le funzioni base e aggiungere tutti i moduli che desideri (*)</li>
+                        <li><strong>Java</strong> as scripting language, if scripting is needed</li>
+                        <li><strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
+                        <li><strong>Realtime reporting</strong> using Graphite and Grafana</li>
+                        <li><strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
+                        <li>Support for <strong>SLA</strong> definitions</li>
+                        <li><strong>Test offline</strong>. Start the test and decouple the controller.</li>
+                        <li><strong>Open data formats</strong> for report and result data</li>
+                        <li><strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
+                        <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
+                        <li>Get <strong>full reports</strong> at any time during test execution.</li>
+                        <li><strong>External data</strong> can be captured and added to the reports.</li>
+                        (*) Configurazioni complesse possono richiedere adeguamenti hardware per consentire la fruizione dei nuovi servizi (ad esempio, sistemi di videoconferenza)
+
+            text2: Gli aggiornamenti sono sempre gratuiti ed il costo non dipende dal numero di utenti, ma solo dalla complessità della realizzazione. In questo modo l'azienda sostiene costi predeterminati e inferiori alle altre soluzioni di mercato proprietario.
 ########################################################################
 
 # Pagina COSA FACCIAMO--->PROGETTI (/cosafacciamo/progetti.html)
@@ -636,8 +705,76 @@ offerta:
 
 
 
-#PAGINA OFFERTA -> VoIP PBX (/offerta/voip.html)
-# PLACEHOLDER - NON MODIFICARE QUESTE TRE RIGHE
+#PAGINA OFFERTA--->VOIP (/servizi/voip.html)
+    voip:
+        icona: CryptoVoIP
+        teaser: I tuoi dati sempre con te
+        titolo: VoIP Cifrato
+        sottotitolo: Comunicazioni Telefoniche Protette
+        descrizione: Prova descrizione in VoIP, prova, prova
+
+        carousel:
+            intro: "La Miglior Piattaforma VoIP<br/>Per le tue Comunicazioni Protette"
+            license:
+                headline: Open Source, una scelta consapevole.<br/>Gli aggiornamenti sono sempre gratuiti.
+                btn: Prezzi &amp; Licenze
+            webdriver: Know WebDriver and Selenium already?<br/>You’re good to go.
+            report:
+                headline: Awesome Reporting. In tempo reale, Ricco, Completo, Personalizzabile.
+                btn: Alcuni esempi
+        intro:
+            headline: Centralino VoIP Protetto
+            details: Progettiamo e configuriamo il sistema VoIP più adatto alle tue esigenze di comunicazione.
+
+        box-sx:
+            headline: Perché scegliere una soluzione VoIP?
+            lead: La tecnologia VoIP (Voice over IP, comunicazioni audio/video su connessioni IP) si è imposta da tempo come standard de-facto per tutte le comunicazioni audio/video.
+            text1: Abbiamo scelto due prodotti open source leader di settore, la centrale di commutazione FreeSWITCH e l'interfaccia utente FusionPBX. You can utilize our Script Developer UI or code all your tests in Java using the familiar WebDriver syntax. Of course, XLT also works perfectly with all <a href="http://docs.seleniumhq.org/projects/webdriver/">WebDrivers</a>, with <a href="http://www.browserstack.com/">BrowserStack</a>, and <a href="https://saucelabs.com/">Sauce Labs</a>.
+            features:
+                headline: Vantaggi offerti dalla soluzione Freeswitch+FusionPBX
+                details: "<li>Sistema facilmente <strong>scalabile</strong> da poche unità utenti fino a migliaia di connessioni contemporanee</li>
+                        <li><strong>Standard</strong> di mercato, garantisce ampia scelta di terminali hardware</li>
+                        <li><strong>Parameters</strong> to pass data to modules</li>
+                        <li><strong>Variables</strong> to deal with flexible test data as well as random data</li>
+                        <li><strong>Macros</strong> to generate data dynamically</li>
+                        <li><strong>Test documentation</strong> is maintained together with the scripts</li>
+                        <li>An <strong>open file format</strong> to avoid exporting to Java if not necessary</li>
+                        <li><strong>Test data sets</strong> to run</li>
+                        <li><strong>ZRTP</strong> nativo: la protezione </li>"
+            text2: FreeSWITCH e FusionPBX sono progetti Open Source, in costante sviluppo e aggiornamento. CryptoTeam fornisce tutto il supporto tecnico necessario per la realizzazione degli obbiettivi del cliente, dalla fase di progettazione fino alla configurazione finale.
+
+        box-dx:
+            headline: FreeSwitch + OpenPBX
+            lead: Abbiamo scelto i due prodotti open source leader di settore, la centrale di commutazione Freeswitch e l'interfaccia utente FusionPBX.
+            text1: "<p>
+                    FreeSWITCH
+                     </p>
+
+                    <p>
+                        OpenPBX è l'interfaccia ideale per interagire con FreeSWITCH. E' stato progettato per semplificare e automatizzare le operazioni di configurazione e controllo di FreeSWITCH.
+                    </p>
+                    <p>
+                        Il risultato dell'unione tra FreeSWITCH e OpenPBX è un centralino (PABX) VoIP configurabile secondo le esigenze del cliente.
+                    </p>"
+
+            features:
+                headline: Caratteristiche e funzionalità principali della soluzione proposta.
+                details: <li>Sistema <strong>scalabile</strong>, puoi iniziare con pochi utenti e crescere fino a migliaia di connessioni contemporanee</li>
+                        <li>Sistema <strong>modulare</strong>, puoi attivare le funzioni base e aggiungere tutti i moduli che desideri (*)</li>
+                        <li><strong>Java</strong> as scripting language, if scripting is needed</li>
+                        <li><strong>Comprehensive reports</strong> out of the box. These also let you compare test runs and report trends. Configurable in content and layout</li>
+                        <li><strong>Realtime reporting</strong> using Graphite and Grafana</li>
+                        <li><strong>As many</strong> scenarios, users, and load test machines <strong>as you like</strong></li>
+                        <li>Support for <strong>SLA</strong> definitions</li>
+                        <li><strong>Test offline</strong>. Start the test and decouple the controller.</li>
+                        <li><strong>Open data formats</strong> for report and result data</li>
+                        <li><strong>Result browser</strong> shows detailed test behavior during design time and supports error diagnosis during test time</li>
+                        <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
+                        <li>Get <strong>full reports</strong> at any time during test execution.</li>
+                        <li><strong>External data</strong> can be captured and added to the reports.</li>
+                        (*) Configurazioni complesse possono richiedere adeguamenti hardware per consentire la fruizione dei nuovi servizi (ad esempio, sistemi di videoconferenza)
+
+            text2: Gli aggiornamenti sono sempre gratuiti ed il costo non dipende dal numero di utenti, ma solo dalla complessità della realizzazione. In questo modo l'azienda sostiene costi predeterminati e inferiori alle altre soluzioni di mercato proprietario.
 ########################################################################
 
 
