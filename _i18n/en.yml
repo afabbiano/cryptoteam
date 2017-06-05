@@ -67,7 +67,7 @@ message:
 navigation:
     main:
         Home: Home
-        Servizi: Services
+        CosaFacciamo: Services
         Offerta: Products
         Normativa: Normativa
         ChiSiamo: Company
@@ -76,7 +76,7 @@ navigation:
 # No submenus in Home
 
 # Servizi
-        Servizi: Overview
+        Panoramica: Overview
         ProtezioneDati: Data Protection
         ControlloAccessi: Access Control
         CloudInHouse: In House Cloud
@@ -158,12 +158,12 @@ homepage:
 # *************************************************************************
 
 # Content of Main Menu Servizi pages starts here
-servizi:
+cosafacciamo:
 
 # Seguono i contenuti delle pagine delle voci di menu secondario
 # Ciascuna pagina ha i contenuti organizzati secondo il layout sclto per quella data pagina.
 
-# PAGINA SERVIZI-->SOMMARIO (/servizi/index.html)
+# Pagina COSA FACCIAMO-->SOMMARIO (/cosafacciamo/index.html)
     sommario:
         teaser: Come Proteggiamo il tuo Patrimonio<br>Dati Aziendale
 
@@ -213,7 +213,7 @@ servizi:
             testo: La nostra Linea Guida Progetti è specificata all'interno di questa pagina ha l'obiettivo principale della soddisfazione cliente
 ########################################################################
 
-# PAGINA SERVIZI--->PROTEZIONE DATI (/servizi/protezione.html)
+# Pagina COSA FACCIAMO--->PROTEZIONE DATI (/cosafacciamo/protezione.html)
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
@@ -292,7 +292,7 @@ servizi:
 
 ########################################################################
 
-# PAGINA SERVIZI--->CONTROLLO (/servizi/controllo.html)
+# Pagina COSA FACCIAMO--->CONTROLLO (/cosafacciamo/controllo.html)
     controllo:
         icona: Controllo Accesso
         teaser: Controllo accesso
@@ -319,7 +319,7 @@ servizi:
 
 ########################################################################
 
-#PAGINA SERVIZI--->CLOUD (/servizi/cloud.html)
+# Pagina COSA FACCIAMO--->CLOUD (/cosafacciamo/cloud.html)
     cloud:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
@@ -379,7 +379,7 @@ servizi:
 
 ########################################################################
 
-#PAGINA SERVIZI--->VOIP (/servizi/voip.html)
+# Pagina COSA FACCIAMO--->VOIP (/cosafacciamo/voip.html)
     voip:
         icona: VoIP in House
         teaser: I tuoi dati sempre con te
@@ -388,7 +388,7 @@ servizi:
         descrizione: Prova descrizione in VoIP, prova, prova
 ########################################################################
 
-#PAGINA SERVIZI--->PROGETTI (/servizi/progetti.html)
+# Pagina COSA FACCIAMO--->PROGETTI (/cosafacciamo/progetti.html)
     progetti:
         icona: Progetti personalizzati
         teaser: I tuoi dati sempre con te
