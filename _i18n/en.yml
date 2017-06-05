@@ -53,7 +53,7 @@ global:
 
 # privacy message
 message:
-    cookies: We use just one cookie to ensure you've read our <a href="/it/azienda/privacy.html">privacy policy</a>. Click on the button below to stop showing this message.
+    cookies: We use just one cookie to ensure you've read our <a href="/it/chisiamo/privacy.html">privacy policy</a>. Click on the button below to stop showing this message.
     tracking: "We have no tracking active on our website."
 
     btn:
@@ -70,7 +70,7 @@ navigation:
         Servizi: Services
         Offerta: Products
         Normativa: Normativa
-        Azienda: Company
+        ChiSiamo: Company
         Contatti: Contact
     sub:
 # Home
@@ -98,8 +98,8 @@ navigation:
         Notizie: News
         ArchivioNews: Old News
 
-# Azienda
-        Azienda: About
+# ChiSiamo
+        ChiSiamo: About
         Privacy: Privacy
 
 # Contatti

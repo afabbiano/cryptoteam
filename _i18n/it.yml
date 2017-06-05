@@ -54,7 +54,7 @@ global:
 
 # privacy message
 message:
-    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/azienda/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
+    cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/chisiamo/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
     tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
     btn:
         opt-out: Opt-Out
@@ -68,7 +68,7 @@ navigation:
         Servizi: Cosa Facciamo
         Offerta: Offerta
         Normativa: Normativa
-        Azienda: Chi Siamo
+        ChiSiamo: Chi Siamo
         Contatti: Contatti
     sub:
 # Home
@@ -96,8 +96,8 @@ navigation:
         Notizie: Ultime Notizie
         ArchivioNews: Archivio
 
-# Azienda
-        Azienda: Chi Siamo
+# ChiSiamo
+        ChiSiamo: Chi Siamo
         Privacy: Privacy
 
 # Contatti

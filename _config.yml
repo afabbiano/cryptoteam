@@ -60,9 +60,9 @@ sitenavigation:
         - name: Adempimenti
         - name: Notizie
         - name: Archivio News
-  - name: Azienda
+  - name: ChiSiamo
     secondarynav:
-        - name: Azienda
+        - name: ChiSiamo
         - name: Privacy
 #  - name: Jobs
   - name: Contatti
