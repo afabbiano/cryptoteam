@@ -64,11 +64,7 @@ sitenavigation:
     secondarynav:
         - name: ChiSiamo
         - name: Privacy
-#  - name: Jobs
-  - name: Contatti
-    secondarynav:
         - name: Contatti
-#        - name: Tecnico
 #  - name: :External
 #    title: Blog
 #    url: https://blog.cryptoteam.it/
