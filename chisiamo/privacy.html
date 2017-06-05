@@ -1,0 +1,60 @@
+---
+layout: privacy
+title: chisiamo.privacy.title
+description: chisiamo.privacy.description
+
+navName: Privacy
+mainNavLinkName:
+subNavLinkName: navigation.sub.Privacy
+parent: ChiSiamo
+---
+<div id="privacy">
+    <div class="row">
+        <div class="container">
+            <div class="col-md-3 hidden-sm hidden-xs informational-col">
+            	<div class="headline">
+                	<p><i class="fa fa-edit fa-4x"></i></p>
+            	</div>
+                <p>{% t chisiamo.privacy.info %}</p>
+            </div>
+
+            <div class="col-md-9">
+                <h1 class="text-center">{% t chisiamo.privacy.intro.headline %}</h1>
+                <p class="lead text-center">{% t chisiamo.privacy.intro.lead %}</p>
+
+                <h2>{% t chisiamo.privacy.collect.headline %}</h2>
+                {% t chisiamo.privacy.collect.details %}
+
+                <h2>{% t chisiamo.privacy.use.headline %}</h2>
+                {% t chisiamo.privacy.use.details %}
+                <ul>
+                    {% t chisiamo.privacy.use.list %}
+                </ul>
+
+                <h2>{% t chisiamo.privacy.cookies.headline %}</h2>
+                {% t chisiamo.privacy.cookies.details %}
+
+                <h2 id="thirdparty">{% t chisiamo.privacy.thirdparty.headline %}</h2>
+                {% t chisiamo.privacy.thirdparty.details %}
+
+                <h2>{% t chisiamo.privacy.links.headline %}</h2>
+                {% t chisiamo.privacy.links.details %}
+
+                {% if site.lang == 'en' %}
+                  <h2>{% t chisiamo.privacy.privacy-protection.headline %}</h2>
+                  {% t chisiamo.privacy.privacy-protection.details %}
+                {% endif %}
+
+                <h2>{% t chisiamo.privacy.privacy-policy.headline %}</h2>
+                {% t chisiamo.privacy.privacy-policy.details %}
+
+                <h2>{% t chisiamo.privacy.consent.headline %}</h2>
+                {% t chisiamo.privacy.consent.details %}
+
+                <h2>{% t chisiamo.privacy.privacy-changes.headline %}</h2>
+                {% t chisiamo.privacy.privacy-changes.details %}
+
+            </div>
+        </div>
+    </div>
+</div>

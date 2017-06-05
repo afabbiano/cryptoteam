@@ -53,7 +53,7 @@ global:
 
 # privacy message
 message:
-    cookies: We use just one cookie to ensure you've read our <a href="/it/azienda/privacy.html">privacy policy</a>. Click on the button below to stop showing this message.
+    cookies: We use just one cookie to ensure you've read our <a href="/it/chisiamo/privacy.html">privacy policy</a>. Click on the button below to stop showing this message.
     tracking: "We have no tracking active on our website."
 
     btn:
@@ -70,8 +70,7 @@ navigation:
         Servizi: Services
         Offerta: Products
         Normativa: Normativa
-        Azienda: Company
-        Contatti: Contact
+        ChiSiamo: Company
     sub:
 # Home
 # No submenus in Home
@@ -98,13 +97,10 @@ navigation:
         Notizie: News
         ArchivioNews: Old News
 
-# Azienda
-        Azienda: About
+# ChiSiamo
+        ChiSiamo: About
         Privacy: Privacy
-
-# Contatti
-        Contatti: Sales Dep.
-        Tecnico: Tech Dep.
+        Contatti: Contact Us
 ########################################################################
 
 
@@ -1062,15 +1058,13 @@ normativa:
 # INIZIO CONTENUTI MENU CHI SIAMO
 # *************************************************************************
 
-#PAGINA CHI SIAMO--->Chi Siamo (/servizi/index.html)
+#PAGINA CHI SIAMO--->Chi Siamo (/chsiamo/index.html)
 chisiamo:
     titolo: Cryptoteam - Chi Siamo
     descrizione: Tutto su di noi.
-
     intro:
-        headline: Chi siamo
+        headline: Chi Siamo
         description: Start-Up Innovativa per la protezione dei dati aziendali
-
     facts:
         headline: Competenze e Abilità
         # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
@@ -1086,25 +1080,24 @@ chisiamo:
         riga3:
             key: Consulenza
             value:
-
     box1:
         headline: La Vision
-        details: Sempre di più in futuro vivremo cosparsi tra oggetti componenti IoT (Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenrio davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong>, e la <strong>Privacy</strong>, (comunicazioni private), sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti impropriamente. Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finaziari, industriali, ecc), la privacy insita nei loro format, ha fortemente contributio ad ottenere sempre <strong>Risultati Vincenti</strong>.
+        details: "Sempre di più in futuro vivremo a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong> e la <strong>Privacy</strong> (comunicazioni private) sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), la privacy insita nei loro format, ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
     box2:
         headline: Storia Commerciale
-        details: Inizia una nuova era di 2 ex soci che ininterrotamente hanno operato nel settore ITC da oltre 20 anni, prima come colleghi in una grande Spa informatica, poi come soci fondatori tramite la loro Srl per un altro decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme intrattennero rapporti di collaborazione con grandi produttori (Cina, Europa e Stati Uniti), parteciparono a fiere e convegni di alto profilo tecnologico e innovativo. In più usufrirono di rapporti CORPORADE con 3 grandi Banche Italiane.
+        details: CryptoTeam è la nuova sfida di 2 professionisti IT che hanno operato nel settore ITC per oltre 20 anni, prima come colleghi in una società informatica tra i primi produttori nazionali di personal computer, poi come soci fondatori di una azienda attiva nel settore delle telecomunicazioni VoIP per oltre un decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo, consolidando rapporti CORPORATE con 3 grandi Banche Italiane.
     box3:
         headline: Mission
-        details: nell’ambito della protezione dei dati aziendali è quella di offrire sul mercato soluzioni innovative e sicure, garantendo l’accesso ai dati da qualsiasi piattaforma da qualunque luogo.
+        details: Integriamo la Privacy nei processi informatici aziendali (dati a riposo, al lavoro, in movimento). Nell’ambito della protezione dei dati la nostra offerta si basa su soluzioni innovative, garantendo l’accesso protetto ai dati da qualsiasi piattaforma e in qualunque luogo.
     box4:
         headline: Competenze
-        details: Il team è in grado di programmare (svilppo software), Integrare tool, Progettare e offrire consulenza in ambito di sicurezza, di riservatezza delle comunicazioni aziendali.
+        details: Il team è in grado di realizzare software, integrare tool, progettare e offrire consulenza in ambito di sicurezza dei dati e di riservatezza delle comunicazioni aziendali.
     box5:
-        headline: Obiettivi
-        details: Cryptoteam è una start-up in fase di Breakeven. L'avviamento, la continuità, l'assistenza tecnica è garantita dai suoi professionisti i quali collaborano a tutta forza con i clienti per il raggiungimento degli obiettivi. Usufruiscono della loro infrastruttura tecnologica per dimostrare alle aziende come tutelare i propri dati e le proprie comunicazioni rendendole riservate.
+        headline: CryptoTeam
+        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda".  La continuità, l'assistenza tecnica è costantemente garantita da un team di professionisti che collaborano a tutta forza impegnandosi con i clienti al raggiungimento degli obiettivi a loro affidati. <strong>Inoltre usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende in che modo tutelare i propri dati e le proprie comunicazioni, rendendole riservate e accessibili solo alle persone autorizzate.</strong>
     box6:
-        headline: Box6
-        details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <i><strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
+        headline: Filosofia
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando (anche), l'utilizzo di tecniche di "anonimizzazione".
     collaborate:
         headline: Box7
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
@@ -1112,64 +1105,101 @@ chisiamo:
         headline: Box8
         details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
+#PAGINA CHI SIAMO--->Privacy (/chsiamo/privacy.html)
+    privacy:
+        title: CryptoTeam - Informativa sulla Privacy
+        description: Tutto sulla privacy, e altri aspetti legali.
+        info: Per qualsiasi domanda, non esitare a <a href="/it/contatti/">contattarci</a>.
+        intro:
+            headline: Privacy
+            lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
+        collect:
+            headline: Che informazioni raccogliamo?
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili un modulo con i tuoi dati. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferiamo le tue informazioni a Soggetti Esterni?</a>.</p>"
+        use:
+            headline: Come usiamo le informazioni che raccogliamo su di te
+            details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
+            list: "
+                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
+                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
+                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
+                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                <li>Per inviare email di risposta alle tue richieste.</li>"
+        cookies:
+            headline: Utilizziamo i Cookies?
+            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
+        thirdparty:
+            headline: Trasferiamo le tue informazioni a Soggetti Esterni?
+            details: "<p>La nostra politica aziendale è di non vendere, scambiare, trasferire le tue informazioni personali a Terze Parti. In alcuni casi abbiamo la necessità di condividere le tue informazioni con alcuni soggetti fidati che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
+              - lo studio del commercialista che segue la nostra contabilità
+              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
+              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
+              - ecc.
+            In questi casi di necessità ci assicuriamo che dette parti fidate si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
+            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
+        links:
+            headline: Collegamenti a Soggetti Terzi
+            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere o offrire proddotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto noi non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere 'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
+        privacy-protection:
+            headline: California Online Privacy Protection Act Compliance
+            details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
+        privacy-policy:
+            headline: Politica della Privacy solo Online
+            details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
+        consent:
+            headline: Il tuo consenso
+            details: "<p>Utilizzando il nostro sito, acconsenti implicitamente alla nostra politica di privacy online.</p>"
+        privacy-changes:
+            headline: Modifiche alla nostra Politica della Privacy
+            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 10 febbraio 2017.</b></p>"
+        sites:
+            headline: Web Sites
+            details: "<p>CryptoTeam possiende, mantiene e contribuisce a i seguenti websites:
+                <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
+                <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
+                <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
+                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
+                <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
 
-
-# *************************************************************************
-# INIZIO CONTENUTI MENU CONTATTI
-# *************************************************************************
-
-#PAGINA CONTATTI--->Come contattarci (/contatti/index.html)
-########################################################################
-contatti:
-    title: CryptoTeam - Contatti
-    description: Tutte le informazioni per entrare in contatto con noi.
-    quote: Scrivere qui un riferimento alla pagina contatti.
-
-    intro:
-        headline: Come Contattarci
-
-    box1-sx:
-        titolo: Area Supporto Tecnico
-        management:
-            label: Esperto Data Security
-            nominativo: Stefano Martinelli
-        telefono: "+39 (335) 528.51.10"
-        personale: "stefano.martinelli@cryptoteam.it"
-        area: "assistenza@cryptoteam.it"
-
-    box1-dx:
-        titolo: Area Commerciale
-        management:
-            label: Business Developer Enterprise Security
-            nominativo: Andrea Fabbiano
-        telefono: "+39 (320) 320.76.80"
-        personale: "andrea.fabbiano@cryptoteam.it"
-        area: "vendite@cryptoteam.it"
-
-    box2-sx:
-        titolo: Area Amministrativa
-        management:
-            label: "&nbsp"
-            nominativo: "&nbsp"
-        telefono: "&nbsp"
-        fax: "&nbsp"
-        email: "amministrazione@cryptoteam.it"
-
-    box2-dx:
-        titolo: Progetti Nuove Tecnologie
-        management:
-            label: "&nbsp"
-            nominativo: "&nbsp"
-        telefono: "&nbsp"
-        fax: "&nbsp"
-        email: "nt@cryptoteam.it"
-
-    trademarks:
-        headline: Trademarks
-        details: Xceptance and XLT are registered trademarks.
-    disclaimer:
-        headline: Disclaimer
-        details: Despite careful verification of our content, we assume no liability for any content of external links. Only the respective site owners themselves are liable for the content of linked pages.
+#PAGINA CHI SIAMO--->Contatti (/chsiamo/contatti.html)
+    contatti:
+        title: CryptoTeam - Contatti
+        description: Tutte le informazioni per entrare in contatto con noi.
+        quote: Scrivere qui un riferimento alla pagina contatti.
+        intro:
+            headline: Come Contattarci
+        box1-sx:
+            titolo: Area Supporto Tecnico
+            management:
+                label: Esperto Data Security
+                nominativo: Stefano Martinelli
+            telefono: "+39 (335) 528.51.10"
+            personale: "stefano.martinelli@cryptoteam.it"
+            area: "assistenza@cryptoteam.it"
+        box1-dx:
+            titolo: Area Commerciale
+            management:
+                label: Business Developer Enterprise Security
+                nominativo: Andrea Fabbiano
+            telefono: "+39 (320) 320.76.80"
+            personale: "andrea.fabbiano@cryptoteam.it"
+            area: "vendite@cryptoteam.it"
+        box2-sx:
+            titolo: Area Amministrativa
+            management:
+                label: "&nbsp"
+                nominativo: "&nbsp"
+            telefono: "&nbsp"
+            fax: "&nbsp"
+            email: "amministrazione@cryptoteam.it"
+        box2-dx:
+            titolo: Progetti Nuove Tecnologie
+            management:
+                label: "&nbsp"
+                nominativo: "&nbsp"
+            telefono: "&nbsp"
+            fax: "&nbsp"
+            email: "nt@cryptoteam.it"
 ########################################################################
 
 
