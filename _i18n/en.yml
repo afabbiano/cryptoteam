@@ -67,6 +67,7 @@ message:
 navigation:
     main:
         Home: Home
+        Proteggersi: Why Protection
         CosaFacciamo: Services
         Offerta: Products
         Normativa: Normativa
@@ -75,8 +76,11 @@ navigation:
 # Home
 # No submenus in Home
 
-# Servizi
-        Panoramica: Overview
+# Proteggersi
+        Proteggersi: Overview
+
+# CosaFacciamo
+        CosaFacciamo: Overview
         ProtezioneDati: Data Protection
         ControlloAccessi: Access Control
         CloudInHouse: In House Cloud
@@ -154,6 +158,56 @@ homepage:
 
 
 # *************************************************************************
+# INIZIO CONTENUTI MENU PROTEGGERSI
+# *************************************************************************
+
+# Inizio dei contenuti delle pagine della voce di menu principale PROTEGGERSI
+proteggersi:
+
+# Seguono i contenuti delle pagine delle voci di menu secondario
+# Ciascuna pagina ha i contenuti organizzati secondo il layout sclto per quella data pagina.
+# Pagina PROTEGGERSI--->PANORAMICA (/proteggersi/index.html)
+    proteggersi:
+        icona: Protezione Dati
+        teaser: Proteggiamo Dati Ininterrottamente
+        titolo: Sotto le nostre soluzioni
+        sottotitolo: I Dati Aziendali hanno un valore economico importante per cui è necessario difenderlo
+        descrizione: Prova descrizione in protezione, prova, prova
+
+        box1:
+            headline: Compliance Normativa GDPR
+            teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
+            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Da decenni nel privato le comunicazioni crittografate sono state utilizzate dai grandi gruppi Megacorps. Siamo stati testimoni dei loro risultati di crescita dovuti sopratutto alla riservatezza integrata nei loro sistemi tecnologici. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire. E' uno strumento fondamentale per la sicurezza dei sistemi e delle proprie reti.
+
+        box2:
+            headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
+            teaser: L'insieme dei dati aziendali, sensibili e non, costituisce una parte fondamentale del patrimonio societario, e come tale va difeso e protetto dagli attacchi informatici.
+            list:
+                li1: Buste Paghe, Brevetti, Stato Patrimoniale, Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
+                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
+                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
+                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
+
+        box3:
+            headline: Perchè Proteggere i Dati
+            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
+            list:
+                li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il pericolo più evoluto si chiama <strong>Jaff</strong>.
+                Mesi fa si subivano attacchi ransomware <strong>Rocket Kitten</strong> attraverso mail confidenziali.
+                Poi ancora <strong>Doxing</strong> virus progettato per creare cartelle dossier sulla persona. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro.
+                A seguire viene richiesto un riscatto. <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema."
+                li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si cancella se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto.
+                li3: Sono ARMI CYBERNETICHE, metodi fraudolenti c.d. "scorciatoia" negli investimenti in ricerca e sviluppo. Alla fine nella migliore delle ipotesi, rispetto ai competitor, si perdono posizioni di mercato.
+                li4: Tecnica di Profilazione a fini Marketing - Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
+                li5: Se non si adottano misure di Cyber Security adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
+                li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
+                li8: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
+
+
+
+
+# *************************************************************************
 # INIZIO CONTENUTI MENU COSA FACCIAMO
 # *************************************************************************
 
@@ -164,7 +218,7 @@ cosafacciamo:
 # Ciascuna pagina ha i contenuti organizzati secondo il layout sclto per quella data pagina.
 
 # Pagina COSA FACCIAMO-->SOMMARIO (/cosafacciamo/index.html)
-    sommario:
+    panoramica:
         teaser: Come Proteggiamo il tuo Patrimonio<br>Dati Aziendale
 
         intro:
@@ -220,33 +274,6 @@ cosafacciamo:
         titolo: Protezione dei Dati Aziendali
         sottotitolo: Forniamo soluzioni per la Tutela della Privacy
         descrizione: Prova descrizione in protezione, prova, prova
-
-        box1:
-            headline: Compliance GDPR
-            teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Attualmente nel privato le comunicazioni crittografate (riservate), sono sempre state utilizzate dai Grandi Gruppi Megacorps. Considerandoo gli ottimi risultati ottenuti sanno perfettamente che queste tecniche esistono e funzionano bene. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire.
-
-        box2:
-            headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
-            teaser: L'insieme dei dati aziendali, sensibili e non, costituisce una parte fondamentale del patrimonio societario, e come tale va difeso e protetto dagli attacchi informatici.
-            list:
-                li1: Buste Paghe, Brevetti, Stato Patrimoniale, Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
-                li2: Fatturazione, Clienti e Fornitori, Preventivi, Sales Strategy, Prezzi Riservati, Codici Prodotto, Report Micro Area, Technical know-how, Piano Marketing.
-                li3: Dati Sensibili (Origine Razziale, Convinzioni Religione e Filosofiche, Salute, Adesione Partiti e Sindacati, Vita Sessuale), Dati Identificativi, Dati Comuni (Abitudini, Gusti), Dati Giudiziari.
-                li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
-
-        box3:
-            headline: Perchè Proteggere i Dati
-            teaser: Lo scambio elettronico concettualmente è una caratteristica che non tornerà indietro. L'innovazione tecnologica consente nuove tecniche di comunicazione "virtulizzazione, Mobile, Cloud, IP" per cui il successo della propria attività sopratutto dipende dalla protezione dati.
-            list:
-                li1: Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete Aziendale che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, picchi di migliaia all'ora, sopratutto si nota una intelligenza strutturale. Proprio per sfruttare eventuali debolezze gli attacchi vengono intensificati durante il weekend e verso sera, attacchi machine to machine. Mentre laddove è stata sviluppata una buona protezione vengono portati attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica del c.d. Fishing come il famoso <strong>Rocket Kitten</strong> (utente vittima viene ingannato dal messaggio mail confidenziale che imita uno dei suoi fornitori abituale, es. Banca), poi ancora Doxing (viene creata una cartelle dossier sulla persona), in modo mirato. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro. A seguire viene richiesto un riscatto. <strong>Shamoon 2.0</strong> è ’un malware evoluto, si tratta  di un virus nel quale vengono integrati un ransomware per la cifratura dati e un modulo di wiping automatizzato (cancellazione dati completa). Virus ATP è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema. Virus <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema.
-                li2: Nel mondo esistono moltissime piattaforme di spionaggio società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si uccide se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto il necessario per cui è stato inoculato.
-                li3: Sono ARMI CYBERNETICHE, se dati sensibili copiati illecitamente, ad insaputa dell’azienda vittima, vanno i mano ai competitor significa nella migliore delle ipotesi, perdere posizioni di mercato. In più è anche un metodo fraudolento "scorciatoia" negli investimenti in ricerca e sviluppo.
-                li4: Tecnica di Profilazione a fini Marketing - Le transazioni sono SEMPRE analizzate dagli algortmi cosiddetti Indicatori Alfanumerici.
-                li5: Tecnica di Protezione e Sicurezza - Se non si adottano misure di sicurezza adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
-                li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
-                li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
-                li8: <strong>E'importante contestualizzare&#58 una azienda con profilo Cyber Security BASSO non potrà in futuro progredire.</strong>
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
