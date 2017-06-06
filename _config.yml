@@ -38,9 +38,12 @@ excerpt_separator: N/A-------N/A... Workaround for https://github.com/mojombo/je
 # La personalizzazione lavora in modalità differente.
 
 sitenavigation:
+  - name: Proteggersi
+    secondarynav:
+        - name: Proteggersi
   - name: CosaFacciamo
     secondarynav:
-        - name: Panoramica
+        - name: CosaFacciamo
         - name: Protezione Dati
         - name: Controllo Accessi
         - name: Cloud in House

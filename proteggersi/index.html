@@ -1,0 +1,97 @@
+---
+layout: proteggersi
+title: proteggersi.proteggersi.titolo
+description: proteggersi.proteggersi.descrizione
+
+navName: Proteggersi
+mainNavLinkName: navigation.main.Proteggersi
+subNavLinkName: navigation.sub.Proteggersi
+parent: Proteggersi
+
+permalink: /proteggersi/
+---
+
+<div id="feature-areas" class="tab">
+	<div class="row">
+		<div class="container">
+			<div class="col-md-10 col-md-offset-1 text-center">
+				<h1>{% t proteggersi.proteggersi.titolo %}</h1>
+				<p class="lead">{% t proteggersi.proteggersi.sottotitolo %}</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#box2">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-laptop"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-laptop hidden-sm hidden-md hidden-lg"></i>{% t proteggersi.proteggersi.box2.headline %}</h2>
+				<p class="explanation">
+	        {% t proteggersi.proteggersi.box2.teaser %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="box2" class="collapse">
+		{% include proteggersi/box2.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#box3">
+		<div class="container">
+			<div class="iconLarge col-sm-2 col-md-offset-1 hidden-xs">
+				<i class="fa fa-random"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-random hidden-sm hidden-md hidden-lg"></i>{% t proteggersi.proteggersi.box3.headline %}</h2>
+				<p class="explanation">
+          {% t proteggersi.proteggersi.box3.teaser %}
+          <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="box3" class="collapse">
+		{% include proteggersi/box3.html row='even' %}
+	</div>
+
+	<div class="row feature-row" data-toggle="collapse" data-target="#box1">
+		<div class="container">
+			<div class="iconLarge col-sm-2 hidden-xs col-md-offset-1">
+				<i class="fa fa-star-o"></i>
+			</div>
+			<div class="col-sm-10 col-md-9">
+				<h2><i class="fa fa-star-o hidden-sm hidden-md hidden-lg"></i>{% t proteggersi.proteggersi.box1.headline %}</h2>
+				<p class="explanation">
+	        {% t proteggersi.proteggersi.box1.teaser %}
+	        <button type="button" class="btn pull-right"><i class="fa fa-chevron-down"></i></button>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="box1" class="collapse">
+		{% include proteggersi/box1.html row='even' %}
+	</div>
+
+
+<!-- takes care of the collapsing arrow change -->
+<script type="text/javascript">
+    function toggleChevron(e) {
+        var id = $(e.target).attr('id');
+        var oIcon = $('div[data-target="#' + id + '"] p button i');
+        oIcon.toggleClass('fa-chevron-down fa-chevron-up');
+    }
+
+    // find the right element and execute
+    $('#feature-areas div.collapse').on('shown.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+
+    $('#feature-areas div.collapse').on('hidden.bs.collapse',
+        function (element) {
+            toggleChevron(element);
+        });
+</script>
