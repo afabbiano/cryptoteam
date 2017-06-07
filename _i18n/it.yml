@@ -170,13 +170,13 @@ proteggersi:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Perchè Proteggere i Dati
-        sottotitolo: I Dati Aziendali hanno un valore economico importante che deve essere difeso
+        sottotitolo: I Dati Aziendali hanno un valore economico importante e deve essere difeso
         descrizione: Prova descrizione in protezione, prova, prova
 
         box1:
             headline: Le norme impongono la Protezione Dati
-            teaser: Gli adempimenti Normativi Reg.679/2016 e le regole ferree odierne per il mercato digitale interno e transfrontaliero, evitano gravi danni e antipatiche sanzioni&#58 Direttiva (UE) 2016/680 a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
-            description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto mettendosi in regola. Cryptoteam si pone come partner offre soluzioni conformi alle normative sopratutto è in grado di colmare il forte disequilibrio che riguarda il mondo digitale come "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
+            teaser: Gli adempimenti Normativi Reg.679/2016 e le regole feree odierne per il mercato digitale interno e transfrontaliero, evitano gravi danni e antipatiche sanzioni&#58 Direttiva (UE) 2016/680 del 27.04.2016 perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
+            description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo 679 in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto mettendosi in regola. Cryptoteam si pone come partner offre soluzioni conformi alle normative sopratutto è in grado di colmare il forte disequilibrio che riguarda il mondo digitale come "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
 
         box2:
             headline: Cosa Intendiamo per <strong>Patrimonio Dati</strong>
@@ -214,7 +214,7 @@ proteggersi:
             headline: Il Trattamento Dati è stato classificato come "Attività Pericolosa"
             teaser: Decreto Legislativo 30.06.2003 n.196 Codice in Materia di Protezione dei Dati Personali - Art. 15 Chiunque cagiona danno ad altri per effetto del trattamento di dati personali è tenuto al risarcimento ai sensi dell’art. 2050 del Codice Civile.
             list:
-                li1: L’attività di trattamento dei dati personali è classificata dalla Magistratura come attività pericolosa, disciplinata dal codice civile. Nello svolgimento di questa attività appunto ritenuta pericolosa per sua natura o per natura dei mezzi adoperati, è tenuto al risarcimento del danno, se non prova di avere adottato tutte le misure idonee a evitare il danno. Tali adeguatezze devono riguardare la conformità ai principi generali in materia di trattamento dei dati personali,  ai principi di protezione dei dati fin dalla sua progettazione, esempio protezione dei dati di default tramite tecniche di cifratura.
+                li1: L’attività di trattamento dei dati personali è classificata dalla Magistratura come attività pericolosa, disciplinata dal codice civile. Nello svolgimento di questa attività appunto ritenuta pericolosa per sua natura o per natura dei mezzi adoperati, è tenuto al risarcimento del danno, se non prova di avere adottato tutte le misure idonee a evitare il danno. Tali adeguatezze devono riguardare la conformità ai principi generali in materia di trattamento dei dati personali e ai principi di protezione dei dati, fin dalla sua progettazione. Come ad esempio la protezione dei dati di default tramite la tecnica di cifratura.
                 li2: Poi il regolamento Ue 679/2016 Art. Art. 82 comma 1 si affianca alla 196/2003&#58  Chiunque subisca un danno materiale o immateriale causato da una violazione del presente regolamento ha il diritto di ottenere il risarcimento del danno dal titolare del trattamento o dal responsabile del trattamento. Poi ancora l’art.146&#58  Il titolare del trattamento o il responsabile del trattamento dovrebbe risarcire i danni cagionati a una persona da un trattamento non conforme al presente regolamento ma dovrebbe essere esonerato da tale responsabilità se dimostra che l'evento dannoso non gli è in alcun modo imputabile.
 
 
