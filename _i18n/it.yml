@@ -169,17 +169,17 @@ proteggersi:
     proteggersi:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo: Proteggere i Dati Aziendali è un obbligo di legge
+        titolo: Perchè Proteggere i Dati
         sottotitolo: I Dati Aziendali hanno un valore economico importante che deve essere difeso
         descrizione: Prova descrizione in protezione, prova, prova
 
         box1:
-            headline: Compliance Normativa GDPR (General Data Protection Regulation)
-            teaser: La tutela della Privacy è un elemento strategico per il futuro operativo delle Aziende. La finalità è quella di aumentare la sicurezza e tutelare i dati e le informazioni che viaggiano in rete.
-            description: Offriamo la possibilità di colmare il forte disequilibrio che riguarda il mondo delle aziende private nel "possesso" e nel "controllo" dei propri dati e delle proprie comunicazioni. Interi settori economici sono coinvolti e rispondenti a questo bisogno. Da decenni nel privato le comunicazioni crittografate sono state utilizzate dai grandi gruppi Megacorps. Siamo stati testimoni dei loro risultati di crescita dovuti sopratutto alla riservatezza integrata nei loro sistemi tecnologici. La crittografia è uno strumento potente da non sottovalutare se si vuole proteggere il Know-how aziendale e progredire. E' uno strumento fondamentale per la sicurezza dei sistemi e delle proprie reti.
+            headline: Le norme impongono la Protezione Dati
+            teaser: Gli adempimenti Normativi Reg.679/2016 e le regole ferree odierne per il mercato digitale interno e transfrontaliero, evitano gravi danni e antipatiche sanzioni&#58 Direttiva (UE) 2016/680 a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
+            description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto mettendosi in regola. Cryptoteam si pone come partner offre soluzioni conformi alle normative sopratutto è in grado di colmare il forte disequilibrio che riguarda il mondo digitale come "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
 
         box2:
-            headline: Cosa Intendiamo per <strong>Patrimonio Dati Digitali</strong>
+            headline: Cosa Intendiamo per <strong>Patrimonio Dati</strong>
             teaser: L'insieme dei dati aziendali, sensibili e non, costituisce una parte fondamentale del patrimonio societario, e come tale va difeso e protetto dagli attacchi informatici.
             list:
                 li1: Buste Paghe, Brevetti, Stato Patrimoniale, Contratti, Organigramma, Finanza, Atti, Fidi Bancari, Elenco Soci, Carte di Credito, Bilanci, Investimenti, Debiti, Finanziamenti, Fiscalità.
@@ -188,38 +188,34 @@ proteggersi:
                 li4: E-mail, Comunicazioni Telefoniche (IP), Data Confidential, Documenti interni, Policy, Accordi, Segreti Personali e Aziendali.
 
         box3:
-            headline: Perchè Proteggere i Dati
+            headline: Hacking e tecniche di spionaggio e profiling
             teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
             list:
                 li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il pericolo più evoluto si chiama <strong>Jaff</strong>.
                 Mesi fa si subivano attacchi ransomware <strong>Rocket Kitten</strong> attraverso mail confidenziali.
                 Poi ancora <strong>Doxing</strong> virus progettato per creare cartelle dossier sulla persona. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro.
                 A seguire viene richiesto un riscatto. <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema."
-                li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico, cioè in funzione del ruolo della persona spiata. In pratica il virus si cancella se la persona non è rilevante, al contrario se si tratta di un decisore aziendale spierà tutto.
-                li3: Sono ARMI CYBERNETICHE, metodi fraudolenti c.d. "scorciatoia" negli investimenti in ricerca e sviluppo. Alla fine nella migliore delle ipotesi, rispetto ai competitor, si perdono posizioni di mercato.
-                li4: Tecnica di Profilazione a fini Marketing - Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
+                li2: Nel mondo esistono molte piattaforme di spionaggio, società che vendono e assistono i loro clienti. Distribuiscono tool che possono essere integrati con i loro componenti aggiuntivi in modo specifico e intelligente, cioè in funzione del ruolo della persona vittima spiata. In pratica il virus si cancella se la persona non è rilevante. Al contrario se si tratta di una figura aziendale di rilievo, come ad esempio un responsabile decisore, il virus entra in azione.
+                li3: Sono armi cibernetiche, metodi fraudolenti c.d. "scorciatoia" negli investimenti in ricerca e sviluppo. Alla fine nella migliore delle ipotesi, rispetto ai competitor, si perdono posizioni di mercato.
+                li4: In più sia ggiunge la fastidiosa tecnica di profilazione a fini Marketing. Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
                 li5: Se non si adottano misure di Cyber Security adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
-                li6: Incorporare la Privacy è un PLUS - Integrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
-                li7: Norme Ue e Codice Privacy - Gli adempimenti Normativi e le regole ferree odierne per il mercato digitale (interno e transfrontaliero), evitano gravi danni e antipatiche sanzioni.
-                li8: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
+                li6: Incorporare la Privacy è un PLUS, le aziende temono i danni di reputazione se comunicano di aver subito un attacco. Quindi ntegrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
+                li7: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
+
 
         box4:
             headline: Proprietà Intellettuale
-            teaser: Spazio descrizione
+            teaser: Nella storia economica degli scambi commerciali, mai in passato la “Proprietà Intellettuale” è stata così vulnerabile come in questa nuova era digitale.
             list:
-                li1: Riga 1
-                li2: Riga 2
-                li3: Riga 3
-                li4: Riga 4
+                li1: La proprietà Intellettuale è il corpus di qualsiasi azienda, è un organismo vivente di contenuti unici che modellano l’azienda e il suo posizionamento nel mercato di appartenenza&#58 informazioni e dati di ogni tipo, comunicazioni di valore, segreti, eccellenze interne, poi marchi, immagini, filmati, brevetti, progetti, più tutti i soggetti che collaborano. Il continuo sviluppo della proprietà intellettuale è la vera anima dell’azienda e si traduce in crescita di fatturato  e benessere economico.
+                li2: Se si vuole prosperare la protezione della Proprietà Intellettuale non ha alternative e non è subalterna a qualsiasi altro investimento.
 
         box5:
-            headline: Il Trattamento Dati è classificato come Attività Pericolosa
-            teaser: Spazio descrizione
+            headline: Il Trattamento Dati è stato classificato come "Attività Pericolosa"
+            teaser: Decreto Legislativo 30.06.2003 n.196 Codice in Materia di Protezione dei Dati Personali - Art. 15 Chiunque cagiona danno ad altri per effetto del trattamento di dati personali è tenuto al risarcimento ai sensi dell’art. 2050 del Codice Civile.
             list:
-                li1: Riga 1
-                li2: Riga 2
-                li3: Riga 3
-                li4: Riga 4
+                li1: L’attività di trattamento dei dati personali è classificata dalla Magistratura come attività pericolosa, disciplinata dal codice civile. Nello svolgimento di questa attività appunto ritenuta pericolosa per sua natura o per natura dei mezzi adoperati, è tenuto al risarcimento del danno, se non prova di avere adottato tutte le misure idonee a evitare il danno. Tali adeguatezze devono riguardare la conformità ai principi generali in materia di trattamento dei dati personali,  ai principi di protezione dei dati fin dalla sua progettazione, esempio protezione dei dati di default tramite tecniche di cifratura.
+                li2: Poi il regolamento Ue 679/2016 Art. Art. 82 comma 1 si affianca alla 196/2003&#58  Chiunque subisca un danno materiale o immateriale causato da una violazione del presente regolamento ha il diritto di ottenere il risarcimento del danno dal titolare del trattamento o dal responsabile del trattamento. Poi ancora l’art.146&#58  Il titolare del trattamento o il responsabile del trattamento dovrebbe risarcire i danni cagionati a una persona da un trattamento non conforme al presente regolamento ma dovrebbe essere esonerato da tale responsabilità se dimostra che l'evento dannoso non gli è in alcun modo imputabile.
 
 
 
