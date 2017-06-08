@@ -2261,13 +2261,13 @@ xlt:
             price: Free
             motivation: 4 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 5 virtual users
-            validity: Unlimited Validity
-            action: Automatically included with XLT Download
+                li1: Scheda ISDN
+                li2: Scheda flusso Primario
+                li3: Scheda flusso Primario 2
+                li4: Scheda flusso Primario 4
+            users: 4 Utenti da crittografia
+            validity: Identicazione dei servizi
+            action: Configurazione in base alla scelte dei servizi
 
         entry:
             head: Basic one
@@ -2276,12 +2276,12 @@ xlt:
                 p-eur: "4,550"
             motivation: 8 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 100 virtual users
-            validity: One Year Validity
+                li1: Scheda ISDN
+                li2: Scheda flusso Primario
+                li3: Scheda flusso Primario 2
+                li4: Scheda flusso Primario 4
+            users: 8 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         flat:
             head: Standard Plus
@@ -2290,12 +2290,12 @@ xlt:
                 p-eur: "50,000"
             motivation:  32 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Unlimited Users
-            validity: One Year Validity
+                li1:  Scheda ISDN
+                li2:  S
+                li3:  Scheda flusso Primario 2
+                li4:  Scheda flusso Primario 4
+            users: 32 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         standard:
             head: Standard
@@ -2305,12 +2305,12 @@ xlt:
             period: week
             motivation: 16 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Starting at 100 virtual users
-            validity: At least One Week
+                li1: Scheda ISDN
+                li2: Scheda flusso Primario
+                li3: Scheda flusso Primario 2
+                li4: Scheda flusso Primario 4
+            users: 16 Utenti da crittografia
+            validity: Identicazione dei servizi
             action: or
 
         community:
@@ -2326,8 +2326,8 @@ xlt:
             validity: One Year Validity
 
         standard-details:
-            headline: Standard License Pricing Details
-            details: A standard license features a fixed base price and a scalable per user component. Minimum purchase is 100 users and 7 days. We grant a 25% discount starting with week four and 50% for an annual license. Alternatively you can purchase an unlimited annual license for an attractive fixed price, see table above.
+            headline: Servizio di Housing & Outsorsing
+            details: Il servizio Voip Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato, nel quale ospitare i suoi server in modo che possono essere  assistiti tecnicamente.  Mentre il Voip Outsourcing è la possibilità di concordare il solo servizio di telefonia voip. Tali specifiche di servizio vanno analiticamente verificate e autorizzate.
             table:
                 headline: Cost per Week
                 base:
