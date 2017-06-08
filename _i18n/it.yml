@@ -2262,9 +2262,9 @@ xlt:
             motivation: 4 Chiamate contemporanee
             features:
                 li1: Scheda ISDN
-                li2: Scheda flusso Primario
-                li3: Scheda flusso Primario 2
-                li4: Scheda flusso Primario 4
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
             users: 4 Utenti da crittografia
             validity: Identicazione dei servizi
             action: Configurazione in base alla scelte dei servizi
@@ -2277,9 +2277,9 @@ xlt:
             motivation: 8 Chiamate contemporanee
             features:
                 li1: Scheda ISDN
-                li2: Scheda flusso Primario
-                li3: Scheda flusso Primario 2
-                li4: Scheda flusso Primario 4
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
             users: 8 Utenti da crittografia
             validity: Identicazione dei servizi
 
@@ -2290,10 +2290,10 @@ xlt:
                 p-eur: "50,000"
             motivation:  32 Chiamate contemporanee
             features:
-                li1:  Scheda ISDN
-                li2:  S
-                li3:  Scheda flusso Primario 2
-                li4:  Scheda flusso Primario 4
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
             users: 32 Utenti da crittografia
             validity: Identicazione dei servizi
 
@@ -2306,9 +2306,9 @@ xlt:
             motivation: 16 Chiamate contemporanee
             features:
                 li1: Scheda ISDN
-                li2: Scheda flusso Primario
-                li3: Scheda flusso Primario 2
-                li4: Scheda flusso Primario 4
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
             users: 16 Utenti da crittografia
             validity: Identicazione dei servizi
             action: or
@@ -2346,11 +2346,11 @@ xlt:
         support:
             intro:
                 headline: Supporto e Assistenza
-                details: I nostri preventivi sono inclusi di assistenza tecnica contrattualizzata. Scaduti i termini in assenza di disdetta, prevista con almeno 3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
+                details: I nostri preventivi sono inclusi di assistenza tecnica contrattualizzata. Scaduti i termini, in assenza di disdetta prevista con almeno 3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
             list:
                 headline: Supporto
                 li1: Come standard via Email
-                li2: Entro 24h dalle richieste ricevute durante l'orario di lavoro
+                li2: Entro 24h dalle richieste ricevute
                 li3: 24/7
                 li4: 2h per week
             period:
