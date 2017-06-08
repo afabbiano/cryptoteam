@@ -2346,11 +2346,11 @@ xlt:
         support:
             intro:
                 headline: Supporto e Assistenza
-                details: Il prezzo include l'assistenza tecnica per 24 mesi. Scaduto tale termine in assenza di disdetta prevista con n.3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
+                details: Il prezzo include l'assistenza tecnica per 24 mesi. Scaduto tale termine in assenza di disdetta, prevista con almeno 3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
             list:
-                headline: Supporto privisto
-                li1: Come standard via Email o intervento da remoto
-                li2: Entro 24h verso tutte le richieste ricevute durante l'orario di lavoro
+                headline: Supporto
+                li1: Come standard via Email
+                li2: Entro 24h dalle richieste ricevute durante l'orario di lavoro
                 li3: 24/7
                 li4: 2h per week
             period:
@@ -2361,8 +2361,8 @@ xlt:
                 motivation: This support package is perfect for test automation and initial coding for load testing.
                 validity: One Week
             flat:
-                name: Annual
-                usd: "8,736"
+                name: Premium
+                usd: "€2000"
                 eur: "7,280"
                 motivation: Our most popular support package.
                 validity: One year
