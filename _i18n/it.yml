@@ -2249,17 +2249,17 @@ xlt:
 
         intro:
             headline: Richiedi il Preventivo
-            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono una buona parte delle necessità aziendali. Ovviamente per ottenere un costo d’investimento preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un consulente.
+            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono una buona parte delle necessità aziendali. Ovviamente per ottenere un costo d’investimento preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
-            currency: "Change the displayed currency:"
+            currency: "Di norma si calcola 1 chiamata ogni 3-4 interni, es. un’azienda da 50 interni necessiterà almeno di una licenza da 16 chiamate contemporanee."
             usd: Switch to USD
             eur: Switch to EUR
 
         basic:
             head: Basic
             price: Free
-            motivation: This one is perfect for just test automation and initial coding for load testing
+            motivation: 4 Chiamate contemporanee UCS-IP10MT
             features:
                 li1: No usage restrictions
                 li2: Free updates
