@@ -2303,7 +2303,7 @@ xlt:
             p-usd: "210"
             p-eur: "175"
             period: week
-            motivation:  16 Chiamate contemporanee
+            motivation: 16 Chiamate contemporanee
             features:
                 li1: No usage restrictions
                 li2: Free updates
@@ -2345,14 +2345,14 @@ xlt:
 
         support:
             intro:
-                headline: Support &amp; Training
-                details: Qualified support comes on top of any license type. Also, support is not required to receive any updates.
+                headline: Supporto e Assistenza
+                details: Il prezzo include l'assistenza tecnica per 24 mesi. Scaduto tale termine in assenza di disdetta prevista con n.3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
             list:
-                headline: Support
-                li1: Email support comes standard
-                li2: Response time within 24h for all support requests that are received during business hours
-                li3: 24/7 support is available on request
-                li4: 2h support time per week
+                headline: Supporto privisto
+                li1: Come standard via Email o intervento da remoto
+                li2: Entro 24h verso tutte le richieste ricevute durante l'orario di lavoro
+                li3: 24/7
+                li4: 2h per week
             period:
                 usd: "168"
                 eur: "140"
