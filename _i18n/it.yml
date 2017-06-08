@@ -170,7 +170,7 @@ proteggersi:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Perchè Proteggere i Dati
-        sottotitolo: I Dati Aziendali hanno un valore economico importante e deve essere difeso
+        sottotitolo: I Dati Aziendali hanno un valore economico importante
         descrizione: Prova descrizione in protezione, prova, prova
 
         box1:
@@ -2248,54 +2248,54 @@ xlt:
         description: The most flexible load and performance testing tool for Engineering.
 
         intro:
-            headline: Pricing &amp; Licensing
-            details: The XLT license model is simple. Free for test automation, free load test development with up to five virtual users, no seat limits, and always free updates. You just pay for virtual users when you need them. <a href="/en/xlt/licensing-and-pricing.html#support-and-training">Support</a> is always available.
+            headline: Richiedi il Preventivo
+            details: Tramite la tabella sotto vogliamo darvi un indicazione di soluzioni che coprono buona una parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici direttamente il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
-            currency: "Change the displayed currency:"
+            currency: " L'infrastruttura Voip si calcola 1 chiamata in ingresso ogni 3-4 interni (è il calcolo delle chiamate contemporanee)."
             usd: Switch to USD
             eur: Switch to EUR
 
         basic:
             head: Basic
             price: Free
-            motivation: This one is perfect for just test automation and initial coding for load testing
+            motivation: 4 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 5 virtual users
-            validity: Unlimited Validity
-            action: Automatically included with XLT Download
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 4 Utenti da crittografia
+            validity: Identicazione dei servizi
+            action: Configurazione in base alla scelte dei servizi
 
         entry:
-            head: CI
+            head: Basic one
             price:
                 p-usd: "5,460"
                 p-eur: "4,550"
-            motivation: Great for continuous performance testing
+            motivation: 8 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 100 virtual users
-            validity: One Year Validity
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 8 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         flat:
-            head: Unlimited
+            head: Standard Plus
             price:
                 p-usd: "60,000"
                 p-eur: "50,000"
-            motivation: Perfect for all testing needs
+            motivation:  32 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Unlimited Users
-            validity: One Year Validity
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 32 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         standard:
             head: Standard
@@ -2303,14 +2303,14 @@ xlt:
             p-usd: "210"
             p-eur: "175"
             period: week
-            motivation: Our most popular license. You can pick validity and size.
+            motivation: 16 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Starting at 100 virtual users
-            validity: At least One Week
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 16 Utenti da crittografia
+            validity: Identicazione dei servizi
             action: or
 
         community:
@@ -2326,8 +2326,8 @@ xlt:
             validity: One Year Validity
 
         standard-details:
-            headline: Standard License Pricing Details
-            details: A standard license features a fixed base price and a scalable per user component. Minimum purchase is 100 users and 7 days. We grant a 25% discount starting with week four and 50% for an annual license. Alternatively you can purchase an unlimited annual license for an attractive fixed price, see table above.
+            headline: Servizio di Housing & Outsorsing
+            details: Il servizio Voip Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato, nel quale ospitare i suoi server in modo che possono essere  assistiti tecnicamente.  Mentre il Voip Outsourcing è la possibilità di concordare il solo servizio di telefonia voip. Tali specifiche di servizio vanno analiticamente verificate e autorizzate.
             table:
                 headline: Cost per Week
                 base:
@@ -2345,35 +2345,35 @@ xlt:
 
         support:
             intro:
-                headline: Support &amp; Training
-                details: Qualified support comes on top of any license type. Also, support is not required to receive any updates.
+                headline: Supporto e Assistenza
+                details: I nostri preventivi sono inclusi di assistenza tecnica contrattualizzata. Scaduti i termini, in assenza di disdetta prevista con almeno 3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
             list:
-                headline: Support
-                li1: Email support comes standard
-                li2: Response time within 24h for all support requests that are received during business hours
-                li3: 24/7 support is available on request
-                li4: 2h support time per week
+                headline: Supporto
+                li1: Come standard via Email
+                li2: Entro 24h dalle richieste ricevute
+                li3: 24/7
+                li4: 2h per week
             period:
-                usd: "168"
+                usd: "€ 700"
                 eur: "140"
             basic:
                 name: Basic
-                motivation: This support package is perfect for test automation and initial coding for load testing.
-                validity: One Week
+                motivation: Questo pacchetto include comunicazioni via mail o telefoniche
+                validity: Validità 12 mesi
             flat:
-                name: Annual
-                usd: "8,736"
+                name: Premium
+                usd: "€ 2000"
                 eur: "7,280"
                 motivation: Our most popular support package.
-                validity: One year
+                validity: Validità 24 mesi
                 action: or
             switch:
                 currency: "Change the displayed currency:"
                 usd: Switch to USD
                 eur: Switch to EUR
             training:
-                headline: Training
-                details: To introduce you to XLT and have you quickly become productive with it, we offer individual trainings. The standard XLT training takes four hours and is limited to 10 participants.
+                headline: Esperienza
+                details: Abbiamo una lunga esperienza nel settore telefonia e VoIP.  Abbiamo collaborato proficuamente con grossi carrier telefonici nazionali,  installato e configurato centrali telefoniche in diversi punti su Milano utilizzando la dorsale di Fast web.  Oggi mettiamo a disposizione dei clienti la capacità tecnica innovativa siamo esperti di Asterisk, Freeswich, protocolli Voip, protocolli ZRTP di Crittografia per comunicazioni riservate e sviluppiamo servizi telefonici speciali.
                 contact: <a href="/en/contact/">Contact us</a> for further options and details. Send us your requirements and we will find a fitting setup.
 ########################################################################
 
