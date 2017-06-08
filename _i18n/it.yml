@@ -2249,7 +2249,7 @@ xlt:
 
         intro:
             headline: Richiedi il Preventivo
-            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono una buona parte delle necessità aziendali. Ovviamente per ottenere un costo d’investimento preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
+            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono una buona parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
             currency: "Di norma si calcola 1 chiamata ogni 3-4 interni, es. un’azienda da 50 interni necessiterà almeno di una licenza da 16 chiamate contemporanee."
