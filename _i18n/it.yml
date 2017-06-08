@@ -2252,7 +2252,7 @@ xlt:
             details: Tramite la tabella sotto vogliamo darvi un indicazione di soluzioni che coprono buona una parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici direttamente il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
-            currency: " L'infrastruttura si calcola 1 chiamata in ingresso ogni 3-4 interni (è il calcolo delle chiamate contemporanee)."
+            currency: " L'infrastruttura Voip si calcola 1 chiamata in ingresso ogni 3-4 interni (è il calcolo delle chiamate contemporanee)."
             usd: Switch to USD
             eur: Switch to EUR
 
