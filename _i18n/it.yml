@@ -2354,18 +2354,18 @@ xlt:
                 li3: 24/7
                 li4: 2h per week
             period:
-                usd: "168"
+                usd: "€ 700"
                 eur: "140"
             basic:
                 name: Basic
-                motivation: This support package is perfect for test automation and initial coding for load testing.
-                validity: One Week
+                motivation: Questo pacchetto include comunicazioni via mail o telefoniche
+                validity: Validità 12 mesi
             flat:
                 name: Premium
-                usd: "€2000"
+                usd: "€ 2000"
                 eur: "7,280"
                 motivation: Our most popular support package.
-                validity: One year
+                validity: Validità 24 mesi
                 action: or
             switch:
                 currency: "Change the displayed currency:"
