@@ -2249,7 +2249,7 @@ xlt:
 
         intro:
             headline: Richiedi il Preventivo
-            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono buona parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
+            details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono buona una parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
             currency: " Si calcola 1 chiamata ogni 3-4 interni, es. 100 interni necessitano di una infrastruttura da 33 chiamate contemporanee."
@@ -2259,7 +2259,7 @@ xlt:
         basic:
             head: Basic
             price: Free
-            motivation: 4 Chiamate contemporanee UCS-IP10MT
+            motivation: 4 Chiamate contemporanee
             features:
                 li1: No usage restrictions
                 li2: Free updates
@@ -2270,11 +2270,11 @@ xlt:
             action: Automatically included with XLT Download
 
         entry:
-            head: CI
+            head: Basic one
             price:
                 p-usd: "5,460"
                 p-eur: "4,550"
-            motivation: Great for continuous performance testing
+            motivation: 8 Chiamate contemporanee
             features:
                 li1: No usage restrictions
                 li2: Free updates
@@ -2284,11 +2284,11 @@ xlt:
             validity: One Year Validity
 
         flat:
-            head: Unlimited
+            head: Standard Plus
             price:
                 p-usd: "60,000"
                 p-eur: "50,000"
-            motivation: Perfect for all testing needs
+            motivation:  32 Chiamate contemporanee
             features:
                 li1: No usage restrictions
                 li2: Free updates
@@ -2303,7 +2303,7 @@ xlt:
             p-usd: "210"
             p-eur: "175"
             period: week
-            motivation: Our most popular license. You can pick validity and size.
+            motivation:  16 Chiamate contemporanee
             features:
                 li1: No usage restrictions
                 li2: Free updates
