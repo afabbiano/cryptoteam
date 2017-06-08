@@ -2252,7 +2252,7 @@ xlt:
             details: Nella tabella sotto proponiamo un indicazione di soluzioni che coprono buona parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
-            currency: " Si calcola 1 chiamata ogni 3-4 interni, esempio 100 interni necessita di una infrastruttura da 33 chiamate contemporanee."
+            currency: " Si calcola 1 chiamata ogni 3-4 interni, es. 100 interni necessitano di una infrastruttura da 33 chiamate contemporanee."
             usd: Switch to USD
             eur: Switch to EUR
 
