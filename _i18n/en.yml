@@ -901,6 +901,27 @@ normativa:
                         - Allegato A.1 . Codice di deontologia - Trattamento dei dati personali nell'esercizio dell'attività giornalistica - Allegato A.2 . Codici di deontologia - Trattamento dei dati personali per scopi storici - Allegato A.3 . Codice di deontologia - Trattamento dei dati personali a scopi statistici in ambito Sistan - Allegato A.4 . Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici - Allegato A.5 . Codice di deontologia e di buona condotta per i sistemi informativi gestiti da soggetti privati in tema di crediti al consumo, affidabilità e puntualità nei pagamenti - Allegato A.6 . Codice di deontologia e di buona condotta per i trattamenti di dati personali effettuati per svolgere investigazioni difensive - A.7. Codice di deontologia e di buona condotta per il trattamento dei dati personali effettuato a fini di informazione commerciale -
                       </p>"
 
+        art615:
+            titolo: "Art. 615: commi ter, quater e quinquies del Codice Penale"
+            sottotitolo: Il Codice Penale induvidua e sanziona specifici comportamenti illeciti nell'ambito dei sistemi telematici.
+            ter:
+                lead: <p><strong>Art. 615 ter Accesso abusivo ad un sistema informatico o telematico</strong></p>
+                text: "<p>Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volontà espressa o tacita di chi ha il diritto di escluderlo, è punito con la reclusione fino a tre anni. La pena è della reclusione da uno a cinque anni:
+<ul>
+<li>1) se il fatto è commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o al servizio, o da chi esercita anche abusivamente la professione di investigatore privato, o con abuso della qualità di operatore del sistema;</li>
+<li>2) se il colpevole per commettere il fatto usa violenza sulle cose o alle persone, ovvero se è palesemente armato;</li>
+<li>3) se dal fatto deriva la distruzione o il danneggiamento del sistema o l’interruzione totale o parziale del suo funzionamento, ovvero la distruzione o il danneggiamento dei dati, delle informazioni o dei programmi in esso contenuti.</li>
+</ul>
+Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o telematici di interesse militare o relativi all’ordine pubblico o alla sicurezza pubblica o alla sanità o alla protezione civile o comunque di interesse pubblico, la pena è, rispettivamente, della reclusione da uno a cinque anni e da tre a otto anni. Nel caso previsto dal primo comma il delitto è punibile a querela della persona offesa; negli altri casi si procede d’ufficio.<sup>(1)</sup></p>"
+            quater:
+                lead: <p><strong>Art. 615 quater Detenzione e diffusione abusiva di codici di accesso a sistemi informatici o telematici</strong></p>
+                text: "<p>Chiunque, al fine di procurare a sé o ad altri un profitto o di arrecare ad altri un danno, abusivamente si procura, riproduce, diffonde, comunica o consegna codici, parole chiave o altri mezzi idonei all’accesso ad un sistema informatico o telematico, protetto da misure di sicurezza, o comunque fornisce indicazioni o istruzioni idonee al predetto scopo, è punito con la reclusione sino ad un anno e con la multa sino a lire dieci milioni. La pena è della reclusione da uno a due anni e della multa da lire dieci milioni a venti milioni se ricorre taluna delle circostanze di cui ai numeri 1) e 2) del quarto comma dell’articolo 617 quater<sup>(1)</sup>.</p>"
+            quinquies:
+                lead: <p><strong>Art. 615 quinquies Diffusione di apparecchiature, dispositivi o programmi informatici diretti a danneggiare o interrompere un sistema informatico o telematico</strong></p>
+                text: "<p>Chiunque, allo scopo di danneggiare illecitamente un sistema informatico o telematico, le informazioni, i dati o i programmi in esso contenuti o ad esso pertinenti ovvero di favorire l’interruzione, totale o parziale, o l’alterazione del suo funzionamento, si procura, produce, riproduce, importa, diffonde, comunica, consegna o, comunque, mette a disposizione di altri apparecchiature, dispositivi o programmi informatici, è punito con la reclusione fino a due anni e con la multa sino a euro 10.329.<sup>(2)</sup></p>
+<p><sup>(1)</sup> Articolo aggiunto dall’art. 4, L. 23 dicembre 1993, n. 547.</p>
+<p><sup>(2)</sup> Articolo così modificato dalla Legge 18 marzo 2008, n. 48.</p>"
+
         gdpr:
             headline: (UE) 2016/679 - GDPR - General Data Protection Regulation
             lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
