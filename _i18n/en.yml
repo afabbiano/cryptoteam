@@ -310,6 +310,13 @@ cosafacciamo:
                 li1: Soluzione 1 - Privacy-Mail OpenXPKI Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
                 li2: Soluzione 2 - Privacy-Mail OpenPGP Sistema adatto per piccole aziende. Però spesso è utilizzato in coppia alla soluzioni 1 dai dirigenti più sensibili delle medie e grandi aziende. - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assuluta riservatezza.
 
+        box4c:
+            headline: PrivateBin
+            teaser: Teaser PrivateBin
+            list:
+                li1: Riga 1 - PrivateBin
+                li2: Riga 2 - PrivateBin
+
         box5:
             headline: File Sharing - Condivisione Dati Sicura
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
