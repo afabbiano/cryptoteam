@@ -313,7 +313,7 @@ cosafacciamo:
                 li1: Rapido facile da usare, è possibile impostare il tempo di scadenza della lettura testo, più precisamente il testo scritto rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure mai).
                 li2: Per scambiarsi informazioni di massima importanza si può anche decidere la visibilità dei file verso gruppi di lavoro utilizzando una password di riferimento precedentemente concordata. In questo modo i testi di una certa importanza potranno essere visualizzati solo da chi possiede la password univoca. Neanche l’amministratore di sistema potrà accedere ai contenuti scambiati.
                 li3: Per utilizzare il servizio è sufficiente incollare la porzione di testo che si vuole condividere e impostare la password e la scadenza temporale. Una volta inserito il testo, per non perdersi la pagina è necessario copiarsi il link e trasmetterlo via mail al destinatario via browser https. Una volta ricevuta la mail il destinatario cliccherà sul link imposterà la password e vedrà il messaggio.
-                li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché la cancellazione dei dati si basa sulla sovrascrittura. Infatti lo spazio disponibile è molto basso per cui il sitema sovrascrive continuamente cancellando di default i dati scritti precedentemente.
+                li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo è protetto dall'algoritmo AES 256 a 128 o 256 bit (è consigliata una password a 32 caratteri cioè 256 bit). 
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
