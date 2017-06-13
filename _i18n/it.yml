@@ -594,6 +594,21 @@ offerta:
                 <p>Software completo non servirà nient'altro per comunicare protetti. Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato anche con riguardo i progetti sulle nuove tecnologie.</p>
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
+        privatebin:
+            headline: PrivateBin
+            lead: Richiedi un preventivo per il sistema di cifratura PrivateBin. Il top della tecnologia (AES256), necessario per la protezione delle comunicazioni occasionali e di tutti i file allegati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni.
+            details:
+                lead: "PrivateBin è un sistema completo, tecnologicamente scalabile, che garantisce la riservatezza delle comunicazioni occasionali. Consente lo scambio di file cifrati al di fuori del normale circuito della mail."
+                text: "<p>Lead Text.</p>
+                <ul>
+                    <li><strong>Riga Puntata 1</strong> Testo.</li>
+                    <li><strong>Riga Puntata 2</strong> Testo.</li>
+                    <li><strong>Riga Puntata 3</strong> Testo.</li>
+                    <li><strong>Riga Puntata ...</strong> Testo.</li>
+                    <li><strong>Riga Puntata N</strong> Testo.</li>
+                    <li><strong>Firma Digitale</strong> Testo.</li>
+                </ul>"
+
         cifratura-riposo:
             headline: Cifratura Dati a Riposo con Cloud in-House
             lead: Richiedi un preventivo per la cifratura dati a riposo. Possiamo creare una tua piattafroma Cloud Privata nella quale i dati a riposo saranno salvati, cifrati e condivisi sistematicamente in sicurezza. Oppure acquista il servizio Storage CryptoTeam e verifica il piano tariffario più adatto alla tua azienda.
