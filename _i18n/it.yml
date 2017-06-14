@@ -595,16 +595,16 @@ offerta:
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
         privatebin:
-            headline: PrivateBin
-            lead: Richiedi un preventivo per il sistema di cifratura PrivateBin. Il top della tecnologia (AES256), necessario per la protezione delle comunicazioni occasionali e di tutti i file allegati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni.
+            headline: Private*Bin
+            lead: Richiedi un preventivo o una demo per il sistema di cifratura Private*Bin. Il top della tecnologia (AES256), necessario per la protezione on line delle comunicazioni occasionali e di tutti i file allegati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni.
             details:
-                lead: "PrivateBin è un sistema completo, tecnologicamente scalabile, che garantisce la riservatezza delle comunicazioni occasionali. Consente lo scambio di file cifrati al di fuori del normale circuito della mail."
-                text: "<p>Lead Text.</p>
+                lead: "Private*Bin è un sistema completo, tecnologicamente scalabile, che garantisce la riservatezza delle comunicazioni occasionali. Consente via browser lo scambio di file cifrati al di fuori del normale circuito della mail."
+                text: "<p>Vantaggi</p>
                 <ul>
-                    <li><strong>Riga Puntata 1</strong> Testo.</li>
-                    <li><strong>Riga Puntata 2</strong> Testo.</li>
-                    <li><strong>Riga Puntata 3</strong> Testo.</li>
-                    <li><strong>Riga Puntata ...</strong> Testo.</li>
+                    <li><strong>Facile da usare sopratutto immediato.</strong></li>
+                    <li><strong> E' possibile impostare una password sul contenuto per garantisce ulteriore riservatezza all'interno dell'azienda impendendo di leggere i testi del Private*Bin anche all'amministratore di sistema.</strong> Testo.</li>
+                    <li><strong>Il private*Bin è (anche), molto utile utilizzarlo all’interno di un progetto di lavoro già basato sulla tracciabilità e la protezione dei dati. Con sicurezza i corrispondenti possono scambiarsi informazioni apparentemente innocue, ma se fossero intercettate e non protette da crittografia, potrebbero scaturire l’interesse di malintenzionati.</strong></li>
+                    <li><strong>Con Pochi clik è possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè si cancella automaticamente.</strong> Testo.</li>
                     <li><strong>Riga Puntata N</strong> Testo.</li>
                     <li><strong>Firma Digitale</strong> Testo.</li>
                 </ul>"
