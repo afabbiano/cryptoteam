@@ -601,12 +601,12 @@ offerta:
                 lead: "Private*Bin è un sistema completo, tecnologicamente scalabile, che garantisce la riservatezza delle comunicazioni occasionali. Consente via browser lo scambio di file cifrati al di fuori del normale circuito della mail."
                 text: "<p><strong>Vantaggi</strong></p>"
                 <ul>
-                    <li><strong>Intuitivo e facile da usare sopratutto immediato purchè sia disponibile la rete internet con qualunque piattaforma.</strong></li>
+                    "<li><strong>Intuitivo e facile da usare sopratutto immediato purchè sia disponibile la rete internet con qualunque piattaforma.</strong></li>
                     <li><strong> Per garantire ulteriore riservatezza è possibile impostare una password sul contenuto che impedirà la lettura dei testi del Private*Bin a chiunque in azienda non possiede le credenziali di accesso (incluso l’amministratore di sistema).</strong></li>
                     <li><strong>Il private*Bin è (anche), molto utile utilizzarlo all’interno di un progetto di lavoro già basato sulla tracciabilità e la protezione dei dati. Con sicurezza i corrispondenti possono dialogare e scambiarsi informazioni apparentemente innocue, ma se fossero intercettate e non protette da crittografia, potrebbero scaturire l’interesse di malintenzionati.</strong></li>
                     <li><strong>Con Pochi clik è possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè il testo si cancella automaticamente.</strong></li>
                     <li><strong>Scrivere o incollare nel browser la porzione di testo che si intendere condividere, poi inpostare la password e la scadenza temporale. Una volta inserito il testo e cliccato sull'icona "invia", è necessario copiarsi il link che il Private*Bin ha elaborato. A questo punto è necessario disporre di browser https, il link va incollato e trasmesso via mail al corrispondente. Il quale utilizzando la password precedentemente stabilita (16 caratteri uguale a 128bit oppure 32 caratteri uguale a 256 bit), leggerà il contenuto.</strong></li>
-                    <li><strong>Il preventivo include 1 ora di cosrso di formazione sufficente per rendere gli utenti autonomi e immadiatamente operativi. </strong> Testo.</li>
+                    <li><strong>Il preventivo include 1 ora di cosrso di formazione sufficente per rendere gli utenti autonomi e immadiatamente operativi.</strong> Testo.</li>
                 </ul>"
 
         cifratura-riposo:
