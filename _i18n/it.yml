@@ -258,8 +258,8 @@ cosafacciamo:
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
-                li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
-                li6: Private*Bin è un strumento innovativo facile e veloce  da usare. Apre una discussione on-line protetta da crittografia protocollo AES a 256 Bit. In azienda è usato per tutelare le informazioni sensibili tra utenti.
+                li5: Con pochi click è possibile creare un collegamento pubblico sicuro e condividersi le cartelle
+                li6: Per i clienti del Cloud in-House installazione default del Private*Bin, è un strumento innovativo facile e veloce da usare. Apre una discussione on-line protetta da crittografia protocollo AES a 256 Bit. In azienda è usato per tutelare le informazioni sensibili tra utenti.
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te, qualunque sia la piattaforma utilizzata
                 descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere.
@@ -544,7 +544,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), e Conformità Normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. <strong>L’offerta include il Private*Bin</strong> utile per le comunicazioni ultra-riservate tra i manager, esempio&#58 Brevetti, Lancio Nuovi prodotti, Scambio Idee, Segreti Industriali.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), e Conformità Normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. <strong>L’offerta include il Private*Bin</strong> utile per le comunicazioni riservate tra i manager, esempio&#58 Brevetti, Lancio Nuovi prodotti, Scambio Idee, Segreti Industriali, Proprietà Intellettuale.
 
         riquadri:
             box1:
