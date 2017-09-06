@@ -1364,113 +1364,9 @@ table {
 
 
 /* ---------------------------------------------------------- */
-/* ---About is similar to the general setup */
-.about {
-	#teaser {
-		.teaser-image {
- 			background: url(/images/teasers/chisiamo-index.png) fixed center @navBarHeight no-repeat #bb1c1d;
-		}
-	}
-
-	#main {
-		.row-padding;
-		padding-bottom: 3em;
-	}
-
-    .informational-col {
-        padding-top: 2em;
-    }
-
-    .facts-col {
-        .informational-col;
-    }
-
-	.facts-table {
-		border-spacing: 0 1em;
-		border-collapse: separate;
-
-		td {
-			vertical-align: top;
-			padding: 0.5em 0.5em 0.5em 0em;
-		}
-		.key {
-			border-bottom: 2px solid @cDarkendLightGray;
-
-			@media (min-width: @screen-sm-max) {
-				width: 47%;
-			}
-		}
-		.value {
-			border-bottom: 4px solid @cDarkendLightGray;
-			font-weight: 400;
-		}
-	}
-
-	#management {
-        /* this is darn ugly */
-        .row {
-            &.profile {
-                margin-top: 1em;
-            }
-        }
-		.profile {
-            img {
-                margin: 0.25em auto 1em;
-            }
-            h2 {
-                margin-top: 0em;
-            }
-        }
-	}
-
-	#team {
-		.team-image {
-			margin-top: 2em;
-
-            img {
-                width: 16.5%;
-                float: left;
-
-                &:last-child {
-	                margin-bottom: 1.5em;
-                }
-            }
-        }
-	}
-
-	#references {
-
-		.company-info {
-			margin-bottom: 1em;
-			margin-top: 1em;
-
-				img {
-					margin: 0 auto;
-				}
-		}
-
-		.client-list ul {
-			text-align: center;
-
-			li {
-				display: inline-block;
-				list-style: none;
-				margin: 0 10px;
-				font-size: 1.2em;
-
-				&:before {
-					content: none;
-				}
-			}
-		}
-	}
-}
-
-/* ---------------------------------------------------------- */
 /* --- The services page details that are different compared to
  * the general one */
 .servizi {
-
  	#teaser {
 		@media (min-width: @screen-xs-max) {
 			height: @homepageTeaserHeight;
@@ -1504,7 +1400,6 @@ table {
 
 
 .servizi-protezione {
-
 	#teaser {
 		@media (min-width: @screen-xs-max) {
 			height: @homepageTeaserHeight;
@@ -1562,7 +1457,7 @@ table {
 	#teaser {
 		@media (min-width: @screen-xs-max) {
 			height: @homepageTeaserHeight;
-			background: url(/images/cryptoteam/Fascione_1_cloud_in-house.png) fixed center @navBarHeight no-repeat;
+			background: url(/images/teasers/cosafacciamo-cloud.png) fixed center @navBarHeight no-repeat;
 		}
 	}
 }
@@ -1741,6 +1636,28 @@ table {
 	}
 }
 
+
+/* --- Impostazioni specifiche per la pagina CHI SIAMO->Chi Siamo -- */
+.chisiamo-index {
+	#teaser {
+		.teaser-image {
+ 			background: url(/images/teasers/chisiamo-index.png) fixed center @navBarHeight no-repeat #bb1c1d;
+		}
+	}
+}
+
+
+	/* --- Impostazioni specifiche per la pagina CHI SIAMO->Privacy -- */
+.chisiamo-privacy {
+	#teaser {
+		.teaser-image {
+ 			background: url(/images/teasers/chisiamo-privacy.png) fixed center @navBarHeight no-repeat;
+		}
+	}
+}
+
+
+
 /* --- Impostazioni specifiche per la pagina NORMATIVA->Adempimenti -- */
 .normativa-adempimenti {
 	#teaser {
@@ -1753,19 +1670,14 @@ table {
 
 
 
-
-
 .pagina-pki {
-
 	#main {
 		.ourStyledList;
 		.headlineDefinition;
 	}
 
 	#teaser {
-
  		.teaser-image {
-
  			#teaser-text {
  				@media (min-width: @screen-xs-max) {
  					margin-top: 35px;
@@ -1822,7 +1734,11 @@ table {
 
 
 
+/* --------------------------------------------------------------------------------- */
 /* --- Seguono le vecchie definizioni per le pagine che ancora usano gli ID services */
+/* --- NB: da controllare e verificare una per una, eliminando tutte le definizioni  */
+/* ---     non più usate e necessarie                                                */
+/* --------------------------------------------------------------------------------- */
 
 .services {
 
@@ -1924,6 +1840,112 @@ table {
 		}
 	}
 }
+
+
+
+/* ---------------------------------------------------------- */
+/* ---About is similar to the general setup */
+.about {
+	#teaser {
+		.teaser-image {
+ 			background: url(/images/teasers/chisiamo-index.png) fixed center @navBarHeight no-repeat #bb1c1d;
+		}
+	}
+
+	#main {
+		.row-padding;
+		padding-bottom: 3em;
+	}
+
+    .informational-col {
+        padding-top: 2em;
+    }
+
+    .facts-col {
+        .informational-col;
+    }
+
+	.facts-table {
+		border-spacing: 0 1em;
+		border-collapse: separate;
+
+		td {
+			vertical-align: top;
+			padding: 0.5em 0.5em 0.5em 0em;
+		}
+		.key {
+			border-bottom: 2px solid @cDarkendLightGray;
+
+			@media (min-width: @screen-sm-max) {
+				width: 47%;
+			}
+		}
+		.value {
+			border-bottom: 4px solid @cDarkendLightGray;
+			font-weight: 400;
+		}
+	}
+
+	#management {
+        /* this is darn ugly */
+        .row {
+            &.profile {
+                margin-top: 1em;
+            }
+        }
+		.profile {
+            img {
+                margin: 0.25em auto 1em;
+            }
+            h2 {
+                margin-top: 0em;
+            }
+        }
+	}
+
+	#team {
+		.team-image {
+			margin-top: 2em;
+
+            img {
+                width: 16.5%;
+                float: left;
+
+                &:last-child {
+	                margin-bottom: 1.5em;
+                }
+            }
+        }
+	}
+
+	#references {
+
+		.company-info {
+			margin-bottom: 1em;
+			margin-top: 1em;
+
+				img {
+					margin: 0 auto;
+				}
+		}
+
+		.client-list ul {
+			text-align: center;
+
+			li {
+				display: inline-block;
+				list-style: none;
+				margin: 0 10px;
+				font-size: 1.2em;
+
+				&:before {
+					content: none;
+				}
+			}
+		}
+	}
+}
+
 
 /* ---------------------------------------------------------- */
 /* --- out news page, this is the overview and not the single post */

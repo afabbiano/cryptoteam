@@ -137,7 +137,7 @@ homepage:
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: La protezione dati rappresenta un passo avanti verso l’innovazione e l’accrescimento delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determinano l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
+            details: La protezione dati rappresenta un valore inestimabile verso la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determinano l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
         box2:
             headline: Piattaforma PKI
             details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. E' un automatismo semplice che tramite la gestione dei certificati digitali, renderà (escludendo i destinatari), <strong>illeggibili tutte le attività di comunicazioni.</strong> L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
@@ -170,7 +170,7 @@ proteggersi:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Perchè Proteggere i Dati
-        sottotitolo: I Dati Aziendali hanno un valore economico importante e deve essere difeso
+        sottotitolo: I Dati Aziendali hanno un valore economico importante
         descrizione: Prova descrizione in protezione, prova, prova
 
         box1:
@@ -189,9 +189,9 @@ proteggersi:
 
         box3:
             headline: Hacking e tecniche di spionaggio e profiling
-            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
+            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E' facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
             list:
-                li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il pericolo più evoluto si chiama <strong>Jaff</strong>.
+                li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il ransomware più evoluto si chiama <strong>Jaff</strong>.
                 Mesi fa si subivano attacchi ransomware <strong>Rocket Kitten</strong> attraverso mail confidenziali.
                 Poi ancora <strong>Doxing</strong> virus progettato per creare cartelle dossier sulla persona. Di seguito alcuni esempi generici di virus più pericolosi&#58 <strong>Stuxnet,</strong> attaccante Cyber Fisico composto da n. 3 moduli colpisce anche i sistemi SCADA. 1) Worm che danneggia i PLC e permette al software di auto-replicarsi su altre macchine - 2) Collegamento che mette in esecuzione le copie create dal worm - 3) Rootkit nasconde il virus rendendolo non individuabile. <strong>StoneDrill</strong> è un ransomware che oltre ai  moduli di wiping interni, attiva una propria backdoor di spionaggio. I dati vengono comunicati e copiati illegittimamente da altri Server remoti (n.4 ), in collegamento tra di loro.
                 A seguire viene richiesto un riscatto. <strong>ATP</strong> è un evoluzione dei Malware classici, si differenzia notevolmente perché opera a diversi livelli di attacco&#58 a)  Mina o impedisce gli aspetti critici di una missione o di programma di lavoro di un organizzazione -  b) Si posiziona e si nasconde all’interno della infrastruttura IT - c) Persegue nel tempo gli obiettivi prendendo il controllo del sistema."
@@ -200,7 +200,7 @@ proteggersi:
                 li4: In più sia ggiunge la fastidiosa tecnica di profilazione a fini Marketing. Attualmente i cookie lavorano a supporto di sistemi intelligenti come "Cross Device Identity". Tecnologie (Network, Software, Hardware, Identità), che riunificano l'utente che naviga attraverso più device. La finalità è tracciare le singola preferenza e di captare la reale intenzione di acquisto.
                 li5: Se non si adottano misure di Cyber Security adeguate, non si potrà MAI escludere che il Know-How Aziendale venga acquisito e compromesso.
                 li6: Incorporare la Privacy è un PLUS, le aziende temono i danni di reputazione se comunicano di aver subito un attacco. Quindi ntegrare le tecniche di protezione dei dati nell'eco sistema informatico Aziendale, eleva l'immagine e aumenta la fiducia tra i corrispondenti (attuali e futuri).
-                li7: <strong>E'importante contestualizzare&#58 una azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
+                li7: <strong>E'importante contestualizzare che un azienda SENZA un profilo Cyber Security non potrà in futuro progredire. Per rendersi conto consigliamo la visione dei bollettini del Cert Nazionale presso il Mise.</strong>
 
 
         box4:
@@ -215,7 +215,7 @@ proteggersi:
             teaser: Decreto Legislativo 30.06.2003 n.196 Codice in Materia di Protezione dei Dati Personali - Art. 15 Chiunque cagiona danno ad altri per effetto del trattamento di dati personali è tenuto al risarcimento ai sensi dell’art. 2050 del Codice Civile.
             list:
                 li1: L’attività di trattamento dei dati personali è classificata dalla Magistratura come attività pericolosa, disciplinata dal codice civile. Nello svolgimento di questa attività appunto ritenuta pericolosa per sua natura o per natura dei mezzi adoperati, è tenuto al risarcimento del danno, se non prova di avere adottato tutte le misure idonee a evitare il danno. Tali adeguatezze devono riguardare la conformità ai principi generali in materia di trattamento dei dati personali e ai principi di protezione dei dati, fin dalla sua progettazione. Come ad esempio la protezione dei dati di default tramite la tecnica di cifratura.
-                li2: Poi il regolamento Ue 679/2016 Art. Art. 82 comma 1 si affianca alla 196/2003&#58  Chiunque subisca un danno materiale o immateriale causato da una violazione del presente regolamento ha il diritto di ottenere il risarcimento del danno dal titolare del trattamento o dal responsabile del trattamento. Poi ancora l’art.146&#58  Il titolare del trattamento o il responsabile del trattamento dovrebbe risarcire i danni cagionati a una persona da un trattamento non conforme al presente regolamento ma dovrebbe essere esonerato da tale responsabilità se dimostra che l'evento dannoso non gli è in alcun modo imputabile.
+                li2: Poi il regolamento Ue 679/2016 Art. Art. 82 comma 1 si aggiunge e rafforza la 196/2003&#58  Chiunque subisca un danno materiale o immateriale causato da una violazione del presente regolamento ha il diritto di ottenere il risarcimento del danno dal titolare del trattamento o dal responsabile del trattamento. Poi ancora l’art.146&#58  Il titolare del trattamento o il responsabile del trattamento dovrebbe risarcire i danni cagionati a una persona da un trattamento non conforme al presente regolamento ma dovrebbe essere esonerato da tale responsabilità se dimostra che l'evento dannoso non gli è in alcun modo imputabile.
 
 
 
@@ -252,17 +252,17 @@ cosafacciamo:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
-                titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, ad esempio include la funzione "Private*Bin" utile ai manager come ulteriore protezione dei segreti aziendali scambiati in rete.
-                descrizione: Grazie al Cloud in-House e alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
+                titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, archivia e condivide facilmente i dati tramite un sistema protetto da crittografia.
+                descrizione: Grazie alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
-                li5: Con pochi click è possibile creare un collegamento semplice e sicuro e condividersi le cartelle
-                li6: Private*Bin apre una discussione cifrata utilizza il protocollo AES a 256 Bit.
+                li5: Con pochi click è possibile creare un collegamento pubblico sicuro e condividersi le cartelle
+                li6: Per i clienti del Cloud in-House installazione default del Private*Bin, è un strumento innovativo facile e veloce da usare. Apre una discussione on-line protetta da crittografia protocollo AES a 256 Bit. In azienda è usato per tutelare le informazioni sensibili tra utenti.
             box-dx:
                 titolo: I tuoi dati al "Sicuro" sempre con te, qualunque sia la piattaforma utilizzata
-                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere al Cloud in-House
+                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere.
                 li1: Federare e autorizzare i propri Partner - Server to Server - (clienti, Fornitori, Commercialista, ecc..)
                 li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
                 li3: Programmare la data di scadenza sulla condivisione pubblica
@@ -290,21 +290,30 @@ cosafacciamo:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Nel lungo periodo le statistische dimostrano uno storico veritiero&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
+            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo protetto, appunto i loro dati messi al sicuro tramite l'Https. Nel lungo periodo le statistische dimostrano uno storico veritiero&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
                 li2: Cifratura fino 4096 Bit SHA 256 i messaggi o i dati anche se intercettati non sono leggibili
-                li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni (Previo Policy > Autorizzazione)
+                li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni (Previo Autorizzazione)
                 li4: Trattamento dei dati compliance al GDPR
                 li5: Inevitabile aumento dell'immagine aziendale del suo prestigio e della sua reputazione
-                li6: Infrastruttura IT all'avanguardia consegue un aumento del valore patrimoniale
+                li6: Infrastruttura IT all'avanguardia come risulatto è un aumento del valore patrimoniale
 
         box4b:
             headline: Private-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per aziende che hanno minori necessità. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più sensibili che preferiscono una doppia cifratura sui loro contenuti - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le sue chiavi (RSA o curve Ellitiche), semplicemente associtate alla mail. Pertanto sarà in grado di comunicare in assoluta riservatezza.
+                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per aziende che hanno minori necessità. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più sensibili che preferiscono una doppia cifratura sui loro contenuti - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le proprie chiavi (RSA o curve Ellitiche), semplicemente associtate alla sua personale mail. Il risultato è identico alla soluzione 1 cioè una comunicazione assolutamente protetta e riservata.
+
+        box4c:
+            headline: Private*Bin
+            teaser: In azienda il Private*Bin è un servizio utilissimo, è un'ottima risorsa on line protetta da crittografia per scriversi velocemente informazioni riservate (esempio come www.cryptoteam.it/PrivateBin). Può essere utilizzato in modo che le informazioni scritte si cancellano automaticamente dopo la lettura. Esempio tipico di una conversazione confidenziale tra due corrispondenti che operano all’interno di un progetto già tracciato e protetto.
+            list:
+                li1: Rapido facile da usare, è possibile impostare il tempo di scadenza della lettura testo, più precisamente il testo scritto può rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure mai).
+                li2: Per scambiarsi informazioni di massima importanza si può anche decidere la visibilità dei file verso gruppi di lavoro utilizzando una password di riferimento precedentemente concordata. In questo modo i testi di una certa importanza potranno essere visualizzati solo da chi possiede la password univoca. Neanche l’amministratore di sistema potrà accedere ai contenuti scambiati.
+                li3: Per utilizzare il servizio è sufficiente incollare la porzione di testo che si vuole condividere e impostare la password e la scadenza temporale. Una volta inserito il testo, per non perdersi la pagina è necessario copiarsi il link e trasmetterlo via mail al destinatario via browser https. Una volta ricevuta la mail il destinatario cliccherà sul link imposterà la password e vedrà il messaggio.
+                li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo inserito nel browser è protetto dall'algoritmo AES 256 a 256 bit quindi visibile solo all'utente che scrive, per cui il server non ha nessuna possibilità di conoscere i contenuti. Poi ancora aumentando il livello di sicurezza i corrispondenti possono applicare una loro password a 32 caratteri cioè a 256 bit oppure 16 caratteri cioè 128 Bit.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
@@ -317,7 +326,7 @@ cosafacciamo:
 
         box6:
             headline: Cifratura Dati a Riposo con Cloud in-House
-            teaser: I dati sono salvati sistematicamente suoi propri Server (almeno doppio Back-up),  più n.1 Back-up nel Cloud-in House. La soluzione proposta standard è di cifrare i propri dati sistematicamente e condividerli tramite azioni interne e pubbliche. In questo modo viene garantita maggior produttività e sicurezza.
+            teaser: I dati sono salvati  suoi propri Server (almeno doppio Back-up), più n.1 Back-up nel Cloud-in House. La soluzione standard è la protezione tramite la tecnica di cifratura sistematica di tutti i  dati aziendali salvati, associata ad una disciplinata condivisione. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
@@ -354,7 +363,6 @@ cosafacciamo:
                 li4: Usi Consenti (disciplinati dalla Policy).
                 li5: Tipo di Chiave Pubblica.
                 li6: Tipo di Firma elettronica.
-
 ########################################################################
 
 # Pagina COSA FACCIAMO--->CLOUD (/cosafacciamo/cloud.html)
@@ -536,7 +544,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), e Conformità Normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. L’offerta include il Private*Bin utile per le comunicazioni ultra-riservate tra i manager, esempio&#58 Brevetti, Lancio Nuovi prodotti, Scambio Idee, Segreti Industriali.
+            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio coprono diverse esigenze&#58 Tipo Tecnico, Tipo di spesa (fiscalmente ammortizzabile), e Conformità Normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. <strong>L’offerta include il Private*Bin</strong> utile per le comunicazioni riservate tra i manager, esempio&#58 Brevetti, Lancio Nuovi prodotti, Scambio Idee, Segreti Industriali, Proprietà Intellettuale.
 
         riquadri:
             box1:
@@ -569,10 +577,10 @@ offerta:
 
         openxpki:
             headline: Private-Mail con OpenXPKI
-            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Gestisce il ciclo di vita dei certificati digitali che permettono di trasformare i contenuti in modo incomprensibile ovvero accessibili solo agli utenti autorizzati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Segreti industriali, Segreti commerciali, Know-How inteso come valore assoluto.
+            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Gestisce il ciclo di vita dei certificati digitali che permettono di trasformare i contenuti in modo incomprensibile ovvero visualizabili e accessibili solo agli utenti univocabilmente identificati e autorizzati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni. Qualunque azienda senza un adeguato sistema di protezione (a sua insaputa), può essere vittima di spionaggio&#58 Segreti industriali, Segreti commerciali, Know-How inteso come valore assoluto.
             details:
                 lead: "Sistema completo tecnologicamente scalabile integrato nella rete aziendale. Garantisce la riservatezza delle comunicazioni in più soddisfa esigenze di Firma, Autenticazione e Identità che permettono di realizzare meccanismi di identificazione forte, non basati su password"
-                text: "<p>E'una Governance che punta alle transazioni giornaliere sicure e riservate.</p>
+                text: "<p>E'una Governance di Security Operations verso tutte le transazioni giornaliere rese sicure e riservate.</p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
@@ -585,6 +593,21 @@ offerta:
                 <h3>Installazione Certificata CryptoTeam</h3>
                 <p>Software completo non servirà nient'altro per comunicare protetti. Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato anche con riguardo i progetti sulle nuove tecnologie.</p>
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
+
+        privatebin:
+            headline: Private*Bin
+            lead: Richiedi un preventivo o una demo per il sistema di cifratura Private*Bin. Il top della tecnologia (AES256), necessario per la protezione delle comunicazioni occasionali on line e di tutti i file allegati. Progettato per soddisfare le esigenze di grandi e medie organizzazioni.
+            details:
+                lead: "Private*Bin è un sistema completo, tecnologicamente scalabile, che garantisce la riservatezza delle comunicazioni occasionali. Consente via browser lo scambio di file cifrati al di fuori del normale circuito della mail."
+                text: "<p><strong>Vantaggi</strong></p>
+                <ul>
+                    <li><strong>Intuitivo e facile da usare sopratutto immediato purchè sia disponibile la rete internet con qualunque piattaforma.</strong></li>
+                    <li><strong> Per garantire ulteriore riservatezza è possibile impostare una password sul contenuto che impedirà la lettura dei testi del Private*Bin a chiunque in azienda non possiede le credenziali di accesso (incluso l’amministratore di sistema).</strong></li>
+                    <li><strong>Il private*Bin è (anche), molto utile utilizzarlo all’interno di un progetto di lavoro già basato sulla tracciabilità e la protezione dei dati. Con sicurezza i corrispondenti possono dialogare e scambiarsi informazioni apparentemente innocue, ma se fossero intercettate e non protette da crittografia, potrebbero scaturire l’interesse di malintenzionati.</strong></li>
+                    <li><strong>Con Pochi clik è possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè il testo si cancella automaticamente.</strong></li>
+                    <li><strong>Scrivere o incollare nel browser la porzione di testo che si intendere condividere, poi inpostare la password e la scadenza temporale. Una volta inserito il testo e cliccato sull'icona invia, è necessario copiarsi il link che il Private*Bin ha elaborato. A questo punto è necessario disporre di browser https, il link va incollato e trasmesso via mail al corrispondente. Il quale utilizzando la password precedentemente stabilita (16 caratteri uguale a 128bit oppure 32 caratteri uguale a 256 bit), leggerà il contenuto.</strong></li>
+                    <li><strong>Il preventivo include 1 ora di corso di formazione sufficente per rendere gli utenti autonomi e immadiatamente operativi.</strong></li>
+                </ul>"
 
         cifratura-riposo:
             headline: Cifratura Dati a Riposo con Cloud in-House
@@ -942,6 +965,27 @@ normativa:
                         - Allegato A.1 . Codice di deontologia - Trattamento dei dati personali nell'esercizio dell'attività giornalistica - Allegato A.2 . Codici di deontologia - Trattamento dei dati personali per scopi storici - Allegato A.3 . Codice di deontologia - Trattamento dei dati personali a scopi statistici in ambito Sistan - Allegato A.4 . Codice di deontologia e di buona condotta per i trattamenti di dati personali per scopi statistici e scientifici - Allegato A.5 . Codice di deontologia e di buona condotta per i sistemi informativi gestiti da soggetti privati in tema di crediti al consumo, affidabilità e puntualità nei pagamenti - Allegato A.6 . Codice di deontologia e di buona condotta per i trattamenti di dati personali effettuati per svolgere investigazioni difensive - A.7. Codice di deontologia e di buona condotta per il trattamento dei dati personali effettuato a fini di informazione commerciale -
                       </p>"
 
+        art615:
+            titolo: "Art. 615: commi ter, quater e quinquies del Codice Penale"
+            sottotitolo: Il Codice Penale induvidua e sanziona specifici comportamenti illeciti nell'ambito dei sistemi telematici.
+            ter:
+                lead: <p><strong>Art. 615 ter Accesso abusivo ad un sistema informatico o telematico</strong></p>
+                text: "<p>Chiunque abusivamente si introduce in un sistema informatico o telematico protetto da misure di sicurezza ovvero vi si mantiene contro la volontà espressa o tacita di chi ha il diritto di escluderlo, è punito con la reclusione fino a tre anni. La pena è della reclusione da uno a cinque anni:
+<ul>
+<li>1) se il fatto è commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o al servizio, o da chi esercita anche abusivamente la professione di investigatore privato, o con abuso della qualità di operatore del sistema;</li>
+<li>2) se il colpevole per commettere il fatto usa violenza sulle cose o alle persone, ovvero se è palesemente armato;</li>
+<li>3) se dal fatto deriva la distruzione o il danneggiamento del sistema o l’interruzione totale o parziale del suo funzionamento, ovvero la distruzione o il danneggiamento dei dati, delle informazioni o dei programmi in esso contenuti.</li>
+</ul>
+Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o telematici di interesse militare o relativi all’ordine pubblico o alla sicurezza pubblica o alla sanità o alla protezione civile o comunque di interesse pubblico, la pena è, rispettivamente, della reclusione da uno a cinque anni e da tre a otto anni. Nel caso previsto dal primo comma il delitto è punibile a querela della persona offesa; negli altri casi si procede d’ufficio.<sup>(1)</sup></p>"
+            quater:
+                lead: <p><strong>Art. 615 quater Detenzione e diffusione abusiva di codici di accesso a sistemi informatici o telematici</strong></p>
+                text: "<p>Chiunque, al fine di procurare a sé o ad altri un profitto o di arrecare ad altri un danno, abusivamente si procura, riproduce, diffonde, comunica o consegna codici, parole chiave o altri mezzi idonei all’accesso ad un sistema informatico o telematico, protetto da misure di sicurezza, o comunque fornisce indicazioni o istruzioni idonee al predetto scopo, è punito con la reclusione sino ad un anno e con la multa sino a lire dieci milioni. La pena è della reclusione da uno a due anni e della multa da lire dieci milioni a venti milioni se ricorre taluna delle circostanze di cui ai numeri 1) e 2) del quarto comma dell’articolo 617 quater<sup>(1)</sup>.</p>"
+            quinquies:
+                lead: <p><strong>Art. 615 quinquies Diffusione di apparecchiature, dispositivi o programmi informatici diretti a danneggiare o interrompere un sistema informatico o telematico</strong></p>
+                text: "<p>Chiunque, allo scopo di danneggiare illecitamente un sistema informatico o telematico, le informazioni, i dati o i programmi in esso contenuti o ad esso pertinenti ovvero di favorire l’interruzione, totale o parziale, o l’alterazione del suo funzionamento, si procura, produce, riproduce, importa, diffonde, comunica, consegna o, comunque, mette a disposizione di altri apparecchiature, dispositivi o programmi informatici, è punito con la reclusione fino a due anni e con la multa sino a euro 10.329.<sup>(2)</sup></p>
+<p><sup>(1)</sup> Articolo aggiunto dall’art. 4, L. 23 dicembre 1993, n. 547.</p>
+<p><sup>(2)</sup> Articolo così modificato dalla Legge 18 marzo 2008, n. 48.</p>"
+
         gdpr:
             headline: UE 2016/679 - GDPR (General Data Protection Regulation)
             lead: Struttuta del "Regolamento 2016/679" del 29.04.2016 consiste di n. XI "Capitoli" qui di seguito elencati. Il GDPR si basa sulla protezione delle persone fisiche con riguardo al tramento dei dati personali, nonchè alla libera circolazione di dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
@@ -1200,6 +1244,18 @@ normativa:
               excerpt: Lucca 23 e 24 Giugno 2017
               fonte: e-privacy.winstonsmith.org
               link: "http://e-privacy.winstonsmith.org"
+          20170627:
+              title: Pubblicati i video e gli atti del Convegno e-privacy XXI edizione.
+              when: 23-24 Giugno 2017
+              excerpt: Lucca 23 e 24 Giugno 2017
+              fonte: e-privacy.winstonsmith.org
+              link: "http://e-privacy.winstonsmith.org"
+          20170629:
+              title: Attacco hacker in corso
+              when: 29 Giugno 2017
+              excerpt: 27 Giugno 2017
+              fonte: www.ilsole24ore.com
+              link: "http://www.ilsole24ore.com/art/mondo/2017-06-27/attacco-hacker-colpisce-l-ucraina-coinvolta-anche-chernobyl-161552.shtml?uuid=AEapb3mB"
 ########################################################################
 
 
@@ -2228,54 +2284,54 @@ xlt:
         description: The most flexible load and performance testing tool for Engineering.
 
         intro:
-            headline: Pricing &amp; Licensing
-            details: The XLT license model is simple. Free for test automation, free load test development with up to five virtual users, no seat limits, and always free updates. You just pay for virtual users when you need them. <a href="/en/xlt/licensing-and-pricing.html#support-and-training">Support</a> is always available.
+            headline: Richiedi il Preventivo
+            details: Tramite la tabella sotto vogliamo darvi un indicazione di soluzioni che coprono buona una parte delle necessità aziendali. Ovviamente per ottenere un preventivo preciso è necessario da parte nostra acquisire più informazioni tecniche. In questo caso richiedici direttamente il Technical Form da compilare oppure la visita di un nostro consulente.
 
         switch:
-            currency: "Change the displayed currency:"
+            currency: " L'infrastruttura Voip si calcola 1 chiamata in ingresso ogni 3-4 interni (è il calcolo delle chiamate contemporanee)."
             usd: Switch to USD
             eur: Switch to EUR
 
         basic:
             head: Basic
             price: Free
-            motivation: This one is perfect for just test automation and initial coding for load testing
+            motivation: 4 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 5 virtual users
-            validity: Unlimited Validity
-            action: Automatically included with XLT Download
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 4 Utenti da crittografia
+            validity: Identicazione dei servizi
+            action: Configurazione in base alla scelte dei servizi
 
         entry:
-            head: CI
+            head: Basic one
             price:
                 p-usd: "5,460"
                 p-eur: "4,550"
-            motivation: Great for continuous performance testing
+            motivation: 8 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: 100 virtual users
-            validity: One Year Validity
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 8 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         flat:
-            head: Unlimited
+            head: Standard Plus
             price:
                 p-usd: "60,000"
                 p-eur: "50,000"
-            motivation: Perfect for all testing needs
+            motivation:  32 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Unlimited Users
-            validity: One Year Validity
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 32 Utenti da crittografia
+            validity: Identicazione dei servizi
 
         standard:
             head: Standard
@@ -2283,14 +2339,14 @@ xlt:
             p-usd: "210"
             p-eur: "175"
             period: week
-            motivation: Our most popular license. You can pick validity and size.
+            motivation: 16 Chiamate contemporanee
             features:
-                li1: No usage restrictions
-                li2: Free updates
-                li3: No seat limits
-                li4: Support available
-            users: Starting at 100 virtual users
-            validity: At least One Week
+                li1: Scheda ISDN
+                li2: SK flusso Primario
+                li3: SK flusso Primario 2
+                li4: SK flusso Primario 4
+            users: 16 Utenti da crittografia
+            validity: Identicazione dei servizi
             action: or
 
         community:
@@ -2306,8 +2362,8 @@ xlt:
             validity: One Year Validity
 
         standard-details:
-            headline: Standard License Pricing Details
-            details: A standard license features a fixed base price and a scalable per user component. Minimum purchase is 100 users and 7 days. We grant a 25% discount starting with week four and 50% for an annual license. Alternatively you can purchase an unlimited annual license for an attractive fixed price, see table above.
+            headline: Servizio di Housing & Outsorsing
+            details: Il servizio Voip Housing è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato, nel quale ospitare i suoi server in modo che possono essere  assistiti tecnicamente.  Mentre il Voip Outsourcing è la possibilità di concordare il solo servizio di telefonia voip. Tali specifiche di servizio vanno analiticamente verificate e autorizzate.
             table:
                 headline: Cost per Week
                 base:
@@ -2325,35 +2381,35 @@ xlt:
 
         support:
             intro:
-                headline: Support &amp; Training
-                details: Qualified support comes on top of any license type. Also, support is not required to receive any updates.
+                headline: Supporto e Assistenza
+                details: I nostri preventivi sono inclusi di assistenza tecnica contrattualizzata. Scaduti i termini, in assenza di disdetta prevista con almeno 3 mesi di anticipo, il contratto di assistenza si intenderà tacitamente rinnovato.
             list:
-                headline: Support
-                li1: Email support comes standard
-                li2: Response time within 24h for all support requests that are received during business hours
-                li3: 24/7 support is available on request
-                li4: 2h support time per week
+                headline: Supporto
+                li1: Come standard via Email
+                li2: Entro 24h dalle richieste ricevute
+                li3: 24/7
+                li4: 2h per week
             period:
-                usd: "168"
+                usd: "€ 700"
                 eur: "140"
             basic:
                 name: Basic
-                motivation: This support package is perfect for test automation and initial coding for load testing.
-                validity: One Week
+                motivation: Questo pacchetto include comunicazioni via mail o telefoniche
+                validity: Validità 12 mesi
             flat:
-                name: Annual
-                usd: "8,736"
+                name: Premium
+                usd: "€ 2000"
                 eur: "7,280"
                 motivation: Our most popular support package.
-                validity: One year
+                validity: Validità 24 mesi
                 action: or
             switch:
                 currency: "Change the displayed currency:"
                 usd: Switch to USD
                 eur: Switch to EUR
             training:
-                headline: Training
-                details: To introduce you to XLT and have you quickly become productive with it, we offer individual trainings. The standard XLT training takes four hours and is limited to 10 participants.
+                headline: Esperienza
+                details: Abbiamo una lunga esperienza nel settore telefonia e VoIP.  Abbiamo collaborato proficuamente con grossi carrier telefonici nazionali,  installato e configurato centrali telefoniche in diversi punti su Milano utilizzando la dorsale di Fast web.  Oggi mettiamo a disposizione dei clienti la capacità tecnica innovativa siamo esperti di Asterisk, Freeswich, protocolli Voip, protocolli ZRTP di Crittografia per comunicazioni riservate e sviluppiamo servizi telefonici speciali.
                 contact: <a href="/en/contact/">Contact us</a> for further options and details. Send us your requirements and we will find a fitting setup.
 ########################################################################
 
