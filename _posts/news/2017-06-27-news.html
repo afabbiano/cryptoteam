@@ -1,0 +1,49 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170627.title
+when: normativa.posts.news.20170627.when
+excerpt: normativa.posts.news.20170627.excerpt
+fonte: normativa.posts.news.20170627.fonte
+link: normativa.posts.news.20170627.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Pubblicati i video e gli atti del Convegno e-privacy XXI edizione.
+</p>
+<p>
+	L'edizione estiva di e-privacy 2017 si è svolta il 23 e 24 Giugno 2017 al Real Collegio a Lucca nella Sala dell'Affresco, grazie all'ospitalita' del Comune di Lucca.
+</p>
+<p>
+	Il tema guida della XXI edizione di e-privacy è stato:
+</p>
+<p>
+	Parole (ostili) contro la Rete: l’involuzione della percezione della Rete. Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”
+</p>
+<p>
+	Le parole ostili, a volte, hanno fondamento nell’ostilità dei comportamenti di chi le denuncia. E se una parola ferisce, certi comportamenti assassinano, letteralmente, chi non ha strumenti per difendersi. Oggi forse gli si vorrebbe levare anche la voce ai cittadini per denunciare.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
