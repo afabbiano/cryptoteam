@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170727.title
+when: normativa.posts.news.20170727.when
+excerpt: normativa.posts.news.20170727.excerpt
+fonte: normativa.posts.news.20170727.fonte
+link: normativa.posts.news.20170727.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Così un attacco hacker mette in ginocchio un’azienda per giorni. Per TNT ripercussioni pesanti.
+</p>
+<p>
+	Un altro nome pesante, nel casellario delle vittime, è quello dell'olandese TNT, azienda che si occupa di logistica. Qui il malware, insinuatosi nei computer aziendali pare grazie ad alcune vulnerabilità della rete Lan, continua ad avere ripercussioni pesanti. Il sistema di tracciamento delle spedizioni è praticamente saltato. I tecnici sono al lavoro da giorni, ma chiunque sia in attesa di un pacco da parte di TNT sta facendo i conti con disagi pesanti.
+</p>
+<p>
+La società di logistica non si è nascosta, e accedendo al sito spiega cosa sta succedendo: «Messaggio importante: come molte aziende e istituzioni di tutto il mondo, stiamo affrontando anche noi problemi con alcuni dei nostri sistemi all'interno della rete TNT. Stiamo procedendo il più velocemente possibile all'implementazione di azioni correttive per fornire supporto ai clienti che hanno subito alcune interruzioni nelle operazioni di ritiro e consegna e di accesso ai sistemi di tracking. Ci scusiamo con i nostri clienti per qualsiasi inconveniente».
+</p>
+<p>
+	Pesante impatto finanziario
+ Quello di TNT è un esempio lampante di quanto possa essere devastante un attacco informatico dal punto di vista del business. È difficile, al momento, ipotizzare quale possa essere il danno finanziario che NotPetya ha causato all'azienda olandese. TNT è stata acquistata nel 2015 dall'americana FedEx. E proprio dagli Stati Uniti la società madre ha fatto sapere che l'impatto finanziario potrebbe essere notevole.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
