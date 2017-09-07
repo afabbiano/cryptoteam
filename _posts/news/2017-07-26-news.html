@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170726.title
+when: normativa.posts.news.20170726.when
+excerpt: normativa.posts.news.20170726.excerpt
+fonte: normativa.posts.news.20170726.fonte
+link: normativa.posts.news.20170726.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Hacker in banca, ecco le minacce più serie per i clienti
+</p>
+<p>
+	Un accesso non autorizzato ai dati di clienti italiani, avvenuto attraverso un partner commerciale esterno: la nota con la quale UniCredit, stamane, ha “ammesso” di aver subito un'intrusione informatica di vasta proporzione (400mila gli utenti interessati) riporta ancora una volta al centro dell'attenzione la questione della cybersecurity in ambito bancario. Una questione aperta, un problema (lo dimostrano i non isolati casi di attacco) ancora irrisolto nonostante le banche e l'industria finanziaria nel suo complesso siano, storicamente, i soggetti più sensibili all'imperativo di proteggere in modo adeguato i sistemi informatici.
+</p>
+<p>
+I costi degli attacchi ai servizi di online banking
+Come si legge in una recente indagine condotta da Kaspersky Lab e B2B International, il finance spende infatti tre volte di più degli altri settori in sicurezza informatica. E non solo: i budget sono in crescita e il 64% delle banche prevede nuovi investimenti in cybersecurity per far fronte a minacce sempre più numerose e per soddisfare le richieste degli organi governativi di regolamentazione, del top management e dei clienti. Gli utenti finali, e questo è un dato su cui riflettere, stanno iniziando infatti ad avere un ruolo sempre più importante nel segnalare incidenti di sicurezza, tanto che un quarto delle banche intervistate conferma come alcune delle minacce affrontate nel 2016 siano state identificate proprio dai clienti.
+</p>
+<p>
+ Ma a quali minacce sono più esposti i clienti? Sempre dallo stesso studio si evince che la maggior parte dei rischi è legata ai servizi di mobile e online banking. Gli attacchi (DDos in particolare) effettuati a questi ultimi costa in media a una banca oltre 1,7 milioni di dollari, il doppio degli oneri sostenuti per riprendersi da un incidente malware, pari in media a 825mila dollari.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}

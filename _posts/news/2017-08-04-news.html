@@ -1,0 +1,46 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170804.title
+when: normativa.posts.news.20170804.when
+excerpt: normativa.posts.news.20170804.excerpt
+fonte: normativa.posts.news.20170804.fonte
+link: normativa.posts.news.20170804.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Pubblicati su Twitter i dati prelevati dalla piattaforma dei pentastellati, comprese donazioni e numeri di telefono. A svelarlo un ex dipendente della Casaleggio associati.
+</p>
+<p>
+	Rousseau senza pace. Dopo che lo scorso 2 agosto un hacker aveva rivelato una vulnerabilità nella piattaforma del Movimento 5 stelle attraverso cui tutti i dati sensibili degli iscritti potevano essere svelati, un nuovo attacco è passato alle vie di fatto.
+</p>
+<p>
+PUBBLICATI DATI SENSIBILI. Un profilo Twitter - che attacca chi ha rivelato la falla permettendo alla Casaleggio di inetrvenire di essere un«infame» - sta pubblicando dati sensibili sottratti. Lo ha scritto con un tweet l'ex dipendente della Casaleggio Associati Marco Canestrari e lo ha confermato un altro ex dipendente, il blogger e debunker David Puente.
+</p>
+<p>
+ TROPPO FACILE GIOCARE COI VOTI. L'account si chiama @rogue0 e sta twittando sostenendo di avere migliaia di pagine sottratte al sistema operativo. L'hacker attacca: «It's too easy play with your votes», «è troppo facile giocare con i vostri voti». Tra i dati finora visibili, un elenco di donatori con i relativi indirizzi e mail e le somme versate. Ma anche i profili e i numeri di telefono cellulare di alcuni iscritti.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
