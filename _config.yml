@@ -47,14 +47,12 @@ sitenavigation:
         - name: Protezione Dati
         - name: Controllo Accessi
         - name: Cloud in House
-        - name: VoIP Cifrato
         - name: Progetti Personalizzati
   - name: Offerta
     secondarynav:
         - name: Offerta
         - name: Crittografia
         - name: Piattaforma PKI
-        - name: VoIP PBX
         - name: IDS
         - name: Cancellazione Sicura
   - name: Normativa
