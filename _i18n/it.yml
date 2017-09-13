@@ -1334,13 +1334,13 @@ chisiamo:
     privacy:
         title: CryptoTeam - Informativa sulla Privacy
         description: Tutto sulla privacy, e altri aspetti legali.
-        info: Per qualsiasi domanda, non esitare a <a href="/it/contatti/">contattarci</a>.
+        info: Per qualsiasi domanda, non esitare a <a href="/it/chisiamo/contatti.html">contattarci</a>.
         intro:
             headline: Privacy
             lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
         collect:
             headline: Che informazioni raccogliamo?
-            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili un modulo con i tuoi dati. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferiamo le tue informazioni a Soggetti Esterni?</a>.</p>"
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Quando trasferiamo i tuoi dati a Soggetti Terzi?</a>.</p>"
         use:
             headline: Come usiamo le informazioni che raccogliamo su di te
             details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
@@ -1352,19 +1352,19 @@ chisiamo:
                 <li>Per inviare email di risposta alle tue richieste.</li>"
         cookies:
             headline: Utilizziamo i Cookies?
-            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cokkie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. La pagine resta comunque sempre visitabile sotto la voce di menu Azienda.</p>"
+            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. Questa pagine resta comunque sempre visitabile sotto la voce di menu CHI SIAMO - Privacy.</p>"
         thirdparty:
-            headline: Trasferiamo le tue informazioni a Soggetti Esterni?
-            details: "<p>La nostra politica aziendale è di non vendere, scambiare, trasferire le tue informazioni personali a Terze Parti. In alcuni casi abbiamo la necessità di condividere le tue informazioni con alcuni soggetti fidati che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
+            headline: Quando trasferiamo i tuoi dati a Soggetti Terzi?
+            details: "<p>La nostra politica aziendale è di non vendere, non scambiare, non trasferire i tuoi dati personali a Soggetti Terzi. In alcuni casi abbiamo la necessità di condividere i tuoi dati con alcuni soggetti terzi che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
               - lo studio del commercialista che segue la nostra contabilità
               - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
               - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
               - ecc.
-            In questi casi di necessità ci assicuriamo che dette parti fidate si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
+            In questi casi di necessità operativa, ci assicuriamo che detti soggetti terzi si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
             Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
         links:
             headline: Collegamenti a Soggetti Terzi
-            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere o offrire proddotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto noi non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere 'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
+            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere nel sito link a prodotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere l'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
         privacy-protection:
             headline: California Online Privacy Protection Act Compliance
             details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
@@ -1373,17 +1373,16 @@ chisiamo:
             details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
         consent:
             headline: Il tuo consenso
-            details: "<p>Utilizzando il nostro sito, acconsenti implicitamente alla nostra politica di privacy online.</p>"
+            details: "<p>Utilizzando il nostro sito, con presa visione della presente Policy, acconsenti implicitamente alla nostra politica di privacy online.</p>"
         privacy-changes:
             headline: Modifiche alla nostra Politica della Privacy
-            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 10 febbraio 2017.</b></p>"
+            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 13 Settembre 2017.</b></p>"
         sites:
             headline: Web Sites
-            details: "<p>CryptoTeam possiende, mantiene e contribuisce a i seguenti websites:
+            details: "<p>CryptoTeam possiende, mantiene e contribuisce a sviluppare i seguenti websites:
                 <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
                 <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
                 <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
-                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
                 <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
 
 #PAGINA CHI SIAMO--->Contatti (/chsiamo/contatti.html)
