@@ -297,7 +297,7 @@ cosafacciamo:
             teaser: Si tratta di un protocollo per la comunicazione su rete Internet che protegge l'integrità e la riservatezza dei dati scambiati tra un utente e il sito web che sta visitando. Oramai gli utenti si aspettano che la navigazione ad un sito avvenga in modo sicuro e riservato (appunto Https). Le statistische sono chiare siamo tutti incoraggiati a lavorare con siti protetti. <strong>Vantaggi&#58</strong>
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti - I messaggi o i dati anche se intercettati non sono leggibili
-                li2: Cifratura fino 4096 Bit SHA 256 - Ottimo livello di protezione e di sicurezza
+                li2: Cifratura fino 4096 Bit SHA256 - Ottimo livello di protezione e di sicurezza
                 li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni - Previo Autorizzazione -
                 li4: Trattamento dei dati compliance alla GDPR
                 li5: Inevitabile aumento della reputazione - L'azienda è ritenuta attendibile -
@@ -325,7 +325,7 @@ cosafacciamo:
             list:
                 li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
-                li3: Eco sistema protetto da crittografia chiavi Pubbliche a 4096 bit Algortmo SHA 256.
+                li3: Eco sistema protetto da crittografia chiavi Pubbliche a 4096 bit Algortmo SHA256.
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
@@ -392,7 +392,7 @@ cosafacciamo:
             list:
                 li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
                 li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
+                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules).
 
         box3:
