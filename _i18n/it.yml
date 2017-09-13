@@ -170,12 +170,11 @@ proteggersi:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Perchè Proteggere i Dati
-        sottotitolo: I Dati Aziendali hanno un valore economico supremo
-        descrizione: Prova descrizione in protezione, prova, prova
+        sottotitolo: I Dati Aziendali hanno un importante valore economico
 
         box1:
-            headline: Le norme impongono la Protezione Dati
-            teaser: Gli adempimenti normativi (Reg.679/2016) e le regole per il mercato digitale interno e transfrontaliero, evitano gravi danni e sanzioni&#58 Direttiva (UE) 2016/680 del 27.04.2016 perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
+            headline: La normativa vigente impone la Protezione dei Dati Aziendali
+            teaser: Gli adempimenti normativi (Reg.679/2016) e l'adeguamento alle regole per il mercato digitale interno e transfrontaliero, evitano gravi danni e sanzioni&#58 Direttiva (UE) 2016/680 del 27.04.2016 perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
             description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo 679 in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto a mettersi in regola. Cryptoteam offre soluzioni conformi alle normative ed è in grado di colmare il forte disequilibrio che riguarda il mondo digitale tra "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
 
         box2:
@@ -236,7 +235,7 @@ cosafacciamo:
 
         intro:
             titolo: Integriamo la Privacy nei Processi Informatici
-            descrizione: Le Nostre Soluzioni
+            descrizione: Presentiamo alcune delle nostre soluzioni
 
         protezione:
             icona: Protezione dei Dati
@@ -267,7 +266,7 @@ cosafacciamo:
                 li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
                 li3: Programmare la data di scadenza sulla condivisione pubblica
                 li4: Notifica via mail quando si creano le condivisioni
-                li5: Ad ogni comunicazione effettuata tramite Private*Bin può essere impostata una password e una scadenza temporale
+                li5: Ogni comunicazione effettuata tramite Private*Bin può essere protetta con una password e una scadenza temporale
 
         voip:
             icona: Comunicazioni Telefoniche Protette
@@ -277,56 +276,56 @@ cosafacciamo:
         progetti:
             icona: Studio di Progetti Personalizzati
             titolo: <strong>Studiamo e Realizziamo Progetti</strong>
-            testo: La nostra Linea Guida Progetti è specificata all'interno di questa pagina ha l'obiettivo principale della soddisfazione cliente
+            testo: La nostra Linea Guida Progetti, così come specificata all'interno di questa pagina (clicca sull'icona a fianco), ha l'obiettivo principale della soddisfazione cliente
 ########################################################################
 
 # Pagina COSA FACCIAMO--->PROTEZIONE DATI (/cosafacciamo/protezione.html)
     protezione:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
-        titolo: Sotto le nostre soluzioni
-        sottotitolo: I Dati Aziendali hanno un valore economico importante per cui è necessario difenderlo
+        titolo: Presentiamo in dettaglio alcune nostre soluzioni
+        sottotitolo: I Dati Aziendali hanno un valore economico importante che è necessario difendere
         descrizione: Prova descrizione in protezione, prova, prova
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo protetto, appunto i loro dati messi al sicuro tramite l'Https. Nel lungo periodo le statistische dimostrano uno storico veritiero&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
+            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo protetto, appunto i loro dati messi al sicuro tramite l'Https. Nel lungo periodo le statistische dimostrano un dato storico inconfutabile&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
-                li2: Cifratura fino 4096 Bit SHA 256 i messaggi o i dati anche se intercettati non sono leggibili
+                li2: Cifratura fino 4096 bit SHA256&#58 i messaggi o i dati, anche se intercettati, non sono leggibili dai malintenzionati
                 li3: Persino un dipendente della azienda in cui lavora non può accedere alle informazioni (Previo Autorizzazione)
-                li4: Trattamento dei dati compliance al GDPR
-                li5: Inevitabile aumento dell'immagine aziendale del suo prestigio e della sua reputazione
-                li6: Infrastruttura IT all'avanguardia come risulatto è un aumento del valore patrimoniale
+                li4: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
+                li5: Miglioramento dell'immagine aziendale, del suo prestigio e della sua reputazione
+                li6: Una infrastruttura IT all'avanguardia porta come ulteriore risultato un aumento del valore aziendale
 
         box4b:
             headline: Private-Mail
             teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
             list:
                 li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema adatto per aziende che hanno minori necessità. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più sensibili che preferiscono una doppia cifratura sui loro contenuti - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le proprie chiavi (RSA o curve Ellitiche), semplicemente associtate alla sua personale mail. Il risultato è identico alla soluzione 1 cioè una comunicazione assolutamente protetta e riservata.
+                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema di crittografia Open Source adatto alle aziende del comparto PMI. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più attenti, che preferiscono una doppia cifratura delle loro comunicazioni - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale. Il risultato è identico a quello della  soluzione 1, ovvero una comunicazione assolutamente protetta e riservata.
 
         box4c:
             headline: Private*Bin
-            teaser: In azienda il Private*Bin è un servizio utilissimo, è un'ottima risorsa on line protetta da crittografia per scriversi velocemente informazioni riservate (esempio come www.cryptoteam.it/PrivateBin). Può essere utilizzato in modo che le informazioni scritte si cancellano automaticamente dopo la lettura. Esempio tipico di una conversazione confidenziale tra due corrispondenti che operano all’interno di un progetto già tracciato e protetto.
+            teaser: In azienda il Private*Bin è un servizio utilissimo, è un'ottima risorsa on line protetta da crittografia per comunicazioni veloci riservate. Può essere utilizzato in modo che le informazioni scritte si cancellino automaticamente dopo la lettura.
             list:
-                li1: Rapido facile da usare, è possibile impostare il tempo di scadenza della lettura testo, più precisamente il testo scritto può rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure mai).
-                li2: Per scambiarsi informazioni di massima importanza si può anche decidere la visibilità dei file verso gruppi di lavoro utilizzando una password di riferimento precedentemente concordata. In questo modo i testi di una certa importanza potranno essere visualizzati solo da chi possiede la password univoca. Neanche l’amministratore di sistema potrà accedere ai contenuti scambiati.
-                li3: Per utilizzare il servizio è sufficiente incollare la porzione di testo che si vuole condividere e impostare la password e la scadenza temporale. Una volta inserito il testo, per non perdersi la pagina è necessario copiarsi il link e trasmetterlo via mail al destinatario via browser https. Una volta ricevuta la mail il destinatario cliccherà sul link imposterà la password e vedrà il messaggio.
-                li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo inserito nel browser è protetto dall'algoritmo AES 256 a 256 bit quindi visibile solo all'utente che scrive, per cui il server non ha nessuna possibilità di conoscere i contenuti. Poi ancora aumentando il livello di sicurezza i corrispondenti possono applicare una loro password a 32 caratteri cioè a 256 bit oppure 16 caratteri cioè 128 Bit.
+                li1: Rapido e facile da usare, è possibile impostare un tempo di scadenza per la lettura del testo, più precisamente il testo scritto può rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure senza scadenza).
+                li2: Per scambiarsi informazioni di massima importanza si può anche decidere la visibilità dei file verso gruppi di lavoro utilizzando una password di riferimento precedentemente concordata. In questo modo i testi di una certa importanza potranno essere visualizzati solo da chi possiede la password univoca. Neppure l’amministratore di sistema potrà accedere ai contenuti scambiati.
+                li3: Per utilizzare il servizio è sufficiente incollare la porzione di testo che si vuole condividere, impostare la password (se richiesta) e la scadenza temporale. Una volta inserito il testo, comparirà il link di accesso, che verrà trasmesso al destinatario. Una volta ricevuta la mail, il destinatario cliccherà sul link, imposterà la password (se richiesta), e potrà leggere il contenuto del messaggio.
+                li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo inserito nel browser è protetto dall'algoritmo AES256 a 256 bit quindi visibile solo all'utente che scrive il messaggio. L'amministratore del server non ha alcuna possibilità di conoscere i contenuti, che arrivano al server già crittografati. Per aumentare il livello di sicurezza, i corrispondenti possono applicare una loro password a 32 caratteri (256 bit) oppure a 16 caratteri (128 bit), secondo le proprie necessità.
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Sono disponibili APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato ma dipende dal File System e dal S.O.in uso).
+                li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
-                li3: Eco sistema protetto da crittografia chiavi Pubbliche a 4096 bit Algortmo SHA 256.
+                li3: Ecosistema protetto da crittografia a chiavi pubbliche a 4096 bit SHA256.
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
 
         box6:
             headline: Cifratura Dati a Riposo con Cloud in-House
-            teaser: I dati sono salvati  suoi propri Server (almeno doppio Back-up), più n.1 Back-up nel Cloud-in House. La soluzione standard è la protezione tramite la tecnica di cifratura sistematica di tutti i  dati aziendali salvati, associata ad una disciplinata condivisione. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
+            teaser: I dati sono salvati sui server aziendali (almeno doppio Back-up), più n.1 Back-up nel Cloud-in House. La soluzione standard è la protezione tramite la tecnica di cifratura sistematica di tutti i  dati aziendali salvati, associata ad una disciplinata condivisione. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
                 li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
@@ -343,14 +342,13 @@ cosafacciamo:
 
 # Pagina COSA FACCIAMO--->CONTROLLO (/cosafacciamo/controllo.html)
     controllo:
-        icona: Controllo Accesso
-        teaser: Controllo accesso
+        icona: Controllo Accessi
+        teaser: Controllo accessi
         titolo: Controllo Accessi Sicuro e Automatico
-        sottotitolo: E' reale il bisogno da parte delle imprese avere una gestione più sicura degli accessi ai servizi&#58 Posta, Cloud, Accesso ai Dati. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
-        descrizione: Prova descrizione in controllo, prova, prova
+        sottotitolo: E' reale il bisogno da parte delle imprese di avere una gestione più sicura degli accessi ai servizi&#58 Posta, Cloud, Sito Web. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
 
         box1:
-            headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore (più), forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Interni & Esterni.
+            headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Interni & Esterni.
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi esclusivamente agli utenti autorizzati.
             numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
@@ -358,8 +356,8 @@ cosafacciamo:
             teaser: Gestione Semplice e Centralizzata
             list:
                 li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
-                li2: Tipo di Certificato Emesso (Tipo e data di Scadenza).
-                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare ? Con quale device posso connetermi ? Con quale IP ? Da dove posso connerttermi ?
+                li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
+                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare? Con quale device posso connetermi? Con quale IP? Da dove posso connerttermi?
                 li4: Usi Consenti (disciplinati dalla Policy).
                 li5: Tipo di Chiave Pubblica.
                 li6: Tipo di Firma elettronica.
@@ -370,33 +368,32 @@ cosafacciamo:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
         titolo: La tua Piattaforma Cloud Privata
-        descrizione: Prova descrizione in cloud, prova, prova
 
         box1:
-            headline: Depositare i dati in ambienti apparentemente sicuri significa condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
+            headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo,  cioè non far dipendere i tuoi dati in modo decisivo dai fornitori di servizi che strutturalmente <strong>precludono la tua riservatezza.</strong>  Più precisamente, per ottenere maggiore sicurezza sconsigliamo l’affidamento e la gestione delle proprie chiavi.
-            numbers: Inoltre Cloud in-House ha l'obiettivo di garantirti gli stessi standard di condivisione e di sicurezza.
+            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo nella gestione dei dati a riposo. I tuoi dati non devono necessariamente dipendere da fornitori di servizi che possono <strong>mettere a rischio i tuoi dati riservati.</strong>
+            numbers: Cloud in-House ha l'obiettivo di garantirti alti standard di condivisione e di sicurezza.
 
         box2:
             headline: Cloud in-House integra la crittografia
             teaser: Disk Encryption
             list:
-                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD), sono sempre cifrati sincronizzati e condivisi sistematicamente, per la fruibilità degli utenti.
-                li2: L'accesso sicuro ai tuoi dati da remoto, può essere eseguito su qualunque piattafroma e in qualsiasi momento.
-                li3: Le chiavi a protezione dei dati sono (almeno), da 2048 bit e da 4096 bit, Algoritmo SHA 256.
-                li4: Per maggiore sicurezza le chiavi possono essere protette da HSM (Hardware Security Modules, sistema resistente all’intrusione progettato per proteggere le chiavi di cifratura).
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD) siano sempre cifrati, sincronizzati e condivisi, per la massima accessibilità da parte degli utenti.
+                li2: L'accesso sicuro ai tuoi dati da remoto può essere eseguito su qualunque piattafroma e in qualsiasi momento.
+                li3: Le chiavi a protezione dei dati sono a 256 bit, Algoritmo SHA256.
+                li4: Per maggiore sicurezza le chiavi possono essere protette in un HSM (Hardware Security Module), sistema resistente all’intrusione specificamente progettato per proteggere le chiavi di cifratura.
 
         box3:
             headline: Condivisione Dati Sicura
             teaser: File Sharing
             list:
                 li1: E' possibile condividere i dati sullo stesso server sia come utenti singoli che come gruppi.
-                li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in- House e condividersi le cartelle di lavoro.
-                li3: Per maggiore produttività è possibile federare (Server to Server), i propri partner aziendali (es. partner commerciali clienti e fornitori e amministrativi come il Commercialista).
-                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o file tramite password appunto temporanee.
-                li5: L'accesso ai dati può essere autorizzato volta per volta tramite passowrd trasmesse via sms.
-                li6: E' possibile inoltrare automaticamente le notifiche via mail.
+                li2: Con pochi click è possibile creare collegamenti sicuri (pubblici), con utenti esterni al Cloud in-House e condividere le cartelle di lavoro.
+                li3: Per maggiore produttività è possibile federare (Server to Server) i propri partner aziendali (es. partner commerciali clienti e fornitori, studi amministrativi, studi legali, ecc.).
+                li4: E' possibile programmare la data di scadenza relativa alla condivisione e proteggere la cartella o i file tramite password temporanee.
+                li5: L'accesso ai dati può essere autorizzato volta per volta tramite password trasmesse via sms.
+                li6: E' possibile inoltrare automaticamente le notifiche di condivisione via mail.
                 li7: Reportistica, il ciclo di vita del file condiviso è tracciato cronologicamente, sono tracciate le modifiche, sono tracciati gli utenti.
                 li8: E' possibile configurare il criterio delle condivisioni e dettagliare le policy di sicurezza.
 ########################################################################
@@ -479,10 +476,9 @@ cosafacciamo:
 # Pagina COSA FACCIAMO--->PROGETTI (/cosafacciamo/progetti.html)
     progetti:
         icona: Progetti personalizzati
-        teaser: I tuoi dati sempre con te
+        teaser: Progetti personalizzati
         titolo: Ti aiutiamo a realizzare il tuo Progetto Privacy
-        sottotitolo: Siamo al tuo fianco
-        descrizione: Prova descrizione in Progetti, prova, prova
+        sottotitolo: Siamo al tuo fianco nello studio e nella realizzazione di nuovi progetti
 
         box1:
             headline: Linea Guida
@@ -493,17 +489,17 @@ cosafacciamo:
             headline: Analisi Progetto
             teaser: Descrizione Attività Fornite
             list:
-                li1: Analisi preliminare cerchiamo di capire analaliticamente le richieste.
+                li1: Svolgiamo un'analisi preliminare per identificare i punti cardine del progetto.
                 li2: Verifichiamo le risorse tecniche esistenti.
                 li3: Compariamo i requisiti tecnici esistenti con i requisiti necessari.
-                li4: Consideriamo la fattibilità tecnica in correlazione al badget di investimento.
+                li4: Consideriamo la fattibilità tecnica in correlazione al piano di investimento.
                 li5: Verifichiamo la conformità agli standard.
-                li6: Eventuali funzionalità aggiuntive.
-                li7: Valutiamo i rischi prima di una qualsiasi azione.
-                li8: Offriamo consulenza nella scelta consigliando le migliori soluzioni elaborate.
-                li9: Tempi di consegna.
+                li6: Proponiamo eventuali funzionalità aggiuntive.
+                li7: Valutiamo i rischi prima di intraprendere una qualsiasi azione.
+                li8: Offriamo consulenza nella scelta, consigliando le migliori soluzioni elaborate.
+                li9: Definiamo i tempi di consegna.
                 li10: Individuiamo il personale o il gruppo di lavoro più idoneo.
-                li11: Cerchiamo di ottenere supporto tecnico da parte cliente.
+                li11: Collaboriamo con il supporto tecnico del cliente.
                 li12: Approvazione dell'investimento.
                 li13: Mandato e obbietivi stabiliti.
                 li14: Scaletta lavori condivisa più spunta dei lavori conseguiti volta per volta.
@@ -1336,11 +1332,11 @@ chisiamo:
         description: Tutto sulla privacy, e altri aspetti legali.
         info: Per qualsiasi domanda, non esitare a <a href="/it/chisiamo/contatti.html">contattarci</a>.
         intro:
-            headline: Privacy
-            lead: E' la nostra missione. Trattiamo i tuoi dati con estrema attenzione.
+            headline: Privacy Policy
+            lead: La tutela della Privacy è al centro della nostra missione. Trattiamo i tuoi dati con estrema attenzione.
         collect:
             headline: Che informazioni raccogliamo?
-            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Quando trasferiamo i tuoi dati a Soggetti Terzi?</a>.</p>"
+            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Quando trasferiamo i tuoi dati a Soggetti Terzi?</a></p>"
         use:
             headline: Come usiamo le informazioni che raccogliamo su di te
             details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
