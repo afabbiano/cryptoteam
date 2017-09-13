@@ -598,15 +598,15 @@ offerta:
             headline: Private*Bin
             lead: Richiedi un preventivo o una demo per l'installazione del sistema di cifratura Private*Bin. Tecnologia che garantisce la riservatezza delle comunicazioni occasionali. Consente via browser lo scambio di file cifrati al di fuori del normale circuito della mail.
             details:
-                lead: “Garantisce sicurezza di comunicazione utilizzando l’algoritmo di cifratura Advanced Encryption Standard (AES), 256.”
+                lead: Garantisce sicurezza di comunicazione utilizzando l’algoritmo di cifratura Advanced Encryption Standard (AES), 256 soprattutto i corrispondenti devono disporre di un browser https.
                 text: "<p><strong>Vantaggi</strong></p>
                 <ul>
                     <li><strong>Indipendentemente dal browser l’utilizzo è semplice e immediato.</strong></li>
                     <li><strong> Per garantire ulteriore riservatezza è possibile impostare una password sul contenuto che impedirà la lettura dei testi a chiunque in azienda non possieda le credenziali.</strong></li>
                     <li><strong>Il private*Bin  può essere marginalmente affiancato all’interno di un progetto di lavoro già basato sulla protezione dei dati. I corrispondenti possono discutere e scambiarsi informazioni senza l’assillo di essere intercettati.</strong></li>
-                    <li><strong>Con Pochi clik è possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè il testo si cancella automaticamente.</strong></li>
-                    <li><strong>Scrivere o incollare nel browser la porzione di testo che si intendere condividere, poi inpostare la password e la scadenza temporale. Una volta inserito il testo e cliccato sull'icona invia, è necessario copiarsi il link che il Private*Bin ha elaborato. A questo punto è necessario disporre di browser https, il link va incollato e trasmesso via mail al corrispondente. Il quale utilizzando la password precedentemente stabilita (16 caratteri uguale a 128bit oppure 32 caratteri uguale a 256 bit), leggerà il contenuto.</strong></li>
-                    <li><strong>Il preventivo include 1 ora di corso di formazione sufficente per rendere gli utenti autonomi e immadiatamente operativi.</strong></li>
+                    <li><strong>E' possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè il testo si cancellerà automaticamente.</strong></li>
+                    <li><strong> Una volta scritto il testo nel browser che si intendere condividere, si potrà impostare la password e scadenza temporale. Quindi inserito il testo e cliccato sull'icona invia, è necessario copiarsi il link che il Private*Bin ha elaborato. Detto link va incollato e trasmesso via mail al corrispondente. Il quale utilizzando la password precedentemente stabilita (16 caratteri uguale a 128bit oppure 32 caratteri uguale a 256 bit), leggerà il contenuto.</strong></li>
+                    <li><strong>Il preventivo include 1 ora di corso sufficente per rendere gli utenti autonomi e immediatamente operativi.</strong></li>
                 </ul>"
 
         cifratura-riposo:
