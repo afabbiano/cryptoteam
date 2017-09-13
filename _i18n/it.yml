@@ -586,9 +586,9 @@ offerta:
                     <li><strong>Domainkeys Identified Mail</strong> (DKIM), consente di autenticare il mittente attraverso la sua firma digitale (chiave Privata).</li>
                     <li><strong>Reporting</strong> aggiunge un livello di dettagli in modo che i gestori dei server possono ricevere informazioni sui tentativi di spoofing (mittente contrafatto), e spam.</li>
                     <li><strong>Protegge le mail</strong> scambiate incluso i suoi allegati evitando sottrazioni o copie delle informazioni aziendali.</li>
-                    <li><strong>Identificazione</strong> Digital Identity è l'informazione univoca contenuta nel certificato digitale. Può riguardate una persona oppure un disposito di rete.</li>
+                    <li><strong>Identificazione</strong> Digital Identity è una registrazioni di dati univoci contenuti nel certificato digitale. Può riguardate una persona oppure un disposito di rete.</li>
                     <li><strong>Firma Digitale</strong> è l'equivalente informatico di una tradizionale firma autografa apposta su carta. Garantisce Autenticità, Integrità e il non ripudio.</li>
-                    <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle informazioni via mail che viaggiano in rete.</li>
+                    <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle comunicazioni in rete.</li>
                 </ul>
                 <h3>Installazione Certificata CryptoTeam</h3>
                 <p>Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato in più otterranno ulteriore riguardo verso progetti che includono supporto alle nuove tecnologie.</p>
