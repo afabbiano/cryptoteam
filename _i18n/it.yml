@@ -132,18 +132,18 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: La 1° chiave per la cifratura dati è del 1997, vantiamo una lunga esperienza progettiamo e realizziamo soluzioni per la riservatezza e la protezione dei dati. Nello scambio di relazioni aiutiamo i corrispondenti delle imprese a rendere più sicure le loro attività quotidiane. Ad esclusione dei destinatari rendiamo illegibili&#58 Dati, Documenti di ogni tipo, più tutte le Informazioni associate scambiate in rete.
+        details: La nostra prima chiave PGP per la cifratura dati risale al 1997. Abbiamo accumulato una lunga esperienza nella progettazione e realizzazione di soluzioni per la riservatezza e la protezione dei dati. Possiamo aiutarti a rendere più sicure le tue attività sulla rete&#58 dati, documenti, e tutte le informazioni associate, devono essere cifrate prima di essere scambiate in rete.
 
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: La protezione dati rappresenta un valore inestimabile verso la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determinano l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. In più viene percepita una maggiore reputazione aziendale, dovuta alla professionalità nella gestione dei dati che li riguardano.
+            details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. Viene inoltre percepita una aumentata reputazione aziendale, grazie alla professionalità dimostrata nella gestione dei dati degli utenti.
         box2:
             headline: Piattaforma PKI
-            details: Questa soluzione PKI (Infrastruttura a chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. E' un automatismo semplice che tramite la gestione dei certificati digitali, renderà (escludendo i destinatari), <strong>illeggibili tutte le attività di comunicazioni.</strong> L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
+            details: La soluzione PKI (Public Key Infrastrucure, Infrastruttura a Chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. La piattaforma PKI consente la gestione dei certificati digitali, che rendono <strong>illeggibili tutte le attività di comunicazione</strong>, ad esclusione dei legittimi destinatari. L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
         box3:
             headline: Cloud in-House
-            details: Si basa sulla tecnica “end to end” cioè un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione  sicura dei dati (File Sharing), e il suo back-up protetti dalle intercettazioni a fini di lucro. In caso di attacchi i dati rimangono illeggibili. Resta comunque una tecnologia aperta alle condivisioni in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
+            details: Si basa sulla tecnica di cifratura “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione sicura dei dati (File Sharing), e il back-up protetto da intercettazioni. In caso di attacco i dati sottratti rimangono illeggibili. Questa tecnologia è aperta alle condivisioni, in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
 
         box4:
             headline: Voip PBX
@@ -157,7 +157,7 @@ homepage:
 
 
 # *************************************************************************
-# INIZIO CONTENUTI MENU PROTEGGERSI
+# INIZIO CONTENUTI MENU PERCHE' PROTEGGERSI
 # *************************************************************************
 
 # Inizio dei contenuti delle pagine della voce di menu principale PROTEGGERSI
@@ -175,8 +175,8 @@ proteggersi:
 
         box1:
             headline: Le norme impongono la Protezione Dati
-            teaser: Gli adempimenti Normativi Reg.679/2016 e le regole feree odierne per il mercato digitale interno e transfrontaliero, evitano gravi danni e antipatiche sanzioni&#58 Direttiva (UE) 2016/680 del 27.04.2016 perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
-            description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo 679 in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto mettendosi in regola. Cryptoteam si pone come partner offre soluzioni conformi alle normative sopratutto è in grado di colmare il forte disequilibrio che riguarda il mondo digitale come "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
+            teaser: Gli adempimenti normativi (Reg.679/2016) e le regole per il mercato digitale interno e transfrontaliero, evitano gravi danni e sanzioni&#58 Direttiva (UE) 2016/680 del 27.04.2016 perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati.
+            description: E’ in vigore dal 24 maggio 2016 il nuovo regolamento europeo 679 in materia di protezione dei dati personali. Fatto importante che costituisce un salto di qualità nei rapporti economici come sviluppo di attività tra operatori.  Il regolamento troverà applicazione  a partire dal 25 maggio 2018. Pertanto le imprese e le pubbliche amministrazioni devono provvedere al più presto a mettersi in regola. Cryptoteam offre soluzioni conformi alle normative ed è in grado di colmare il forte disequilibrio che riguarda il mondo digitale tra "possesso" e "controllo" dei propri dati e delle proprie comunicazioni.
 
         box2:
             headline: Cosa Intendiamo per <strong>Patrimonio Dati</strong>
@@ -189,7 +189,7 @@ proteggersi:
 
         box3:
             headline: Hacking e tecniche di spionaggio e profiling
-            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, IP. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro” cioè senza un adeguato sistema di protezione, prima o poi sarà vittima di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E' facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
+            teaser: L'innovazione digitale permette nuove tecniche di comunicazione&#58 Virtualizzazione, Mobile, Cloud, ecc. Ogni sistema connesso a una rete in cui lo scambio di dati avviene “in chiaro”, ovvero senza un adeguato sistema di protezione, prima o poi sarà vittima di attacchi da parte di malintenzionati. I virus di spionaggio hanno caratteristiche intelligenti si nascondono all’interno delle rete e copiano le informazioni ritenute interessanti, contrariamente si eliminano. Nei casi descritti le vittime non hanno percezione di quanto gli sta accadendo e quando si accorgono è troppo tardi. E' facile immaginare la potenzialità devastante, se tali informazioni, andassero in mano ai competitor. Conclusione&#58 La futura prosperità aziendale dipenderà dal profilo Cyber Security e dalle strategie messe in atto verso la Data Protection.
             list:
                 li1: "Cyber attack a fini di lucro Commerciale - Nessun sistema operativo è IMMUNE - Vengono inoculati dispositivi informatici all'interno della rete, che violano la riservatezza. Esistono Tool di attacco semplici alla portata di tutti. Una volta che si possiede uno skill medio, è facile nascondersi, copiare i dati facendo perdere le tracce. Gli attacchi stanno aumentando, in più si nota una intelligenza operativa machine to machine. A quanto descritto si aggiungono attacchi non più tecnologici verso le infrastrutture, ma verso il fattore umano. Si attaccano le persone tramite la tecnica c.d. di Fishing, come il dannoso <strong>WannaCry</strong>. Esempio Maggio 2017, attraverso una Botnet nota come Necurs, un insieme di PC scatenano un attacco di milioni email infette, progettate per ingannare le vittime. WannaCry entra in azione un ransomware in grado di diffondersi alla prima interazione. Oggi il ransomware più evoluto si chiama <strong>Jaff</strong>.
                 Mesi fa si subivano attacchi ransomware <strong>Rocket Kitten</strong> attraverso mail confidenziali.
@@ -245,29 +245,29 @@ cosafacciamo:
 
         controllo:
             icona: Controllo Accessi
-            titolo: <strong>Tieni sotto controllo chi accede ai dati Aziendali</strong>
-            testo: Se si vuole garantirsi gli accessi sicuri ai servizi Aziendali , le password non sono più sufficienti. E' necessario conoscere&#58 chi vi può accedere, con quale device , da dove (IP), e con quali compiti assegnati.
+            titolo: <strong>Controlla l'accesso ai tuoi dati aziendali</strong>
+            testo: Per garantire accessi sicuri ai servizi aziendali, le password tradizionali non sono più sufficienti. E' necessario controllare&#58 chi vi può accedere, con quale device, da dove (IP), e con quali compiti assegnati.
 
         cloud:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
                 titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, archivia e condivide facilmente i dati tramite un sistema protetto da crittografia.
-                descrizione: Grazie alla crittografia inisita nel sistema si ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
+                descrizione: Grazie alla crittografia integrata nel sistema, il cliente ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
                 li4: E' possibile configurare il criterio delle condivisioni
                 li5: Con pochi click è possibile creare un collegamento pubblico sicuro e condividersi le cartelle
-                li6: Per i clienti del Cloud in-House installazione default del Private*Bin, è un strumento innovativo facile e veloce da usare. Apre una discussione on-line protetta da crittografia protocollo AES a 256 Bit. In azienda è usato per tutelare le informazioni sensibili tra utenti.
+                li6: Installazione di Private*Bin, uno strumento innovativo facile e veloce da usare, protetto da crittografia protocollo AES a 256 Bit. In azienda può essere usato per lo scambio di informazioni sensibili tra gli utenti.
             box-dx:
-                titolo: I tuoi dati al "Sicuro" sempre con te, qualunque sia la piattaforma utilizzata
-                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che possono accedere.
-                li1: Federare e autorizzare i propri Partner - Server to Server - (clienti, Fornitori, Commercialista, ecc..)
+                titolo: I tuoi dati "al sicuro" sempre con te, qualunque sia la piattaforma utilizzata
+                descrizione: Aperti nella condivisione e produttivi consentendo di distribuire meglio il carico dei dati informatici e stabilendo quali sono gli apparati che vi possono accedere.
+                li1: Federare e autorizzare i propri Partner - Server to Server - (Clienti, Fornitori, Commercialista, ecc..)
                 li2: Creazione di azioni pubbliche per le persone che non sono utenti Cloud in-House
                 li3: Programmare la data di scadenza sulla condivisione pubblica
                 li4: Notifica via mail quando si creano le condivisioni
-                li5: Ad ogni comunicazione Private*Bin può essere impostata una password e la sua scadenza temporale
+                li5: Ad ogni comunicazione effettuata tramite Private*Bin può essere impostata una password e una scadenza temporale
 
         voip:
             icona: Comunicazioni Telefoniche Protette
@@ -1300,14 +1300,14 @@ chisiamo:
             key: Sviluppo Software
             value:
         riga2:
-            key: Integrazione di più Tools
+            key: Integrazione Tool
             value:
         riga3:
             key: Consulenza
             value:
     box1:
         headline: La Vision
-        details: "Sempre di più in futuro vivremo a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong> e la <strong>Privacy</strong> (comunicazioni private) sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie. Se si vuole progredire, i dati scambiati non devono essere letti o acquisiti da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). Tutti sanno che la rete è una grande occasione di business per lo sviluppo economico,  ma devono anche essere guidati verso adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), la privacy insita nei loro format, ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
+        details: "in futuro vivremo sempre di più a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong> e la <strong>Privacy</strong> (comunicazioni private) sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie: i dati scambiati non devono essere letti o intercettati da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). La rete è una grande occasione di business per lo sviluppo economico, per questo devono essere garantite adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), una attenta gestione della privacy ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
     box2:
         headline: Storia Commerciale
         details: CryptoTeam è la nuova sfida di 2 professionisti IT che hanno operato nel settore ITC per oltre 20 anni, prima come colleghi in una società informatica tra i primi produttori nazionali di personal computer, poi come soci fondatori di una azienda attiva nel settore delle telecomunicazioni VoIP per oltre un decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo, consolidando rapporti CORPORATE con 3 grandi Banche Italiane.
