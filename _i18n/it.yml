@@ -619,8 +619,8 @@ offerta:
                         headline: Soluzione
                         text: In caso di attacchi o di errori o disattenzione nella gestione delle password, la tecnica di cifratura - Data Encryption - permette di non compromettere le informazioni.
                         list: <li><strong>Crittografia SHA256 e 2048 Bit</strong></li>
-                              <li><strong>Dati Cifrati Sistematicamente</strong></li>
-                              <li><strong>Dati Salvati Sistematicamente</strong></li>
+                              <li><strong>Dati Cifrati</strong></li>
+                              <li><strong>Dati Salvati</strong></li>
                               <li><strong>Policy per la Condivisione</strong></li>
                               <li><strong>Compliance Normative</strong></li>
                               <li><strong>Classificazione dei dati </strong></li>
@@ -628,7 +628,7 @@ offerta:
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
                     download:
                         headline: Provate a consultarci
-                        text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e di condividerli al punto di impedire i download non autorizzati.<strong></strong>
+                        text: La nostra esperienza può aiutarvi a comprendere come gestire i dati in sicurezza e come condividerli bloccanndo i download non autorizzati.<strong></strong>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>
         https:
             headline: Un sito internet sicuro utilizza il protocollo https.
