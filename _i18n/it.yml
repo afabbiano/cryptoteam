@@ -252,7 +252,7 @@ cosafacciamo:
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
                 titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, archivia e condivide facilmente i dati tramite un sistema protetto da crittografia.
-                descrizione: Grazie alla crittografia integrata nel sistema, il cliente ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato"
+                descrizione: Grazie alla crittografia integrata nel sistema, il cliente ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato".
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
                 li3: E' possibile limitare gli apparati in condivisione
@@ -271,7 +271,7 @@ cosafacciamo:
         voip:
             icona: Comunicazioni Telefoniche Protette
             titolo: <strong>Telefonia VoIP</strong>
-            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione
+            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione.
 
         progetti:
             icona: Studio di Progetti Personalizzati
@@ -289,7 +289,7 @@ cosafacciamo:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione ad un sito avvenga in modo protetto, appunto i loro dati messi al sicuro tramite l'Https. Nel lungo periodo le statistische dimostrano un dato storico inconfutabile&#58 gli utenti sono incoraggiati a fare business SOLO con siti protetti.
+            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione in un sito avvenga in modo protetto, con i loro dati messi al sicuro tramite il protocollo https. Nel lungo periodo le statistische dimostrano un dato storico inconfutabile&#58 gli utenti sono incoraggiati a fare business solo con i siti protetti da https.
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
                 li2: Cifratura fino 4096 bit SHA256&#58 i messaggi o i dati, anche se intercettati, non sono leggibili dai malintenzionati
@@ -300,14 +300,14 @@ cosafacciamo:
 
         box4b:
             headline: Private-Mail
-            teaser: "Con semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto e riservato. La nostra proposta si basa su due soluzioni:"
+            teaser: "Con un semplice click è possibile comunicare in modalità riservata, potendo allegare qualsiasi documento (anch'esso protetto e riservato). La nostra proposta si basa su due soluzioni, illustrate nel box sottostante (clicca sulla freccia qui a destra per aprire il box)."
             list:
                 li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
                 li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema di crittografia Open Source adatto alle aziende del comparto PMI. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più attenti, che preferiscono una doppia cifratura delle loro comunicazioni - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale. Il risultato è identico a quello della  soluzione 1, ovvero una comunicazione assolutamente protetta e riservata.
 
         box4c:
             headline: Private*Bin
-            teaser: In azienda il Private*Bin è un servizio utilissimo, è un'ottima risorsa on line protetta da crittografia per comunicazioni veloci riservate. Può essere utilizzato in modo che le informazioni scritte si cancellino automaticamente dopo la lettura.
+            teaser: In azienda Private*Bin è un servizio utilissimo, un'ottima risorsa on line protetta da crittografia per comunicazioni veloci riservate. Può essere utilizzato in modo che le informazioni scritte si cancellino automaticamente dopo la lettura.
             list:
                 li1: Rapido e facile da usare, è possibile impostare un tempo di scadenza per la lettura del testo, più precisamente il testo scritto può rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure senza scadenza).
                 li2: Per scambiarsi informazioni di massima importanza si può anche decidere la visibilità dei file verso gruppi di lavoro utilizzando una password di riferimento precedentemente concordata. In questo modo i testi di una certa importanza potranno essere visualizzati solo da chi possiede la password univoca. Neppure l’amministratore di sistema potrà accedere ai contenuti scambiati.
@@ -316,7 +316,7 @@ cosafacciamo:
 
         box5:
             headline: File Sharing - Condivisione Dati Sicura
-            teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento indipendentemente dalla piattaforma utilizzata.
+            teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
                 li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
@@ -325,9 +325,9 @@ cosafacciamo:
 
         box6:
             headline: Cifratura Dati a Riposo con Cloud in-House
-            teaser: I dati sono salvati sui server aziendali (almeno doppio Back-up), più n.1 Back-up nel Cloud-in House. La soluzione standard è la protezione tramite la tecnica di cifratura sistematica di tutti i  dati aziendali salvati, associata ad una disciplinata condivisione. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
+            teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. La soluzione standard attiva la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associata a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
-                li1: I processi di salvataggio dati avvengono tramite la tecnica della Cifratura fino a 4096 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li1: I processi di salvataggio dati avvengono tramite cifratura a 256 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
