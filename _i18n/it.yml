@@ -1307,10 +1307,10 @@ chisiamo:
             value:
     box1:
         headline: La Vision
-        details: "in futuro vivremo sempre di più a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario davvero rivoluzionario per la protezione dei dati. Infatti oggi la <strong>Sicurezza</strong> e la <strong>Privacy</strong> (comunicazioni private) sono diventate fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie: i dati scambiati non devono essere letti o intercettati da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). La rete è una grande occasione di business per lo sviluppo economico, per questo devono essere garantite adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), una attenta gestione della privacy ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
+        details: "In futuro vivremo sempre di più a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario che avrà al centro il tema della protezione dei dati. La <strong>Sicurezza</strong> e la <strong>Privacy</strong>, già oggi al centro dell'attenzione dei media, diventeranno fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie: i dati scambiati non devono essere letti o intercettati da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). La rete è una grande occasione di business per lo sviluppo economico, per questo devono essere garantite adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), una attenta gestione della privacy ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
     box2:
         headline: Storia Commerciale
-        details: CryptoTeam è la nuova sfida di 2 professionisti IT che hanno operato nel settore ITC per oltre 20 anni, prima come colleghi in una società informatica tra i primi produttori nazionali di personal computer, poi come soci fondatori di una azienda attiva nel settore delle telecomunicazioni VoIP per oltre un decennio. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo, consolidando rapporti CORPORATE con 3 grandi Banche Italiane.
+        details: CryptoTeam è la nuova sfida di 2 professionisti IT che hanno operato nel settore ITC per oltre 20 anni, prima come colleghi in una società informatica (tra i primi produttori nazionali di personal computer), poi come soci fondatori di una azienda attiva nel settore delle telecomunicazioni VoIP. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo.
     box3:
         headline: Mission
         details: Integriamo la Privacy nei processi informatici aziendali (dati a riposo, al lavoro, in movimento). Nell’ambito della protezione dei dati la nostra offerta si basa su soluzioni innovative, garantendo l’accesso protetto ai dati da qualsiasi piattaforma e in qualunque luogo.
@@ -1319,16 +1319,10 @@ chisiamo:
         details: Il team è in grado di realizzare software, integrare tool, progettare e offrire consulenza in ambito di sicurezza dei dati e di riservatezza delle comunicazioni aziendali.
     box5:
         headline: CryptoTeam
-        details: CryptoTeam è una start-up in fase di avviamento "Società Costituenda".  La continuità, l'assistenza tecnica è costantemente garantita da un team di professionisti che collaborano a tutta forza impegnandosi con i clienti al raggiungimento degli obiettivi a loro affidati. <strong>Inoltre usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende in che modo tutelare i propri dati e le proprie comunicazioni, rendendole riservate e accessibili solo alle persone autorizzate.</strong>
+        details: CryptoTeam è una start-up in fase di avviamento. La continuità, l'assistenza tecnica è costantemente garantita da un team di professionisti che collaborano a tutta forza impegnandosi con i clienti al raggiungimento degli obiettivi a loro affidati. <strong>Inoltre usufruiscono della loro infrastruttura tecnologica DEMO per dimostrare alle aziende in che modo tutelare i propri dati e le proprie comunicazioni, rendendole riservate e accessibili solo alle persone autorizzate.</strong>
     box6:
         headline: Filosofia
-        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando (anche), l'utilizzo di tecniche di "anonimizzazione".
-    collaborate:
-        headline: Box7
-        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
-    atmosphere:
-        headline: Box8
-        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
+        details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura dati così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni cloud sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Se necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali, consigliando anche l'utilizzo di tecniche di anonimizzazione.
 
 #PAGINA CHI SIAMO--->Privacy (/chsiamo/privacy.html)
     privacy:
@@ -1336,47 +1330,57 @@ chisiamo:
         description: Tutto sulla privacy, e altri aspetti legali.
         info: Per qualsiasi domanda, non esitare a <a href="/it/chisiamo/contatti.html">contattarci</a>.
         intro:
-            headline: Privacy Policy
-            lead: La tutela della Privacy è al centro della nostra missione. Trattiamo i tuoi dati con estrema attenzione.
-        collect:
-            headline: Che informazioni raccogliamo?
-            details: "<p>Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Quando trasferiamo i tuoi dati a Soggetti Terzi?</a></p>"
-        use:
-            headline: Come usiamo le informazioni che raccogliamo su di te
-            details: "<p>Ciascuna delle informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:</p>"
+            headline: Informativa sulla Privacy
+            lead: La tutela della Privacy è al centro della nostra missione. Trattiamo i tuoi dati con estrema cura e attenzione.
+        riferimento:
+            headline: Riferimenti Normativi
+            details: La presente informativa è fornita, secondo quanto previsto dall'art. 13 del d.lgs. N. 196/2003 (Codice in materia di protezione dei dati personali), agli utenti che interagiscono con i servizi web di cryptoteam.it. Descrive le modalità di gestione dei dati raccolti online tramite i siti web facenti riferimenti al dominio <strong>cryptoteam.it</strong> e dei relativi sottodomini, identificabili negli indirizzi di tipo <strong>sottodominio.cryptoteam.it</strong> e <strong>ulteriore.sottodominio.cryptoteam.it</strong>.
+        finalita:
+            headline: Finalità e modalità del trattamento cui sono destinati i dati
+            details: "Le informazioni che raccogliamo su di te può essere usata in uno dei seguenti modi:"
             list: "
-                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste),</li>
-                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te),</li>
-                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra),</li>
-                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.),</li>
+                <li>Per personalizzare la tua esperienza di navigazione (i tuoi dati ci aiutano a rispondere al meglio alle tue richieste)</li>
+                <li>Per migliorare il nostro sito (cerchiamo di migliorare costantemente le informazioni offerte sul nostro sito in base al feedback che riceviamo da te)</li>
+                <li>Per migliorare il servizio ai clienti (i tuoi dati ci aiutano a rispondere in modo più efficace alle tue richieste di customer service e alle tue necessità di supporto da parte nostra)</li>
+                <li>Per elaborare le transazioni (i tuoi dati, sia pubblici che privati, non verranno venduti, scambiati, trasferiti o in alcun modo consegnati, senza il tuo consenso, al di fuori dello scopo specifico di consegnarti il servizio e/o prodotto che ci hai richiesto.)</li>
                 <li>Per inviare email di risposta alle tue richieste.</li>"
+            modalita: "Il trattamento dei dati viene effettuato in modalità elettronica. I dati sono conservati sugli hard disk dei server gestori dei domini sopra citati."
+        natura:
+            headline: Quali dati raccogliamo?
+            details: "Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferimento dati a Soggetti Terzi</a>"
+        diritti:
+            headline: Diritti dell'interessato
+            details: "Ai sensi dell'art. 7 Codice Privacy, l'interessato ha diritto di ottenere in qualsiasi momento la conferma dell'esistenza o meno dei dati che lo riguardano e di conoscerne il contenuto e l'origine, di verificarne l'esattezza o chiederne l'integrazione o l'aggiornamento, oppure la rettificazione. Ha altresì il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi per motivi legittimi al trattamento dei dati che lo riguardano. Le relative richieste vanno rivolte al seguente indirizzo e-mail: privacy@cryptoteam.it"
+        titolare:
+            headline: Titolare del Trattamento
+            details: "Il Titolare del Trattamento dati è il sig. Stefano Martinelli con sede in C.so Italia 4/6 Savona, e può essere contattato all'indirizzo privacy@cryptoteam.it"
         cookies:
-            headline: Utilizziamo i Cookies?
-            details: "<p>Si, ma con parsimonia! I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di non tracciare i nostri utenti. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. Questa pagine resta comunque sempre visitabile sotto la voce di menu CHI SIAMO - Privacy.</p>"
+            headline: Informativa sui Cookies
+            details: "I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di <strong>non tracciare i nostri utenti</strong>. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. Questa pagine resta comunque sempre visitabile sotto la voce di menu CHI SIAMO - Privacy."
         thirdparty:
-            headline: Quando trasferiamo i tuoi dati a Soggetti Terzi?
-            details: "<p>La nostra politica aziendale è di non vendere, non scambiare, non trasferire i tuoi dati personali a Soggetti Terzi. In alcuni casi abbiamo la necessità di condividere i tuoi dati con alcuni soggetti terzi che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:
-              - lo studio del commercialista che segue la nostra contabilità
-              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica
-              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività
-              - ecc.
+            headline: Trasferimento dati a Soggetti Terzi
+            details: "La nostra politica aziendale è di <strong>non vendere</strong>, <strong>non scambiare</strong>, <strong>non trasferire</strong> i tuoi dati personali a Soggetti Terzi. In alcuni casi abbiamo la necessità di condividere i tuoi dati con alcuni soggetti terzi che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:<br>
+              - lo studio del commercialista che segue la nostra contabilità<br>
+              - gli istituti bancari con cui intratteniamo rapporti per poter svolgere la nostra attività economica<br>
+              - tutti gli enti pubblici che la normativa ci impone di informare in merito alla nostra attività<br>
+              - ecc.<br>
             In questi casi di necessità operativa, ci assicuriamo che detti soggetti terzi si impegnino a trattare i tuoi dati con la dovuta confidenzialità.
-            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza.</p>"
+            Potremmo infine rilasciare le tue informazioni qualora ritenessimo tale rilascio appropriato al fine di ottemperare ad obblighi di legge, rafforzare le politiche del nostro sito, proteggere i nostri o gli altrui diritti intellettuali, proprietà, sicurezza."
         links:
             headline: Collegamenti a Soggetti Terzi
-            details: "<p>Occasionalmente, a nostra discrezione, potremmo includere nel sito link a prodotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere l'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto.</p>"
-        privacy-protection:
-            headline: California Online Privacy Protection Act Compliance
-            details: "<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>"
+            details: "Occasionalmente, a nostra discrezione, potremmo includere nel sito link a prodotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere l'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto."
         privacy-policy:
-            headline: Politica della Privacy solo Online
-            details: "<p>Questa policy privacy online si applica solo alle informazioni raccolte attraverso il nostro sito web e non alle informazioni raccolte offline.</p>"
+            headline: Informativa sulla Privacy valida solo Online
+            details: "Questa Informativa sulla Privacy si applica solo alle informazioni raccolte attraverso i nostri siti web e non alle informazioni raccolte offline."
         consent:
             headline: Il tuo consenso
-            details: "<p>Utilizzando il nostro sito, con presa visione della presente Policy, acconsenti implicitamente alla nostra politica di privacy online.</p>"
+            details: "Utilizzando il nostro sito, con presa visione della presente Informativa sulla Privacy, acconsenti implicitamente all'utilizzo dei dati raccolti durante la tua navigazione sul nostro sito."
         privacy-changes:
             headline: Modifiche alla nostra Politica della Privacy
-            details: "<p>Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 13 Settembre 2017.</b></p>"
+            details: "Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il tuo primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 13 Settembre 2017.</b>"
+        privacy-protection:
+            headline: California Online Privacy Protection Act Compliance
+            details: "Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent."
         sites:
             headline: Web Sites
             details: "<p>CryptoTeam possiende, mantiene e contribuisce a sviluppare i seguenti websites:
