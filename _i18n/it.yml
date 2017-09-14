@@ -1346,17 +1346,11 @@ chisiamo:
                 <li>Per inviare email di risposta alle tue richieste.</li>"
             modalita: "Il trattamento dei dati viene effettuato in modalità elettronica. I dati sono conservati sugli hard disk dei server gestori dei domini sopra citati."
         natura:
-            headline: Quali dati raccogliamo?
-            details: "Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferimento dati a Soggetti Terzi</a>"
-        diritti:
-            headline: Diritti dell'interessato
-            details: "Ai sensi dell'art. 7 Codice Privacy, l'interessato ha diritto di ottenere in qualsiasi momento la conferma dell'esistenza o meno dei dati che lo riguardano e di conoscerne il contenuto e l'origine, di verificarne l'esattezza o chiederne l'integrazione o l'aggiornamento, oppure la rettificazione. Ha altresì il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi per motivi legittimi al trattamento dei dati che lo riguardano. Le relative richieste vanno rivolte al seguente indirizzo e-mail: privacy@cryptoteam.it"
-        titolare:
-            headline: Titolare del Trattamento
-            details: "Il Titolare del Trattamento dati è il sig. Stefano Martinelli con sede in C.so Italia 4/6 Savona, e può essere contattato all'indirizzo privacy@cryptoteam.it"
+            headline: Natura obbligatoria o facoltativa del conferimento dei dati
+            details: "Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferimento dati a Soggetti Terzi</a>.<p>Il conferimento dei dati personali richiesti nei moduli di contatto è facoltativo. Il mancato conferimento comporta l'impossibilità, da parte nostra, di fornire il servizio richiesto.</p>"
         cookies:
             headline: Informativa sui Cookies
-            details: "I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di <strong>non tracciare i nostri utenti</strong>. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che ci conferma che tu abbia letto il nostro avviso. Una volta salvato il cookie, l'avviso non verrà riproposto, a meno di modifiche alla presente pagina. Questa pagine resta comunque sempre visitabile sotto la voce di menu CHI SIAMO - Privacy."
+            details: "I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di <strong>non tracciare i nostri utenti</strong>. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che contiene unicamente la conferma di avvenuta lettura dell'avviso. Una volta salvato il cookie, l'avviso non verrà riproposto per un periodo di tempo predefinito (di norma, un anno), a meno di modifiche alla presente pagina. Questa pagina è sempre visitabile sotto la voce di menu CHI SIAMO - Privacy."
         thirdparty:
             headline: Trasferimento dati a Soggetti Terzi
             details: "La nostra politica aziendale è di <strong>non vendere</strong>, <strong>non scambiare</strong>, <strong>non trasferire</strong> i tuoi dati personali a Soggetti Terzi. In alcuni casi abbiamo la necessità di condividere i tuoi dati con alcuni soggetti terzi che ci assistono nello svolgimento delle nostre attività. A titolo di esempio, questi soggetti possono essere:<br>
@@ -1369,25 +1363,32 @@ chisiamo:
         links:
             headline: Collegamenti a Soggetti Terzi
             details: "Occasionalmente, a nostra discrezione, potremmo includere nel sito link a prodotti e/o servizi di Terze Parti. Queste Terze Parti hanno politiche di privacy diverse e separate dalla nostra, pertanto non avremo alcuna responsabilità per il contenuto o per le attività offerte da questi siti collegati. Ciononostante, cerchiamo sempre di proteggere l'integrità del nostro sito e qualsiasi feedback al rigurardo sarà benvenuto."
+        privacy-protection:
+            headline: California Online Privacy Protection Act Compliance
+            details: "Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent."
         privacy-policy:
             headline: Informativa sulla Privacy valida solo Online
             details: "Questa Informativa sulla Privacy si applica solo alle informazioni raccolte attraverso i nostri siti web e non alle informazioni raccolte offline."
         consent:
             headline: Il tuo consenso
             details: "Utilizzando il nostro sito, con presa visione della presente Informativa sulla Privacy, acconsenti implicitamente all'utilizzo dei dati raccolti durante la tua navigazione sul nostro sito."
+        diritti:
+            headline: Diritti dell'interessato
+            details: "Ai sensi dell'art. 7 Codice Privacy, l'interessato ha diritto di ottenere in qualsiasi momento la conferma dell'esistenza o meno dei dati che lo riguardano e di conoscerne il contenuto e l'origine, di verificarne l'esattezza o chiederne l'integrazione o l'aggiornamento, oppure la rettificazione. Ha altresì il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi per motivi legittimi al trattamento dei dati che lo riguardano. Le relative richieste vanno rivolte al seguente indirizzo e-mail:"
+        titolare:
+            headline: Titolare del Trattamento
+            details: "Il Titolare del Trattamento dati è il sig. Stefano Martinelli con sede in C.so Italia 4/6 Savona, e può essere contattato all'indirizzo e-mail:"
         privacy-changes:
             headline: Modifiche alla nostra Politica della Privacy
             details: "Qualora decidessimo di modificare la nostra politica della privacy, aggiorneremo questa pagina, evidenziando le modifiche apportate. Inoltre azzereremo il cookie di presa visione iniziale, in modo che verrà nuovamente mostrato il messaggio di avviso durante il tuo primo accesso successivo alla modifica.<br><b>Questa policy è stata modificata il 13 Settembre 2017.</b>"
-        privacy-protection:
-            headline: California Online Privacy Protection Act Compliance
-            details: "Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent."
         sites:
             headline: Web Sites
-            details: "<p>CryptoTeam possiende, mantiene e contribuisce a sviluppare i seguenti websites:
+            details: "<p>CryptoTeam possiede, mantiene e contribuisce a sviluppare i seguenti websites:
                 <a href=\"http://ca.cryptoteam.it/\">ca.cryptoteam.it</a>,
                 <a href=\"https://cloud.cryptoteam.it/\">cloud.cryptoteam.it</a>,
                 <a href=\"http://crm.cryptoteam.it/\">crm.cryptoteam.it</a>,
                 <a href=\"https://otrs.cryptoteam.it/\">otrs.cryptoteam.it</a></p>"
+
 
 #PAGINA CHI SIAMO--->Contatti (/chsiamo/contatti.html)
     contatti:
