@@ -1323,12 +1323,6 @@ chisiamo:
     box6:
         headline: Filosofia
         details: Privilegiamo canali di comunicazione <strong>end to end</strong>. Utilizziamo la cifratura così come previsto dal <strong>GDPR</strong> (General Data Protection Regulation). Consigliamo soluzioni tipo cloud.cryptoteam.it ovvero una infrastruttura cloud ridondata sotto il controllo del Cliente (<strong>i tuoi dati - suoi tuoi server - a casa tua</strong>). Utilizziamo tecnologie Open Source (trasparenza del codice sorgente). Preferiamo evitare rapporti di dipendenza con i grandi big della rete oppure ne consigliamo l'utilizzo solo quando è necessario e solo per informazioni innocue. Qualora necessario, consigliamo l'utilizzo di cloud provider esterni, proteggendo i dati con adeguate tecniche di cifratura. Nell'interoperabilità quotidiana proteggiamo SEMPRE gli interessi aziendali consigliando (anche), l'utilizzo di tecniche di "anonimizzazione".
-    collaborate:
-        headline: Box7
-        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
-    atmosphere:
-        headline: Box8
-        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
 #PAGINA CHI SIAMO--->Privacy (/chsiamo/privacy.html)
     privacy:
