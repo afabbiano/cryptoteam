@@ -689,7 +689,7 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione OpenXPKI</strong> la più avanzata, dispone di molte di altre funzioni indirizzate alla privacy e sicurezza. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
+                        text: "<p><strong>Soluzione OpenXPKI</strong> la più avanzata, dispone di molte altre funzioni indirizzate alla privacy e sicurezza. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
                                 <p></p>"
                     block2:
                         image:
