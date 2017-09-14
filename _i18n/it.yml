@@ -701,9 +701,9 @@ offerta:
 
         autenticazione:
             headline: Autenticazione
-            lead: La classica gestione delle password tradizionali crea continuamente problemi di vulnerabilità oltre ad essere onerose per la loro complessità. L'evoluzione digitale rende necessario un operazione di autenticazione automatica e cosiddetta (più), forte. La strong autentication è considerata il primo passo tecnologico da implementare come condizione indispensabile per la sicurezza dei dati.  Gli utenti abilitati potranno accedere ai servizi aziendali in modalità univoca e sicura.
+            lead: La classica gestione delle password tradizionali crea continuamente problemi di vulnerabilità oltre ad essere onerosa per la loro complessità. L'evoluzione digitale rende necessario un operazione di autenticazione automatica e cosiddetta (più), forte. La strong autentication è considerata il primo passo tecnologico da implementare come condizione indispensabile per la sicurezza dei dati.  Gli utenti abilitati potranno accedere ai servizi aziendali in modalità univoca e sicura.
             details:
-                lead: L’accesso ai servizi è stabilita dalla policy e include limitazioni e usi consentiti utente per utente. Di seguito proponiamo le nostre due soluzioni.
+                lead: L’accesso ai servizi è stabilita dalla policy e include limitazioni e usi consentiti utente per utente. Di seguito proponiamo le nostre due soluzioni&#58 OpenXPKI e OpenPGP.
                 text:
                     block1:
                         image:
