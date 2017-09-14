@@ -577,9 +577,9 @@ offerta:
 
         openxpki:
             headline: Private-Mail con OpenXPKI
-            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma univoca. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
+            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
             details:
-                lead: "Sistema completo tecnologicamente scalabile garantisce riservatezza a 360 gradi. Non è basato su password tradizionali ma su strumenti automatici come i certificati digitali che permettono di realizzare procedure di invio e-mail, identificazione, autenticazione e firma, incentrati su fattori cosiddetti più forti."
+                lead: "Sistema completo tecnologicamente scalabile garantisce riservatezza a 360 gradi. Non è basato su password tradizionali ma su strumenti automatici come i certificati digitali che permettono di realizzare procedure di invio mail, identificazione, autenticazione e firma, incentrati su fattori cosiddetti più forti."
                 text: "<p><strong>In pratica Security Operations verso tutte le transazioni giornaliere.</strong></p>
                 <ul>
                     <li><strong>Gestione Mail</strong> controllo automatico dei mittenti autorizzati DNS lista Host in formato TXT.</li>
@@ -591,7 +591,7 @@ offerta:
                     <li><strong>Cifratura a 2048 bit</strong> algoritmo SHA256 ha il ruolo di aumentare la sicurezza dei dati e delle comunicazioni in rete.</li>
                 </ul>
                 <h3>Installazione Certificata CryptoTeam</h3>
-                <p>Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato in più otterranno ulteriore riguardo verso progetti che includono supporto alle nuove tecnologie.</p>
+                <p>Tutti i clienti che acquisteranno OpenXPKI godranno di supporto tecnico privilegiato in più otterranno ulteriore riguardo verso progetti che richiedono supporto alle nuove tecnologie.</p>
                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a></p>"
 
         privatebin:
@@ -606,7 +606,7 @@ offerta:
                     <li><strong>Il private*Bin  può essere marginalmente affiancato all’interno di un progetto di lavoro già basato sulla protezione dei dati. I corrispondenti possono discutere e scambiarsi informazioni senza l’assillo di essere intercettati.</strong></li>
                     <li><strong>E' possibile stabilire la data di scadenza del testo (5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno, oppure mai), dopodichè il testo si cancellerà automaticamente.</strong></li>
                     <li><strong> Una volta scritto il testo nel browser che si intendere condividere, si potrà impostare la password e scadenza temporale. Quindi inserito il testo e cliccato sull'icona invia, è necessario copiarsi il link che il Private*Bin ha elaborato. Detto link va incollato e trasmesso via mail al corrispondente. Il quale utilizzando la password precedentemente stabilita (16 caratteri uguale a 128bit oppure 32 caratteri uguale a 256 bit), leggerà il contenuto.</strong></li>
-                    <li><strong>Il preventivo include 1 ora di corso sufficente per rendere gli utenti autonomi e immediatamente operativi.</strong></li>
+                    <li><strong>Il preventivo include 1 ora di corso sufficiente per rendere gli utenti autonomi e immediatamente operativi.</strong></li>
                 </ul>"
 
         cifratura-riposo:
@@ -635,7 +635,7 @@ offerta:
             lead: Https (HyperText Transfer Protocol over Secure Socket Layer), è un protocollo di comunicazione che garantisce l'integrità e riservatezza per la navigazione su rete internet tra un utente che interagisce scambiando i suoi dati, e un sito internet visitato in quel momento.
             details:
                 lead: Il protocollo di comunicazione Https ha dimostrato tramite le analisi dei flussi di traffico Web, un aumento della fiducia verso l’azienda&#58 clienti, fornitori e collaboratori esterni. A discapito di malintenzionati, la comunicazione viene protetta anche su rete intranet. Infatti buona parte degli attacchi portati a termine è realizzata  all’interno della rete aziendale. <strong>2 Nostre Proposte&#58</strong>
-                text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy (totale), come quella di valutare l’ acquisto di una piattaforma OpeniXPKI integrandola all’interno della propria rete. In questo caso lo scopo è di  proteggere e valorizzare  anche altre attività&#58 Mail, Autenticazione, Firma Elettronica, ecc..</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
+                text: <p>a) Richiedi a CryptoTeam il singolo certificato - Oppure - </p><p>b) Richiedi una soluzione orientata alla privacy e maggiore sicurezza come quella di valutare l'offerta d'acquisto di una piattaforma OpeniXPKI. In questo caso lo scopo è di proteggere e valorizzare anche altre attività&#58 mail, autenticazione, firma elettronica, controllo accessi.</p><p><strong>Ecco i Passaggi&#58</strong>1. Il vostro browser chiede al server web una copia del certificato - 2.	Il server Web ricevendo la richiesta dal vostro browser provvede ad inviarlo - 3. Una volta ricevuto il certificato il vostro brouser verifica l'autenticità inviando un messaggio di conferma al server Web  - 4.	A questo punto il server restituisce al client una conferma finale - 5. Risultato i dati scambiati tra il client e il server Web saranno protetti da crittografia. Le nostre 2 soluzioni si basano su cifratura fino a 4096 bit e algoritmo SHA256.</p>
                  <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>
                 image:
                     alt: Grafana Views of an running XLT test
@@ -643,10 +643,10 @@ offerta:
 
         openpgp:
             headline: Private-Mail con OpenPGP
-            lead: Richiedi un prevento Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            lead: Richiedi un preventivo Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti abilitati saranno in grado di trasmettersi mail e allegati, resi leggibili dal sistema, solo per loro.
             details:
-                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
-                text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
+                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI per un uso esclusivo a doppia cifratura. La crittografia a 4096 Bit con l’algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), tra i corrispondenti.
+                text: "<h3><strong>Programmazione della Chiavetta e attività sviluppate per singolo Utente</strong></h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
                     <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
@@ -665,22 +665,22 @@ offerta:
 
         spostamento:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
-            lead: Queste due soluzione sono state concepite per utenti, che spostano fisicamente i dati (da lavorare), da una sede all'altra. Tecnologia che consente agli utenti non autorizzati di rendere illeggibili i dati, sia in caso di smarrimento, che di furto fisico dei dispositivi (HD o chiavetta, soluzione 1 e 2).  Più precisamente gli strumenti sono resi inutilizzabili. <strong>Questa parte a seguire va spostata insieme alla Slide</strong> “Bisogna comprendere quali sono i rischi di far viaggiare i dati in “chiaro”. Qui sotto visualizzerete uno schema esemplificativo di soggetti” coinvolti nelle attività quotidiane. Lo schema non conteggia le migliaia di dispositivi di rete (punti di intercettazione vulnerabili), di passaggio tra una rete e l’altra."
+            lead: Queste due soluzione sono state concepite per utenti che spostano fisicamente i dati (da lavorare), da una sede all'altra. Inoltre consentono di proteggere i dati anche in caso di smarrimento fisico dei dispositivi HW utilizzati. Precisamente i dispositivi sono automaticamente resi inutilizzabili.
             details:
-                lead: Da tempo siamo impegnati sul fronte della privacy il nostro compito è di guidare l'utente ad un corretto uso dei strumenti.
+                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro”. Proponiamo due soluzioni&#58 hd virtuale oppure soluzione chiavetta usb.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. A questo punto partizionando il disco avrà la possibilità di cifrare i dati salvati e nascondere un ulteriore HD (disco Hidden), all'interno dello stesso HD virtuale. Per ulteriore livello di sicurezza durante la fase d'installazione, potrà scegliere volta per volta con quale algoritmo di cifratura operare.</p>
-                                <p><strong>Secondo Passo.</strong> Lo stesso applicativo verrà installato sui due client postazione (sede 1 e sede 2 dell'utente). <strong>Terzo Passo.</strong> Corso di 1 ora all'utilizzo delgli strumenti.</p>"
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. L'applicativo è installato sulla chiavetta o HD usb in carico all'utente. Partizionando il disco avrà la possibilità di cifrare i dati selezionando volta per volta l’algoritmo preferito. In più potrà crearsi un disco nascosto all’interno dello stesso disco appena creato e salvare i dati sensibili con un livello maggiore di sicurezza verso l'azienda.</p>
+                                <p><strong>Nota.</strong> L'applicativo deve essere installato almeno su due postazioni ma non ha limiti&#58sede 1 e sede 2. In più è previsto per l'utente il corso di formazione di 1 ora.</p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
-                                <p><strong>Scegli il tuo modello.</strong></p>
+                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta alle sue esigenze. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta, per cui  il suo utilizzo è facilmente intuitivo. Offriamo una gamma completa e certificata per diverse organizzazioni aziendali.</p>
+                                <p><strong>Prova a coinvolgerci nella scelta al tuo modello.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         accessi:
@@ -693,33 +693,33 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione OpenXPKI</strong> la più avanzata. Dispone di molte funzioni finalizzate alla privacy e alla sicurezza. Progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali. Utilizza standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256. Questa soluzione completa e innovativa, permette di proteggere i dati in tutti gli ambiti aziendali. Gli automatismi semplici di processo, la centralità della gestione, la sicurezza, la riservatezza insita nel sistema, la rendono molto interessante.</p>
+                        text: "<p><strong>Soluzione OpenXPKI</strong> la più avanzata, dispone di molte altre funzioni indirizzate alla privacy e sicurezza. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
                                 <p></p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
-                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. Gli accessi rapidi e sicuri ai servizi  (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>
+                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line&#58 elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         autenticazione:
             headline: Autenticazione
-            lead: L'evoluzione digitale rende necessario un tipo di autenticazione c.d. (più), forte. Condizione indispensabile per la sicurezza dati.  E’ il primo passo tecnologico da implementare.  Infatti la vecchia gestione di password tradizionali creano continuamente problemi di vulnerabilità, oltre ad essere onerose proprio per la loro gestione e complessità.  Per questo motivo integriamo e  garantiamo soluzioni di <strong>Strong Autentication,</strong>  che abilitano gli utenti  ai servizi aziendali in modalità semplice e sicura.
+            lead: La classica gestione delle password tradizionali crea continuamente problemi di vulnerabilità oltre ad essere onerosa per la loro complessità. L'evoluzione digitale rende necessario un operazione di autenticazione automatica e cosiddetta (più), forte. La strong autentication è considerata il primo passo tecnologico da implementare come condizione indispensabile per la sicurezza dei dati.  Gli utenti abilitati potranno accedere ai servizi aziendali in modalità univoca e sicura.
             details:
-                lead: Entrambe le soluzioni sbloccano i computer permettendo l’accesso ai servizi senza introdurre latenze. Inoltre tramite la policy si aggiungono fattori di sicurezza maggiori&#58 Limitazioni, Usi Consentiti, ID, Firma. Di seguito proponiamo 2 soluzioni all’avanguardia.
+                lead: L’accesso ai servizi è stabilita dalla policy e include limitazioni e usi consentiti utente per utente. Di seguito proponiamo le nostre due soluzioni&#58 OpenXPKI e OpenPGP.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Autenticazione OpenXPKI</strong> La più innovativa, progettata per medie e grandi organizzazioni. Fornisce tutti i componenti software per una autenticazione predefinità sicura e univoca (utente e device). Sistema completo dispone di molte funzioni finalizzate alla privacy e alla sicurezza. E' stato realizzato per gestire il ciclo di vita dei certificati digitali. Utilizza lo standard S/MINME X509 crittografia fino a 2048 bit e algoritmo SHA256. Il certificato digitale contiene informazioni che portano alla Strong Autentication&#58 Tipo di Certificato, Validità, Numero Serie, Nome del Soggetto, ID, Fingerprint, Chiave Pubblica, Usi Consentiti, Eventuali Estensioni. Firma Digitale. Nome Emittente. Certificato Intermedio.</p>
+                        text: "<p><strong>Autenticazione OpenXPKI</strong> la più avanzata, dispone di molte altre funzioni indirizzate alla privacy e sicurezza. Progettata per medie e grandi organizzazioni permette di garantire una forte autenticazione. Fornisce tutti i componenti software per una strong autentication univoca e automatica. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
                                 <p></p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Le autenticazioni sono rapide e sicure verso i servizi aziendali. Si basa sullo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
+                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. L’autenticazione rapida e sicura è garantita nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>
                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 ########################################################################
