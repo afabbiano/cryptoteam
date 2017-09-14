@@ -689,14 +689,14 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione OpenXPKI</strong>la più avanzata, dispone di molte funzioni finalizzate alla privacy. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
+                        text: "<p><strong>Soluzione OpenXPKI</strong>la più avanzata, dispone di molte funzioni finalizzate alla privacy. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
                                 <p></p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI sopra. E' adatto alle piccole organizzazioni o per pochi utenti che hanno esigenze minori. La differenza sta nelle regole e nelle attività di gestione più impegnativa. Gli accessi rapidi e sicuri ai servizi aziendali (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit e algoritmo RSA256.</p>
-                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. Gli accessi rapidi e sicuri ai servizi  (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>
+                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line&#58 elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
         autenticazione:
