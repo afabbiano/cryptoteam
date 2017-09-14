@@ -663,19 +663,19 @@ offerta:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             lead: Queste due soluzione sono state concepite per utenti che spostano fisicamente i dati (da lavorare), da una sede all'altra. Inoltre consentono di proteggere i dati anche in caso di smarrimento fisico dei dispositivi HW utilizzati. Precisamente i dispositivi sono automaticamente resi inutilizzabili.
             details:
-                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro” da una sede all’altra. Per cui proponiamo due soluzioni&#58 HD virtuale oppure soluzione chiavetta usb.
+                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro”. Per cui proponiamo due soluzioni&#58 HD virtuale oppure soluzione chiavetta usb.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. Partizionando il disco avrà la possibilità di cifrare i dati selezionando volta per volta l’algoritmo preferito. In più potrà crearsi un disco nascosto all’interno dello stesso disco appena creato e salvare i dati sensibili con un livello maggiore di sicurezza verso l'azienda.</p>
-                                <p><strong>Nota.</strong> L'applicativo deve essere installato su due postazioni%#sede 1 e sede 2. In più usufruirà del corso di formazione.</p>"
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD usb in carico all'utente. Partizionando il disco avrà la possibilità di cifrare i dati selezionando volta per volta l’algoritmo preferito. In più potrà crearsi un disco nascosto all’interno dello stesso disco appena creato e salvare i dati sensibili con un livello maggiore di sicurezza verso l'azienda.</p>
+                                <p><strong>Nota.</strong> L'applicativo deve essere installato su due postazioni&#58sede 1 e sede 2. In più è previsto per l'utente il corso di formazione di 1 ora.</p>"
                     block2:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta, alle proprie esigenze lavorative. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta di archiviazione dati, il suo utilizzo è intuitivo. <strong>Offriamo</strong> una gamma completa e certiifcata per diverse organizzazionei aziendali.</p>
+                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta alle sue esigenze. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta, per cui  il suo utilizzo è facilmente intuitivo. Offriamo una gamma completa e certificata per diverse organizzazioni aziendali.</p>
                                 <p><strong>Scegli il tuo modello.</strong></p>
                                 <p><a href=\"/demo-resultbrowser/\" target=\"_blank\">Contattaci</a>.</p>"
 
