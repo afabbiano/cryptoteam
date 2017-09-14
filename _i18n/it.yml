@@ -171,6 +171,7 @@ proteggersi:
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Perchè Proteggere i Dati
         sottotitolo: I Dati Aziendali hanno un importante valore economico
+        descrizione: Descrizione pagina PROTEGGERSI --> Panoramica
 
         box1:
             headline: La normativa vigente impone la Protezione dei Dati Aziendali
@@ -346,6 +347,7 @@ cosafacciamo:
         teaser: Controllo accessi
         titolo: Controllo Accessi Sicuro e Automatico
         sottotitolo: E' reale il bisogno da parte delle imprese di avere una gestione più sicura degli accessi ai servizi&#58 Posta, Cloud, Sito Web. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
+        descrizione: Descrizione pagina COSA FACCIAMO --> Controllo
 
         box1:
             headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Interni & Esterni.
@@ -368,6 +370,7 @@ cosafacciamo:
         icona: Cloud in-House
         teaser: I tuoi dati sempre con te
         titolo: La tua Piattaforma Cloud Privata
+        descrizione: Descrizione pagina COSA FACCIAMO --> Cloud in House
 
         box1:
             headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
@@ -479,6 +482,7 @@ cosafacciamo:
         teaser: Progetti personalizzati
         titolo: Ti aiutiamo a realizzare il tuo Progetto Privacy
         sottotitolo: Siamo al tuo fianco nello studio e nella realizzazione di nuovi progetti
+        descrizione: Descrizione pagina COSA FACCIAMO --> Progetti
 
         box1:
             headline: Linea Guida
@@ -1383,7 +1387,7 @@ chisiamo:
 
 #PAGINA CHI SIAMO--->Contatti (/chsiamo/contatti.html)
     contatti:
-        title: CryptoTeam - Contatti
+        titolo: CryptoTeam - Contatti
         description: Tutte le informazioni per entrare in contatto con noi.
         quote: Scrivere qui un riferimento alla pagina contatti.
         intro:

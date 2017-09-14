@@ -172,7 +172,7 @@ proteggersi:
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Sotto le nostre soluzioni
         sottotitolo: I Dati Aziendali hanno un valore economico importante per cui è necessario difenderlo
-        descrizione: Prova descrizione in protezione, prova, prova
+        descrizione: Descrizione pagina PROTEGGERSI --> Panoramica
 
         box1:
             headline: Compliance Normativa GDPR
@@ -351,7 +351,7 @@ cosafacciamo:
         teaser: Controllo accesso
         titolo: Soluzioni Controllo Accessi Dati
         sottotitolo: Procedura Sicura e Automatizzata
-        descrizione: Prova descrizione in controllo, prova, prova
+        descrizione: Descrizione pagina COSA FACCIAMO --> Controllo
 
         box1:
             headline: L'utente aziendale potrà usufuire di una procedura di Accesso ai dati semplice veloce e sicura.
@@ -375,10 +375,9 @@ cosafacciamo:
 # Pagina COSA FACCIAMO--->CLOUD (/cosafacciamo/cloud.html)
     cloud:
         icona: Cloud in-House
-        teaser: I tuoi dati sempre con te
-        titolo: La tua Piattaforma Cloud
-        sottotitolo:
-        descrizione: Prova descrizione in cloud, prova, prova
+        teaser: Keep your data close
+        titolo: Your in-House Cloud Platform
+        descrizione: Page description SERVICES --> In House Cloud
 
         box1:
             headline: Un modo sicuro per avere i tuoi dati sempre con te senza problemi di dipendenza.
@@ -513,7 +512,7 @@ cosafacciamo:
         teaser: I tuoi dati sempre con te
         titolo: Ti aiutiamo a realizzare la tuo Progetto Privacy
         sottotitolo: Siamo al tuo fianco
-        descrizione: Prova descrizione in Progetti, prova, prova
+        descrizione: Descrizione pagina COSA FACCIAMO --> Progetti
 
         box1:
             headline: Linea Guida
@@ -1348,7 +1347,7 @@ chisiamo:
 
 #PAGINA CHI SIAMO--->Contatti (/chsiamo/contatti.html)
     contatti:
-        title: CryptoTeam - Contatti
+        titolo: CryptoTeam - Contatti
         description: Tutte le informazioni per entrare in contatto con noi.
         quote: Scrivere qui un riferimento alla pagina contatti.
         intro:
