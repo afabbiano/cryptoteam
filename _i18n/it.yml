@@ -663,7 +663,7 @@ offerta:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             lead: Queste due soluzione sono state concepite per utenti che spostano fisicamente i dati (da lavorare), da una sede all'altra. Inoltre consentono di proteggere i dati anche in caso di smarrimento fisico dei dispositivi HW utilizzati. Precisamente i dispositivi sono automaticamente resi inutilizzabili.
             details:
-                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro”. Per cui proponiamo due soluzioni&#58 HD virtuale oppure soluzione chiavetta usb.
+                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro”. Proponiamo due soluzioni&#58 hd virtuale oppure soluzione chiavetta usb.
                 text:
                     block1:
                         image:
@@ -689,7 +689,7 @@ offerta:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione OpenXPKI</strong>la più avanzata, dispone di molte funzioni finalizzate alla privacy. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
+                        text: "<p><strong>Soluzione OpenXPKI</strong> la più avanzata, dispone di molte funzioni finalizzate alla privacy. Progettata per medie e grandi organizzazioni permette di garantire l’accesso sicuro ai dati. Fornisce tutti i componenti software per un riconoscimento univoco e automatico. Gestisce il ciclo di vita dei certificati digitali, standard S/MIME X509 crittografia fino a 4096 Bit e algoritmo SHA256.</p>
                                 <p></p>"
                     block2:
                         image:
@@ -701,7 +701,7 @@ offerta:
 
         autenticazione:
             headline: Autenticazione
-            lead: L'evoluzione digitale rende necessario un tipo di autenticazione c.d. (più), forte. Condizione indispensabile per la sicurezza dati.  E’ il primo passo tecnologico da implementare.  Infatti la vecchia gestione di password tradizionali creano continuamente problemi di vulnerabilità, oltre ad essere onerose proprio per la loro gestione e complessità.  Per questo motivo integriamo e  garantiamo soluzioni di <strong>Strong Autentication,</strong>  che abilitano gli utenti  ai servizi aziendali in modalità semplice e sicura.
+            lead: La classica gestione delle password tradizionali crea continuamente problemi di vulnerabilità oltre ad essere onerose per la loro complessità. L'evoluzione digitale rende necessario un operazione di autenticazione automatica e cosiddetta (più), forte. La strong autentication è considerata il primo passo tecnologico da implementare come condizione indispensabile per la sicurezza dei dati.  Gli utenti abilitati potranno accedere ai servizi aziendali in modalità univoca e sicura. 
             details:
                 lead: Entrambe le soluzioni sbloccano i computer permettendo l’accesso ai servizi senza introdurre latenze. Inoltre tramite la policy si aggiungono fattori di sicurezza maggiori&#58 Limitazioni, Usi Consentiti, ID, Firma. Di seguito proponiamo 2 soluzioni all’avanguardia.
                 text:
