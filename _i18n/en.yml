@@ -1435,6 +1435,15 @@ pagina-pki:
 ###########################################################################
 
 
+#PAGINA THANKS (/chisiamo/thanks.html)
+thanks:
+        icona: Pagina thanks
+        teaser: Grazie per averci contattato
+        titolo: Invio completato
+        descrizione: Invio completato
+        messaggio: Abbiamo ricevuto la tua richiesta, grazie per averci scritto. Verrai contattato al più presto da uno dei nostri esperti. Usa il menu di navigazione per spostarti nel sito, oppure clicca sul logo CryptoTeam in alto a sinistra per tornare alla Homepage.
+
+
 
 ###########################################################################
 
