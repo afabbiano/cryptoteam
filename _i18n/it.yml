@@ -639,10 +639,10 @@ offerta:
 
         openpgp:
             headline: Private-Mail con OpenPGP
-            lead: Richiedi un prevento Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti saranno abilitati a trasmettere mail e allegati in modalità sicura.
+            lead: Richiedi un preventivo Private-Mail con OpenPGP in grado di soddisfare le esigenze di piccole e medie organizzazioni. Tramite chiavetta Usb gli utenti abilitati saranno in grado di trasmettersi mail e allegati resi leggibili dal sistema solo per loro.
             details:
-                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI dal board aziendale per un uso esclusivo. La cifratura a 4096 Bit algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), di comunicazione tra i corrispondenti.
-                text: "<h3>Programmazione della Chiavetta e attività sviluppate per singolo Utente</h3>
+                lead: Il sistema Private-Mail OpenPGP spesso e preferito in copia alla soluzione OpenXPKI per un uso esclusivo a doppia cifratura. La crittografia a 4096 Bit con l’algoritmo SHA256 garantisce un alto livello di protezione (Militar Grade), tra i corrispondenti.
+                text: "<h3><strong>Programmazione della Chiavetta e attività sviluppate per singolo Utente</strong></h3>
                 <ul>
                     <li><strong>Inserimento dei dati Utente per la generazione delle chiavi</strong></li>
                     <li><strong>Generazione della propria coppia di Chiavi RSA (chiave Pubblica e Privata)</strong></li>
