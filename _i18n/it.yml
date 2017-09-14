@@ -663,13 +663,13 @@ offerta:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
             lead: Queste due soluzione sono state concepite per utenti che spostano fisicamente i dati (da lavorare), da una sede all'altra. Inoltre consentono di proteggere i dati anche in caso di smarrimento fisico dei dispositivi HW utilizzati. Precisamente i dispositivi sono automaticamente resi inutilizzabili.
             details:
-                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro” da una sede all’altra, per cui proponiamo due soluzioni&#58 HD virtuale oppure HW chiavetta usb.
+                lead: Consigliamo di valutare i rischi di trasferire i dati aziendali in “chiaro” da una sede all’altra. Per cui proponiamo due soluzioni&#58 HD virtuale oppure soluzione chiavetta usb.
                 text:
                     block1:
                         image:
                             alt: Start View of the Result Browser
                             title: The Result Browser
-                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. Partizionando il disco avrà la possibilità di cifrare i dati selezionando volta per volta l’algoritmo preferito. In più potrà crearsi un disco nascosto all’interno dello stesso disco creato e salvare i dati sensibili aziendali con un livello maggiore di sicurezza.</p>
+                        text: "<p><strong>Soluzione Sofware HD Virtuale</strong>. <strong>Primo Passo.</strong> L'applicativo è installato sulla chiavetta o HD (USB), in carico all'utente. Partizionando il disco avrà la possibilità di cifrare i dati selezionando volta per volta l’algoritmo preferito. In più potrà crearsi un disco nascosto all’interno dello stesso disco appena creato e salvare i dati sensibili con un livello maggiore di sicurezza verso l'azienda.</p>
                                 <p><strong>Nota.</strong> L'applicativo deve essere installato su due postazioni%#sede 1 e sede 2. In più usufruirà del corso di formazione.</p>"
                     block2:
                         image:
