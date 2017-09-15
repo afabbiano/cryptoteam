@@ -561,8 +561,8 @@ offerta:
                 details: Due modi a misura cliente. Il <strong>servizio Housing </strong> è costituito dalla possibilità di concordare con il cliente di ottenere uno spazio delocalizzato nel quale ospitare i suoi server. Mentre l’<strong>Outsourcing</strong> è la possibilità di concordare il servizio Cloud.
 
         welcome_teaser:
-            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-            action_button: Scopri
+            headline: Richiedi un preventivo
+            action_button: Contattaci
 ########################################################################
 
 
@@ -693,8 +693,8 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. Gli accessi rapidi e sicuri ai servizi  (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>
-                                <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line&#58 elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>"
+                        text: "<p><strong>Soluzione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. Gli accessi rapidi e sicuri ai servizi  (Posta, Cloud e Accesso ai Dati ecc..), sono garantiti nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>"
+                        token: "<p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line&#58 elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>"
 
         autenticazione:
             headline: Autenticazione
@@ -712,8 +712,8 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. L’autenticazione rapida e sicura è garantita nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>
-                               <p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>"
+                        text: "<p><strong>Autenticazione OpenPGP.</strong> Questo sistema funziona altrettanto bene rispetto alla soluzione OpenXPKI. E' adatto alle piccole organizzazioni oppure per chi ha minori esigenze. La differenza tra la soluzione OpenXPKI sta nelle regole e nelle attività di gestione. L’autenticazione rapida e sicura è garantita nello stesso modo. Utilizza lo standard OpenPGP crittografia a 4096 Bit con l’algoritmo RSA 256.</p>"
+                        token: "<p><strong>Le due soluzioni possono essere fornite con TOKEN HSM (Hardware Security Module). E' un sistema specifico resistente all'intrusioni progettato per proteggere le chiavi. Per sicurezza viene tenuto OFF Line, ma Elabora, codifica, decodifica, conserva al sicuro le informazioni.</strong></p>"
 
 ########################################################################
 
@@ -753,7 +753,7 @@ offerta:
                 details: I documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità della firma e dei documenti che circolano in rete. Tramite il certificato digitale "openXPKI" si ha la certezza che un insieme di dati in forma elettronica, inclusi nella Digital Identity, di sapere se i documenti e la sua firma sono stati violati.
 
         welcome_teaser:
-            headline: Richiedi un preventivo.
+            headline: Richiedi un preventivo
             action_button: Contattaci
 ########################################################################
 
@@ -855,7 +855,7 @@ offerta:
       box2:
         headline: Fasi Installazione
         text: Consigliamo L’installazione IDS-PSAD su macchina dedicata
-        riga1: Verifica l’ ambiente informatico e la sua compatibilità
+        riga1: Verifica l’ambiente informatico e la sua compatibilità
         riga2: Convalidiamo il Funzionamento
         riga3: Processo Installazione IDS-PSAD
         riga4: Collaudo
@@ -1072,7 +1072,7 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
 
         box1:
             headline: Adempimenti Verso il Garante
-            details: <strong>Notificazione&#58</strong> Nei casi espressamente indicati, che presentano rischi particolari legati alla tutela dei diritti e delle libertà delle persone interessate, il titolare deve notificare al Garante per la protezione dei dati personali l'intenzione di effettuare un trattamento prima di iniziarlo (articolo 37 del Codice).L'omessa, ritardata o incompleta notificazione del trattamento, quando prevista, è punita con la sanzione amministrativa del pagamento di una somma da ventimila euro a centoventimila euro (articolo 163 del Codice "Omessa o incompleta notificazione" 1. Chiunque omette di fornire le informazioni...).
+            details: <strong>Notificazione&#58</strong> Nei casi espressamente indicati, che presentano rischi particolari legati alla tutela dei diritti e delle libertà delle persone interessate, il titolare deve notificare al Garante per la protezione dei dati personali l'intenzione di effettuare un trattamento prima di iniziarlo (articolo 37 del Codice). L'omessa, ritardata o incompleta notificazione del trattamento, quando prevista, è punita con la sanzione amministrativa del pagamento di una somma da ventimila euro a centoventimila euro (articolo 163 del Codice "Omessa o incompleta notificazione" 1. Chiunque omette di fornire le informazioni...).
         box2:
             headline: Adempimenti Verso L'interessato
             details: <strong>Informativa&#58</strong> Fatte salve alcune eccezioni, chi intende effettuare un trattamento di dati personali deve prima fornire all'interessato alcune informazioni (articolo 13 del Codice) per  metterlo nelle condizioni di esercitare i propri diritti (articolo 7 del Codice). In particolare, l'informativa deve spiegare, a) in che modo e per quale scopo verranno trattati i propri dati personali - b) se il conferimento dei propri dati personali è obbligatorio o facoltativo - c) conseguenze di un eventuale rifiuto - d) a chi saranno comunicati - e) Chi è il titolare e se è stato designato il Resp. del trattamento.
@@ -1084,7 +1084,7 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
             details: <strong>Furto Dati&#58</strong> Il Garante per la protezione dei dati personali ha adottato una serie di provvedimenti che fissano per amministrazioni pubbliche e aziende l’obbligo di comunicazione nei casi in cui - a seguito di attacchi informatici, accessi abusivi, incidenti o eventi avversi, come incendi o altre calamità - si dovesse verificare la perdita, la distruzione o la diffusione indebita di dati personali conservati, trasmessi o comunque trattati. La comunicazione agli utenti non è dovuta se si dimostra di aver utilizzato misure di sicurezza nonché sistemi di cifratura e di anonimizzazione che rendono inintelligibili i dati.
 
         welcome_teaser:
-            headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
+            headline: Siamo a disposizione per rispondere alle tue domande
             action_button: Contattaci
 ########################################################################
 
