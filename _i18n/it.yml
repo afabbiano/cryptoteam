@@ -1069,8 +1069,8 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
                 riga2: VoIP PBX
 
         intro:
-            headline: Codice Privacy
-            details: L'art. 32 del Codice prevede che i soggetti che operano sulle reti di comunicazione elettronica debbano garantire "che i dati personali siano accessibili soltanto al personale autorizzato per fini legalmente autorizzati" (cfr. comma 1-bis) e che le misure tecniche e organizzative, che il fornitore di comunicazione elettronica deve adottare, siano adeguate al rischio esistente, garantiscano la protezione dei dati archiviati o trasmessi da una serie di eventi espressamente indicati (distruzione, perdita, alterazione, anche accidentali, archiviazione, trattamento, accesso o divulgazione non autorizzati o illeciti) e assicurino l'attuazione di una "politica di sicurezza" (cfr. comma 1-ter).
+            headline: Codice Privacy - GDPR
+            details: Il trattamento dei dati personali è disciplinato delle norme. Il trattamento dovrà svolgersi nel rispetto dei diritti e delle libertà fondamentali, nonché della dignità dell'interessato, con particolare riferimento alla riservatezza, all'identità personale e al diritto alla protezione dei dati personali. Il trattamento dovrà assicurare un elevato livello di tutela dei diritti e delle libertà. Quindi è necessario adottare misure di sicurezza adeguate al rischio esistenze (cfr. comma 1-ter). Indichiamo la guida agli adempimenti.
 
         box1:
             headline: Adempimenti Verso il Garante
@@ -1080,14 +1080,14 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
             details: <strong>Informativa&#58</strong> Fatte salve alcune eccezioni, chi intende effettuare un trattamento di dati personali deve prima fornire all'interessato alcune informazioni (articolo 13 del Codice) per  metterlo nelle condizioni di esercitare i propri diritti (articolo 7 del Codice). In particolare, l'informativa deve spiegare, a) in che modo e per quale scopo verranno trattati i propri dati personali - b) se il conferimento dei propri dati personali è obbligatorio o facoltativo - c) conseguenze di un eventuale rifiuto - d) a chi saranno comunicati - e) Chi è il titolare e se è stato designato il Resp. del trattamento.
         box3:
             headline: Adempimenti Interni
-            details: <strong>Misure di sicurezza&#58</strong> Il titolare del trattamento è obbligato ad adottare misure di sicurezza idonee a ridurre al minimo i rischi di distruzione, perdita, accesso non autorizzato o trattamento dei dati personali non consentito o non conforme alle finalità della raccolta (articolo 31 del Codice). In particolare, il titolare deve adottare le misure minime di sicurezza (articolo 33 del Codice e Allegato B al Codice) volte ad assicurare un livello minimo di protezione dei dati personali. L'omessa applicazione delle misure minime di sicurezza è punita con la sanzione amministrativa da 10 Mila a 100 Mila (art.162 comma 2bis).
+            details: <strong>Misure di sicurezza&#58</strong> Il titolare del trattamento è obbligato ad adottare misure di sicurezza idonee a ridurre al minimo i rischi di distruzione, perdita, accesso non autorizzato o trattamento dei dati personali non consentito o non conforme alle finalità della raccolta (articolo 31 del Codice). In particolare, il titolare deve adottare le misure minime di sicurezza (articolo 33 del Codice e Allegato B al Codice) volte ad assicurare un livello minimo di protezione dei dati personali. L'omessa applicazione delle misure minime di sicurezza è punita con la sanzione amministrativa da 10 Mila a 100 Mila euro (art.162 comma 2bis).
         box4:
             headline: Violazione Dati Personali
             details: <strong>Furto Dati&#58</strong> Il Garante per la protezione dei dati personali ha adottato una serie di provvedimenti che fissano per amministrazioni pubbliche e aziende l’obbligo di comunicazione nei casi in cui - a seguito di attacchi informatici, accessi abusivi, incidenti o eventi avversi, come incendi o altre calamità - si dovesse verificare la perdita, la distruzione o la diffusione indebita di dati personali conservati, trasmessi o comunque trattati. La comunicazione agli utenti non è dovuta se si dimostra di aver utilizzato misure di sicurezza nonché sistemi di cifratura e di anonimizzazione che rendono inintelligibili i dati.
 
         welcome_teaser:
             headline: Benvenuto in CryptoTeam!<br/>Vieni a conoscerci.
-            action_button: Scopri
+            action_button: Contattaci
 ########################################################################
 
 
