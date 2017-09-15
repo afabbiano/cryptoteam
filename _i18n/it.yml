@@ -626,7 +626,6 @@ offerta:
                               <li><strong>Identificazione dei Dati</strong></li>
                               <li><strong>Privacy all'interno dei processi informatici</strong></li>
                     download:
-                        headline: Prova a consultarci
                         text: La nostra esperienza può aiutarti a comprendere come gestire i dati in sicurezza e come condividerli bloccanndo i download non autorizzati.<strong></strong>
 
         https:
@@ -658,7 +657,7 @@ offerta:
                     <li><strong>Assistenza Tecnica</strong></li>
                 </ul>
                 <h3>Procedura Certificata CryptoTeam</h3>
-                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono relaizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>"
+                <p>Protocollata come linea guida per tecnici esperti di crittografia. Le chiavi sono realizzate in modo sicuro in assenza di possibili attacchi come ad esempio Virus, Malware, Trojan o simili.</p>"
 
         spostamento:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
@@ -676,8 +675,7 @@ offerta:
                         image:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
-                        text: "<p><strong>Soluzione HW Chiavetta USB</strong> Utente potrà scegliere la chiavetta e la capacità più adatta alle sue esigenze. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta, per cui  il suo utilizzo è facilmente intuitivo. Offriamo una gamma completa e certificata per diverse organizzazioni aziendali.</p>
-                                <p><strong>Prova a coinvolgerci nella scelta al tuo modello.</strong></p>"
+                        text: "<p><strong>Soluzione HW Chiavetta USB</strong>. Utente potrà scegliere la chiavetta e la capacità più adatta alle sue esigenze. Inoltre non ha bisogno di apprendimento l'applicativo di cifratura è nativo all'interno della chiavetta, per cui  il suo utilizzo è facilmente intuitivo. Offriamo una gamma completa e certificata per diverse organizzazioni aziendali.</p>"
 
         accessi:
             headline: Controllo Accessi Sicuro
