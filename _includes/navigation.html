@@ -92,10 +92,10 @@
     		<div id="language-switcher">
             {% if site.lang == "it" %}
                 {% capture link1 %}{{ site.baseurl_root }}en{{ page.url }}{% endcapture %}
-                <span class="language"><a href="/{{ link1 }}">EN</a></span>
+                <!--- <span class="language"><a href="/{{ link1 }}">EN</a></span> --->
             {% else if site.lang == "en" %}
                 {% capture link2 %}{{ site.baseurl_root }}it{{ page.url }}{% endcapture %}
-                <span class="language"><a href="/{{ link2 }}">IT</a></span>
+                <!--- <span class="language"><a href="/{{ link2 }}">IT</a></span> --->
             {% endif %}
     		</div>
         </div> <!-- from collapse div -->
