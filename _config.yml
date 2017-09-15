@@ -17,7 +17,8 @@ exclude: [bin,jobs,README.md]
 
 timezone: UTC
 
-languages: ["it", "it", "en"]
+#languages: ["it", "it", "en"]
+languages: ["it", "it"]
 
 description: global.website.description
 
