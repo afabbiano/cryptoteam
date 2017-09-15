@@ -300,7 +300,7 @@ cosafacciamo:
 
         box4b:
             headline: Private-Mail
-            teaser: "Con un semplice click è possibile comunicare in modalità riservata, potendo allegare qualsiasi documento anch'esso protetto. La nostra proposta si basa su due soluzioni."
+            teaser: "Con un semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto. La nostra proposta si basa su due soluzioni."
             list:
                 li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
                 li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema di crittografia Open Source adatto alle aziende del comparto PMI. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più attenti, che preferiscono una doppia cifratura delle loro comunicazioni - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale. Il risultato è identico a quello della  soluzione 1, ovvero una comunicazione assolutamente protetta e riservata.
