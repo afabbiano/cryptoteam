@@ -720,7 +720,7 @@ offerta:
 
 # Pagina OFFERTA -> Piattaforma PKI (/offerta/pki.html)
     pki:
-        titolo: PKI
+        titolo: Piattaforma PKI
         descrizione: CryptoTeam, gli esperti in sicurezza dei dati e privacy.
 
         carousel:
