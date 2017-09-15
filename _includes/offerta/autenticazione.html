@@ -3,19 +3,21 @@
 		<div class="container">
 			<div class="col-sm-10 col-sm-offset-2 col-md-8 col-md-offset-3">
 				<p class="lead">{% t offerta.cifratura.autenticazione.details.lead %}</p>
+				{% t offerta.cifratura.autenticazione.details.text.block1.text %}
 				<p>
 					<a href="/images/cryptoteam/Autenticazione_OpenXPKI.png" data-lightbox="autenticazione" data-title="Autenticazione OpenXPKI">
 						<img src="/images/cryptoteam/Autenticazione_OpenXPKI.png" alt="Autenticazione OpenXPKI" width="90%" title="Autenticazione OpenXPKI"/>
 					</a>
 				</p>
-        {% t offerta.cifratura.autenticazione.details.text.block1.text %}
         <div class="clearfix"></div>
+				{% t offerta.cifratura.autenticazione.details.text.block2.text %}
 				<p>
 					<a href="/images/cryptoteam/Autenticazione_OpenPGP.png" data-lightbox="autenticazione" data-title="Autenticazione OpenPGP">
 						<img src="/images/cryptoteam/Autenticazione_OpenPGP.png" alt="Autenticazione OpenPGP" width="90%" title="Autenticazione OpenPGP"/>
 					</a>
 				</p>
-        {% t offerta.cifratura.autenticazione.details.text.block2.text %}
+				{% t offerta.cifratura.autenticazione.details.text.block2.token %}
+				<p class="lead"><a class="btn btn-primary" href="{{ 'chisiamo/contatti.html' | to_absoluteurl }}">{% t global.link.contact %} <i class="fa fa-chevron-right"></i></a></p>
 			</div>
 		</div>
 	</div>
