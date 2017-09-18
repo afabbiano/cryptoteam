@@ -302,7 +302,7 @@ cosafacciamo:
             headline: Private-Mail
             teaser: "Con un semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto. La nostra proposta si basa su due soluzioni."
             list:
-                li1: Soluzione 1 - Private-Mail tramite OpenXPKI sistema tecnologicanmente il più all'avanguardia. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
+                li1: Soluzione 1 - Private-Mail tramite OpenXPKI sistema tecnologicamente più completo e innovativo (Private Mail, Digital Identity, Strong Autentication, Firma), adatto per medie e grandi organizzazioni. Gli utenti tramite i propri certificati digitali, lavorano scambiandosi facilmente mail e documenti protetti da crittografia. 
                 li2: Soluzione 2 - Sistema di crittografia adatto alle aziende che hanno minori necessità, oppure in alcuni casi, aggiungendo ulteriore livello di sicurezza (doppia cifratura), viene affiancato alla soluzioni 1. L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale.
 
         box4c:
