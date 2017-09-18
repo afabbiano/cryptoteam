@@ -119,13 +119,13 @@ homepage:
     carousel:
         slide1:
             riga1: Protezione dati
-            riga2: come prosperità economica aziendale
+            riga2: e prosperità economica aziendale
         slide2:
             riga1: Data Protection
-            riga2: con OpenXPKI
+            riga2: tramite OpenXPKI
         slide3:
             riga1: Data Protection
-            riga2: con Cloud in-House
+            riga2: Tramite Cloud in-House
         slide4:
             riga1: Privacy Phone
             riga2: VoIP PBX
