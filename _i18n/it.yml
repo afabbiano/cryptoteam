@@ -88,7 +88,7 @@ navigation:
 # Offerta
         Offerta: Cloud in-House
         Crittografia: Cifratura Dati
-        PiattaformaPKI: Piattaforma PKI
+        PiattaformaPKI: OpenXPKI
         VoIPPBX: VoIP PBX
         IDS: IDS
         CancellazioneSicura: Cancellazione Sicura
@@ -132,15 +132,15 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: La nostra prima chiave PGP per la cifratura dati risale al 1997. Abbiamo accumulato una lunga esperienza nella progettazione e realizzazione di soluzioni per la riservatezza e la protezione dei dati. Possiamo aiutarti a rendere più sicure le tue attività sulla rete&#58 dati, documenti, e tutte le informazioni associate, devono essere cifrate prima di essere scambiate in rete.
+        details: Le imprese sempre di più utilizzano la tecnologia connessa in rete per lavorare e fare business. Le loro infrastrutture insieme ai dispositivi mobile sono in grado di ricevere dati, di elaborarli e di trasmetterli in tempo reale. Quello che stiamo vivendo è uno scenario sulla protezione dei dati fondamentale per le relazioni commerciali. Abbiamo esperienza chiamateci possiamo aiutarvi a rendere sicure le vostre attività. 
 
     riquadri:
         box1:
             headline: Protezione dei dati
             details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. Viene inoltre percepita una aumentata reputazione aziendale, grazie alla professionalità dimostrata nella gestione dei dati degli utenti.
         box2:
-            headline: Piattaforma PKI
-            details: La soluzione PKI (Public Key Infrastrucure, Infrastruttura a Chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. La piattaforma PKI consente la gestione dei certificati digitali, che rendono <strong>illeggibili tutte le attività di comunicazione</strong>, ad esclusione dei legittimi destinatari. L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
+            headline: OpenXPKI
+            details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
         box3:
             headline: Cloud in-House
             details: Si basa sulla tecnica di cifratura “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione sicura dei dati (File Sharing), e il back-up protetto da intercettazioni. In caso di attacco i dati sottratti rimangono illeggibili. Questa tecnologia è aperta alle condivisioni, in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
@@ -354,7 +354,7 @@ cosafacciamo:
             numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
-            teaser: Gestione Semplice e Centralizzata
+            teaser: Intelligence Autentication
             list:
                 li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
                 li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
@@ -576,7 +576,7 @@ offerta:
 
         openxpki:
             headline: Private-Mail con OpenXPKI
-            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
+            lead: Richiedi un preventivo per la soluzione OpenXPKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
             details:
                 lead: "Sistema completo tecnologicamente scalabile garantisce riservatezza a 360 gradi. Non è basato su password tradizionali ma su strumenti automatici come i certificati digitali che permettono di realizzare procedure di invio mail, identificazione, autenticazione e firma, incentrati su fattori cosiddetti più forti."
                 text: "<p><strong>In pratica Security Operations verso tutte le transazioni giornaliere.</strong></p>
@@ -734,7 +734,7 @@ offerta:
                 text: Richiedi la Demo<br/>Contattaci
 
         intro:
-            headline: PKI Infrastruttura Integrata
+            headline: OpenXPKI Infrastructure
             details: Le profonde innovazioni digitali nei processi economici ci impegnano a offrire soluzioni innovative verso la  protezione dei dati e del suo canale di trasmissione. OpenXPKI è una soluzione tecnologica progettata per rendere sicuro lo scambio dati via rete. Security Operations di&#58 mail più tutti i documenti allegati di qualsiasi formato e natura, protezione dell’identità, controllo accessi ai dati, validazione e autenticazione basati su fattore cosiddetti (più), forte e firma elettronica.
 
         riquadri:
@@ -746,7 +746,7 @@ offerta:
                 details: La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
             box3:
                 headline: Strong Autentication
-                details: Nelle aziende le password (tradizionali), sono numerose e dimostrate vulnerabili, oltre che onerose nella gestione. Tramite il certificato digitale si garantisce l'identità reale di chi accede alle applicazioni e ai dati sensibili. Proponiamo una soluzione (forte), basata sullo scambio di comunicazione tra la Digital Identity e Autenticazione sicura.
+                details: Bisogna fare attenzione agli accessi, le password tradizionali si sono rilevate complesse,  numerose, onerose e vulnerabili nella gestione.  Il certificato digitale  garantisce un accesso cosiddetto  (più) forte  alle applicazioni. E’ una Intelligence Autentication, verifica automaticamente l’Identità, luogo di connessione, IP, usi consentiti.
             box4:
                 headline: Firma Elettronica
                 details: I documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità della firma e dei documenti che circolano in rete. Tramite il certificato digitale "openXPKI" si ha la certezza che un insieme di dati in forma elettronica, inclusi nella Digital Identity, di sapere se i documenti e la sua firma sono stati violati.
