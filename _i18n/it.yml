@@ -315,7 +315,7 @@ cosafacciamo:
                 li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo inserito nel browser è protetto dall'algoritmo AES256 a 256 bit quindi visibile solo all'utente che scrive il messaggio. L'amministratore del server non ha alcuna possibilità di conoscere i contenuti, che arrivano al server già crittografati. Per aumentare il livello di sicurezza, i corrispondenti possono applicare una loro password a 32 caratteri (256 bit) oppure a 16 caratteri (128 bit), secondo le proprie necessità.
 
         box5:
-            headline: File Sharing - Condivisione Dati Sicura
+            headline: File Sharing - Condivisione Dati Sicura con Cloud-in House
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
                 li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
