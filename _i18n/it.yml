@@ -746,7 +746,7 @@ offerta:
                 details: La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
             box3:
                 headline: Strong Autentication
-                details: Bisogna fare attenzione agli accessi, le password tradizionali si sono rilevate complesse,  numerose, onerose e vulnerabili nella gestione.  Il certificato digitale  garantisce un accesso cosiddetto  (più) forte  alle applicazioni e ai dati.  E’ una Intelligence autentication , verifica automaticamente l’ Identità,  luogo di connessione, IP, e usi consentiti.
+                details: Bisogna fare attenzione agli accessi, le password tradizionali si sono rilevate complesse,  numerose, onerose e vulnerabili nella gestione.  Il certificato digitale  garantisce un accesso cosiddetto  (più) forte  alle applicazioni. E’ una Intelligence Autentication, verifica automaticamente l’Identità, luogo di connessione, IP, usi consentiti.
             box4:
                 headline: Firma Elettronica
                 details: I documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità della firma e dei documenti che circolano in rete. Tramite il certificato digitale "openXPKI" si ha la certezza che un insieme di dati in forma elettronica, inclusi nella Digital Identity, di sapere se i documenti e la sua firma sono stati violati.
