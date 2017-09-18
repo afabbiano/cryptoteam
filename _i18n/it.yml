@@ -354,7 +354,7 @@ cosafacciamo:
             numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
-            teaser: Gestione Semplice e Centralizzata
+            teaser: Intelligence Autentication
             list:
                 li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
                 li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
