@@ -88,7 +88,7 @@ navigation:
 # Offerta
         Offerta: Cloud in-House
         Crittografia: Cifratura Dati
-        PiattaformaPKI: Piattaforma PKI
+        PiattaformaPKI: OpenXPKI
         VoIPPBX: VoIP PBX
         IDS: IDS
         CancellazioneSicura: Cancellazione Sicura
@@ -119,28 +119,28 @@ homepage:
     carousel:
         slide1:
             riga1: Protezione dati
-            riga2: come prosperità economica aziendale
+            riga2: e prosperità economica aziendale
         slide2:
-            riga1: Privacy
-            riga2: Piattaforma PKI
+            riga1: Data Protection
+            riga2: tramite OpenXPKI
         slide3:
-            riga1: Privacy
-            riga2: Cloud in-House
+            riga1: Data Protection
+            riga2: tramite Cloud in-House
         slide4:
             riga1: Privacy Phone
             riga2: VoIP PBX
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: La nostra prima chiave PGP per la cifratura dati risale al 1997. Abbiamo accumulato una lunga esperienza nella progettazione e realizzazione di soluzioni per la riservatezza e la protezione dei dati. Possiamo aiutarti a rendere più sicure le tue attività sulla rete&#58 dati, documenti, e tutte le informazioni associate, devono essere cifrate prima di essere scambiate in rete.
+        details: Le imprese sempre di più utilizzano la tecnologia connessa in rete per lavorare e fare business. Le loro infrastrutture insieme ai dispositivi mobile sono in grado di ricevere dati, di elaborarli e di trasmetterli in tempo reale. Quello che stiamo vivendo è uno scenario sulla protezione dei dati fondamentale per le relazioni commerciali. Abbiamo esperienza chiamateci possiamo aiutarvi a rendere sicure le vostre attività. 
 
     riquadri:
         box1:
             headline: Protezione dei dati
             details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. Viene inoltre percepita una aumentata reputazione aziendale, grazie alla professionalità dimostrata nella gestione dei dati degli utenti.
         box2:
-            headline: Piattaforma PKI
-            details: La soluzione PKI (Public Key Infrastrucure, Infrastruttura a Chiave Pubblica), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. La piattaforma PKI consente la gestione dei certificati digitali, che rendono <strong>illeggibili tutte le attività di comunicazione</strong>, ad esclusione dei legittimi destinatari. L'accesso sicuro ai servizi è regolato dalla Policy Aziendale&#58 Privacy Mail – Dati Sensibili – Cloud - Digital Identity - Strong Autentication - Firma.
+            headline: OpenXPKI
+            details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
         box3:
             headline: Cloud in-House
             details: Si basa sulla tecnica di cifratura “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione sicura dei dati (File Sharing), e il back-up protetto da intercettazioni. In caso di attacco i dati sottratti rimangono illeggibili. Questa tecnologia è aperta alle condivisioni, in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
@@ -300,14 +300,14 @@ cosafacciamo:
 
         box4b:
             headline: Private-Mail
-            teaser: "Con un semplice click è possibile comunicare in modalità riservata, potendo allegare qualsiasi documento anch'esso protetto. La nostra proposta si basa su due soluzioni."
+            teaser: "Con un semplice click è possibile comunicare in modalità riservata, allegando qualsiasi documento anch'esso protetto. La nostra proposta si basa su due soluzioni."
             list:
-                li1: Soluzione 1 - Private-Mail con OpenXPKI. Sistema completo e molto potente. Viene integrato nei processi informatici come Autorità di Certficazione Aziendale. Gli utenti in modo automatico tramite i propri certificati digitali (Identity, Autenticazione, Autorizzazione, Firma,) si scambiano mail + allegati in assoluta riservatezza.
-                li2: Soluzione 2 - Private-Mail con OpenPGP. Sistema di crittografia Open Source adatto alle aziende del comparto PMI. Al contrario è spesso affiancato alla soluzioni 1 dai dirigenti più attenti, che preferiscono una doppia cifratura delle loro comunicazioni - L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale. Il risultato è identico a quello della  soluzione 1, ovvero una comunicazione assolutamente protetta e riservata.
+                li1: Soluzione 1 - Private-Mail tramite OpenXPKI sistema tecnologicamente più completo e innovativo (Private Mail, Digital Identity, Strong Autentication, Firma), adatto per medie e grandi organizzazioni. Gli utenti tramite i propri certificati digitali, lavorano scambiandosi facilmente mail e documenti protetti da crittografia.
+                li2: Soluzione 2 - Private-Mail tramite OpenPGP Sistema di crittografia adatto ad aziende che hanno minori necessità, oppure in alcuni casi, aggiungendo ulteriore livello di sicurezza (doppia cifratura), viene affiancato alla soluzioni 1. L'utente viene istruito e dotato di chiavetta USB univoca, all'interno della quale vengono inserite le chiavi PGP (algoritmi RSA o curve Ellitiche), associate alla mail personale.
 
         box4c:
             headline: Private*Bin
-            teaser: In azienda Private*Bin è un servizio utilissimo, ottima risorsa on line protetta da crittografia per comunicazioni veloci riservate. Può essere utilizzato in modo che le informazioni scritte si cancellino automaticamente dopo la lettura.
+            teaser: In azienda Private*Bin è un servizio utilissimo, ottima risorsa on line via browser protetta da crittografia per comunicazioni veloci e occasionali. Può essere utilizzato in modo che le informazioni scritte si cancellino automaticamente dopo la lettura.
             list:
                 li1: Rapido e facile da usare, è possibile impostare un tempo di scadenza per la lettura del testo, più precisamente il testo scritto può rimanere visibile fino alla data di scadenza impostata (es. 5 minuti, 1 ora, 1 gg., 1 settimana, 1 mese, 1 anno oppure senza scadenza).
                 li2: Concordando la password da utilizzare, il Private*Bin consente di lavorare anche verso ristretti gruppi di lavoro.
@@ -315,7 +315,7 @@ cosafacciamo:
                 li4: L'interfaccia grafica aiuta gli utenti a operare in pochi secondi, in più è sicuro perché il testo inserito nel browser è protetto dall'algoritmo AES256 a 256 bit quindi visibile solo all'utente che scrive il messaggio. L'amministratore del server non ha alcuna possibilità di conoscere i contenuti, che arrivano al server già crittografati. Per aumentare il livello di sicurezza, i corrispondenti possono applicare una loro password a 32 caratteri (256 bit) oppure a 16 caratteri (128 bit), secondo le proprie necessità.
 
         box5:
-            headline: File Sharing - Condivisione Dati Sicura
+            headline: File Sharing - Condivisione Dati Sicura con Cloud-in House
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
                 li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
@@ -332,11 +332,11 @@ cosafacciamo:
 
         box7:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
-            teaser: Il trasferimento fisico dei dati da una sede all'altra è tencicamente sicuro, viene offerto in due modalità&#58
+            teaser: Consigliamo il trasferimento fisico dei dati sicuro da una sede all'altra in queste due modalità&#58
             list:
-                li1: Soluzione HD Virtuale - Applicativo di cifratura dati multi piattaforma viene installato su chiavetta o HD (usb). E' necessario installare il software anche sui client con i quali l'utente lavora.  L'installazione può essere standard o particolare,  cioè eseguita partizionando un disco (es. 10 gb), e creando un secondo HD nascosto all'interno del primo (es. 2 gb).  Questa modalità  garantisce l’invisibilità del file da 2 gb contenuto all’interno del disco 10 gb.
-                li2: Soluzione HW Chiavetta e HD Usb - Applicativo di cifratura nativo all'interno della chiavetta dati. I dispositivi di archiviazioni sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
-                li3: In entrami i due casi, soluzione HD virtuale e soluzione HW Chiavetta o HD, in caso di smarrimento SONO AUTOMATICAMENTE RESI inutilizzabili.
+                li1: Soluzione software HD virtuale - Applicativo di cifratura dati viene installato su chiavetta o HD usb, in dotazione all’utente. In più è' necessario installare il software anche su uno o più client, con i quali l'utente lavora.  L'installazione può essere eseguita in modalità standard o personalizzata, esempio partizionando un disco 10 GB, e creando un secondo HD nascosto all'interno del primo 2GB.  Questa modalità  garantisce l’invisibilità del file da 2 GB contenuto all’interno del disco 10GB, e un trattamento dati sensibili ulteriormente protetto.
+                li2: Soluzione HW Chiavetta usb - Applicativo di cifratura è nativo all'interno della chiavetta. I dispositivi di archiviazione sono stati progettati per diverse organizzazioni aziendali ed hanno un gamma completa e certificata.
+                li3: In entrami i casi (soluzione HD virtuale e soluzione HW), per maggiore sicurezza, in caso di furto o smarrimento i dispositivi sono resi automaticamente dal sistema inutilizzabili.
 
 ########################################################################
 
@@ -354,7 +354,7 @@ cosafacciamo:
             numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
-            teaser: Gestione Semplice e Centralizzata
+            teaser: Intelligence Autentication
             list:
                 li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
                 li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
@@ -374,7 +374,7 @@ cosafacciamo:
         box1:
             headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo nella gestione dei dati a riposo. I tuoi dati non devono necessariamente dipendere da fornitori di servizi che possono <strong>mettere a rischio i tuoi dati riservati.</strong>
+            description: La nostra soluzione Cloud in-House ha l’obiettivo  di renderti autonomo nella gestione dei dati a riposo. I tuoi dati non devono necessariamente dipendere da fornitori di servizi che possono <strong>mettere a rischio i tuoi dati (riservati), visualizzandoli.</strong>
             numbers: Cloud in-House ha l'obiettivo di garantirti alti standard di condivisione e di sicurezza.
 
         box2:
@@ -576,7 +576,7 @@ offerta:
 
         openxpki:
             headline: Private-Mail con OpenXPKI
-            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
+            lead: Richiedi un preventivo per la soluzione OpenXPKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
             details:
                 lead: "Sistema completo tecnologicamente scalabile garantisce riservatezza a 360 gradi. Non è basato su password tradizionali ma su strumenti automatici come i certificati digitali che permettono di realizzare procedure di invio mail, identificazione, autenticazione e firma, incentrati su fattori cosiddetti più forti."
                 text: "<p><strong>In pratica Security Operations verso tutte le transazioni giornaliere.</strong></p>
@@ -734,7 +734,7 @@ offerta:
                 text: Richiedi la Demo<br/>Contattaci
 
         intro:
-            headline: PKI Infrastruttura Integrata
+            headline: OpenXPKI Infrastructure
             details: Le profonde innovazioni digitali nei processi economici ci impegnano a offrire soluzioni innovative verso la  protezione dei dati e del suo canale di trasmissione. OpenXPKI è una soluzione tecnologica progettata per rendere sicuro lo scambio dati via rete. Security Operations di&#58 mail più tutti i documenti allegati di qualsiasi formato e natura, protezione dell’identità, controllo accessi ai dati, validazione e autenticazione basati su fattore cosiddetti (più), forte e firma elettronica.
 
         riquadri:
@@ -746,7 +746,7 @@ offerta:
                 details: La Digital Identity Aziendale ha un ruolo chiave nel busisness. Le aziende hanno capito di avere bisogno di proteggere il proprio lavoro, l’identità dei propri collaboratori e dei propri clienti, la loro reputazione ecc.. Il certificato digitale della PKI è uno strumento che fa aumentare la fiducia e il successo delle proprie iniziative.
             box3:
                 headline: Strong Autentication
-                details: Nelle aziende le password (tradizionali), sono numerose e dimostrate vulnerabili, oltre che onerose nella gestione. Tramite il certificato digitale si garantisce l'identità reale di chi accede alle applicazioni e ai dati sensibili. Proponiamo una soluzione (forte), basata sullo scambio di comunicazione tra la Digital Identity e Autenticazione sicura.
+                details: Bisogna fare attenzione agli accessi, le password tradizionali si sono rilevate complesse,  numerose, onerose e vulnerabili nella gestione.  Il certificato digitale  garantisce un accesso cosiddetto  (più) forte  alle applicazioni. E’ una Intelligence Autentication, verifica automaticamente l’Identità, luogo di connessione, IP, usi consentiti.
             box4:
                 headline: Firma Elettronica
                 details: I documenti sono sempre in aumento, per cui le imprese devono mettersi al sicuro dai possibili rischi. E' necessario avere l'integrità della firma e dei documenti che circolano in rete. Tramite il certificato digitale "openXPKI" si ha la certezza che un insieme di dati in forma elettronica, inclusi nella Digital Identity, di sapere se i documenti e la sua firma sono stati violati.
