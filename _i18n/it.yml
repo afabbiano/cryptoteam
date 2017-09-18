@@ -88,7 +88,7 @@ navigation:
 # Offerta
         Offerta: Cloud in-House
         Crittografia: Cifratura Dati
-        PiattaformaPKI: Piattaforma PKI
+        PiattaformaPKI: OpenXPKI
         VoIPPBX: VoIP PBX
         IDS: IDS
         CancellazioneSicura: Cancellazione Sicura
@@ -576,7 +576,7 @@ offerta:
 
         openxpki:
             headline: Private-Mail con OpenXPKI
-            lead: Richiedi un preventivo per una piattaforma PKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
+            lead: Richiedi un preventivo per la soluzione OpenXPKI (Public Key Infrastructure), sistema avanzato di cifratura. Il top della tecnologia, necessario per la protezione delle mail e di tutti i file allegati. Tecnologia che permette di trasformare facilmente i contenuti in modo incomprensibile, ovvero leggibili e accessibili solo agli utenti autorizzati.  Progettato per soddisfare esigenze di grandi e medie organizzazioni&#58 comunicazioni scritte, autenticazione per l’accesso ai dati, identità e firma. Qualunque azienda senza un adeguato sistema di protezione può essere vittima di spionaggio o di furto dati&#58 segreti industriali, segreti commerciali, Know-How inteso come patrimonio aziendale.
             details:
                 lead: "Sistema completo tecnologicamente scalabile garantisce riservatezza a 360 gradi. Non è basato su password tradizionali ma su strumenti automatici come i certificati digitali che permettono di realizzare procedure di invio mail, identificazione, autenticazione e firma, incentrati su fattori cosiddetti più forti."
                 text: "<p><strong>In pratica Security Operations verso tutte le transazioni giornaliere.</strong></p>
@@ -734,7 +734,7 @@ offerta:
                 text: Richiedi la Demo<br/>Contattaci
 
         intro:
-            headline: PKI Infrastruttura Integrata
+            headline: OpenXPKI Infrastructure
             details: Le profonde innovazioni digitali nei processi economici ci impegnano a offrire soluzioni innovative verso la  protezione dei dati e del suo canale di trasmissione. OpenXPKI è una soluzione tecnologica progettata per rendere sicuro lo scambio dati via rete. Security Operations di&#58 mail più tutti i documenti allegati di qualsiasi formato e natura, protezione dell’identità, controllo accessi ai dati, validazione e autenticazione basati su fattore cosiddetti (più), forte e firma elettronica.
 
         riquadri:
