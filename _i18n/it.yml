@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: Le imprese sempre di più utilizzano la tecnologia connessa in rete per lavorare e fare business. Le loro infrastrutture insieme ai dispositivi mobile sono in grado di ricevere dati, di elaborarli e di trasmetterli in tempo reale. Quello che stiamo vivendo è uno scenario sulla protezione dei dati fondamentale per le relazioni commerciali. Abbiamo esperienza chiamateci possiamo aiutarvi a rendere sicure le vostre attività. 
+        details: Il numero complessivo degli attacchi e degli incidenti Informatici è aumentato in modo significativo, mentre servizi e tecnologie convergono ed influenzano sempre più infrastrutture ed operation dei modelli di business. Attraverso un approccio specializzato ed un’organizzazione flessibile, aiutiamo i nostri clienti a implementare sistemi di sicurezza <strong>"Privacy e Data Protection</strong>” che consentano di migliorare le performance e ottenere vantaggi competitivi.
 
     riquadri:
         box1:
@@ -291,12 +291,12 @@ cosafacciamo:
             headline: https - Hypertext Transfer Protocol Secure -
             teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione avvenga in modo protetto, cioè i loro dati messi al sicuro dal protocollo di navigazione. Le statistiche dimostrano un dato storico inconfutabile ovvero gli utenti sono incoraggiati a fare business solo con i siti protetti dal protocollo https.
             list:
-                li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
+                li1: Aumento della fiducia da parte dei corrispondenti si traduce in crescita aziendale
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
-                li3: Persino un dipendente non autorizzato non potrà visualizzarei dati
+                li3: Anche un dipendente non autorizzato - policy aziendale - non potrà visualizzare i dati
                 li4: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
-                li5: Miglioramento dell'immagine aziendale, del suo prestigio e della sua reputazione
-                li6: Una infrastruttura IT all'avanguardia porta come ulteriore risultato un aumento del valore aziendale
+                li5: Beneficio verso l'immagine aziendale, il suo prestigio e la sua reputazione
+                li6: Una infrastruttura IT all'avanguardia porta - come ulteriore risultato - un aumento del valore patrimoniale
 
         box4b:
             headline: Private-Mail
@@ -345,23 +345,24 @@ cosafacciamo:
         icona: Controllo Accessi
         teaser: Controllo accessi
         titolo: Controllo Accessi Sicuro e Automatico
-        sottotitolo: E' reale il bisogno da parte delle imprese di avere una gestione più sicura degli accessi ai servizi&#58 Posta, Cloud, Sito Web. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
+        sottotitolo: Le imprese hanno bisogno una gestione più sicura degli accessi ai servizi&#58 Posta, Cloud, Sito Web. Lasciare le password a portata di tutti o tenerle non custodite permette a chiunque di impadronirsi della tua attività.
         descrizione: Descrizione pagina COSA FACCIAMO --> Controllo
 
         box1:
-            headline: La nostra soluzione si basa su tecnologia specifica per il riconoscimento univoco come fattore forte. Riconosce tutti i device di rete e utenti&#58 Server, Client, Utenti Interni & Esterni.
+            headline: La soluzione si basa su tecnologia per il riconoscimento univoco cosiddetto fattore (più) forte. Autenticazione inteligente e personalizzazione degli allarmi, è possibile sapere chi accede, da dove, con quale device usualmente accede e quante volte.
             description: Le architetture sono progettate per impedire l'accesso ai Server e validare l'accesso sicuro ai servizi esclusivamente agli utenti autorizzati.
             numbers: L'aumento della complessità tecnica “codifica e decodifica” di riconoscimento e di identificazione non introduce latenza nella rete, soprattutto semplifica la gestione agli utenti e agli amministratori di sistema con il vantaggio di non dipendere dalle solite password. E' importante accede ai dati in modo sicuro e automatico ma è altrettanto importante  condividerli in ambienti chiusi e privi di vulnerabilità.
 
         box2:
             teaser: Intelligence Autentication
             list:
-                li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
-                li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
-                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare? Con quale device posso connetermi? Con quale IP? Da dove posso connerttermi?
-                li4: Usi Consenti (disciplinati dalla Policy).
-                li5: Tipo di Chiave Pubblica.
-                li6: Tipo di Firma elettronica.
+                li1: Semplifica la gestione agli utenti e IT manager.
+                li2: Riconoscimento Univoco (Nome Utente o Device, ID associato).
+                li3: Riconoscimento dei profili esempio&#58 Cosa possono fare? Con quale device usualmente posso connetermi? Quante volte mi connetto? Con quale IP? Da dove posso connerttermi?
+                li4: Usi Consenti e tipo e scadenza certificato digitale.
+                li5: Possibilità di analisi e correlazione degli eventi.
+                li6: Tipo di Chiave Pubblica.
+                li7: Tipo di Firma elettronica.
 ########################################################################
 
 # Pagina COSA FACCIAMO--->CLOUD (/cosafacciamo/cloud.html)
