@@ -356,11 +356,12 @@ cosafacciamo:
         box2:
             teaser: Intelligence Autentication
             list:
-                li1: Riconoscimento Univoco (Nome Utente o Device, ID associato).
-                li2: Tipo di Certificato Emesso (Tipo e data di scadenza).
+                li1: Semplifica la gestione agli utenti e IT manager.
+                li2: Riconoscimento Univoco (Nome Utente o Device, ID associato).
                 li3: Riconoscimento dei profili esempio&#58 Cosa possono fare? Con quale device usualmente posso connetermi? Quante volte mi connetto? Con quale IP? Da dove posso connerttermi?
-                li4: Usi Consenti (disciplinati dalla Policy).
-                li5: Tipo di Chiave Pubblica.
+                li4: Usi Consenti e tipo e scadenza certificato digitale.
+                li5: Possibilità di analisi e correlazione degli eventi 
+                li6: Tipo di Chiave Pubblica.
                 li6: Tipo di Firma elettronica.
 ########################################################################
 
