@@ -291,12 +291,12 @@ cosafacciamo:
             headline: https - Hypertext Transfer Protocol Secure -
             teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione avvenga in modo protetto, cioè i loro dati messi al sicuro dal protocollo di navigazione. Le statistiche dimostrano un dato storico inconfutabile ovvero gli utenti sono incoraggiati a fare business solo con i siti protetti dal protocollo https.
             list:
-                li1: Aumento della fiducia da parte dei corrispondenti significa crescita aziendale
+                li1: Aumento della fiducia da parte dei corrispondenti si traduce in crescita aziendale
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
-                li3: Persino un dipendente non autorizzato non potrà visualizzarei dati
+                li3: Anche un dipendente non autorizzato - policy aziendale - non potrà visualizzare i dati
                 li4: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
-                li5: Miglioramento dell'immagine aziendale, del suo prestigio e della sua reputazione
-                li6: Una infrastruttura IT all'avanguardia porta come ulteriore risultato un aumento del valore aziendale
+                li5: Beneficio verso l'immagine aziendale, il suo prestigio e la sua reputazione
+                li6: Una infrastruttura IT all'avanguardia porta - come ulteriore risultato - un aumento del valore patrimoniale
 
         box4b:
             headline: Private-Mail
