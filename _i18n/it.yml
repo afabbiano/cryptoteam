@@ -316,7 +316,7 @@ cosafacciamo:
             headline: File Sharing - Condivisione Dati Sicura con Cloud-in House
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
+                li1: Mediante specifiche APP per apparati mobili - Smartphone e Ipad - è possibile sincronizzare grossi file fino a 512Mb (limite superabile dipendente dal File System e dal Sistema Operativo).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Ecosistema protetto da crittografia a chiavi pubbliche a 4096 bit SHA256.
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
