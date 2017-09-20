@@ -289,7 +289,7 @@ cosafacciamo:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione avvenga in modo protetto, cioè i loro dati messi al sicuro dal protocollo di navigazione. Le statistiche dimostrano un dato storico inconfutabile ovvero gli utenti sono incoraggiati a fare business solo con i siti protetti dal protocollo https.
+            teaser: Un sito internet sicuro  utilizza il protocollo https. I protocolli di sicurezza emessi dalle Certification Autority  forniscono meccanismi di sicurezza che soddisfano qualsiasi requisito di sicurezza aziendale esistente relativo la tutela della privacy. Il protocollo https è quindi essenziale per tutti i siti web che richiedono agli utenti l’inserimento di informazioni sensibili o dati necessari ad autorizzare lo svolgimento dei servizi.
             list:
                 li1: Aumento della fiducia da parte dei corrispondenti si traduce in crescita aziendale
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
