@@ -316,7 +316,7 @@ cosafacciamo:
             headline: File Sharing - Condivisione Dati Sicura con Cloud-in House
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Mediante specifiche APP per apparati mobili - Smartphone e Ipad - è possibile sincronizzare grossi file fino a 512Mb (limite superabile dipendente dal File System e dal Sistema Operativo).
+                li1: Mediante specifiche APP per apparati mobili - Smartphone e Ipad - è possibile sincronizzare grossi file fino a 512Mb (limite superabile e dipendente dal File System e dal Sistema Operativo).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Ecosistema protetto da crittografia a chiavi pubbliche a 4096 bit SHA256.
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
@@ -325,7 +325,7 @@ cosafacciamo:
             headline: Cifratura Dati a Riposo con Cloud in-House
             teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. La soluzione standard attiva la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associata a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
-                li1: I processi di salvataggio dati avvengono tramite cifratura a 256 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
 
         box7:
