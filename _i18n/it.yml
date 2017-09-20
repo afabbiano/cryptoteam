@@ -289,7 +289,7 @@ cosafacciamo:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro  utilizza il protocollo https. I protocolli di sicurezza emessi dalle Certification Autority forniscono meccanismi di sicurezza che soddisfano qualsiasi requisito di sicurezza aziendale esistente relativo la tutela della privacy. Il protocollo https è quindi essenziale per tutti i siti web che richiedono agli utenti l’inserimento di informazioni sensibili o dati necessari ad autorizzare lo svolgimento dei servizi che il sito mette a disposizione.
+            teaser: Un sito internet sicuro  utilizza il protocollo https. I protocolli di sicurezza da noi offerti forniscono meccanismi di sicurezza che soddisfano qualsiasi requisito di sicurezza aziendale esistente relativo la tutela della privacy. Il protocollo https è quindi essenziale per tutti i siti web che richiedono agli utenti l’inserimento di informazioni sensibili o dati necessari ad autorizzare lo svolgimento dei servizi offerti.
             list:
                 li1: Supporto e implementazione di protocolli di sicurezza customizzabili in relazione alla strategia del cliente
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
