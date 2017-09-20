@@ -291,12 +291,10 @@ cosafacciamo:
             headline: https - Hypertext Transfer Protocol Secure -
             teaser: Un sito internet sicuro  utilizza il protocollo https. I protocolli di sicurezza emessi dalle Certification Autority forniscono meccanismi di sicurezza che soddisfano qualsiasi requisito di sicurezza aziendale esistente relativo la tutela della privacy. Il protocollo https è quindi essenziale per tutti i siti web che richiedono agli utenti l’inserimento di informazioni sensibili o dati necessari ad autorizzare lo svolgimento dei servizi che il sito mette a disposizione.
             list:
-                li1: Aumento della fiducia da parte dei corrispondenti si traduce in crescita aziendale
+                li1: Supporto e implementazione di protocolli di sicurezza customizzabili in relazione alla strategia del cliente
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
-                li3: Anche un dipendente non autorizzato - policy aziendale - non potrà visualizzare i dati
-                li4: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
-                li5: Beneficio verso l'immagine aziendale, il suo prestigio e la sua reputazione
-                li6: Una infrastruttura IT all'avanguardia porta - come ulteriore risultato - un aumento del valore patrimoniale
+                li3: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
+                li4: VANTAGGI&°58 immagine aziendale, prestigio reputazionale, aumento della fiducia da parte utenti, infrastruttura IT all'avanguardia
 
         box4b:
             headline: Private-Mail
