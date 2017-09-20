@@ -289,14 +289,12 @@ cosafacciamo:
 
         box4a:
             headline: https - Hypertext Transfer Protocol Secure -
-            teaser: Un sito internet sicuro utilizza il protocollo https. Gli utenti si aspettano che la navigazione avvenga in modo protetto, cioè i loro dati messi al sicuro dal protocollo di navigazione. Le statistiche dimostrano un dato storico inconfutabile ovvero gli utenti sono incoraggiati a fare business solo con i siti protetti dal protocollo https.
+            teaser: Un sito internet sicuro  utilizza il protocollo https. I protocolli di sicurezza da noi offerti forniscono meccanismi di sicurezza che soddisfano qualsiasi requisito di sicurezza aziendale esistente relativo la tutela della privacy. Il protocollo https è quindi essenziale per tutti i siti web che richiedono agli utenti l’inserimento di informazioni sensibili o dati necessari ad autorizzare lo svolgimento dei servizi offerti.
             list:
-                li1: Aumento della fiducia da parte dei corrispondenti si traduce in crescita aziendale
+                li1: Supporto e implementazione di protocolli di sicurezza customizzabili in relazione alla strategia del cliente
                 li2: Cifratura fino 4096 bit SHA256 i dati se fossero intercettati da malintenzionati risulterebbero non leggibili
-                li3: Anche un dipendente non autorizzato - policy aziendale - non potrà visualizzare i dati
-                li4: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
-                li5: Beneficio verso l'immagine aziendale, il suo prestigio e la sua reputazione
-                li6: Una infrastruttura IT all'avanguardia porta - come ulteriore risultato - un aumento del valore patrimoniale
+                li3: Trattamento dei dati conforme alla nuova normativa GDPR (UE Reg.2016/679 General Data Protection Regulation)
+                li4: VANTAGGI&#58 immagine aziendale, prestigio reputazionale, aumento della fiducia da parte utenti, infrastruttura IT all'avanguardia
 
         box4b:
             headline: Private-Mail
@@ -318,7 +316,7 @@ cosafacciamo:
             headline: File Sharing - Condivisione Dati Sicura con Cloud-in House
             teaser: L'accesso sicuro ai dati può avvenire in ogni luogo e in qualunque momento, indipendentemente dalla piattaforma utilizzata.
             list:
-                li1: Sono disponibili specifiche APP per apparati mobili, Smartphone e Ipad. - E' possibile sincronizzare grossi file fino a 512Mb (se necessario questo limite può essere superato, secondo i limiti imposti dal File System e dal Sistema Operativo).
+                li1: Mediante specifiche APP per apparati mobili - Smartphone e Ipad - è possibile sincronizzare grossi file fino a 512Mb (limite superabile e dipendente dal File System e dal Sistema Operativo).
                 li2: Gli Utenti possono lavorare creando condivisioni pubbliche sicure (OTP - One Time Password), oppure possono essere autorizzati volta per volta (Password Temporanee trasmesse via SMS).
                 li3: Ecosistema protetto da crittografia a chiavi pubbliche a 4096 bit SHA256.
                 li4: L'amministratore di sistema sarà in grado di verificare quotidianamente lo storico delle modifiche in quanto il dato viene sempre cronologicamente tracciato.
@@ -327,8 +325,9 @@ cosafacciamo:
             headline: Cifratura Dati a Riposo con Cloud in-House
             teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. La soluzione standard attiva la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associata a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
-                li1: I processi di salvataggio dati avvengono tramite cifratura a 256 bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
-                li2: Per le aziende che volessero aggiungere un ulteriore livello di sicurezza consigliamo di fare un back-up aggiuntivo con un qualsiasi service provider a condizione  di cifrare i dati prima di trasferirli nel cloud, e di decifrarli solo a trasferimento inverso avvenuto. Inoltre è importante conoscere in quale paese i dati risiedono. Il salvataggio Dati Personali o il trasferimento da paesi appartenenti all'UE verso paesi Terzi (non UE), è vietato in linea di principio, a meno che il paese in questione garantisca un livello di protezione definito ADEGUATO. La commissione della Comunità Europaea ha il potere di stabilire tale adeguatezza (art. 25, commma 6, della Dir. 95/46CE - 26 Luglio 2000), pertanto è necessario valutare con esattezza qual'è il paese di destinazione (dove risiedono i dati), e la conformità delle clausole contrattuali.
+                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li2: Supporto e implementazione di sistemi di sicurezza customizzabili in relazione alla strategia del cliente.
+                li3: ESEMPIO&#58  ulteriori necessità di  back-up e service provider  aggiuntivi.  Verifica  normative e dei paesi nei quali i dati risiederebbero (paesi UE trasferimento vietato in linea di principio, previo verifica del livello di adeguatezza art. 25, comma 6, della Dir. 95/46CE - 26 Luglio 2000 e conformità delle clausole).
 
         box7:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
