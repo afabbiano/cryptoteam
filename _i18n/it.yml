@@ -137,7 +137,7 @@ homepage:
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. Viene inoltre percepita una aumentata reputazione aziendale, grazie alla professionalità dimostrata nella gestione dei dati degli utenti.
+            details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina <strong>maggiore fiducia</strong> da parte dei soggetti interni e esterni che collaborano&#58 clienti, fornitori, collaboratori e partner in genere. Riscontrando una gestione dei dati (che li riguardano), professionale e conforme alle norme in termini di reputazione la data protection è nodale.
         box2:
             headline: OpenXPKI
             details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
