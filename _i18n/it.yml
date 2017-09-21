@@ -325,9 +325,9 @@ cosafacciamo:
             headline: Cifratura Dati a Riposo con Cloud in-House
             teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. Di default viene attivata la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associati a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
-                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli per la cifratura dati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Supporto e implementazione di sistemi di sicurezza customizzabili in relazione alla strategia del cliente.
-                li3: ESEMPIO&#58  ulteriori necessità di  back-up e service provider  aggiuntivi.  Verifica  normative e dei paesi nei quali i dati risiederebbero (paesi UE trasferimento vietato in linea di principio, previo verifica del livello di adeguatezza art. 25, comma 6, della Dir. 95/46CE - 26 Luglio 2000 e conformità delle clausole).
+                li3: ESEMPIO&#58  ulteriori necessità di back-up e service provider aggiuntivi. Verifica  normative e dei paesi nei quali i dati risiederebbero (paesi UE trasferimento vietato in linea di principio, previo verifica del livello di adeguatezza art. 25, comma 6, della Dir. 95/46CE - 26 Luglio 2000 più verifica conformità delle clausole).
 
         box7:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
