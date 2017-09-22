@@ -137,7 +137,7 @@ homepage:
     riquadri:
         box1:
             headline: Protezione dei dati
-            details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina l’<strong>aumento della fiducia</strong> da parte di tutti&#58 Clienti, Fornitori, Collaboratori, Corrispondenti, Partner e qualunque altra categoria di utenti. Viene inoltre percepita una aumentata reputazione aziendale, grazie alla professionalità dimostrata nella gestione dei dati degli utenti.
+            details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina <strong>maggiore fiducia</strong> da parte dei soggetti che collaborano esempio&#58 clienti, fornitori, collaboratori e partner in genere. I quali riscontrando una gestione dei propri dati, professionale e conforme alle norme, in termini di reputazione, la data protection viene ritenuta nodale per gli interessi comuni.
         box2:
             headline: OpenXPKI
             details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
@@ -284,7 +284,7 @@ cosafacciamo:
         icona: Protezione Dati
         teaser: Proteggiamo Dati Ininterrottamente
         titolo: Presentiamo in dettaglio alcune nostre soluzioni
-        sottotitolo: I Dati Aziendali hanno un valore economico importante che è necessario difendere
+        sottotitolo: I Dati Aziendali hanno un valore economico importante da tutelare
         descrizione: Prova descrizione in protezione, prova, prova
 
         box4a:
@@ -323,11 +323,11 @@ cosafacciamo:
 
         box6:
             headline: Cifratura Dati a Riposo con Cloud in-House
-            teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. La soluzione standard attiva la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associata a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
+            teaser: I dati sono salvati sui server aziendali, con Back-up su piattaforma Cloud-in House. Di default viene attivata la protezione tramite la tecnica di cifratura sistematica di tutti i dati aziendali salvati, associati a forme di condivisione controllata. In questo modo viene garantita all’azienda maggiore produttività e sicurezza.
             list:
-                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli utilizzati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
+                li1: Implementazione di processi di salvataggio dati tramite cifratura a 256 bit bit algoritmo SHA256. I protocolli per la cifratura dati sono consigliati dal Codice dell' Amministratozione Digitale (CAD - digitpa.gov.it), e dal Garante della Protezione Dati Personali.
                 li2: Supporto e implementazione di sistemi di sicurezza customizzabili in relazione alla strategia del cliente.
-                li3: ESEMPIO&#58  ulteriori necessità di  back-up e service provider  aggiuntivi.  Verifica  normative e dei paesi nei quali i dati risiederebbero (paesi UE trasferimento vietato in linea di principio, previo verifica del livello di adeguatezza art. 25, comma 6, della Dir. 95/46CE - 26 Luglio 2000 e conformità delle clausole).
+                li3: ESEMPIO&#58  ulteriori necessità di back-up e service provider aggiuntivi. Verifica  normative e dei paesi nei quali i dati risiederebbero (paesi UE trasferimento vietato in linea di principio, previo verifica del livello di adeguatezza art. 25, comma 6, della Dir. 95/46CE - 26 Luglio 2000 più verifica conformità delle clausole).
 
         box7:
             headline: Trasferimento Fisico Dati tra più sedi con Chiavetta o Hd
@@ -1302,7 +1302,7 @@ chisiamo:
         details: "In futuro vivremo sempre di più a contatto di oggetti costantemente connessi in rete (IoT - Internet delle Cose), che saranno in grado di captare i nostri dati, di elaborarli, e di trasmetterli ad altri oggetti. Quello che ci attende è uno scenario che avrà al centro il tema della protezione dei dati. La <strong>Sicurezza</strong> e la <strong>Privacy</strong>, già oggi al centro dell'attenzione dei media, diventeranno fondamentali per le relazioni commerciali basate sul web. Le aziende hanno bisogno di vere garanzie: i dati scambiati non devono essere letti o intercettati da soggetti non autorizzati (rischio intercettazione MiTM, Man in The Middle). La rete è una grande occasione di business per lo sviluppo economico, per questo devono essere garantite adeguate misure di sicurezza e di Privacy nella propria infrastruttura IT. Prendiamo come esempio i grandi gruppi (Commerciali, Finanziari, Industriali, ecc), una attenta gestione della privacy ha fortemente contribuito ad ottenere sempre <strong>Risultati Vincenti</strong>."
     box2:
         headline: Storia Commerciale
-        details: CryptoTeam è la nuova sfida di 2 professionisti IT che hanno operato nel settore ITC per oltre 20 anni, prima come colleghi in una società informatica (tra i primi produttori nazionali di personal computer), poi come soci fondatori di una azienda attiva nel settore delle telecomunicazioni VoIP. Un esperienza positiva di crescita e soddisfazioni. Lavorando insieme hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo.
+        details: CryptoTeam è la nuova sfida di un gruppo di professionisti IT che hanno operato nel settore ITC per oltre 20 anni, (tra i primi produttori nazionali di personal computer), successivamente nel settore delle telecomunicazioni VoIP. Un esperienza positiva di crescita e soddisfazioni. Lavorando intensamente hanno intrattenuto rapporti di collaborazione con grandi produttori hardware (Cina, Europa e Stati Uniti), partecipato a fiere e convegni di alto profilo tecnologico e innovativo.
     box3:
         headline: Mission
         details: Integriamo la Privacy nei processi informatici aziendali (dati a riposo, al lavoro, in movimento). Nell’ambito della protezione dei dati la nostra offerta si basa su soluzioni innovative, garantendo l’accesso protetto ai dati da qualsiasi piattaforma e in qualunque luogo.
