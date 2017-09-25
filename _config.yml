@@ -9,8 +9,8 @@
 name: global.website.name
 highlighter: pygments
 #url:
-#    it: https://ftp.cryptoteam.it
-#    en: https://ftp.cryptoteam.it
+#    it: https://www.cryptoteam.it
+#    en: https://www.cryptoteam.it
 
 include: [.htaccess,__Analytics*]
 exclude: [bin,jobs,README.md]
