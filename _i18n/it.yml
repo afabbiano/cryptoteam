@@ -49,7 +49,7 @@ global:
 
     headline: "Il famoso numero 404"
     apology: "Siamo davvero spiacenti, ma la pagina che stai cercando non si trova... o magari non è mai stata qui e hai sbagliato a scrivere qualcosa. Non preoccuparti, ritorna alla home del sito e ricomincia da lì."
-    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//ftp.cryptoteam.it/\">ftp.cryptoteam.it</a>."
+    startover: "Clicca sul link per trovare quello che stai cercando: <a href=\"//www.cryptoteam.it/\">www.cryptoteam.it</a>."
 ########################################################################
 
 # privacy message
