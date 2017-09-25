@@ -174,7 +174,8 @@
     //
     // For IE8, we set solid black as it doesn't support `rgba()`. For IE9, we
     // set alpha transparency for the best results possible.
-    background-color: #000 \9; // IE8
+    // \9 is a "CSS hack" specific to Internet Explorer 7, 8, & 9.
+    background-color: #000 \9; // IE8 - NB: \9 rende il campo valido solo per IE
     background-color: rgba(0,0,0,0); // IE9
   }
   .active {
