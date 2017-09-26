@@ -143,7 +143,7 @@ homepage:
             details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
         box3:
             headline: Cloud in-House
-            details: Si basa sulla tecnica di cifratura “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Questa soluzione consente di ottenere la condivisione sicura dei dati (File Sharing), e il back-up protetto da intercettazioni. In caso di attacco i dati sottratti rimangono illeggibili. Questa tecnologia è aperta alle condivisioni, in quanto finalizzata ad aumentare la produttività aziendale&#58 Crea Azioni Interne, Azioni Pubbliche, Federa e Autorizza i propri partner.
+            details: Consente la condivisione protetta dei dati (File Sharing), crea azioni Interne, azioni Pubbliche, Federa e Autorizza i propri partner. Si basa sulla tecnica di cifratura AES 256 militar grade “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Secondo la strategia del cliente permette di soddisfare maggiori livelli di sicurezza nel back-up dei dati. Monitoraggio automatico avverte via mail di eventuali anomalie. Infine costi di gestione contenuti e fiscalmente ammortizzabili.
 
         box4:
             headline: Voip PBX
@@ -251,7 +251,7 @@ cosafacciamo:
             icona: Cloud in House
             titolo: <strong>I TUOI DATI, SUI TUOI SERVER, A CASA TUA</strong>
             box-sx:
-                titolo: Cloud in-House è una piattaforma di proprietà del cliente. Sfrutta il top della tecnologia, archivia e condivide facilmente i dati tramite un sistema protetto da crittografia.
+                titolo: Cloud in-House è una piattaforma di proprietà del cliente (On-premises). Sfrutta il top della tecnologia, archivia e condivide facilmente i dati tramite un sistema protetto da crittografia.
                 descrizione: Grazie alla crittografia integrata nel sistema, il cliente ha la certezza di avere a disposizione un canale di lavoro "Sicuro e Riservato".
                 li1: Dati Salvati sistematicamente e sincronizzati
                 li2: E' possibile dettagliare le Policy di Sicurezza
@@ -269,9 +269,9 @@ cosafacciamo:
                 li5: Ogni comunicazione effettuata tramite Private*Bin può essere protetta con una password e una scadenza temporale
 
         voip:
-            icona: Comunicazioni Telefoniche Protette
-            titolo: <strong>Telefonia VoIP</strong>
-            testo: Realizziamo Piattaforme Telefoniche "IP Center Solution" che possono utilizzare uno standard di protocollo per la cifratura Anti-Intercettazione.
+            icona: Servizi Personalizzabili
+            titolo: <strong>Servizio di Housing & Outsorcing</strong>
+            testo: In base alle strategie del cliente i nostri servizi offrono la falcotà di acquistare uno spazio delocalizzato nel quale ospitare i propri server Housing. Oppure la facoltà di acquistare il solo servizio (Cloud o OpenXPKI), Outsourcing.
 
         progetti:
             icona: Studio di Progetti Personalizzati
@@ -374,14 +374,14 @@ cosafacciamo:
         box1:
             headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
-            description: La nostra soluzione Cloud in-House ha l’obiettivo di renderti autonomo nella gestione dei dati a riposo. I tuoi dati non devono necessariamente dipendere da fornitori di servizi che possono <strong>mettere a rischio i tuoi dati (riservati), visualizzandoli.</strong>
-            numbers: Cloud in-House ha l'obiettivo di garantirti alti standard di condivisione e di sicurezza.
+            description: Non mettere a rischio la tua riservatezza, la soluzione Cloud in-House ha l’obiettivo di garantirti alti standard di sicurezza nella condivisione, sincronizzazione dei dati&#58 crea azioni interne, azioni pubbliche, federa e autorizza i propri partner.
+            numbers:
 
         box2:
             headline: Cloud in-House integra la crittografia
             teaser: Disk Encryption
             list:
-                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD) siano sempre cifrati, sincronizzati e condivisi, per la massima accessibilità da parte degli utenti.
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD) siano sempre cifrati prima di essere trasferiti, sincronizzati e condivisi.
                 li2: L'accesso sicuro ai tuoi dati da remoto può essere eseguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono a 256 bit, Algoritmo SHA256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette in un HSM (Hardware Security Module), sistema resistente all’intrusione specificamente progettato per proteggere le chiavi di cifratura.
@@ -543,7 +543,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio rispondo a diverse esigenze&#58 tipo tecnico, tipo di spesa (fiscalmente ammortizzabile), e conformità normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. <strong>L’offerta include l'installazione del Private*Bin</strong> utile per le comunicazioni riservate tra i manager, esempio&#58 brevetti, lancio nuovi prodotti, scambio idee, segreti industriali, proprietà intellettuale.
+            details: Puoi scegliere il meglio della nostra offerta basata su diverse soluzioni customizzabili. 1) Cloud-in House, i tuoi dati sui tuoi server a casa tua (On-premises). 2) Un tuo spazio Cryptoteam di archiviazione e condivisione dati sicura. 3) servizio di gestione Housing o Outsorcing. Cloud in-House permette la condivisione dati sicura (file sharing), la cifratura standard militare AES 256, più assoluta sicurezza della copia dati. L’offerta include l'installazione del Private*Bin</strong> utile per comunicazioni sensibili e occasionali via browser.
 
         riquadri:
             box1:
@@ -1281,7 +1281,7 @@ chisiamo:
     descrizione: Tutto su di noi.
     intro:
         headline: Chi Siamo
-        description: Start-Up Innovativa per la protezione dei dati aziendali
+        description: Start-Up Innovativa partner ideale per la protezione dei dati
     facts:
         headline: Competenze e Abilità
         # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
