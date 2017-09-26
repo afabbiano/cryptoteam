@@ -543,7 +543,7 @@ offerta:
 
         intro:
             headline: Cloud in-House
-            details: La nostra offerta si basa su diverse soluzioni qui sotto esposte, ma la filosofia principale è una <strong>Piattaforma Cloud Privata</strong> cioè di proprietà del cliente. Le proposte di acquisto o di servizio rispondo a diverse esigenze&#58 tipo tecnico, tipo di spesa (fiscalmente ammortizzabile), e conformità normative. La tecnologia consente l’aumento di produttività (file sharing), e la protezione dati, resi leggibili solo agli utenti autorizzati. <strong>L’offerta include l'installazione del Private*Bin</strong> utile per comunicazioni sensibili e occasionali via browser&#58 brevetti, lancio nuovi prodotti, scambio idee, segreti industriali, proprietà intellettuale.
+            details: Puoi scegliere il meglio della nostra offerta basata su diverse soluzioni customizzabili&# 1. Cloud-in House, i tuoi dati sui tuoi server a casa tua (On-premises). 2. Un tuo spazio Cryptoteam di archiviazione e condivisione sicura. 3. servizi di gestione Housing o Outsorcing. Questo tipo di tecnologia consente la condivisione dati sicura (file sharing), e la cifratura standard militare AES 256. L’offerta include l'installazione del Private*Bin</strong> utile per comunicazioni sensibili e occasionali via browser&#58 brevetti, lancio nuovi prodotti, scambio idee, segreti 
 
         riquadri:
             box1:
@@ -1281,7 +1281,7 @@ chisiamo:
     descrizione: Tutto su di noi.
     intro:
         headline: Chi Siamo
-        description: Start-Up Innovativa partner ideale per la protezione dei dati 
+        description: Start-Up Innovativa partner ideale per la protezione dei dati
     facts:
         headline: Competenze e Abilità
         # ATTENZIONE! I valori NUMERICI vanno messi tra virgolette!
