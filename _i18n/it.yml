@@ -143,7 +143,7 @@ homepage:
             details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
         box3:
             headline: Cloud in-House
-            details: Consente la condivisione protetta dei dati (File Sharing), crea azioni Interne, azioni Pubbliche, Federa e Autorizza i propri partner. Si basa sulla tecnica di cifratura AES 256 Militar Grade “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Secondo la strategia del cliente permette di soddisfare maggiori livelli di sicurezza nel back-up dei dati. Monitoraggio automatico avverte via mail di eventuali anomalie. Infine costi di gestione contenuti e fiscalmente ammortizzabili.
+            details: Consente la condivisione protetta dei dati (File Sharing), crea azioni Interne, azioni Pubbliche, Federa e Autorizza i propri partner. Si basa sulla tecnica di cifratura AES 256 militar grade “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Secondo la strategia del cliente permette di soddisfare maggiori livelli di sicurezza nel back-up dei dati. Monitoraggio automatico avverte via mail di eventuali anomalie. Infine costi di gestione contenuti e fiscalmente ammortizzabili.
 
         box4:
             headline: Voip PBX
