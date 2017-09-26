@@ -11,6 +11,6 @@
  document.getElementById("privacyButton").addEventListener("click", impostaCookie);
 
  function impostaCookie(){
-     $.cookie('privacy-ack-20170913', 'true', { expires: 365, path: '/{{site.lang}}' });
+     $.cookie('privacy-ack-20170913', 'true', { expires: 365, path: '/' });
      $('#privacy-message').hide();
  };
