@@ -8,7 +8,7 @@
  * Released under the MIT license
  */
 
- document.getElementById("pryvacyButton").addEventListener("click", impostaCookie);
+ document.getElementById("privacyButton").addEventListener("click", impostaCookie);
 
  function impostaCookie(){
      $.cookie('privacy-ack-20170913', 'true', { expires: 365, path: '/{{site.lang}}' });
