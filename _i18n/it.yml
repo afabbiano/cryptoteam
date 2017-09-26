@@ -375,13 +375,13 @@ cosafacciamo:
             headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
             description: Non mettere a rischio la tua riservatezza, la soluzione Cloud in-House ha l’obiettivo di garantirti alti standard di sicurezza nella condivisione, sincronizzazione dei dati&#58 crea azioni interne, azioni pubbliche, federa e autorizza i propri partner.
-            numbers: 
+            numbers:
 
         box2:
             headline: Cloud in-House integra la crittografia
             teaser: Disk Encryption
             list:
-                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD) siano sempre cifrati, sincronizzati e condivisi, per la massima accessibilità da parte degli utenti.
+                li1: I protocolli di sicurezza prevedono che i dati salvati (su più HD) siano sempre cifrati prima di essere trasferiti, sincronizzati e condivisi.
                 li2: L'accesso sicuro ai tuoi dati da remoto può essere eseguito su qualunque piattafroma e in qualsiasi momento.
                 li3: Le chiavi a protezione dei dati sono a 256 bit, Algoritmo SHA256.
                 li4: Per maggiore sicurezza le chiavi possono essere protette in un HSM (Hardware Security Module), sistema resistente all’intrusione specificamente progettato per proteggere le chiavi di cifratura.
