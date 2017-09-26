@@ -6,7 +6,8 @@
       <p class="explaination">{% t message.tracking %}</p>
 
       <p class="text-right">
-					<button type="button" class="btn btn-primary" onclick="$.cookie('privacy-ack-20170913', 'true', { expires: 365, path: '/{{site.lang}}' }); $('#privacy-message').hide();">{% t message.btn.understand %}</button>
+				<!-- <button type="button" class="btn btn-primary" onclick="$.cookie('privacy-ack-20170913', 'true', { expires: 365, path: '/{{site.lang}}' }); $('#privacy-message').hide();">{% t message.btn.understand %}</button> -->
+				<button type="button" class="btn btn-primary" id="privacyButton">{% t message.btn.understand %}</button>
 			</p>
 		</div>
 	</div>
