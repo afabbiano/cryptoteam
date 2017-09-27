@@ -47,20 +47,23 @@
         <link href="/css/cryptoteam.css?{{ site.time | date: '%s' }}" rel="stylesheet" media="all">
         <link href="/css/lightbox.css" rel="stylesheet">
 
-        <script src="/js/jquery-1.11.1.min.js"></script>
+        <script src="/js/jquery-3.2.1.min.js"></script>
+        <script src="/js/jquery-migrate-3.0.0.js"></script>
         <script src="/js/bootstrap.min.js?{{ site.time | date: '%s' }}"></script>
 
-        <script src="/js/jquery.scrollTo-1.4.12.min.js"></script>
-        <script src="/js/jquery.localScroll-1.3.5.min.js"></script>
+        <script src="/js/jquery.scrollTo-2.1.2.min.js"></script>
+        <script src="/js/jquery.localScroll-2.0.0.min.js"></script>
         <script src="/js/jquery.cookie-1.4.1.min.js"></script>
         <script src="/js/lightbox.js"></script>
-        <script src="/js/formvalidation.js"></script>
 
         <script type="text/javascript">
-    			$( window ).load(
-            function() {
+    			$( window ).on(
+            "load", function() {
               /* important to avoid missed scrolls when not on the
-              page but coming in from with a hash */
+              page but coming in from with a hash
+              Fixed deprecated .load(), see here:
+              https://jquery.com/upgrade-guide/3.0/#event
+              */
               $('body.local-scroll').scrollTo( 0 );
               $.scrollTo( 0 );
               $('body.local-scroll').localScroll(
