@@ -132,7 +132,7 @@ homepage:
 
     intro:
         headline: Integriamo la Privacy nella tua rete
-        details: Il numero complessivo degli attacchi e degli incidenti Informatici è aumentato in modo significativo, mentre servizi e tecnologie convergono ed influenzano sempre più infrastrutture ed operation dei modelli di business. Attraverso un approccio specializzato ed un’organizzazione flessibile, aiutiamo i nostri clienti a implementare sistemi di sicurezza <strong>"Privacy e Data Protection</strong>” che consentano di migliorare le performance e ottenere vantaggi competitivi.
+        details: Il numero complessivo degli attacchi e degli incidenti Informatici è aumentato in modo significativo, mentre servizi e tecnologie convergono ed influenzano sempre più infrastrutture ed operation dei modelli di business. Attraverso un approccio specializzato ed un’organizzazione flessibile, aiutiamo i nostri clienti a eccellere implementando sistemi di sicurezza <strong>"Privacy e Data Protection</strong>” che consentano di migliorare le performance e ottenere vantaggi competitivi.
 
     riquadri:
         box1:
@@ -1260,12 +1260,17 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               excerpt: Hackerata TNT
               fonte: www.ilsole24ore.com
               link: "http://www.ilsole24ore.com/art/tecnologie/2017-07-07/tnt-e-altre-cosi-attacco-hacker-mette-ginocchio-azienda-giorni-160415.shtml?uuid=AEeCSttB"
-          20170804:
+          20170930:
               title: M5s, attacco hacker a Rousseau
               when: 04 Agosto 2017
               excerpt: Hackerata la piattaforma M5S
               fonte: www.lettera43.it
               link: "http://www.lettera43.it/it/articoli/politica/2017/08/04/m5s-attacco-hacker-a-rousseau/212775/"
+              title: Confindustria a Bruxelles truffato da un hacker
+              when: 30 Settembre 2017
+              excerpt: Hackerata la piattaforma M5S
+              fonte: www.repubblica.it
+              link: "http://www.repubblica.it/cronaca/2017/09/30/news/beffa_a_bruxelles_mister_confindustria_truffato_e_licenziato-176906111/"
 ########################################################################
 
 

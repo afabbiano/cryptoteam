@@ -1,0 +1,46 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20170930.title
+when: normativa.posts.news.20170930.when
+excerpt: normativa.posts.news.20170930.excerpt
+fonte: normativa.posts.news.20170930.fonte
+link: normativa.posts.news.20170930.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	Persi 500mila euro. Licenziato
+</p>
+<p>
+	"Sposta subito mezzo milione su questo conto estero". Ma la mail era di un hacker. E i soldi sono spariti. Il finto ordine a firma della direttrice Panucci: "Esegui e non mi chiamare che sto fuori col presidente"
+</p>
+<p>
+ROMA - Ci sono circa cinquecentomila euro che da un conto della Confindustria sono finiti in un conto estero di cui ancora non si conosce l'intestatario. Soldi evaporati, per ora. C'è una mail falsa da cui è cominciato tutto. C'è un dirigente dell'associazione degli industriali licenziato in tronco per un bonifico che non avrebbe dovuto fare. È successo in Confindustria ma sono centinaia le aziende colpite ogni giorno da frodi finanziarie e milioni le mail contraffatte (mail spoofing, le chiamano gli esperti del settore) da cui partono ordini per spostare denaro in ogni parte del mondo.
+</p>
+<p>
+ I protagonisti, o le vittime, di questa storia sono Marcella Panucci, direttore generale di Viale dell'Astronomia, braccio destro del presidente dell'associazione, Vincenzo Boccia; e Gianfranco Dell'Alba, direttore della delegazione della Confindustria a Bruxelles, da tempo il principale luogo per l'esercizio dell'azione di lobby, molto più importante dei corridoi di Montecitorio perché è lì, in Europa, che si confezionano le decisioni sulle politiche industriali con impatti diretti sulle aziende nazionali, vale per i prodotti alimentari come per i laminati che escono dai grandi impianti siderurgici. Bruxelles, insomma, è pari a Roma per gli interessi degli associati confindustriali, grandi e piccoli.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
