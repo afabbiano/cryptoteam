@@ -1,0 +1,46 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20171012.title
+when: normativa.posts.news.20171012.when
+excerpt: normativa.posts.news.20171012.excerpt
+fonte: normativa.posts.news.20171012.fonte
+link: normativa.posts.news.20171012.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	12/10/2017 - Sanità, Spid, telemarketing, sotto la lente del Garante
+</p>
+<p>
+	Al via il piano ispettivo del secondo semestre 2017
+</p>
+<p>
+Trasferimento di dati sanitari a società multinazionali, Spid, telemarketing aggressivo, società di recruitment. Saranno questi i settori sui cui il Garante per la protezione dei dati personali punterà un faro nei prossimi mesi. Nelle scorse settimane l'Autorità ha varato il piano di accertamenti ispettivi per il secondo semestre 2017 [doc. web n 6955256].
+</p>
+<p>
+ Le ispezioni verranno svolte anche in collaborazione con il Nucleo speciale privacy della Guardia di finanza sulla base del protocollo di intesa siglato lo scorso anno che ha rafforzato l'attività di collaborazione tra la Guardia di Finanza e il Garante.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
