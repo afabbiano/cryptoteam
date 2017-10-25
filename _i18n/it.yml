@@ -55,7 +55,7 @@ global:
 # privacy message
 message:
     cookies: Utilizziamo un cookie unicamente per assicurarci che tu abbia letto la nostra <a href="/it/chisiamo/privacy.html">informativa sulla privacy</a>. Clicca sul pulsante sotto per non far più comparire questo avviso.
-    tracking: "Ti confermiamo inoltre che non utilizziamo alcun software di tracciamento."
+    tracking: "Ti confermiamo inoltre che non utilizziamo alcun servizio esterno di tracciamento."
     btn:
         opt-out: Opt-Out
         understand: Ho capito
@@ -375,7 +375,6 @@ cosafacciamo:
             headline: Depositare i dati in ambienti poco sicuri significa rischiare di condividerli con chiunque. Cloud in-House è un modo sicuro per avere i tuoi dati, sui tuoi server, sempre con te, senza dipendere da altri.
             teaser: Aperti e Produttivi
             description: Non mettere a rischio la tua riservatezza, la soluzione Cloud in-House ha l’obiettivo di garantirti alti standard di sicurezza nella condivisione, sincronizzazione dei dati&#58 crea azioni interne, azioni pubbliche, federa e autorizza i propri partner.
-            numbers:
 
         box2:
             headline: Cloud in-House integra la crittografia
@@ -1165,7 +1164,7 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               fonte: startupitalia.eu
               link: "http://cybersecurity.startupitalia.eu/54163-20170216-ransomware-modifica-impianti-industriali"
           20170217:
-              title: Vietati controlli indiscriminati su e-mail
+              title: Vietati i controlli indiscriminati su e-mail e smartphone aziendali
               when: 17 Febbraio 2017
               excerpt: Interveneto del Garante della Privacy
               fonte: Garante Privacy
@@ -1273,7 +1272,7 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               fonte: www.repubblica.it
               link: "http://www.repubblica.it/cronaca/2017/09/30/news/beffa_a_bruxelles_mister_confindustria_truffato_e_licenziato-176906111/"
           20171012:
-              title: Sanità, Spid, Telemarketing sotto la lente del Garante
+              title: Sanità, Spid, e Telemarketing Aggressivo sotto la lente del Garante
               when: 12 ottobre 2017
               excerpt: Newsletter 12/10/2017
               fonte: Garante per la Protezione Dati Personali
