@@ -1,0 +1,46 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20171027.title
+when: normativa.posts.news.20171027.when
+excerpt: normativa.posts.news.20171027.excerpt
+fonte: normativa.posts.news.20171027.fonte
+link: normativa.posts.news.20171027.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	La cybersicurezza non è solo un problema di password rubate, ma una priorità per ogni azienda (di Marco Giorgio)
+</p>
+<p>
+	Tutte le grandi aziende e le infrastrutture critiche nazionali subiscono ogni giorno attacchi informatici e nel solo 2016 il 47 per cento delle aziende piccole e medie in Italia ha subito almeno un attacco
+</p>
+<p>
+	Milano. Basta contare fino a 60 ed ecco che in rete sono state eseguite oltre duecento milioni di operazioni. Oppure, per restare in Italia, nelle 24 ore della giornata di ieri Terna Spa (il gestore unico di tutta la rete elettrica italiana, ossia il soggetto che consente di svolgere qualsiasi attività tecnologica) ha subito 5.700 (sì, cinquemilasettecento) attacchi informatici e ricevuto 80.000 email tra spam e fishing, fortunatamente con zero violazioni.
+</p>
+<p>
+ La cybersecurity è la seconda emergenza in Europa, dopo i temi ambientali e prima dell’immigrazione, come emerge anche dall’ultimo meeting sullo stato dell’Unione europea dello scorso 13 settembre; tutte le grandi aziende e le infrastrutture critiche nazionali subiscono ogni giorno attacchi informatici e nel solo 2016 il 47 per cento delle aziende piccole e medie in Italia ha subito almeno un attacco, con costi medi di 3,5 milioni di euro per ogni attacco andato a buon fine, mentre per le piccole e medie imprese gli attacchi informatici possono mettere a repentaglio l’esistenza della azienda stessa. Partendo da ....
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
