@@ -102,6 +102,7 @@ navigation:
 # ChiSiamo
         ChiSiamo: Chi Siamo
         Privacy: Privacy
+        Privacy: Newsletter
         Contatti: Contatti
 ########################################################################
 
@@ -1286,7 +1287,7 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
           20171103:
               title: Agenzia Entrate e fisco&#58 email false truffa vanno avanti
               when: 03 novembre 2017
-              excerpt: Tramite Twitter https&#58//t.co/lxP6wI9j4M
+              excerpt: Continuano gli attacchi di Phishing
               fonte: http://www.businessonline.it
               link: "http://www.businessonline.it/news/56388/agenzia-entrate-e-fisco-continuano-false-email-truffa.html"
 ########################################################################
@@ -1362,7 +1363,7 @@ chisiamo:
             modalita: "Il trattamento dei dati viene effettuato in modalità elettronica. I dati sono conservati sugli hard disk dei server gestori dei domini sopra citati."
         natura:
             headline: Natura obbligatoria o facoltativa del conferimento dei dati
-            details: "Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferimento dati a Soggetti Terzi</a>.<p>Il conferimento dei dati personali richiesti nei moduli di contatto è facoltativo. Il mancato conferimento comporta l'impossibilità, da parte nostra, di fornire il servizio richiesto.</p>"
+            details: "Raccogliamo i tuoi dati nel momento in cui li metti a nostra disposizione, ad esempio quando ti registri al sito, ti iscrivi ad una newsletter o compili il modulo di contatto. Puoi sempre, comunque, visitare il nostro sito in modo anonimo. Anche in questo caso, il sito raccoglie automaticamente alcuni dati tecnici, quali ad esempio, la data e l'ora di accesso, l'IP di provenienza, le pagine visitate, la durata della visita su ciascuna pagina, ecc. CryptoTeam può utilizzare questi dati, aggregati in modo anonimo, per migliorare l'esperienza di navigazione dei propri utenti. I dati non verranno trasferiti a terze parti, salvo quanto previsto nel paragrafo <a href=\"#thirdparty\">Trasferimento dati a Soggetti Terzi</a>.<p>Il conferimento dei dati personali richiesti nei moduli di contatto è <b>facoltativo</b>. Il mancato conferimento comporta l'impossibilità, da parte nostra, di fornire il servizio associato al modulo di richiesta.</p>"
         cookies:
             headline: Informativa sui Cookies
             details: "I cookies sono piccoli blocchi di informazioni che un sito trasferisce sul tuo computer, salvandoli in file gestiti dal browser - sempre che tu lo consenta. Molti siti salvano numerosi cookies per tracciare le abitudini di navigazione dell'utente. Coerentemente con la nostra visione, abbiamo deciso di <strong>non tracciare i nostri utenti</strong>. La normativa vigente ci impone di segnalarti la nostra politica sulla privacy: lo facciamo mostrandoti un link a questa pagina durante il primo collegamento al nostro sito. Per evitare di mostrarti l'avviso ad ogni accesso successivo salviamo, con il tuo consenso, un solo cookie che contiene unicamente la conferma di avvenuta lettura dell'avviso. Una volta salvato il cookie, l'avviso non verrà riproposto per un periodo di tempo predefinito (di norma, un anno), a meno di modifiche alla presente pagina. Questa pagina è sempre visitabile sotto la voce di menu CHI SIAMO - Privacy."
