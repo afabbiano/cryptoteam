@@ -20,7 +20,7 @@ parent: ChiSiamo
 
       <div class="col-md-9">
         <h1 class="text-center">Ti chiamiamo noi!</h1>
-        <p class="text-center">Hai domande sugli argomenti trattati nel sito e preferisci parlarne direttamente con noi? Siamo a tua disposizione per qualsiasi chiarimento, senza alcun impegno.
+        <p class="text-center">Hai domande sugli argomenti trattati nel sito e preferisci parlarne direttamente con noi? Siamo a tua disposizione per qualsiasi chiarimento, senza alcun impegno da parte tua.
           Inserisci la tua richiesta nel modulo sottostante, ti contatteremo rapidamente.</p>
         <form id="WebToLeadForm" method="POST" name="WebToLeadForm">
 
@@ -68,9 +68,32 @@ parent: ChiSiamo
           </div>
 
           <div class="row">
+            <div class="colwide">
+              <input name="do_not_call" id="do_not_call" type="checkbox" />
+              &nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a></label><span class="required"> * </span>
+              <div class="clear"></div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="colwide">
+              <input name="do_not_call" id="do_not_call" type="checkbox" />
+              &nbsp;Ho preso visione delle finalità del trattamento e acconsento a ricevere informazioni commerciali da parte di Cryptoteam (paragrafo "Natura obbligatoria o facoltativa del conferimento dei dati" della nostra Informativa sulla Privacy)</label>
+              <div class="clear"></div>
+            </div>
+          </div>
+
+          <div class="row">
             <p>
               <span class="required">* </span>
-              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare. Cliccando Invia presti il tuo consenso al trattamento dei dati inseriti nel modulo di contatto. I dati conferiti saranno trattati nel rispetto della tua privacy,
+              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare e fornirti le informazioni richieste. Il consenso al trattamento al fine di ricevere informazioni commerciali è facoltativo. Qualora venisse fornito, l'indirizzo email verrà inserito nella nostra lista di distribuzione di informazioni via email. Il consenso potrà essere revocato in qualsiasi momento, cliccando sul link "Cancellami" presente in tutte le nostre email di informazione.
+            </p>
+          </div>
+
+
+          <div class="row">
+            <p>
+              Cliccando Invia presti il tuo consenso al trattamento dei dati inseriti nel modulo di contatto. I dati conferiti saranno trattati nel rispetto della tua privacy,
               secondo quanto indicato nella nostra
               <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>.
             </p>
@@ -95,6 +118,10 @@ parent: ChiSiamo
 </div>
 
 <div id="contatti">
+  <div class="row">
+    <br/>
+  </div>
+
   <div class="row">
     <div class="container">
       <div class="col-md-3 hidden-sm hidden-xs">
