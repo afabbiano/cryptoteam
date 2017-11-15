@@ -102,7 +102,6 @@ navigation:
 # ChiSiamo
         ChiSiamo: Chi Siamo
         Privacy: Privacy
-        Privacy: Newsletter
         Contatti: Contatti
 ########################################################################
 
@@ -1293,8 +1292,8 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
           20171114:
               title: Anonymous&#58 “Sottratte informazioni riservate italiane”
               when: 14 novembre 2017
-              excerpt: Furto dati indirizzi mail e nummeri di telefono
-              fonte: http://www.ilfattoquotidiano.it
+              excerpt: Furto di dati, indirizzi mail e numeri di telefono
+              fonte: www.ilfattoquotidiano.it
               link: "https://www.ilfattoquotidiano.it/2017/11/14/anonymous-sottratte-informazioni-riservate-italiane-ce-anche-scambio-di-mail-su-visita-gentiloni-a-bologna-domani/3977455/"
 ########################################################################
 
@@ -1393,7 +1392,7 @@ chisiamo:
             details: "Questa Informativa sulla Privacy si applica solo alle informazioni raccolte attraverso i nostri siti web e non alle informazioni raccolte offline."
         consent:
             headline: Il tuo consenso
-            details: "Utilizzando il nostro sito, con presa visione della presente Informativa sulla Privacy, acconsenti implicitamente all'utilizzo dei dati raccolti durante la tua navigazione sul nostro sito."
+            details: "Utilizzando il nostro sito, con presa visione della presente Informativa sulla Privacy, acconsenti implicitamente all'utilizzo dei dati tecnici raccolti durante la tua navigazione sul nostro sito."
         diritti:
             headline: Diritti dell'interessato
             details: "Ai sensi dell'art. 7 Codice Privacy, l'interessato ha diritto di ottenere in qualsiasi momento la conferma dell'esistenza o meno dei dati che lo riguardano e di conoscerne il contenuto e l'origine, di verificarne l'esattezza o chiederne l'integrazione o l'aggiornamento, oppure la rettificazione. Ha altresì il diritto di chiedere la cancellazione, la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, nonché di opporsi per motivi legittimi al trattamento dei dati che lo riguardano. Le relative richieste vanno rivolte al seguente indirizzo e-mail:"
@@ -1451,6 +1450,16 @@ chisiamo:
             telefono: "&nbsp"
             fax: "&nbsp"
             email: "nt@cryptoteam.it"
+########################################################################
+
+
+#PAGINA CHI SIAMO--->Contatti (/chsiamo/newsletter.html)
+    newsletter:
+        titolo: CryptoTeam - Newsletter
+        description: Iscriviti alla nostra Newsletter
+        quote: Scrivere qui un riferimento alla pagina contatti.
+        intro:
+            headline: Come ricevere la nostra Newsletter
 ########################################################################
 
 
