@@ -1,0 +1,46 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20171114.title
+when: normativa.posts.news.20171114.when
+excerpt: normativa.posts.news.20171114.excerpt
+fonte: normativa.posts.news.20171114.fonte
+link: normativa.posts.news.20171114.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+<p class="lead">
+	C’è anche scambio di mail su visita Gentiloni a Bologna domani.
+</p>
+<p>
+	Cittadini - scrivono gli hacker sul loro blog- siamo lieti di annunciarvi, per il diritto della democrazia e della dignità dei popoli, che siamo in possesso di una lista di dati personali". La notizia del leak arriva proprio nel giorno in cui a roma si tiene il 360 Cybersecurity Summit, dedicato proprio alla sicurezza in rete.
+</p>
+<p>
+	Anonymous ha colpito ancora. Questa volta nel mirino del gruppo hacker sono finite alcune informazioni riservate dell‘Italia e del Parlamento Europeo. Centinaia di mail, numeri di telefoni, ordinanze di servizio delle questure ma anche buste paga e fotocopie di documenti di appartenenti a forze di polizia e forze armate sono state pubblicate sul loro blog. E tra questi, anche uno scambio di mail tra funzionari di palazzo Chigi e le forze di polizia sulla visita del Presidente del Consiglio Paolo Gentiloni domani a Bologna.
+</p>
+<p>
+ Anonymous ha annunciato il furto di queste informazioni riservate con un post sul suo blog, dove si legge: “Cittadini – scrivono gli hacker – siamo lieti di annunciarvi, per il diritto della democrazia e della dignità dei popoli, che siamo in possesso di una lista di dati personali relativi al Ministero dell’Interno, al Ministero della Difesa, alla Marina Militare nonché di Palazzo Chigi e Parlamento Europeo“. “Governo corruttore di democrazia – prosegue il post – la rivoluzione passa anche qui, inarrestabile, il cui ideale conosce ora i vostri nomi, i vostri contatti telefonici, le vostre residenze. Possediamo anche fotocopie dei vostri documenti personali, di quelli dei vostri parenti ed amici, contratti di lavoro, contratti d’affitto, buste paghe e molto altro. Per l’ennesima volta lo Stato Italiano tradisce ed imbarazza i valori dei nostri militari che hanno giurato di difenderlo. Ma difendere chi? Difendere i propri cittadini o un governo che imbarazza le stesse forze di difesa?....
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
