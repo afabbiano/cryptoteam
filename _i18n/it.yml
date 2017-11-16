@@ -781,7 +781,7 @@ offerta:
         box-sx:
             headline: Perché scegliere una soluzione VoIP?
             lead: La tecnologia VoIP (Voice over IP, comunicazioni audio/video su connessioni IP) si è imposta da tempo come standard de-facto per tutte le comunicazioni audio/video.
-            text1: Abbiamo scelto due prodotti open source leader di settore, la centrale di commutazione FreeSWITCH e l'interfaccia utente FusionPBX. You can utilize our Script Developer UI or code all your tests in Java using the familiar WebDriver syntax. Of course, XLT also works perfectly with all <a href="http://docs.seleniumhq.org/projects/webdriver/">WebDrivers</a>, with <a href="http://www.browserstack.com/">BrowserStack</a>, and <a href="https://saucelabs.com/">Sauce Labs</a>.
+            text1: Abbiamo scelto due prodotti open source leader di settore, la centrale di commutazione FreeSWITCH e l'interfaccia utente FusionPBX.
             features:
                 headline: Vantaggi offerti dalla soluzione Freeswitch+FusionPBX
                 details: "<li>Sistema facilmente <strong>scalabile</strong> da poche unità utenti fino a migliaia di connessioni contemporanee</li>
@@ -1522,7 +1522,7 @@ thanks:
 cancellami:
         titolo: Cancellami
         descrizione: Cancellazione completata
-        messaggio: Ti confermiamo la cancellazione del tuo indirizzo email dai nostri archivi, non riceverai più le nostre comunicazioni informative. Se hai cliccato per sbaglio il link Cancellami o se in futuro vorrai ricevere ancora le nostre email informative, puoi reiscriverti utilizzando il modulo nella nostra pagina Contatti. Restiamo comunque a tua disposizione e ti auguriamo buon lavoro!
+        messaggio: Ti confermiamo la cancellazione del tuo indirizzo email dai nostri archivi, non riceverai più le nostre comunicazioni informative. Se hai cliccato per sbaglio il link Cancellami o se in futuro vorrai ricevere ancora le nostre email informative, puoi reiscriverti utilizzando il modulo nella nostra pagina <a href="/it/chisiamo/contatti.html">Contatti</a>. Restiamo comunque a tua disposizione e ti auguriamo buon lavoro!
 
 
 
