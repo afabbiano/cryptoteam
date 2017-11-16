@@ -31,7 +31,7 @@ parent: ChiSiamo
             </div>
             <div class="col">
               <label>Cognome: <span class="required">*</span></label>
-              <input name="last_name" id="last_name" type="text" required="" onchange="validateHuman();"/>
+              <input name="last_name" id="last_name" type="text" required onchange="validateHuman();"/>
             </div>
             <div class="clear"> </div>
           </div>
@@ -39,11 +39,11 @@ parent: ChiSiamo
           <div class="row">
             <div class="col">
               <label>Indirizzo Email: <span class="required">*</span></label>
-              <input name="email1" id="email1" type="email" required="" onchange="validateHuman();"/>
+              <input name="email1" id="email1" type="email" required onchange="validateHuman();"/>
             </div>
             <div class="col">
               <label>Telefono: <span class="required">*</span></label>
-              <input name="phone_work" id="phone_work" type="text" required="" onchange="validateHuman();"/>
+              <input name="phone_work" id="phone_work" type="tel" required onchange="validateHuman();"/>
             </div>
             <div class="clear"> </div>
           </div>
@@ -69,8 +69,16 @@ parent: ChiSiamo
 
           <div class="row">
             <div class="colwide">
-              <input name="accetto_termini_privacy" id="accetto_termini_privacy" type="checkbox" />
-              &nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a></label><span class="required"> * </span>
+              <input name="accetto_termini_privacy" id="accetto_termini_privacy" type="checkbox" required onchange="validateHuman();"/>
+              &nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a><span class="required"> * </span>
+              <div class="clear"></div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="colwide">
+              <input name="acconsento_risposta" id="acconsento_risposta" type="checkbox" required onchange="validateHuman();"/>
+              &nbsp;Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali al fine di ricevere le informazioni richieste nel presente modulo di contatto. Questo consenso è <b>obbligatorio</b>, in mancanza di esso non potremo elaborare i tuoi dati per contattarti e fornirti le informazioni richieste. Al fine della massima trasparenza, ci teniamo a precisare che rilasciandoci questo consenso <b>non ci autorizzi</b> ad utilizzare i tuoi dati per finalità di marketing. Se desideri ricevere le nostre mail informative e commerciali, rilascia il tuo consenso anche nel paragrafo successivo.
               <div class="clear"></div>
             </div>
           </div>
@@ -78,7 +86,7 @@ parent: ChiSiamo
           <div class="row">
             <div class="colwide">
               <input name="acconsento_info_commerciali" id="acconsento_info_commerciali" type="checkbox" />
-              &nbsp;Ho preso visione delle finalità del trattamento e acconsento a ricevere informazioni commerciali da parte di Cryptoteam (paragrafo "Natura obbligatoria o facoltativa del conferimento dei dati" della nostra Informativa sulla Privacy)</label>
+              &nbsp;Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali anche al fine di ricevere le vostre mail informative e commerciali. Questo consenso è <b>facoltativo</b>. In mancanza di esso non potremo inviarti le le nostre mail informative e commerciali.
               <div class="clear"></div>
             </div>
           </div>
@@ -86,7 +94,7 @@ parent: ChiSiamo
           <div class="row">
             <p>
               <span class="required">* </span>
-              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare e fornirti le informazioni richieste. Il consenso al trattamento al fine di ricevere informazioni commerciali è facoltativo. Qualora venisse fornito, l'indirizzo email verrà inserito nella nostra lista di distribuzione di informazioni via email. Il consenso potrà essere revocato in qualsiasi momento, cliccando sul link "Cancellami" presente in tutte le nostre email di informazione.
+              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare e fornirti le informazioni richieste. Il consenso al trattamento al fine di ricevere informazioni commerciali è facoltativo. Se rilasciato, l'indirizzo email verrà inserito nella nostra lista di distribuzione di informazioni via email. Il consenso potrà essere revocato in qualsiasi momento, cliccando sul link "Cancellami" presente in tutte le nostre email di informazione e commerciali.
             </p>
           </div>
 
@@ -107,8 +115,9 @@ parent: ChiSiamo
           <input name="campaign_id" id="campaign_id" type="hidden" value="9d9b4c08-65ed-761c-808b-59b4163fe23b" />
           <input name="redirect_url" id="redirect_url" type="hidden" value="https://www.cryptoteam.it/it/chisiamo/thanks.html" />
           <input name="assigned_user_id" id="assigned_user_id" type="hidden" value="a8ff4171-8239-9951-9272-596f750fa256" />
+          <input name="convalida" id="convalida" type="hidden" value="0">
+          <input name="bool_id" id="bool_id" type="hidden" value="accetto_termini_privacy;acconsento_info_commerciali;" />
           <input name="moduleDir" id="moduleDir" type="hidden" value="Leads" />
-          <input type="hidden" id="convalida" name="convalida" value="0">
 
         </form>
 
