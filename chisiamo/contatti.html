@@ -70,7 +70,7 @@ parent: ChiSiamo
           <div class="row">
             <div class="colwide">
               <input name="accetto_termini_privacy" id="accetto_termini_privacy" type="checkbox" required onchange="validateHuman();"/>
-              <span class="required"> * </span>&nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>
+              <label><span class="required"> * </span></label>&nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>
               <div class="clear"></div>
             </div>
           </div>
@@ -112,6 +112,7 @@ parent: ChiSiamo
             <div class="clear"> </div>
           </div>
 
+          <input name="lead_source" id="lead_source" type="hidden" value="Campaign" />
           <input name="campaign_id" id="campaign_id" type="hidden" value="9d9b4c08-65ed-761c-808b-59b4163fe23b" />
           <input name="redirect_url" id="redirect_url" type="hidden" value="https://www.cryptoteam.it/it/chisiamo/thanks.html" />
           <input name="assigned_user_id" id="assigned_user_id" type="hidden" value="a8ff4171-8239-9951-9272-596f750fa256" />
