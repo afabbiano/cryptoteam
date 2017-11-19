@@ -1513,7 +1513,9 @@ pagina-pki:
 thanks:
         titolo: Invio completato
         descrizione: Invio completato
-        messaggio: Abbiamo ricevuto la tua richiesta, grazie per averci contattato. Abbiamo inviato una mail di conferma all'indirizzo che ci hai fornito&#58 controlla che i dati inseriti siano corretti, e confermali seguendo quanto indicato. In mancanza di una tua conferma, i dati verranno automaticamente cancellati. Dopo la conferma, verrai contattato da un nostro esperto che risponderà alla tua richiesta. Ora puoi usare il menu di navigazione per spostarti nel sito, oppure cliccare sul logo CryptoTeam in alto a sinistra per tornare alla Homepage.
+        messaggio1: Grazie per averci contattato. Abbiamo inviato una mail di conferma all'indirizzo che ci hai fornito&#58 controlla che i dati inseriti siano corretti, e confermali seguendo le indicazioni contenute nella mail.
+        messaggio2: In mancanza di una tua conferma, <b>i dati inseriti verranno automaticamente cancellati</b>. Dopo la conferma, verrai contattato da un nostro esperto che risponderà alle tue domande.
+        messaggio3: Puoi continuare a navigare nel sito usando il menu di navigazione, oppure puoi cliccare sul logo CryptoTeam in alto a sinistra per tornare alla Homepage.
 
 
 
