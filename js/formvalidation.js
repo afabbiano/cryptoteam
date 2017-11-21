@@ -14,7 +14,7 @@ function submit_form() {
         //document.WebToLeadForm.submit();
         if(document.getElementById('convalida').value == '1937'){
           document.WebToLeadForm.action = "https://crm.cryptoteam.it/index.php?entryPoint=WebToPersonCapture";
-          document.WebToLeadForm.submit();
+          //document.WebToLeadForm.submit();
           return true;
         }
         else{
