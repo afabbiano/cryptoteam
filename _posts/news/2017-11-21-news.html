@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20171121.title
+when: normativa.posts.news.20171121.when
+excerpt: normativa.posts.news.20171121.excerpt
+fonte: normativa.posts.news.20171121.fonte
+link: normativa.posts.news.20171121.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Centomila dollari agli hacker che nel 2016 hanno piratato nomi, email, numeri di telefono
+</p>
+<p>
+	I dati di 57 milioni di clienti di Uber sono stati piratati, ma la multinazionale per il trasporto privato lo ha tenuto nascosto per un anno preferendo pagari un riscatto, ben 100 mila dollari, agli hacker che avevano piratato nomi, email, numeri di telefono di 50 milioni di clienti e 7 milioni di autisti.
+</p>
+<p>
+	Il furto, riferisce l'agenzia Bloomberg, è stato compiuto ai danni di clienti in tutto il mondo a ottobre del 2016. Oltre ai dati sensibili dei clienti, sono stati piratati anche i numeri di patente di 600.000 americani. Uber tuttavia garantisce che non sarebbero stati trafugati altri dati come numeri delle carte di credito, numeri della sicurezza sociale (l'equivalente del nostro codice fiscale con cui negli Usa si può rubare l'identità di una persona) e nessun particolare sui viaggi effettuati.
+</p>
+<p>
+ Con il versamento - illegale - di 100 mila dollari, un'inezia per un'azienda fatturata a suo tempo 40 miliardi di dollari - Uber ottenne la promessa degli hacker che i dati trafugati sarebbero stati cancellati. Uber, peraltro, ancora oggi si è rifiutata di svelare l'identità degli hacker cui ha pagato il riscatto. La società - che a giugno ha visto la cacciata del co-fondatore Travis Kalanick - ha licenziato il capo della sicurezza, Joe Sullivan, ed uno dei suoi vice per il ruolo nell'aver taciuto e di fatto gestito la risposta al ricatto. continua...
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
