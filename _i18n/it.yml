@@ -140,7 +140,7 @@ homepage:
             details: La protezione dati rappresenta un elemento imprescindibile per la crescita e l’innovazione delle imprese. Il binomio Privacy e Sicurezza nei processi interni delle architetture informatiche, determina <strong>maggiore fiducia</strong> da parte dei soggetti che collaborano esempio&#58 clienti, fornitori, collaboratori e partner in genere. I quali riscontrando una gestione dei propri dati, professionale e conforme alle norme, in termini di reputazione, la data protection viene ritenuta nodale per gli interessi comuni.
         box2:
             headline: OpenXPKI
-            details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili sono agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
+            details: La soluzione OpenXPKI (Public Key Infrastructure), offre alle imprese una reale integrazione informatica della Privacy all'interno della propria rete. Tramite i certificati digitali questa soluzione rende sicure tutte le attività di comunicazione e accesso ai dati sensibili (Digital Identity, Autentication,  Firma). In pratica le corrispondenze sono rese <strong>leggibili solo agli utenti autorizzati.</strong> L'accesso automatico ai servizi è regolato dalla Policy&#58 Privacy Mail, Dati, Cloud.
         box3:
             headline: Cloud in-House
             details: Consente la condivisione protetta dei dati (File Sharing), crea azioni Interne, azioni Pubbliche, Federa e Autorizza i propri partner. Si basa sulla tecnica di cifratura AES 256 militar grade “End-to-End”, un canale di lavoro <strong>chiuso e riservato.</strong> Secondo la strategia del cliente permette di soddisfare maggiori livelli di sicurezza nel back-up dei dati. Monitoraggio automatico avverte via mail di eventuali anomalie. Infine costi di gestione contenuti e fiscalmente ammortizzabili.
@@ -1295,6 +1295,12 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               excerpt: Furto di dati, indirizzi mail e numeri di telefono
               fonte: www.ilfattoquotidiano.it
               link: "https://www.ilfattoquotidiano.it/2017/11/14/anonymous-sottratte-informazioni-riservate-italiane-ce-anche-scambio-di-mail-su-visita-gentiloni-a-bologna-domani/3977455/"
+          20171121:
+              title: Uber, rubati i dati di milioni di clienti
+              when: 21 novembre 2017
+              excerpt: la multinazionale ha taciuto e pagato un riscatto
+              fonte: www.repubblica.it
+              link: "http://www.repubblica.it/tecnologia/2017/11/21/news/uber_dati_piratati-181761785/"
 ########################################################################
 
 
