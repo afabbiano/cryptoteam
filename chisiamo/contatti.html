@@ -9,6 +9,24 @@ subNavLinkName: navigation.sub.Contatti
 parent: ChiSiamo
 ---
 <div id="contatti">
+
+  <div class="row">
+    <div class="container">
+      <div class="col-md-3 hidden-sm hidden-xs">
+        <br/>
+        <br/>
+        <i class="fa fa-file-pdf-o fa-4x iconaPdf"></i>
+      </div>
+
+      <div class="col-md-9">
+        <h1 class="text-center">Scarica la nostra guida al GDPR</h1>
+        <p class="text-left">Abbiamo preparato una breve infografica per illustrare le principali novità contenute nel GDPR di prossima entrata in vigore. Clicca sul link qui sotto per scaricare il PDF gratuito.</p>
+        <p class="text-left">Scarica qui il PDF completo: <a href="{{ 'Documenti/LineaGuidaRapidaGDPR.pdf' | to_absoluteurl }}" class="btn btn-sm btn-primary">Download</a></p>
+      </div>
+
+    </div>
+  </div>
+
   <div class="row">
 
     <div class="container">
@@ -19,14 +37,14 @@ parent: ChiSiamo
       </div>
 
       <div class="col-md-9">
-        <h1 class="text-center">Ti chiamiamo noi!</h1>
-        <p class="text-center">Hai domande sugli argomenti trattati nel sito e preferisci parlarne direttamente con noi? Siamo a tua disposizione per qualsiasi chiarimento, senza alcun impegno da parte tua.
-          Inserisci la tua richiesta nel modulo sottostante, ti contatteremo rapidamente.</p>
+        <h1 class="text-center">Se hai altre domande, contattaci. Ti richiamiamo noi!</h1>
+        <p class="text-left">Hai domande sugli argomenti trattati nella guida al GDPR o nel nostro sito web e preferisci parlarne direttamente con un nostro esperto? Siamo a tua disposizione per qualsiasi chiarimento, senza alcun impegno da parte tua.
+          Inserisci la tua richiesta nel modulo qui sotto: ti contatteremo al più presto.</p>
         <form id="WebToLeadForm" method="POST" name="WebToLeadForm">
 
           <div class="row">
             <div class="col">
-              <label>Nome: </label>
+              <label>Nome: <span class="required">&nbsp;</span></label>
               <input name="first_name" id="first_name" type="text" />
             </div>
             <div class="col">
@@ -70,7 +88,7 @@ parent: ChiSiamo
           <div class="row">
             <div class="colwide">
               <input name="accetto_termini_privacy" id="accetto_termini_privacy" type="checkbox" required onchange="validateHuman();"/>
-              <label><span class="required"> * </span></label>&nbsp;Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>
+              <span class="required"> * </span>&nbsp;<i><b>Ho letto e accetto i termini e le condizioni indicate nella vostra <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a></b></i>
               <div class="clear"></div>
             </div>
           </div>
@@ -78,7 +96,7 @@ parent: ChiSiamo
           <div class="row">
             <div class="colwide">
               <input name="acconsento_risposta" id="acconsento_risposta" type="checkbox" required onchange="validateHuman();"/>
-              <span class="required"> * </span>&nbsp;Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali al fine di ricevere le informazioni richieste nel presente modulo di contatto. Questo consenso è <b>obbligatorio</b>, in mancanza di esso non potremo elaborare i tuoi dati per contattarti e fornirti le informazioni richieste. Al fine della massima trasparenza, ci teniamo a precisare che rilasciandoci questo consenso <b>non ci autorizzi</b> ad utilizzare i tuoi dati per finalità di marketing. Se desideri ricevere le nostre mail informative e commerciali, rilascia il tuo consenso anche nel paragrafo successivo.
+              <span class="required"> * </span>&nbsp;<i><b>Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali al fine di ricevere le informazioni richieste nel presente modulo di contatto</b></i>. Questo consenso è <b>obbligatorio</b>, in mancanza di esso non potremo elaborare i tuoi dati per contattarti e fornirti le informazioni richieste. Rilasciandoci questo consenso non ci autorizzi ad utilizzare i tuoi dati per finalità di marketing. Per poter ricevere le nostre mail informative e commerciali, è richiesto il tuo consenso anche nel paragrafo successivo.
               <div class="clear"></div>
             </div>
           </div>
@@ -86,7 +104,7 @@ parent: ChiSiamo
           <div class="row">
             <div class="colwide">
               <input name="acconsento_info_commerciali" id="acconsento_info_commerciali" type="checkbox" />
-              &nbsp;Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali anche al fine di ricevere le vostre mail informative e commerciali. Questo consenso è <b>facoltativo</b>. In mancanza di esso non potremo inviarti le le nostre mail informative e commerciali.
+              &nbsp;<i><b>Ho preso visione delle finalità del trattamento e acconsento al trattamento dei miei dati personali anche al fine di ricevere le vostre mail informative e commerciali</b></i>. Questo consenso è <b>facoltativo</b>. In mancanza di esso non potremo inviarti le le nostre mail informative e commerciali. Se ci autorizzi, l'indirizzo mail verrà inserito nella nostra lista di distribuzione di mail informative e commerciali. Il consenso potrà essere revocato in qualsiasi momento, cliccando sul link "Cancellami" presente in tutti i nostri invii.
               <div class="clear"></div>
             </div>
           </div>
@@ -94,7 +112,7 @@ parent: ChiSiamo
           <div class="row">
             <p>
               <span class="required">* </span>
-              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare e fornirti le informazioni richieste. Il consenso al trattamento al fine di ricevere informazioni commerciali è facoltativo. Se rilasciato, l'indirizzo email verrà inserito nella nostra lista di distribuzione di informazioni via email. Il consenso potrà essere revocato in qualsiasi momento, cliccando sul link "Cancellami" presente in tutte le nostre email di informazione e commerciali.
+              I campi con l'asterisco rappresentano l'informazione minima necessaria per poterti contattare e fornirti le informazioni richieste.
             </p>
           </div>
 
@@ -103,7 +121,7 @@ parent: ChiSiamo
             <p>
               Cliccando Invia presti il tuo consenso al trattamento dei dati inseriti nel modulo di contatto. I dati conferiti saranno trattati nel rispetto della tua privacy,
               secondo quanto indicato nella nostra
-              <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>.
+              <a href="{{ 'chisiamo/privacy.html' | to_absoluteurl }}" target="_blank">Informativa sulla Privacy</a>. Dopo il click, verrà inviata una mail riassuntiva all'indirizzo inserito nel modulo. E' richiesta una conferma che parta dall'indirizzo mail: in mancanza di tale conferma i dati verranno automaticamente cancellati. L'utilizzo del presente modulo è monitorato, al fine di evitare abusi e disturbo verso terzi.
             </p>
           </div>
 
@@ -121,8 +139,8 @@ parent: ChiSiamo
           <input name="moduleDir" id="moduleDir" type="hidden" value="Leads" />
 
         </form>
-
       </div>
+
     </div>
   </div>
 </div>
