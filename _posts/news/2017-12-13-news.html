@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20171213.title
+when: normativa.posts.news.20171213.when
+excerpt: normativa.posts.news.20171213.excerpt
+fonte: normativa.posts.news.20171213.fonte
+link: normativa.posts.news.20171213.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Ransomware: i consigli del Garante privacy per difendersi dal software che prende "in ostaggio" pc e smartphone
+</p>
+<p>
+	Il ransomware è un programma informatico dannoso diffuso per infettare un dispositivo elettronico (pc, tablet, smartphone, smart tv), bloccandolo o criptandone i contenuti (foto, video, file), e chiedere  un riscatto (in inglese, ransom) per "liberarlo".
+</p>
+<p>
+	Davanti all'aumento di questo tipo di attacchi informatici, il Garante per la protezione dei dati personali pubblica una pagina informativa con alcune regole basilari per conoscere meglio questo malware e mettere in campo alcuni accorgimenti utili per non esserne vittima o per tentare di liberarsene nel caso in cui i dispositivi utilizzati siano già stati infettati e vi sia stata una richiesta di riscatto.
+</p>
+<p>
+ La scheda, disponibile alla pagina www.garanteprivacy.it/ransomware, è parte di una serie di prodotti di divulgazione ideati dal Garante per sensibilizzare gli utenti sulle diverse tematiche connesse alla protezione dei dati personali, in particolare quando si usano le nuove tecnologie.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
