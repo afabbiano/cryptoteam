@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180108.title
+when: normativa.posts.news.20180108.when
+excerpt: normativa.posts.news.20180108.excerpt
+fonte: normativa.posts.news.20180108.fonte
+link: normativa.posts.news.20180108.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Ransomware: i consigli del Garante privacy per difendersi dal software che prende "in ostaggio" pc e smartphone
+</p>
+<p>
+	Una nuova falla mette in allarme l’intero mondo digitale. Forse perché potrebbe essere classificata come la vulnerabilità più grande di sempre oppure perché coinvolgere praticamente ogni computer prodotto negli ultimi dieci anni. La scoperta realizzata da Jann Horn, ricercatore interno al progetto Google Project Zero, potrebbe dunque avere ripercussioni significative.
+</p>
+<p>
+	Falla. Le due vulnerabilità in questione, Meltdown e Spectre, non riguardano un componente software bensì hardware, o per meglio dire il più importante dei componenti presenti su ogni device: il processore. Tra l’altro mentre inizialmente si pensava che il problema si presentasse solo con le architetture Intel ora è certo che anche i processori AMD e ARM sono esposti allo stesso modo.
+</p>
+<p>
+ Tecnicamente è stato dimostrato che un utente esterno, anche non autorizzato, può accedere alla CPU di un dispositivo sottraendo ogni dato presente, compresi quelli sensibili, attraverso una “speculative execution”, ovvero un’azione che serve per ottimizzare le prestazioni dei processori stessi. Per dirla in parole semplici, tutte le informazioni comprese le password presenti su miliardi di computer, smartphone e tablet sono esposte a chiunque sia in grado di sfruttare tale vulnerabilità. Soluzioni...
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
