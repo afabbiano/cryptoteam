@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180312.title
+when: normativa.posts.news.20180312.when
+excerpt: normativa.posts.news.20180312.excerpt
+fonte: normativa.posts.news.20180312.fonte
+link: normativa.posts.news.20180312.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Studi professionali chiamati ad adeguarsi al GDPR, anche per conto delle PMI per le quali gestiscono dati personali: criticità e passi da compiere.
+</p>
+<p>
+	Il nuovo Regolamento Europeo in materia di protezione dei dati personali, noto come GDPR, ha mutato profondamente il quadro della normativa connessa alle nuove tecnologie, introducendo per la prima volta misure solide e strutturali per fronteggiare le nuove sfide dell’economia digitale.
+</p>
+<p>
+	COMPLIANCE - A partire da maggio, queste misure dovranno essere implementate in ogni realtà che si trovi a gestire dati relativi ai cittadini dell’Unione Europea, in qualsiasi Paese si trovi l’organizzazione in questione. Il rischio per chi non si dovesse mettere in regola è quanto mai concreto: l’inosservanza delle norme porta con sé sanzioni significative, che possono arrivare fino al 4% del fatturato globale annuale complessivo. E’ una normativa che tocca organizzazioni di ogni settore e dimensione, chiamate a mettersi in conformità in tempi ormai brevi, non più procrastinabili. Le aziende più grandi e organizzate si stanno strutturando internamente, rivedendo i loro processi per renderli conformi in ottica di trasparenza e gestione semplificata, ma anche le piccole aziende sono interessate dal processo di compliance,  e con loro gli studi professionali.
+</p>
+<p>
+  DATI AZIENDALI I professionisti italiani, compresi quelli che operano per conto di PMI trattando quotidianamente dati personali riferiti a lavoratori, clienti e fornitori, dovranno infatti fare i conti con questa nuova disciplina, perché saranno ritenuti responsabili della riservatezza dei dati che gestiscono. In particolar modo per quelle realtà che hanno a che fare con dati sensibili – si pensi agli studi di commercialisti e fiscalisti. Per arrivare pronti all’appuntamento con il GDPR, i professionisti dovranno anche definire una sorta di check list che include, per esempio, il grado di consapevolezza dei cambiamenti imposti dalla nuova regolamentazione, l’organizzazione necessaria ad attribuire le responsabilità, il censimento dei dati e dei processi di trattamento.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
