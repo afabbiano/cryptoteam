@@ -1,0 +1,48 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180123.title
+when: normativa.posts.news.20180123.when
+excerpt: normativa.posts.news.20180123.excerpt
+fonte: normativa.posts.news.20180123.fonte
+link: normativa.posts.news.20180123.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Domande voucher digitalizzazione PMI dal 30 gennaio al 9 febbraio 2018, la procedura online, investimenti ammessi, regole e adempimenti: la FAQ del ministero.
+</p>
+<p>
+	Le spese agevolate devono essere sostenute solo dopo l’assegnazione del voucher digitalizzazione, e il progetto di ammodernamento tecnologico deve essere ultimato entro sei mesi dalla pubblicazione sul sito del ministero dello Sviluppo economico del provvedimento cumulativo di prenotazione dei voucher, che sarà emesso entro 30 giorni dal termine per la presentazione della domande. In vista della finestra di presentazione delle domande per i voucher digitalizzazione PMI, dal 30 gennaio a 9 febbraio 2018, il ministero pubblica le FAQ, domande alle risposte più frequenti, che le micro imprese e le PMI possono consultare per prepararsi all’adempimento.
+</p>
+<p>
+	Il voucher digitalizzazione PMI, lo ricordiamo, può arrivare a 10mila euro, a copertura del 50% delle spese ammissibili nell’ambito di un progetto di digitalizzazione. Introdotto dal dl 145/2013, diventa finalmente fruibile dopo una lunga serie di provvedimenti attuativi, l’ultimo dei quali è il decreto direttoriale del 24 ottobre 2017 che contiene modalità e termini di presentazione delle domande. Guida voucher digitalizzazione PMI. Al via i Voucher Digitalizzazione per le PMI, ovvero l’iniziativa di finanziamento degli investimenti in ottica digitale, che metterà a disposizione delle aziende fino a 100 milioni di euro (32,5 milioni a valere sul PON Imprese e Competitività e 67,5 milioni sul Fondo Sviluppo e Coesione 2014/20) per l’ammodernamento tecnologico delle imprese.
+</p>
+<p>
+  Beneficiari. Sono finanziabili tutte le micro, piccole o medie imprese purché abbiano la sede legale e/o unità locale attiva in Italia. Possono accedere all’iniziativa le aziende che operano in qualsiasi settore di mercato eccetto per quello agricolo e ittico. Spese finanziabili. Le spese finanziabili possono riguardare hardware e software ma anche servizi di consulenza specialistica e di formazione qualificata.
+L’importante è che vengano rispettati i seguenti ambiti di attività: 1) miglioramento dell’efficienza aziendale; 2) modernizzazione dell’organizzazione del lavoro; 3) sviluppo di soluzioni di e-commerce; 4) connettività a banda larga e ultralarga; 5) collegamento via satellite alla rete internet; 6) formazione ICT qualificata del personale.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
