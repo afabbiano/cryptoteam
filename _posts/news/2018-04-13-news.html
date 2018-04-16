@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180413.title
+when: normativa.posts.news.20180413.when
+excerpt: normativa.posts.news.20180413.excerpt
+fonte: normativa.posts.news.20180413.fonte
+link: normativa.posts.news.20180413.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Uber, nuovo datagate: rubati i dati di altre 50 milioni di persone.
+</p>
+<p>
+	Roma - La Federal Trade Commission Usa (Ftc) rivela di aver scoperto una nuova violazione dei dati che riguarda oltre 50 milioni di utenti della app Mobile Uber. La violazione stavolta risale al 2016 e Uber non avrebbe detto niente dell’incidente per almeno un anno. La app mobile è recidiva essendo incorsa in un incidente simile nel 2014, che coinvolse i dati di 57 milioni di utenti. La Ftc non ha preso provvedimenti contro Uber, ma ha fatto sapere che la app mobile ha accettato di estendere alla violazione del 2016 l’intesa già raggiunta con la Ftc per il data breach del 2014.
+</p>
+<p>
+	La violazione del 2016, secondo la Ftc riguarda i dati non criptati, archiviati in un cloud esterno alla compagnia, di 25 milioni di utenti contenenti nomi e indirizzi e-mail, di 22 milioni di utenti contenenti nomi e numeri di smarphone e di 600.000 utenti contenenti nomi e numeri di patenti.
+</p>
+<p>
+  L’accordo, che riguardava la violazione del 2014 estesa anche a quella del 2016, prevede severe multe se Uber non rivelerà subito le violazioni future e obbliga la società a conservare le registrazioni relative alle segnalazioni di bug e ad alcune vulnerabilità.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
