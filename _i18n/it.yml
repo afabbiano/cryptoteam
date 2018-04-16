@@ -1325,13 +1325,18 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               excerpt: Domande Voucher e FAQ
               fonte: www.pmi.it
               link: "http://www.pmi.it/economia/finanziamenti/approfondimenti/169088/voucher-digitalizzazione-pmi-faq-del-ministero.html"
-########################################################################
           20180312:
               title: GDPR per piccole imprese e studi professionali
               when: 12 Marzo 2018
               excerpt: Studi professionali
               fonte: www.pmi.it
               link: "http://www.pmi.it/impresa/normativa/257966/gdpr-per-piccole-imprese-e-studi-professionali.html"
+        20180413:
+            title: UBER, furto dati non criptati, archiviati in un cloud esterno
+            when: 13 Aprile 2018
+            excerpt: Studi professionali
+            fonte: www.ilsecoloxix.it
+            link: "http://www.ilsecoloxix.it/p/magazine/2018/04/13/ACKRVwvC-rubati_milioni_datagate.shtml"
 ########################################################################
 
 
