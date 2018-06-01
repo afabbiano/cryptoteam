@@ -28,7 +28,7 @@ none: none
 # Global stuff such as buttons
 global:
     website:
-        name: Website Aziendale di CryptoTeam - Esperti in Sicurezza dei Dati e Privacy
+        name: Website Aziendale di CryptoTeam - Esperti in Sicurezza dei Dati e della Privacy
         description: CryptoTeam, gli esperti in sicurezza dei dati. Crittografia dei dati at-rest e delle comunicazioni. Ti aiutiamo a proteggere il tuo patrimonio più preziso, i tuoi dati aziendali.
     link:
         learnmore: Scopri
