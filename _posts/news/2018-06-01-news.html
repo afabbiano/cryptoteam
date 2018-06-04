@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180529.title
+when: normativa.posts.news.20180529.when
+excerpt: normativa.posts.news.20180529.excerpt
+fonte: normativa.posts.news.20180529.fonte
+link: normativa.posts.news.20180529.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	DISPONIBILE LA VERSIONE 1.6.3 CON NUOVE FUNZIONALITA' E ALCUNI BUG CORRETTI (1 giugno 2016) - Un software per la valutazione di impatto
+</p>
+<p>
+	La CNIL, l'Autorità francese per la protezione dei dati, ha messo a disposizione un software di ausilio ai titolari in vista della effettuazione della valutazione d'impatto sulla protezione dei dati (DPIA). Il software -  gratuito e liberamente scaricabile dal sito www.cnil.fr (www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil) - offre un percorso guidato alla realizzazione della DPIA, secondo una sequenza conforme alle indicazioni fornite dal WP29 nelle Linee-guida sulla DPIA. La versione in lingua italiana è stata messa a punto anche con la collaborazione del Garante per la protezione dei dati personali. Occorre sottolineare che il software è in continua evoluzione, con revisioni introdotte anche sulla base dell'esperienza raccolta e delle segnalazioni degli utenti.
+</p>
+<p>
+	- IMPORTANTE - l software qui presentato NON costituisce un modello al quale fare riferimento in ogni situazione di trattamento, essendo stato concepito soprattutto come ausilio metodologico per le PMI. Offre in ogni caso un focus sugli elementi principali di cui si compone la procedura di valutazione d'impatto sulla protezione dei dati. Potrebbe costituire quindi un utile supporto di orientamento allo svolgimento di una DPIA, ma non va inteso come schema predefinito per ogni valutazione d'impatto che va integrata in ragione delle tipologie di trattamento esaminate. E' inoltre bene ricordare che la valutazione d'impatto sulla protezione dei dati deve tenere conto del rischio complessivo che il trattamento previsto può comportare per i diritti e le libertà degli interessati, alla luce dello specifico contesto. Pertanto, il concetto di rischio non si esaurisce nella considerazione delle possibili violazioni o minacce della sicurezza dei dati. Per approfondimenti, è disponibile anche un breve tutorial realizzato dal Garante italiano.
+</p>
+<p>
+  - ISTRUZIONI PER L'INSTALLAZIONE - Una volta aperta la pagina https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil scorrere fino al titolo "Version portable" e selezionare il tipo di sistema operativo installato sul proprio computer. Una volta scaricato il software, lanciare l'installazione che sarà effettuata automaticamente nella versione in lingua italiana.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
