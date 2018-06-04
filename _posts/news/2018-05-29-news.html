@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180529.title
+when: normativa.posts.news.20180529.when
+excerpt: normativa.posts.news.20180529.excerpt
+fonte: normativa.posts.news.20180529.fonte
+link: normativa.posts.news.20180529.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Privacy violata: 960 mila euro di sanzioni a Tim. Centinaia di utenze intestate a un cliente ignaro.
+</p>
+<p>
+	Il Garante privacy ha ordinato a Tim il pagamento di due sanzioni amministrative pari a  un importo complessivo di 960mila euro per violazioni alla normativa sulla protezione dei dati personali. La prima sanzione, di 800mila euro, conclude l'iter avviato dal reclamo di un ignaro utente che si è ritrovato intestatario di 826 linee di telefonia fissa e, "moroso" a sua insaputa, si è accorto del problema quando ha iniziato a ricevere dei solleciti di recupero crediti di mancati pagamenti di bollette telefoniche, doc. web n. 9370122.
+</p>
+<p>
+	Le verifiche svolte dall'Autorità hanno accertato l'ingiustificata assegnazione del rilevante numero di utenze telefoniche ad un'unica persona, dovuta - secondo quanto dichiarato da Tim – a non meglio precisati errori avvenuti durante l'attività di migrazione dei dati dei clienti da un sistema di gestione all'altro tra il 2002 e il 2004.
+</p>
+<p>
+  L'erronea intestazione avrebbe interessato anche numerosi altri utenti  e si sarebbe propagata anche ad altri sistemi tra i quali il sistema di fatturazione e il sistema di richiesta anagrafica cliente (Rac). Un sistema, quest'ultimo, particolarmente delicato essendo preordinato a consentire la corretta effettuazione delle verifiche da parte delle forze di polizia e della magistratura (ad es., in caso di intercettazioni o acquisizione di tabulati telefonici).
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
