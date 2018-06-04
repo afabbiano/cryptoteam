@@ -1331,12 +1331,18 @@ Qualora i fatti di cui ai commi primo e secondo riguardino sistemi informatici o
               excerpt: Studi professionali
               fonte: www.pmi.it
               link: "http://www.pmi.it/impresa/normativa/257966/gdpr-per-piccole-imprese-e-studi-professionali.html"
-        20180413:
-            title: UBER, furto dati non criptati, archiviati in un cloud esterno
-            when: 13 Aprile 2018
-            excerpt: Studi professionali
-            fonte: www.ilsecoloxix.it
-            link: "http://www.ilsecoloxix.it/p/magazine/2018/04/13/ACKRVwvC-rubati_milioni_datagate.shtml"
+          20180413:
+              title: UBER, furto dati non criptati, archiviati in un cloud esterno
+              when: 13 Aprile 2018
+              excerpt: Studi professionali
+              fonte: www.ilsecoloxix.it
+              link: "http://www.ilsecoloxix.it/p/magazine/2018/04/13/ACKRVwvC-rubati_milioni_datagate.shtml"
+          20180529:
+              title: NEWSLETTER N. 441 del 29 maggio 2018 Sanzioni a Tim
+              when: 29 Maggio 2018
+              excerpt: Privacy violata
+              fonte: www.garanteprivacy.it
+              link: "http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9370167#1"
 ########################################################################
 
 
