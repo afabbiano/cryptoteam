@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20180919.title
+when: normativa.posts.news.20180919.when
+excerpt: normativa.posts.news.20180919.excerpt
+fonte: normativa.posts.news.20180919.fonte
+link: normativa.posts.news.20180919.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Entra oggi in vigore il Decreto legislativo 10 agosto 2018, n. 101  che adegua il Codice in materia di protezione dei dati personali (Decreto legislativo 30 giugno 2003, n. 196) alle disposizioni del Regolamento (UE) 2016/679.
+</p>
+<p>
+	Il Garante rende disponibile sul proprio sito web istituzionale il testo coordinato del Codice.
+</p>
+<p>
+	 Codice in materia di protezione dei dati personali (Testo coordinato) 783 k, pdf.
+</p>
+<p>
+  - TESTO - <A HREF="https://www.garanteprivacy.it/documents/10160/0/Codice+in+materia+di+protezione+dei+dati+personali+%28Testo+coordinato%29" target="_blank"></A>,
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
