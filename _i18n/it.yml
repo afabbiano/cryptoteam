@@ -119,7 +119,7 @@ homepage:
     carousel:
         slide1:
             riga1: Proteggi il tuo business
-            riga2: attraverso la cifratura dei dati
+            riga2: attraverso la cifratura del dato
         slide2:
             riga1: Data Protection
             riga2: tramite OpenXPKI
