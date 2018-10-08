@@ -1,0 +1,47 @@
+---
+layout: news-post
+categories: news
+
+title: normativa.posts.news.20181005.title
+when: normativa.posts.news.20181005.when
+excerpt: normativa.posts.news.20181005.excerpt
+fonte: normativa.posts.news.20181005.fonte
+link: normativa.posts.news.20181005.link
+---
+<!-- Se la lingua del sito è "it" inseriamo questa parte di html -->
+{% if site.lang == 'it' %}
+
+<p class="lead">
+	Napoli, verso l’autonomia: nasce la criptomoneta per comprare beni e servizi made in Naples.
+</p>
+<p>
+	Ora è ufficiale. C’è anche la delibera della giunta comunale che lo approva. La città di Napoli introdurrà l’utilizzo della tecnologia basata sulle “blockchain” nei propri processi amministrativi e favorirà l’uso delle criptovalute. Graduatorie pubbliche, atti amministrativi e database pubblici saranno gestiti attraverso la blockchain.
+</p>
+<p>
+	È quanto previsto dalla delibera quadro approvata dalla giunta comunale, dalla quale, con atti successivi, verrà garantita ulteriore trasparenza nei processi amministrativi e forte semplificazione nel rapporto cittadino-istituzione, grazie alle conclusioni di una fase di studio avviata ad aprile 2018 in materia di trasparenza amministrativa, utilizzo di valute virtuali e supporto all’impiego di eventuali nuove monete complementari, token e criptovalute.
+</p>
+<p>
+	Dall’approvazione odierna inizierà la messa in opera delle modifiche necessarie nel funzionamento di un’amministrazione comunale che punta a costruire un Comune 3.0. Napoli – ha aggiunto in una nota il Comune – si appresta così ad accogliere un turismo molto innovativo, composto da chi ormai utilizza quotidianamente le criptovalute, e si prepara a ricevere al meglio, anche sul versante dei consumi innovativi, le decine di migliaia di persone che arriveranno con le universiadi.
+</p>
+
+<br>
+<p>
+	Fonte: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+<!-- Altrimenti, per qualsiasi altra lingua diversa da "it" inseriamo quest'altra parte di html -->
+{% else %}
+<p class="lead">
+	Title #2
+</p>
+
+<!-- that is regular content -->
+<p>
+	English news #2.
+</p>
+
+<p>
+	Source: <A HREF="{% t page.link %}" target="_blank">{% t page.fonte %}</A>
+</p>
+
+{% endif %}
